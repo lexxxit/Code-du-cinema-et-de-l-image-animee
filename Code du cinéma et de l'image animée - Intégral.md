@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2009-07-26
+Version Consolidée au 2009-11-07
 
 # Partie législative
 
@@ -165,10 +165,10 @@ cinématographiques, conformément aux articles L. 212-2 à L. 212-5 ;
 séances de spectacles cinématographiques prévue par l'article L. 212-18 ; 
 
 9° Il délivre l'agrément préalable à la constitution des groupements et ententes de programmation cinématographique et
-homologue les engagements de programmation, conformément aux articles L. 212-19 à L. 212-21 ; 
+homologue les engagements de programmation, conformément aux articles L. 212-19 à L. 212-26 ; 
 
 10° Il délivre l'agrément préalable à la mise en place des formules d'accès au cinéma donnant droit à des entrées multiples,
-conformément aux articles L. 212-22 à L. 212-25 ; 
+conformément aux articles L. 212-27 à L. 212-31 ; 
 
 11° Il accorde l'autorisation relative à l'organisation de séances de spectacles cinématographiques en plein air,
 conformément à l'article L. 214-6 ; 
@@ -186,9 +186,9 @@ intellectuelle ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 7
 
 	**Cité par**:
 
@@ -214,15 +214,24 @@ intellectuelle ;
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L331-2
-	  - Code général des impôts, CGI. - art. 220 F
-	  - Code du cinéma et de l'image animée - art. L112-2 (V)
-	  - Code du cinéma et de l'image animée - art. L212-14 (V)
-	  - Code du cinéma et de l'image animée - art. L212-18 (V)
-	  - Code du cinéma et de l'image animée - art. L212-19 (V)
-	  - Code du cinéma et de l'image animée - art. L212-22 (V)
-	  - Code du cinéma et de l'image animée - art. L214-6 (V)
-	  - Code du cinéma et de l'image animée - art. L221-1 (V)
+	  - Code de la propriété intellectuelle - art. L331-2 (V)
+	  - Code de la propriété intellectuelle - art. L331-24 (V)
+	  - Code général des impôts, CGI. - art. 220 F (V)
+	  - Code général des impôts, CGI. - art. 220 X (V)
+	  - Code général des impôts, CGI. - art. 220 Z bis (V)
+	  - Code général des impôts, CGI. - art. 220 quaterdecies (V)
+	  - Code général des impôts, CGI. - art. 220 sexies (V)
+	  - Code général des impôts, CGI. - art. 220 terdecies (V)
+	  - Code général des impôts, CGI. - art. 238 bis HF
+	  - Code du cinéma et de l'image animée - art. L112-2
+	  - Code du cinéma et de l'image animée - art. L115-16
+	  - Code du cinéma et de l'image animée - art. L212-14
+	  - Code du cinéma et de l'image animée - art. L212-18
+	  - Code du cinéma et de l'image animée - art. L212-19
+	  - Code du cinéma et de l'image animée - art. L212-27
+	  - Code du cinéma et de l'image animée - art. L214-6
+	  - Code du cinéma et de l'image animée - art. L221-1
+	  - Code du cinéma et de l'image animée - art. L411-1
 
 
 #### Chapitre II : Organisation et fonctionnement
@@ -1604,29 +1613,19 @@ de programmation cinématographique
 
 ###### Article L212-19
 
-Tout groupement ou entente entre exploitants d'établissements de spectacles cinématographiques destiné à assurer la
-programmation des œuvres cinématographiques en salles de spectacles cinématographiques est soumis à un agrément préalable
-délivré par le président du Centre national du cinéma et de l'image animée.
+La constitution d'un groupement ou d'une entente de programmation destiné à assurer la programmation des œuvres
+cinématographiques dans les établissements de spectacles cinématographiques est subordonnée à la délivrance d'un agrément
+préalable par le président du Centre national du cinéma et de l'image animée. 
 
-L'agrément ne peut être délivré qu'à des groupements ou ententes qui ne font pas obstacle au libre jeu de la concurrence et à
-la plus large diffusion des œuvres cinématographiques conforme à l'intérêt général et qui contribuent à la diversification de
-l'investissement dans la production cinématographique.
-
-L'agrément est subordonné aux engagements souscrits par les groupements ou ententes pour assurer la plus large diffusion des
-œuvres cinématographiques conforme à l'intérêt général.
-
-L'agrément ne peut être délivré aux groupements ou ententes de programmation associant deux ou plusieurs exploitants
-d'établissements de spectacles cinématographiques d'importance nationale.
+L'agrément ne peut être délivré qu'à des groupements ou ententes qui ne font pas obstacle au libre jeu de la concurrence. Il
+ne peut être délivré aux groupements ou ententes de programmation associant deux ou plusieurs exploitants d'établissements de
+spectacles cinématographiques d'importance nationale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-652 du 29 juillet 1982 - art. 90, alinéas 1 et 2 (Ab)
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -1640,73 +1639,50 @@ d'établissements de spectacles cinématographiques d'importance nationale.
 
 ###### Article L212-20
 
-Les exploitants d'établissements de spectacles cinématographiques qui assurent directement et uniquement la programmation de
-salles de spectacles cinématographiques dépendant des établissements de spectacles cinématographiques dont ils sont
-propriétaires du fonds de commerce sont tenus de souscrire des engagements semblables à ceux auxquels est subordonné
-l'agrément accordé aux groupements ou ententes de programmation, lorsque leur activité est susceptible de faire obstacle au
-libre jeu de la concurrence et à la plus large diffusion des œuvres cinématographiques conforme à l'intérêt général, en
-raison du nombre de salles de spectacles cinématographiques qu'ils exploitent ou de leur importance nationale.
+La délivrance de l'agrément prévu à l'article L. 212-19 est subordonnée à l'homologation par le président du Centre des
+engagements de programmation mentionnés au 1° de l'article L. 212-23.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-652 du 29 juillet 1982 - art. 90, alinéa 4 (Ab)
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Code du cinéma et de l'image animée - art. L212-19
+	  - Code du cinéma et de l'image animée - art. L212-23
 
 
 ###### Article L212-21
 
-Un décret en Conseil d'Etat, pris après avis de l'Autorité de la concurrence, fixe les modalités d'application de la présente
-section. Il précise notamment : 
-
-1° Les conditions de délivrance et de retrait de l'agrément prévu à l'article L. 212-19 ainsi que les clauses obligatoires
-des contrats de programmation, en particulier les conditions de fixation de la redevance de programmation ; 
-
-2° Les critères de détermination des exploitants d'établissements de spectacles cinématographiques mentionnés à l'article L.
-212-20, ainsi que les modalités de souscription et d'homologation de leurs engagements ; 
-
-3° Les conditions de notification au président du Centre national du cinéma et de l'image animée des engagements de
-programmation dans le cas prévu à l'article L. 212-9.
+Tout établissement de spectacles cinématographiques membre d'un groupement ou d'une entente de programmation est lié à ce
+groupement ou à cette entente par un contrat de programmation. Ce contrat doit prévoir le versement par l'établissement au
+groupement ou à l'entreprise pilote de l'entente, en contrepartie des prestations fournies, d'une redevance de programmation
+qui tient compte des ressources de l'établissement et des services qui lui sont procurés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-652 du 29 juillet 1982 - art. 90, alinéas 3 à 5 (Ab)
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2010-781 du 8 juillet 2010 - art. 2 (Ab)
 	  - Décret n°2010-781 du 8 juillet 2010 - art. 3 (Ab)
 
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. L212-9 (V)
-
-
-##### Section 6 : Formules d'accès au cinéma
-
 
 ###### Article L212-22
 
-La mise en place d'une formule d'accès au cinéma donnant droit à des entrées multiples est soumise à agrément préalable du
-président du Centre national du cinéma et de l'image animée. Les modifications substantielles d'une telle formule, ainsi que
-toute adhésion d'un exploitant d'établissement de spectacles cinématographiques à cette formule, sont également soumises à
-agrément.
+Les engagements de programmation cinématographique ont pour objet d'assurer la diversité de l'offre cinématographique et la
+plus large diffusion des œuvres cinématographiques conforme à l'intérêt général.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -1715,36 +1691,25 @@ agrément.
 	  - Code du cinéma et de l'image animée - art. L212-24 (V)
 	  - Code du cinéma et de l'image animée - art. L421-1 (V)
 
-	**Anciens textes**:
-
-	  - Code de l'industrie cinématographique - art. 27, 1 (Ab)
-
 
 ###### Article L212-23
 
-L'agrément est accordé si les conditions suivantes sont remplies :
+Sont des engagements de programmation cinématographique pour l'application de la présente section : 
 
-1° Pour les entrées enregistrées au titre d'une formule, les ayants droit de chaque œuvre cinématographique sont rémunérés
-sur la base d'un prix de référence par place et d'un taux de location sur lesquels s'engage l'exploitant d'établissement de
-spectacles cinématographiques vis-à-vis de l'ensemble des distributeurs avec lesquels il conclut des contrats de location,
-conformément à la pratique de répartition des recettes provenant des entrées vendues à l'unité. Ce prix de référence peut
-être déterminé de manière à correspondre au prix moyen réduit pratiqué par chaque exploitant ;
+1° Les engagements souscrits par les groupements ou ententes de programmation mentionnés à l'article L. 212-19 et homologués
+par le président du Centre national du cinéma et de l'image animée ; 
 
-2° Tout exploitant d'établissement de spectacles cinématographiques qui enregistre plus de 25 % des entrées ou des recettes
-dans une zone d'attraction donnée ou réalise plus de 3 % des recettes au niveau national doit, lorsqu'il propose une formule
-d'abonnement aux spectateurs, offrir aux exploitants de la même zone d'attraction dont la part de marché représente moins de
-25 % des entrées ou des recettes dans la zone considérée, à l'exception de ceux réalisant plus de 0,5 % des entrées au niveau
-national, de s'associer à cette formule à des conditions équitables et non discriminatoires et garantissant un montant
-minimal de la part exploitant par entrée constatée, au moins égal au montant de la part reversée aux distributeurs sur la
-base du prix de référence précité. Pour les exploitants d'établissements de spectacles cinématographiques situés dans les
-départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, qui sont regardés comme une zone
-d'attraction unique, les deux seuils de 25 % susmentionnés sont ramenés respectivement à 15 % et 8 %.
+2° Les engagements souscrits par les exploitants d'établissements de spectacles cinématographiques qui assurent directement
+et uniquement la programmation des établissements de spectacles cinématographiques dont ils possèdent le fonds de commerce,
+et homologués par le président du Centre national du cinéma et de l'image animée ; 
+
+3° Les projets de programmation, mentionnés à l'article L. 212-9, sur la base desquels les commissions d'aménagement
+commercial statuant en matière cinématographique ont accordé des autorisations en application de l'article L. 212-7 ; 
+
+4° Tout projet de programmation sur la base duquel un exploitant d'établissement de spectacles cinématographiques a bénéficié
+d'une aide financière du Centre national du cinéma et de l'image animée attribuée sous forme sélective.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 	**Cité par**:
 
@@ -1764,32 +1729,38 @@ d'attraction unique, les deux seuils de 25 % susmentionnés sont ramenés respec
 	  - Code du cinéma et de l'image animée - art. R212-39 (V)
 	  - Code du cinéma et de l'image animée - art. R212-40 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'industrie cinématographique - art. 27, 2 (Ab)
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L212-19
+	  - Code du cinéma et de l'image animée - art. L212-7
+	  - Code du cinéma et de l'image animée - art. L212-9 (V)
 
 
 ###### Article L212-24
 
-Chaque exploitant d'établissement de spectacles cinématographiques proposant aux spectateurs une formule d'accès au cinéma
-donnant droit à des entrées multiples doit communiquer au Centre national du cinéma et de l'image animée à l'appui de sa
-demande d'agrément :
+I.-L'homologation prévue aux 1° et 2° de l'article L. 212-23 est délivrée par le président du Centre national du cinéma et de
+l'image animée en fonction de la conformité des engagements de programmation à l'objet défini à l'article L. 212-22. Il est
+tenu compte de la position du souscripteur dans la ou les zones d'attraction dans lesquelles il exerce son activité. 
 
-1° Les conditions générales de la formule d'accès au cinéma donnant droit à des entrées multiples ;
+Les engagements de programmation homologués par le président du Centre national du cinéma et de l'image animée sont publiés. 
 
-2° L'engagement mentionné à l'article L. 212-23 à l'égard des distributeurs et vis-à-vis des producteurs et des ayants
-droit ;
+II.-Sont tenus de souscrire et de faire homologuer leurs engagements de programmation ceux des exploitants mentionnés au 2°
+de l'article L. 212-23 dont l'activité est susceptible de faire obstacle au libre jeu de la concurrence et à la plus large
+diffusion des œuvres, en raison de leur importance sur le marché national ou du nombre de salles d'un établissement qu'ils
+exploitent. 
 
-3° Le contrat d'association qui, le cas échéant, le lie pour cette formule à d'autres exploitants. Ce dernier ne peut
-contenir ni clause relative à la programmation des établissements de spectacles cinématographiques concernés, ni clause
-d'appartenance exclusive. Toute modification substantielle des actes précités est communiquée au Centre national du cinéma et
-de l'image animée.
+III.-Les projets de programmation mentionnés au 3° de l'article L. 212-23 sont notifiés au président du Centre national du
+cinéma et de l'image animée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -1798,38 +1769,224 @@ de l'image animée.
 	  - Code du cinéma et de l'image animée - art. R212-30 (V)
 	  - Code du cinéma et de l'image animée - art. R212-40 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'industrie cinématographique - art. 27,3 (Ab)
+	  - Code du cinéma et de l'image animée - art. L212-22
+	  - Code du cinéma et de l'image animée - art. L212-23
 
 
 ###### Article L212-25
 
+La mise en œuvre des engagements de programmation mentionnés aux 1° et 2° de l'article L. 212-23 fait l'objet d'un examen par
+le médiateur du cinéma dans les conditions prévues à l'article L. 213-5.
+
+Le président du Centre national du cinéma et de l'image animée assure le contrôle du respect des engagements de programmation
+mentionnés à l'article L. 212-23.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L212-23
+	  - Code du cinéma et de l'image animée - art. L213-5
+
+
+###### Article L212-26
+
 Un décret en Conseil d'Etat, pris après avis de l'Autorité de la concurrence, fixe les modalités d'application de la présente
-section. Il précise notamment :
+section. Il précise notamment : 
 
-1° Les conditions de délivrance et de retrait des agréments, ainsi que les clauses obligatoires et la durée minimale des
-engagements, mentionnés à l'article L. 212-23, des exploitants à l'égard des distributeurs, des producteurs et des ayants
-droit ;
+1° Les modalités de délivrance et de retrait de l'agrément des groupements ou ententes de programmation ; 
 
-2° Le régime du contrat d'association des exploitants pour la formule d'accès au cinéma donnant droit à des entrées
-multiples.
+2° Les autres obligations du contrat de programmation conclu entre un groupement et les entreprises qui en sont membres ou
+entre les entreprises membres d'une entente ; 
+
+3° Les modalités de souscription, de notification, d'homologation et de contrôle des engagements de programmation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 9 (V)
+	  - Code du cinéma et de l'image animée - art. L115-15 (M)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+	  - Code du cinéma et de l'image animée - art. L433-1 (V)
+	  - Code du cinéma et de l'image animée - art. L441-1 (V)
+
+
+##### Section 6 : Formules d'accès au cinéma
+
+
+###### Article L212-27
+
+Tout exploitant d'établissement de spectacles cinématographiques qui entend mettre en place une formule d'accès au cinéma
+donnant droit à des entrées multiples en nombre non défini à l'avance doit solliciter l'agrément préalable du président du
+Centre national du cinéma et de l'image animée. La modification substantielle de la formule est également soumise à agrément
+préalable.
+
+L'agrément est accordé si les conditions prévues aux articles L. 212-28 à L. 212-30 sont remplies. 
+
+Les éléments du dossier de demande d'agrément, la durée et les procédures de délivrance et de retrait de l'agrément sont
+fixés par décret en Conseil d'Etat pris après avis de l'Autorité de la concurrence.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 2
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Code de l'industrie cinématographique - art. 27, 4 (Ab)
+	  - Décret n°2011-250 du 7 mars 2011 - art. 1 (Ab)
+	  - Décret n°2011-250 du 7 mars 2011 - art. 25 (Ab)
+	  - Code du cinéma et de l'image animée - art. L111-3 (V)
+	  - Code du cinéma et de l'image animée - art. L212-28 (V)
+	  - Code du cinéma et de l'image animée - art. L212-30 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+	  - Code du cinéma et de l'image animée - art. R421-1 (V)
+
+
+###### Article L212-28
+
+Pour accorder l'agrément prévu à l'article L. 212-27, le président du Centre national du cinéma et de l'image animée doit
+s'assurer, à partir de données économiques mesurables, notamment de celles que l'exploitant joint à sa demande, que le prix
+de référence par place mentionné à l'article L. 213-10 est fixé en tenant compte de l'évolution du prix moyen des entrées
+vendues à l'unité par l'exploitant, de la situation du marché de l'exploitation et des effets constatés et attendus de la
+formule d'accès. 
+
+Le prix de référence sert d'assiette à la rémunération des ayants droit. 
+
+Le taux de participation proportionnelle aux recettes est identique au taux convenu pour les entrées vendues à l'unité. 
+
+Un décret en Conseil d'Etat pris après avis de l'Autorité de la concurrence précise le contenu et la durée minimale des
+engagements de l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2011-250 du 7 mars 2011 - art. 1 (Ab)
+	  - Décret n°2011-250 du 7 mars 2011 - art. 12 (Ab)
+	  - Arrêté du 7 mars 2013 - art. 1 (V)
+	  - Code du cinéma et de l'image animée - art. 211-27 (VD)
+	  - Code du cinéma et de l'image animée - art. 221-10 (V)
+	  - Code du cinéma et de l'image animée - art. D212-85 (V)
+	  - Code du cinéma et de l'image animée - art. D212-86 (V)
+	  - Code du cinéma et de l'image animée - art. D212-88 (V)
+	  - Code du cinéma et de l'image animée - art. L115-1 (V)
+	  - Code du cinéma et de l'image animée - art. L212-27 (V)
+	  - Code du cinéma et de l'image animée - art. L212-29 (V)
+	  - Code du cinéma et de l'image animée - art. L213-10 (V)
+	  - Code du cinéma et de l'image animée - art. R212-44 (V)
+	  - Code du cinéma et de l'image animée - art. R212-46 (V)
+	  - Code du cinéma et de l'image animée - art. R212-47 (V)
+	  - Code du cinéma et de l'image animée - art. R212-54 (V)
+
+
+###### Article L212-29
+
+Tout exploitant d'établissement de spectacles cinématographiques qui s'associe à une formule d'accès agréée est soumis aux
+conditions de l'agrément.
+
+L'exploitant qui ne bénéficie pas de la garantie prévue à l'article L. 212-30 est tenu d'appliquer, dans les contrats de
+concession des droits de représentation cinématographique qu'il conclut, le prix de référence pratiqué par l'exploitant
+titulaire de l'agrément en application de l'article L. 212-28.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2011-250 du 7 mars 2011 - art. 14 (Ab)
+	  - Code du cinéma et de l'image animée - art. L212-31 (V)
+	  - Code du cinéma et de l'image animée - art. R212-56 (V)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L212-28
+	  - Code du cinéma et de l'image animée - art. L212-30
+
+
+###### Article L212-30
+
+Lorsqu'il demande l'agrément d'une formule d'accès en application de l'article L. 212-27, tout exploitant d'établissement de
+spectacles cinématographiques qui réalise plus de 25 % des entrées ou des recettes dans une zone d'attraction donnée ou plus
+de 3 % des recettes au niveau national doit offrir aux exploitants de la même zone d'attraction dont la part de marché
+représente moins de 25 % des entrées ou des recettes dans la zone considérée, à l'exception de ceux réalisant plus de 0,5 %
+des entrées au niveau national, de s'associer à cette formule à des conditions équitables et non discriminatoires et
+garantissant un montant minimal de la part exploitant par entrée constatée, au moins égal au montant de la part reversée aux
+distributeurs sur la base d'un prix de référence par place, fixé par un contrat d'association conclu avec chacun des
+exploitants associés à la formule, et déterminé en tenant compte du prix moyen réduit pratiqué par chacun de ces exploitants.
+Pour les exploitants d'établissements de spectacles cinématographiques situés dans les départements de Paris, des Hauts-de-
+Seine, de la Seine-Saint-Denis et du Val-de-Marne, qui sont regardés comme une zone d'attraction unique, les deux seuils de
+25 % mentionnés au présent alinéa sont ramenés respectivement à 15 % et 8 %. 
+
+Le prix de référence mentionné à l'alinéa précédent sert d'assiette à la rémunération des distributeurs avec lesquels
+l'exploitant associé à la formule d'accès conclut des contrats de concession des droits de représentation cinématographique,
+ainsi qu'à la rémunération des ayants droit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2011-250 du 7 mars 2011 - art. 12 (Ab)
+	  - Décret n°2011-250 du 7 mars 2011 - art. 14 (Ab)
+	  - Décret n°2011-250 du 7 mars 2011 - art. 25 (Ab)
+	  - Décret n°2011-250 du 7 mars 2011 - art. 5 (Ab)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 93 (V)
+	  - Décret n°2017-841 du 5 mai 2017 (V)
+	  - Code du cinéma et de l'image animée - art. L212-29 (V)
+	  - Code du cinéma et de l'image animée - art. R212-48 (V)
+	  - Code du cinéma et de l'image animée - art. R212-50 (V)
+	  - Code du cinéma et de l'image animée - art. R212-54 (V)
+	  - Code du cinéma et de l'image animée - art. R212-56 (V)
+	  - Code du cinéma et de l'image animée - art. R421-1 (V)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L212-27
+
+
+###### Article L212-31
+
+Un décret en Conseil d'Etat pris après avis de l'Autorité de la concurrence précise le régime du contrat d'association prévu
+par les articles L. 212-29 et L. 212-30. Ce contrat ne peut contenir ni clause relative à la programmation des établissements
+de spectacles cinématographiques des exploitants associés, ni clause d'appartenance exclusive à une formule d'accès.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L212-29
 
 
 ##### Section 7 : Contrôle des recettes d'exploitation cinématographique
 
 
-###### Article L212-26
+###### Article L212-32
 
 Le contrôle des recettes d'exploitation des œuvres et documents cinématographiques ou audiovisuels dans les établissements de
 spectacles cinématographiques est organisé dans les conditions suivantes : 
@@ -1850,29 +2007,40 @@ cinématographique représenté dans les salles de leurs établissements. Cette 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-1358 du 5 novembre 2009 - art. 7
-
 	**Cité par**:
 
-	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 9 (V)
-	  - Code du cinéma et de l'image animée - art. L115-15 (M)
+	  - Décret n°99-130 du 24 février 1999 - art. 8-1 (V)
+	  - Décret n°2010-397 du 22 avril 2010 - art. 4 (Ab)
+	  - Code du cinéma et de l'image animée - art. 211-26 (V)
+	  - Code du cinéma et de l'image animée - art. 211-28 (V)
+	  - Code du cinéma et de l'image animée - art. 211-30 (V)
+	  - Code du cinéma et de l'image animée - art. 221-9 (V)
+	  - Code du cinéma et de l'image animée - art. 231-22 (T)
+	  - Code du cinéma et de l'image animée - art. 231-3 (V)
+	  - Code du cinéma et de l'image animée - art. 232-12 (V)
+	  - Code du cinéma et de l'image animée - art. 232-2 (V)
+	  - Code du cinéma et de l'image animée - art. 412-15 (V)
+	  - Code du cinéma et de l'image animée - art. 412-18 (V)
+	  - Code du cinéma et de l'image animée - art. 412-9 (V)
+	  - Code du cinéma et de l'image animée - art. 611-14 (V)
+	  - Code du cinéma et de l'image animée - art. 612-12 (V)
+	  - Code du cinéma et de l'image animée - art. D231-4 (V)
+	  - Code du cinéma et de l'image animée - art. L115-15 (V)
 	  - Code du cinéma et de l'image animée - art. L421-1 (V)
 	  - Code du cinéma et de l'image animée - art. L433-1 (V)
 	  - Code du cinéma et de l'image animée - art. L441-1 (V)
 
+	**Créé par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 7
+
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L102 B (V)
+	  - Livre des procédures fiscales - art. L102 B
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. L212-32 (M)
+	  - Code du cinéma et de l'image animée - art. L212-26 (T)
 
 
 #### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques
@@ -1883,21 +2051,25 @@ cinématographique représenté dans les salles de leurs établissements. Cette 
 
 ###### Article L213-1
 
-Sans préjudice de l'action publique, et à l'exception des conflits relevant des procédures de conciliation et d'arbitrage
-professionnelles, sont soumis à une conciliation préalable les litiges relatifs à la diffusion en salles des œuvres
-cinématographiques et qui ont pour origine une situation de monopole de fait, une position dominante ou toute autre situation
-ayant pour objet ou pouvant avoir pour effet de restreindre ou de fausser le jeu de la concurrence et révélant l'existence
-d'obstacles à la plus large diffusion des œuvres cinématographiques conforme à l'intérêt général.
+Le médiateur du cinéma est chargé d'une mission de conciliation préalable pour tout litige relatif : 
+
+1° A l'accès des exploitants d'établissements de spectacles cinématographiques aux œuvres cinématographiques et à l'accès des
+œuvres cinématographiques aux salles, ainsi que, plus généralement, aux conditions d'exploitation en salle de ces œuvres, qui
+a pour origine une situation de monopole de fait, de position dominante ou toute autre situation ayant pour objet ou pouvant
+avoir pour effet de restreindre ou de fausser le jeu de la concurrence et révélant l'existence d'obstacles à la plus large
+diffusion des œuvres cinématographiques conforme à l'intérêt général ; 
+
+2° A la fixation d'un délai d'exploitation des œuvres cinématographiques supérieur au délai de quatre mois mentionné à
+l'article L. 231-1 ou au délai fixé dans les conditions prévues à l'article L. 232-1 ; 
+
+3° A la méconnaissance des engagements contractuels entre un exploitant d'établissement de spectacles cinématographiques et
+un distributeur lorsqu'ils ont trait aux conditions de l'exploitation en salle d'une œuvre cinématographique.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-652 du 29 juillet 1982 - art. 92, alinéa 1 (Ab)
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
 
 	**Cité par**:
 
@@ -1905,44 +2077,139 @@ d'obstacles à la plus large diffusion des œuvres cinématographiques conforme 
 	  - Code du cinéma et de l'image animée - art. L213-2 (V)
 	  - Code du cinéma et de l'image animée - art. L231-1 (V)
 
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L232-1
+
 
 ###### Article L213-2
 
-La conciliation est mise en œuvre par le médiateur du cinéma. Celui-ci peut être saisi par toute personne physique ou morale
-concernée, par toute organisation professionnelle ou syndicale intéressée ou par le président du Centre national du cinéma et
-de l'image animée. Il peut également se saisir d'office de toute affaire entrant dans sa compétence. 
-
-Sous réserve du droit pour l'autorité judiciaire de saisir l'Autorité de la concurrence aux fins d'avis, l'engagement de la
-procédure de conciliation entraîne, à l'égard de l'affaire et des parties concernées, suspension de toute procédure devant
-l'Autorité de la concurrence pendant une période maximale de trois mois. 
-
-Le médiateur du cinéma favorise ou suscite toute solution de conciliation. Le procès-verbal de conciliation qu'il dresse a
-force exécutoire du seul fait de son dépôt au greffe du tribunal d'instance. Il peut rendre public ce procès-verbal.A défaut
-de conciliation, le médiateur du cinéma émet, dans un délai maximum de deux mois à compter de sa saisine, une injonction qui
-peut être rendue publique. 
-
-En cas d'échec de la conciliation, le médiateur du cinéma peut décider de saisir l'Autorité de la concurrence si le litige
-relève de la compétence de celle-ci. 
-
-Si les faits sont susceptibles de recevoir une qualification pénale, le médiateur du cinéma informe le procureur de la
-République territorialement compétent, conformément aux dispositions de l'article 40 du code de procédure pénale.
+Dans le cadre des missions énumérées aux 1° et 2° de l'article L. 213-1, le médiateur du cinéma peut être saisi par toute
+personne physique ou morale concernée, par toute organisation professionnelle ou syndicale intéressée ou par le président du
+Centre national du cinéma et de l'image animée. Il peut également se saisir d'office de toute affaire entrant dans sa
+compétence.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-652 du 29 juillet 1982 - art. 92, alinéas 2 à 5 (Ab)
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
 
 	**Cite**:
 
-	  - Code de procédure pénale - art. 40 (V)
+	  - Code du cinéma et de l'image animée - art. L213-1
 
 
 ###### Article L213-3
+
+Le médiateur du cinéma favorise ou suscite toute solution de conciliation. Il peut rendre public le procès-verbal de
+conciliation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. A112-36 (V)
+
+
+###### Article L213-4
+
+A défaut de conciliation, le médiateur du cinéma peut émettre, dans un délai maximum de deux mois à compter de sa saisine,
+une injonction qui peut être rendue publique.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 5 novembre 2010 - art. 3 (Ab)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L213-5
+
+Le médiateur du cinéma examine chaque année la mise en œuvre des engagements de programmation souscrits en application des 1°
+et 2° de l'article L. 212-23.
+
+Il peut obtenir communication de tout élément d'information complémentaire dont il juge utile de disposer. 
+
+Dans le cadre de cet examen, il formule des observations et des recommandations qui sont communiquées au président du Centre
+national du cinéma et de l'image animée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L212-23
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L212-25 (V)
+
+
+###### Article L213-6
+
+Le médiateur du cinéma saisit l'Autorité de la concurrence des pratiques prohibées par les articles L. 420-1, L. 420-2 et L.
+420-5 du code de commerce dont il a connaissance dans le secteur de la diffusion cinématographique. Cette saisine peut être
+introduite dans le cadre d'une procédure d'urgence, conformément à l'article L. 464-1 du code de commerce. 
+
+Le médiateur peut également saisir l'Autorité de la concurrence, pour avis, de toute question de concurrence dans le cadre de
+l'article L. 462-1 du code de commerce. 
+
+L'Autorité de la concurrence communique au médiateur du cinéma toute saisine concernant la diffusion cinématographique. Elle
+peut également saisir le médiateur de toute question relevant de sa compétence.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de commerce - art. L420-1
+	  - Code de commerce - art. L462-1
+	  - Code de commerce - art. L464-1
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. R213-10 (V)
+	  - Code du cinéma et de l'image animée - art. R213-9 (V)
+
+
+###### Article L213-7
+
+Si les faits dont il a connaissance sont susceptibles de recevoir une qualification pénale, le médiateur du cinéma informe le
+procureur de la République territorialement compétent, conformément aux dispositions de l'article 40 du code de procédure
+pénale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 40
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. R213-10 (V)
+
+
+###### Article L213-8
 
 Un décret en Conseil d'Etat, pris après avis de l'Autorité de la concurrence, fixe les modalités d'application des
 dispositions de la présente section.
@@ -1951,17 +2218,13 @@ dispositions de la présente section.
 
 	**Créé par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. A112-36 (V)
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
 
 
 ##### Section 2 : Concession des droits de représentation cinématographique
 
 
-###### Article L213-4
+###### Article L213-9
 
 La concession des droits de représentation publique d'une œuvre cinématographique de longue durée dont le visa d'exploitation
 cinématographique date de moins de cinq ans ne peut être consentie à un exploitant d'établissement de spectacles
@@ -1974,31 +2237,24 @@ hebdomadaires inférieure ou égale à 1 200 pendant une période d'une année.
 
 	**Créé par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
 
 	**Cité par**:
 
-	  - Arrêté du 5 novembre 2010 - art. 3 (Ab)
+	  - Code du cinéma et de l'image animée - art. L213-12 (V)
+	  - Code du cinéma et de l'image animée - art. L213-19 (V)
 	  - Code du cinéma et de l'image animée - art. L421-1 (V)
 
 	**Anciens textes**:
 
-	  - Code de l'industrie cinématographique - art. 24 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. L213-9 (V)
+	  - Code du cinéma et de l'image animée - art. L213-4 (T)
 
 
-###### Article L213-5
+###### Article L213-10
 
 L'assiette de la participation proportionnelle est déterminée par le produit de la vente des entrées ou, en cas de formule
 d'accès au cinéma donnant droit à des entrées multiples, des sommes correspondant au prix de référence par place déterminé
-dans les conditions prévues à l'article L. 212-23, compte non tenu de la taxe instituée à l'article L. 115-1. Elle est
+dans les conditions prévues à l'article L. 212-28, compte non tenu de la taxe instituée à l'article L. 115-1. Elle est
 exprimée, ainsi que la participation proportionnelle qui en résulte au profit du concédant, en valeur hors taxe sur la valeur
 ajoutée.
 
@@ -2006,31 +2262,28 @@ ajoutée.
 
 	**Créé par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
-
-	**Anciens textes**:
-
-	  - Code de l'industrie cinématographique - art. 25 (Ab)
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. L115-1 (VD)
-	  - Code du cinéma et de l'image animée - art. L212-23 (V)
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 7
 
 	**Cité par**:
 
-	  - Code du cinéma et de l'image animée - art. L212-25 (V)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 93 (V)
+	  - Code du cinéma et de l'image animée - art. L212-28 (M)
+	  - Code du cinéma et de l'image animée - art. L212-34 (V)
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L213-10 (M)
+	  - Code du cinéma et de l'image animée - art. L115-1 (V)
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. L213-5 (T)
 
 
-###### Article L213-6
+###### Article L213-11
 
 Le taux de la participation proportionnelle est librement débattu entre un pourcentage minimum fixé à 25 % et un pourcentage
 maximum fixé à 50 %. Toutefois, pour les œuvres cinématographiques représentées plus de deux ans après la date de leur
@@ -2040,20 +2293,111 @@ première représentation commerciale en France, le pourcentage minimum est rame
 
 	**Créé par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
 
-	**Liens**:
+	**Anciens textes**:
 
-	  - TRANSFERE: Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
+	  - Code du cinéma et de l'image animée - art. L213-6 (T)
 
-	**Nouveaux textes**:
 
-	  - Code du cinéma et de l'image animée - art. L213-11 (V)
+###### Article L213-12
+
+Par dérogation aux articles L. 213-9 à L. 213-11, une rémunération minimale par entrée du concédant est fixée par arrêté
+conjoint du ministre chargé de la culture et du ministre chargé de l'économie. Cette rémunération doit être fixée à un niveau
+qui concilie les objectifs d'accès du plus grand nombre de spectateurs et de maintien d'une offre cinématographique
+diversifiée. 
+
+La rémunération minimale ne s'applique que lorsque la rémunération par entrée d'un concédant, constatée en moyenne
+hebdomadaire, est inférieure au niveau mentionné au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 4
 
 	**Cité par**:
 
-	  - Code du cinéma et de l'image animée - art. R213-10 (V)
-	  - Code du cinéma et de l'image animée - art. R213-9 (V)
+	  - Code du cinéma et de l'image animée - art. L213-13 (V)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-9 (V)
+
+
+###### Article L213-13
+
+Un décret en Conseil d'Etat, pris après avis de l'Autorité de la concurrence, fixe les modalités d'application de l'article
+L. 213-12. Il précise notamment : 
+
+1° Les entrées soumises à tarification spéciale en vue d'objectifs à caractère social, éducatif ou de promotion du cinéma qui
+ne sont pas prises en compte pour l'application du présent article ; 
+
+2° Le nombre de semaines d'exploitation d'une œuvre cinématographique, suivant sa sortie en salle, au cours desquelles
+s'applique la rémunération minimale ; 
+
+3° Les données économiques à prendre en compte pour fixer le niveau de la rémunération minimale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 4
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-12
+
+
+##### Section 3 : Contrat de concession des droits de représentation cinématographique 
+
+
+
+
+
+
+###### Article L213-14
+
+Le contrat de concession des droits de représentation cinématographique comporte les stipulations suivantes : 
+
+1° Le titre et les caractéristiques techniques de l'œuvre cinématographique dont les droits sont concédés pour l'exploitation
+en salle de spectacles cinématographiques ; 
+
+2° La date de livraison d'une copie de l'œuvre cinématographique et la date de début d'exécution du contrat ; 
+
+3° La durée minimale d'exécution du contrat ainsi que les conditions de sa reconduction ou de sa résiliation ; 
+
+4° Le nombre minimum de séances devant être organisées ; 
+
+5° Le taux de la participation proportionnelle du concédant ; 
+
+6° Les conditions de placement dans la zone d'attraction cinématographique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 5
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L213-16 (V)
+	  - Code du cinéma et de l'image animée - art. L213-18 (V)
+
+
+###### Article L213-15
+
+L'article L. 123-1 n'est pas applicable au contrat de concession des droits de représentation cinématographique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 5
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L123-1
 
 
 #### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques
@@ -2354,6 +2698,54 @@ les renseignements figurant sur les documents mentionnés au 1°.
 	  - Code du cinéma et de l'image animée - art. L441-1 (V)
 
 
+### Titre II : Edition vidéographique et services de médias audiovisuels à la demande
+
+#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes
+
+
+#### Chapitre II : Contrôle des recettes d'exploitation vidéographique
+
+
+#### Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande
+
+###### Article L223-1
+
+Chaque accès dématérialisé à une œuvre cinématographique fourni par un éditeur de service de médias audiovisuels à la demande
+donne lieu à une rémunération du concédant des droits d'exploitation tenant compte de la catégorie du service, de la nature
+de l'offre commerciale et de la date de sortie en salles de l'œuvre. 
+
+Une rémunération minimale peut être fixée, pour une durée limitée, par arrêté conjoint du ministre chargé de la culture et du
+ministre chargé de l'économie. Cette rémunération minimale doit concilier les objectifs d'accès du plus grand nombre
+d'utilisateurs, de maintien d'une offre cinématographique diversifiée et de plein effet des dispositions applicables en
+matière de chronologie de l'exploitation des œuvres cinématographiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 6
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L223-2 (V)
+
+
+###### Article L223-2
+
+Un décret en Conseil d'Etat, pris après avis de l'Autorité de la concurrence, fixe les modalités d'application de l'article
+L. 223-1. Il précise notamment les données économiques en fonction desquelles la rémunération minimale peut être fixée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 6
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L223-1
+
+
 ### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques
 
 #### Chapitre Ier : Exploitation sous forme de vidéogrammes
@@ -2374,13 +2766,13 @@ dérogation accordée dans des conditions fixées par voie réglementaire. Cette
 le délai de plus de quatre semaines. 
 
 Les contestations relatives à la fixation d'un délai supérieur peuvent faire l'objet d'une conciliation menée par le
-médiateur du cinéma, dans le cadre des missions qui lui sont confiées par les articles L. 213-1 à L. 213-3.
+médiateur du cinéma, dans le cadre des missions qui lui sont confiées par les articles L. 213-1 à L. 213-8.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 7
 
 	**Cité par**:
 
@@ -2394,10 +2786,6 @@ médiateur du cinéma, dans le cadre des missions qui lui sont confiées par les
 	  - Code du cinéma et de l'image animée - art. L213-1 (V)
 	  - Code du cinéma et de l'image animée - art. L232-1 (V)
 	  - Code du cinéma et de l'image animée - art. L421-1 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'industrie cinématographique - art. 30-4 (Ab)
 
 
 #### Chapitre II : Exploitation sur les services de médias audiovisuels à la demande
@@ -3585,17 +3973,17 @@ de spectacles cinématographiques ainsi que des textes et décisions pris pour l
 2° Des dispositions des articles L. 212-14 à L. 212-17 relatives à l'homologation des établissements de spectacles
 cinématographiques ainsi que des textes et décisions pris pour leur application ; 
 
-3° Des dispositions des articles L. 212-19 à L. 212-21 relatives à l'agrément des groupements et ententes de programmation
+3° Des dispositions des articles L. 212-19 à L. 212-26 relatives à l'agrément des groupements et ententes de programmation
 cinématographique et aux engagements de programmation cinématographique ainsi que des textes et décisions pris pour leur
 application ; 
 
-4° Des dispositions des articles L. 212-22 à L. 212-25 relatives à l'agrément des formules d'accès au cinéma donnant droit à
+4° Des dispositions des articles L. 212-27 à L. 212-31 relatives à l'agrément des formules d'accès au cinéma donnant droit à
 des entrées multiples ainsi que des textes et décisions pris pour leur application ; 
 
-5° Des dispositions de l'article L. 212-26 relatives au contrôle des recettes des œuvres cinématographiques dans les
+5° Des dispositions de l'article L. 212-32 relatives au contrôle des recettes des œuvres cinématographiques dans les
 établissements de spectacles cinématographiques ; 
 
-6° Des dispositions des articles L. 213-4 à L. 213-6 relatives aux conditions de concession des droits de représentation
+6° Des dispositions des articles L. 213-9 à L. 213-13 relatives aux conditions de concession des droits de représentation
 cinématographique ; 
 
 7° Des dispositions des articles L. 214-1 à L. 214-8 relatives à l'organisation de certaines séances de spectacles
@@ -3618,15 +4006,9 @@ déterminée d'usage ou des dispositions de l'article L. 8211-1 du même code re
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-652 du 29 juillet 1982 - art. 90, alinéa 7 (Ab)
-	  - Code de l'industrie cinématographique - art. 13-1, alinéa 1 (Ab)
-	  - Code de l'industrie cinématographique - art. 30-8, alinéas 2 et 3 (Ab)
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 7
 
 	**Cité par**:
 
@@ -3646,22 +4028,22 @@ déterminée d'usage ou des dispositions de l'article L. 8211-1 du même code re
 
 	**Cite**:
 
-	  - Code du travail - art. L1242-2 (V)
-	  - Code du travail - art. L8211-1 (V)
-	  - Code du cinéma et de l'image animée - art. L212-14 (V)
-	  - Code du cinéma et de l'image animée - art. L212-18 (V)
-	  - Code du cinéma et de l'image animée - art. L212-19 (V)
-	  - Code du cinéma et de l'image animée - art. L212-2 (V)
-	  - Code du cinéma et de l'image animée - art. L212-22 (V)
-	  - Code du cinéma et de l'image animée - art. L212-26 (V)
-	  - Code du cinéma et de l'image animée - art. L213-4 (V)
-	  - Code du cinéma et de l'image animée - art. L214-1 (V)
-	  - Code du cinéma et de l'image animée - art. L221-1 (V)
-	  - Code du cinéma et de l'image animée - art. L222-1 (V)
-	  - Code du cinéma et de l'image animée - art. L231-1 (V)
-	  - Code du cinéma et de l'image animée - art. L232-1 (V)
-	  - Code du cinéma et de l'image animée - art. L234-1 (V)
-	  - Code du cinéma et de l'image animée - art. L311-1 (V)
+	  - Code du travail - art. L1242-2
+	  - Code du travail - art. L8211-1
+	  - Code du cinéma et de l'image animée - art. L212-14
+	  - Code du cinéma et de l'image animée - art. L212-18
+	  - Code du cinéma et de l'image animée - art. L212-19
+	  - Code du cinéma et de l'image animée - art. L212-2
+	  - Code du cinéma et de l'image animée - art. L212-27
+	  - Code du cinéma et de l'image animée - art. L212-32
+	  - Code du cinéma et de l'image animée - art. L213-9
+	  - Code du cinéma et de l'image animée - art. L214-1
+	  - Code du cinéma et de l'image animée - art. L221-1
+	  - Code du cinéma et de l'image animée - art. L222-1
+	  - Code du cinéma et de l'image animée - art. L231-1
+	  - Code du cinéma et de l'image animée - art. L232-1
+	  - Code du cinéma et de l'image animée - art. L234-1
+	  - Code du cinéma et de l'image animée - art. L311-1
 
 
 #### Chapitre II : Nature des sanctions administratives
@@ -3930,22 +4312,22 @@ La publication du jugement peut être ordonnée conformément à l'article 131-1
 
 ###### Article L433-1
 
-Lorsque, en cas de manquement aux dispositions de l'article L. 212-26 et aux dispositions de l'article L. 222-1, la
+Lorsque, en cas de manquement aux dispositions de l'article L. 212-32 et aux dispositions de l'article L. 222-1, la
 commission du contrôle de la réglementation a prononcé, en application du 3° de l'article L. 422-1, une sanction pécuniaire
 devenue définitive, le juge pénal saisi des mêmes faits ou de faits connexes peut ordonner que cette sanction pécuniaire
 s'impute sur le montant de l'amende pénale prononcée par lui postérieurement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 7
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L212-26 (V)
-	  - Code du cinéma et de l'image animée - art. L222-1 (V)
-	  - Code du cinéma et de l'image animée - art. L422-1 (V)
+	  - Code du cinéma et de l'image animée - art. L212-32
+	  - Code du cinéma et de l'image animée - art. L222-1
+	  - Code du cinéma et de l'image animée - art. L422-1
 
 
 ### Titre IV : Actions en justice
@@ -3956,21 +4338,21 @@ s'impute sur le montant de l'amende pénale prononcée par lui postérieurement.
 ###### Article L441-1
 
 Sauf si une ou plusieurs des sanctions administratives prévues aux 2° à 5° de l'article L. 422-1 en cas de manquement aux
-dispositions de l'article L. 212-26 et aux dispositions de l'article L. 222-1 ont été prononcées, le président du Centre
+dispositions de l'article L. 212-32 et aux dispositions de l'article L. 222-1 ont été prononcées, le président du Centre
 national du cinéma et de l'image animée peut, en cas de poursuites pénales pour les mêmes faits et, le cas échéant, pour des
 faits connexes et quelle que soit la qualification retenue, exercer les droits reconnus à la partie civile.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 7
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L212-26 (V)
-	  - Code du cinéma et de l'image animée - art. L222-1 (V)
-	  - Code du cinéma et de l'image animée - art. L422-1 (V)
+	  - Code du cinéma et de l'image animée - art. L212-32
+	  - Code du cinéma et de l'image animée - art. L222-1
+	  - Code du cinéma et de l'image animée - art. L422-1
 
 
 #### Chapitre II : Délit de contrefaçon
