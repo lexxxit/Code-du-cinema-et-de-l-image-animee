@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-01-01 00:00:01 +0100
 
 # Partie législative
 
@@ -934,13 +934,16 @@ pour les autres catégories d'entreprises, sur des déclarations trimestrielles 
 ###### Article L115-16
 
 Les déclarations prévues aux articles L. 115-4, L. 115-11 et L. 115-15 sont contrôlées par les services du Centre national du
-cinéma et de l'image animée.
+cinéma et de l'image animée. 
 
 A cette fin, les agents habilités à cet effet par le président du Centre national du cinéma et de l'image animée peuvent
-demander aux redevables tous renseignements, justifications ou éclaircissements relatifs à leur déclaration.
+demander aux redevables tous renseignements, justifications ou éclaircissements relatifs à leur déclaration. 
 
 Ils peuvent également examiner sur place les documents utiles. Préalablement, un avis de passage est adressé aux redevables
-afin qu'ils puissent se faire assister d'un conseil.
+afin qu'ils puissent se faire assister d'un conseil. 
+
+En cas d'opposition par le redevable ou par des tiers à la mise en œuvre de l'examen sur place des documents, il est dressé
+procès-verbal sur le champ dont copie est adressée au redevable. 
 
 L'obligation du secret professionnel, telle qu'elle est définie aux articles 226-13 et 226-14 du code pénal, s'applique à
 toutes les personnes appelées à intervenir dans l'établissement de l'assiette, le contrôle, le recouvrement ou le contentieux
@@ -948,13 +951,16 @@ des taxes ou des cotisations.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 79 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'industrie cinématographique - art. 48 (VT)
+	  - Code pénal - art. 226-13
+	  - Code du cinéma et de l'image animée - art. L115-11 (V)
+	  - Code du cinéma et de l'image animée - art. L115-15 (V)
+	  - Code du cinéma et de l'image animée - art. L115-4 (V)
 
 	**Cité par**:
 
@@ -4426,32 +4432,37 @@ violence mentionnées au 3° de l'article 279 bis du code général des impôts.
 
 ###### Article L335-1
 
-L'exonération de la cotisation foncière des entreprises applicable aux exploitants d'établissements de spectacles
-cinématographiques situés dans les communes de moins de 100 000 habitants qui réalisent moins de 2 000 entrées en moyenne
-hebdomadaire ainsi qu'aux autres exploitants est régie par le 3° de l'article 1464 A du code général des impôts.
+L'exonération de cotisation foncière des entreprises, applicable aux exploitants d'établissements de spectacles
+cinématographiques, est régie par les 3° à 4° de l'article 1464 A du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
 	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 50 (V)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1464
+	  - Code général des impôts, CGI. - art. 1464 A (V)
 
 
 ###### Article L335-2
 
-L'exonération de la cotisation foncière des entreprises applicable aux exploitants d'établissements de spectacles
-cinématographiques qui réalisent en moyenne hebdomadaire moins de 7 500 entrées et bénéficient d'un classement art et essai
-est régie par le 4° de l'article 1464 A du code général des impôts.
+L'exonération de cotisation sur la valeur ajoutée des entreprises, applicable aux exploitants d'établissements de spectacles
+cinématographiques, est régie par l'article 1586 nonies du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
 	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 50 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1586 nonies (V)
 
 
 #### Chapitre VI : Dispositions diverses
