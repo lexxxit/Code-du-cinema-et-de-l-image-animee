@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2010-01-01 00:00:01 +0100
+Version Consolidée au 2010-10-02
 
 # Partie législative
 
@@ -2967,23 +2967,27 @@ diffusion des œuvres cinématographiques conforme à l'intérêt général ;
 l'article L. 231-1 ou au délai fixé dans les conditions prévues à l'article L. 232-1 ; 
 
 3° A la méconnaissance des engagements contractuels entre un exploitant d'établissement de spectacles cinématographiques et
-un distributeur lorsqu'ils ont trait aux conditions de l'exploitation en salle d'une œuvre cinématographique.
+un distributeur lorsqu'ils ont trait aux conditions de l'exploitation en salle d'une œuvre cinématographique ; 
+
+4° A l'application du 1° du I de l'article L. 213-16 et de l'article L. 213-17.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
+	  - Loi n°2010-1149 du 30 septembre 2010 - art. 3
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-16
+	  - Code du cinéma et de l'image animée - art. L213-17
+	  - Code du cinéma et de l'image animée - art. L232-1
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. L213-18 (V)
 	  - Code du cinéma et de l'image animée - art. L213-2 (V)
 	  - Code du cinéma et de l'image animée - art. L231-1 (V)
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. L232-1
 
 
 ###### Article L213-2
@@ -3302,6 +3306,253 @@ L'article L. 123-1 n'est pas applicable au contrat de concession des droits de r
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. L123-1
+
+
+##### Section 4 : Equipement numérique des établissements 
+de spectacles cinématographiques 
+
+
+
+###### Article L213-16
+
+I. ― Sont tenus de contribuer soit directement, soit par un intermédiaire au financement des investissements nécessaires à
+l'installation initiale des équipements de projection numérique des salles des établissements de spectacles
+cinématographiques existantes à la date de promulgation de la loi n° 2010-1149 du 30 septembre 2010 relative à l'équipement
+numérique des établissements de spectacles cinématographiques ainsi qu'à l'installation initiale des équipements de
+projection numérique des salles des établissements de spectacles cinématographiques homologuées avant le 31 décembre 2012 : 
+
+1° Les distributeurs qui, dans le cadre de contrats de concession des droits de représentation cinématographique mentionnés à
+l'article L. 213-14, mettent à disposition de l'exploitant de l'établissement concerné, sous forme de fichier numérique, des
+œuvres cinématographiques de longue durée inédites en salles. Cette contribution est due, au titre de chaque salle, lors des
+deux premières semaines suivant la date de sortie nationale de l'œuvre cinématographique pour la première mise à disposition
+de l'œuvre dans l'établissement. La contribution reste due, au-delà des deux premières semaines, lorsque l'œuvre est mise à
+disposition dans le cadre d'un élargissement du plan initial de sortie. Toutefois, la contribution n'est pas due lorsque
+l'œuvre est mise à disposition pour une exploitation en continuation. La date de sortie nationale, l'élargissement du plan
+initial de sortie et l'exploitation en continuation sont définis par les usages professionnels ; 
+
+2° Les personnes qui mettent à disposition de l'exploitant de l'établissement concerné, sous forme de fichier ou de données
+numériques, des œuvres ou documents audiovisuels ou multimédia et des œuvres à caractère publicitaire, à l'exception des
+bandes-annonces. Cette contribution est due au titre de chaque projection ; 
+
+3° Les personnes qui louent à l'exploitant de l'établissement concerné une ou plusieurs salles, dès lors que cette location
+implique l'utilisation des équipements de projection numérique des salles concernées. Cette contribution est due au titre de
+chaque location. 
+
+II. ― Le financement de l'installation initiale des équipements de projection numérique des salles des établissements de
+spectacles cinématographiques peut être mutualisé. La mutualisation peut être effectuée entre exploitants d'établissements de
+spectacles cinématographiques, exploitants propriétaires des fonds de commerce de plusieurs établissements cinématographiques
+ou par des intermédiaires assurant le financement des investissements nécessaires. 
+
+Dans ce cas : 
+
+1° Les contrats relatifs au montant et aux conditions de versement de la contribution prévue au 1° du I ainsi que les
+contrats relatifs au financement des équipements de projection numérique conclus entre les exploitants d'établissements de
+spectacles cinématographiques et les intermédiaires mentionnés au premier alinéa du I fixent la liste des établissements
+relevant de la mutualisation et détaillent les modalités de cette mutualisation, notamment la répartition des contributions
+entre les différents bénéficiaires ; 
+
+2° Les contrats relatifs au montant et aux conditions de versement de la contribution prévue au 1° du I prévoient par
+ailleurs les conditions dans lesquelles il est rendu compte de l'affectation de la contribution. 
+
+III. ― La contribution prévue au I n'est plus requise une fois assurée la couverture du coût de l'installation initiale des
+équipements de projection numérique des salles de l'établissement de spectacles cinématographiques concernées ou des
+établissements de spectacles cinématographiques mutualisant leurs financements, compte tenu des autres financements. Elle
+n'est plus requise au-delà d'un délai de dix ans après l'installation initiale des équipements de projection numérique, sans
+que ce délai n'excède le 31 décembre 2021. 
+
+Les contrats relatifs au montant et aux conditions de versement de la contribution prévue au 1° du I ainsi que les contrats
+relatifs au financement des équipements de projection numérique conclus entre les exploitants d'établissements de spectacles
+cinématographiques et les intermédiaires mentionnés au premier alinéa du I prévoient les conditions dans lesquelles les
+exploitants rendent compte, directement ou indirectement, aux distributeurs du coût de l'installation initiale des
+équipements de projection numérique restant à couvrir. 
+
+En application de l'article L. 111-2 et à la demande des distributeurs ou des exploitants, le Centre national du cinéma et de
+l'image animée peut apporter son concours pour l'analyse des comptes rendus effectués en application de l'alinéa précédent.
+Le président du Centre national du cinéma et de l'image animée requiert auprès des personnes mentionnées au même alinéa
+communication de tout renseignement ou document qu'il estime utile.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-1149 du 30 septembre 2010 (V)
+	  - Code du cinéma et de l'image animée - art. L111-2
+	  - Code du cinéma et de l'image animée - art. L213-14
+
+	**Créé par**:
+
+	  - Loi n°2010-1149 du 30 septembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2011-306 du 21 mars 2011 - art. 3 (V)
+	  - Code du cinéma et de l'image animée - art. L213-1 (V)
+	  - Code du cinéma et de l'image animée - art. L213-17 (V)
+	  - Code du cinéma et de l'image animée - art. L213-18 (V)
+	  - Code du cinéma et de l'image animée - art. L213-19 (V)
+	  - Code du cinéma et de l'image animée - art. L213-22 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L213-17
+
+Le montant de la contribution prévue à l'article L. 213-16 est négocié entre les parties à des conditions équitables,
+transparentes et objectives, afin notamment qu'il reste inférieur à la différence entre le coût de la mise à disposition
+d'une œuvre sur support photochimique et celui de la mise à disposition d'une œuvre sous forme de fichier numérique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1149 du 30 septembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L213-1 (V)
+	  - Code du cinéma et de l'image animée - art. L213-18 (V)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-16
+
+
+###### Article L213-18
+
+En cas de litige concernant l'application du 1° du I de l'article L. 213-16 et de l'article L. 213-17, le médiateur du cinéma
+peut être saisi en application de l'article L. 213-1. 
+
+Le médiateur du cinéma requiert des parties au litige communication de tout renseignement ou document qu'il estime utile,
+notamment des contrats mentionnés à l'article L. 213-14 et au III de l'article L. 213-16.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1149 du 30 septembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-1
+	  - Code du cinéma et de l'image animée - art. L213-14
+	  - Code du cinéma et de l'image animée - art. L213-16 (V)
+	  - Code du cinéma et de l'image animée - art. L213-17
+
+
+###### Article L213-19
+
+Afin de préserver la diversité de l'offre cinématographique, est prohibée toute pratique et est réputée non écrite toute
+clause contractuelle de nature à rendre dépendants des conditions de fixation, de versement de la contribution prévue à
+l'article L. 213-16 ou de financement de l'installation initiale des équipements de projection numérique soit les choix de
+distribution ou de programmation en salles des œuvres cinématographiques, soit la détermination du taux de la participation
+proportionnelle aux recettes d'exploitation prévue aux articles L. 213-9 à L. 213-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1149 du 30 septembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2010-1149 du 30 septembre 2010 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-16
+	  - Code du cinéma et de l'image animée - art. L213-9
+
+
+###### Article L213-20
+
+Le président du Centre national du cinéma et de l'image animée réunit un comité de concertation professionnelle chargé
+d'élaborer des recommandations de bonne pratique permettant d'assurer, dans le cadre de la projection numérique, la plus
+large diffusion des œuvres cinématographiques conforme à l'intérêt général, le maintien de l'aménagement culturel du
+territoire ainsi que la diversité des œuvres cinématographiques et des établissements de spectacles cinématographiques. 
+
+Ce comité est composé de représentants des organisations professionnelles représentatives des exploitants d'établissements de
+spectacles cinématographiques ainsi que de représentants des organisations professionnelles représentatives des distributeurs
+d'œuvres cinématographiques. 
+
+En tant que de besoin, le président du Centre national du cinéma et de l'image animée associe les autres organisations
+professionnelles représentatives du secteur du cinéma et de l'image animée et les entreprises concernées. 
+
+La composition et l'organisation du comité sont précisées par décision du président du Centre national du cinéma et de
+l'image animée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1149 du 30 septembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 5 novembre 2010 - art. 2 (Ab)
+	  - Code du cinéma et de l'image animée - art. A112-36 (V)
+
+
+###### Article L213-21
+
+Les exploitants d'établissements de spectacles cinématographiques transmettent aux distributeurs les données extraites des
+journaux de fonctionnement des équipements de projection numérique relatives à l'exploitation des œuvres cinématographiques
+de longue durée que ces distributeurs ont mises à leur disposition. 
+
+Les exploitants d'établissements de spectacles cinématographiques transmettent également au Centre national du cinéma et de
+l'image animée les données extraites des journaux de fonctionnement précités relatives à toutes les utilisations de leurs
+équipements de projection numérique. 
+
+Les données mentionnées aux alinéas précédents, leurs modalités et leur périodicité de transmission sont fixées par décision
+du président du Centre national du cinéma et de l'image animée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1149 du 30 septembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L213-22 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (M)
+
+
+###### Article L213-22
+
+Les équipements de projection numérique et les fichiers ou les données numériques mentionnés à l'article L. 213-16, leurs
+conditions d'utilisation ainsi que les journaux de fonctionnement mentionnés à l'article L. 213-21 sont conformes aux normes
+internationales ISO relatives à la projection numérique en salles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1149 du 30 septembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-16
+	  - Code du cinéma et de l'image animée - art. L213-21
+
+
+###### Article L213-23
+
+Lorsqu'elles ont pour objet le financement, même partiel, de l'installation initiale des équipements de projection numérique,
+les aides financières sélectives du Centre national du cinéma et de l'image animée sont subordonnées à des engagements de
+programmation contrôlés par le président du Centre national du cinéma et de l'image animée dans les mêmes conditions que ceux
+relevant du 4° de l'article L. 212-23. 
+
+Ces engagements de programmation sont contrôlés pendant une durée de cinq ans suivant la date de la dernière aide financière
+ayant concouru à l'équipement numérique des salles de l'établissement de spectacles cinématographiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1149 du 30 septembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L212-23
 
 
 #### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques
@@ -4908,6 +5159,10 @@ des entrées multiples ainsi que des textes et décisions pris pour leur applica
 6° Des dispositions des articles L. 213-9 à L. 213-13 relatives aux conditions de concession des droits de représentation
 cinématographique ; 
 
+6° bis Des dispositions du I de l'article L. 213-16 relatives à l'obligation de versement de la contribution à l'équipement
+numérique des établissements de spectacles cinématographiques et des dispositions de l'article L. 213-21 relatives à
+l'obligation de transmission de données ainsi que des décisions prises pour leur application ; 
+
 7° Des dispositions des articles L. 214-1 à L. 214-8 relatives à l'organisation de certaines séances de spectacles
 cinématographiques ainsi que des textes et décisions pris pour leur application ; 
 
@@ -4930,7 +5185,7 @@ déterminée d'usage ou des dispositions de l'article L. 8211-1 du même code re
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 7
+	  - Loi n°2010-1149 du 30 septembre 2010 - art. 4
 
 	**Cité par**:
 
@@ -4958,6 +5213,7 @@ déterminée d'usage ou des dispositions de l'article L. 8211-1 du même code re
 	  - Code du cinéma et de l'image animée - art. L212-2
 	  - Code du cinéma et de l'image animée - art. L212-27
 	  - Code du cinéma et de l'image animée - art. L212-32
+	  - Code du cinéma et de l'image animée - art. L213-16
 	  - Code du cinéma et de l'image animée - art. L213-9
 	  - Code du cinéma et de l'image animée - art. L214-1
 	  - Code du cinéma et de l'image animée - art. L221-1
