@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -581,7 +581,16 @@ usagers, est en outre redevable de cette taxe au titre de son activité de distr
 Le produit de la taxe acquittée par les éditeurs de services de télévision est affecté au Centre national du cinéma et de
 l'image animée. Le produit de la taxe acquittée par les distributeurs de services de télévision est affecté à ce même
 établissement dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour
-2012.
+2012. 
+
+Est également regardée comme distributeur de services de télévision toute personne proposant un accès à des services de
+communication au public en ligne ou à des services de téléphonie, dès lors que la souscription à ces services permet de
+recevoir, au titre de cet accès, des services de télévision (1).
+
+**Nota:**
+
+(1) Conformément à la loi n° 2011-1977 du 28 décembre 2011, article 20 II, ces dispositions entrent en vigueur à une date
+fixée par décret qui ne peut être postérieure au 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -607,7 +616,7 @@ l'image animée. Le produit de la taxe acquittée par les distributeurs de servi
 
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 20
 
 
 ###### Article L115-7
@@ -629,17 +638,27 @@ concernés, ou aux personnes en assurant l'encaissement, à raison des appels t�
 à des services télématiques et des envois de minimessages qui sont liés à la diffusion de leurs programmes, à l'exception des
 programmes servant une grande cause nationale ou d'intérêt général ;
 
-2° Pour les distributeurs de services de télévision, des abonnements et autres sommes acquittés par les usagers en
-rémunération d'un ou plusieurs services de télévision, ainsi que des abonnements à des offres composites pour un prix
-forfaitaire incluant des services de télévision. Le produit de ces abonnements et autres sommes fait l'objet d'une déduction
-de 10 %. Lorsqu'une offre composite inclut également, pour un prix forfaitaire, un accès à des services de communication au
-public en ligne ou à des services de téléphonie, cette déduction est portée à 55 %.
+2° (1) Pour les distributeurs de services de télévision : 
+
+a) Des abonnements et autres sommes acquittés par les usagers en rémunération d'un ou plusieurs services de télévision. Le
+produit de ces abonnements et autres sommes fait l'objet d'une déduction de 10 % ; 
+
+b) Des abonnements et autres sommes acquittés par les usagers en rémunération de services souscrits dans le cadre d'offres
+destinées au grand public, composites ou de toute autre nature, donnant accès à des services de communication au public en
+ligne ou à des services de téléphonie, dès lors que la souscription à ces services permet de recevoir, au titre de cet accès,
+des services de télévision. Le produit de ces abonnements et autres sommes fait l'objet d'une déduction de 66 %.
+
+**Nota:**
+
+(1) Conformément à la loi n° 2011-1977 du 28 décembre 2011, article 20 II, modifié par la loi n° 2012-1510 du 29 décembre
+2012, article 79, les dispositions du 2° entrent en vigueur à une date fixée par décret qui ne peut être postérieure au 1er
+janvier 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 35 (V)
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 79
 
 	**Cité par**:
 
@@ -677,7 +696,7 @@ La taxe est calculée comme suit :
 1° Pour les éditeurs de services de télévision, la taxe est calculée en appliquant un taux de 5,5 % à la fraction du montant
 des versements et encaissements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service, qui excède 11 000 000 €.
 Ce seuil est fixé à 16 000 000 € pour les éditeurs de services de télévision qui ne bénéficient pas de ressources procurées
-par la diffusion de messages publicitaires. 
+par la diffusion de messages publicitaires.
 
 Le montant de la taxe résultant de l'application des dispositions précédentes est réduit de 50 % pour la société nationale de
 programme France Télévisions au titre de ses services de télévision spécifiques à l'outre-mer et pour les services de
@@ -694,37 +713,29 @@ versements et encaissements de l'année considérée.
 2° Pour les distributeurs de services, la taxe est calculée en appliquant à la fraction de chaque part du montant des
 encaissements annuels, hors taxe sur la valeur ajoutée, qui excède 10 000 000 euros les taux de : 
 
-a) 0,5 % pour la fraction supérieure à 10 000 000 euros et inférieure ou égale à 75 000 000 euros ; 
+a) (1) 0,5 % pour la fraction supérieure à 10 000 000 € et inférieure ou égale à 250 000 000 € ; 
 
-b) 1 % pour la fraction supérieure à 75 000 000 euros et inférieure ou égale à 140 000 000 euros ; 
+b) 2,10 % pour la fraction supérieure à 250 000 000 € et inférieure ou égale à 500 000 000 € ; 
 
-c) 1,5 % pour la fraction supérieure à 140 000 000 euros et inférieure ou égale à 205 000 000 euros ; 
+c) 2,80 % pour la fraction supérieure à 500 000 000 € et inférieure ou égale à 750 000 000 € ; 
 
-d) 2 % pour la fraction supérieure à 205 000 000 euros et inférieure ou égale à 270 000 000 euros ; 
-
-e) 2,5 % pour la fraction supérieure à 270 000 000 euros et inférieure ou égale à 335 000 000 euros ; 
-
-f) 3 % pour la fraction supérieure à 335 000 000 euros et inférieure ou égale à 400 000 000 euros ; 
-
-g) 3,5 % pour la fraction supérieure à 400 000 000 euros et inférieure ou égale à 465 000 000 euros ; 
-
-h) 4 % pour la fraction supérieure à 465 000 000 euros et inférieure ou égale à 530 000 000 euros ; 
-
-i) 4,5 % pour la fraction supérieure à 530 000 000 euros ; 
+d) 3,50 % pour la fraction supérieure à 750 000 000 € ; 
 
 3° Dans le cas mentionné au deuxième alinéa de l'article L. 115-6, la taxe due en tant qu'éditeur de services est calculée
 selon les modalités mentionnées au 1° et la taxe due en tant que distributeur de services selon les modalités mentionnées au
-2°. Toutefois, le taux mentionné au i du 2° est majoré de 2,2.
+2°. Toutefois, le taux mentionné au d du 2° est majoré de 5,25.
+
+**Nota:**
+
+(1) Conformément à la loi n° 2011-1977 du 28 décembre 2011, article 20 II, modifié par la loi n° 2012-1510 du 29 décembre
+2012, article 79, les dispositions des a) à d) entrent en vigueur à une date fixée par décret qui ne peut être postérieure au
+1er janvier 2014.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 20
-
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L115-6 (VT)
+	  - Code du cinéma et de l'image animée - art. L115-6
 
 
 ###### Article L115-10
