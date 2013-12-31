@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2013-12-31
+Version Consolidée au 2014-01-01
 
 # Partie législative
 
@@ -626,9 +626,9 @@ La taxe est assise sur le montant hors taxe sur la valeur ajoutée :
 
 1° Pour les éditeurs de services de télévision, au titre de chacun des services de télévision édités :
 
-a) Des sommes versées par les annonceurs et les parrains, pour la diffusion de leurs messages publicitaires et de parrainage,
-aux redevables concernés ou aux régisseurs de messages publicitaires et de parrainage. Ces sommes font l'objet d'un
-abattement forfaitaire de 4 % ;
+a) Des sommes versées par les annonceurs et les parrains, pour la diffusion de leurs messages publicitaires et de parrainage
+y compris sur les services de télévision de rattrapage, aux redevables concernés ou aux régisseurs de messages publicitaires
+et de parrainage. Ces sommes font l'objet d'un abattement forfaitaire de 4 % ;
 
 b) Du produit de la contribution à l'audiovisuel public encaissé par les redevables concernés, à l'exception de la société
 nationale de programme France Télévisions au titre de ses services de télévision spécifiques à l'outre-mer, et des autres
@@ -652,14 +652,14 @@ des services de télévision. Le produit de ces abonnements et autres sommes fai
 **Nota:**
 
 (1) Conformément à la loi n° 2011-1977 du 28 décembre 2011, article 20 II, modifié par la loi n° 2012-1510 du 29 décembre
-2012, article 79, les dispositions du 2° entrent en vigueur à une date fixée par décret qui ne peut être postérieure au 1er
-janvier 2014.
+2012, article 79 et   par la loi n° 2013-1279 du 29 décembre 2013, article 30-V, les dispositions du 2° entrent en vigueur le
+1er janvier 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 79
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 30 (V)
 
 	**Cité par**:
 
@@ -697,7 +697,7 @@ La taxe est calculée comme suit :
 1° Pour les éditeurs de services de télévision, la taxe est calculée en appliquant un taux de 5,5 % à la fraction du montant
 des versements et encaissements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service, qui excède 11 000 000 €.
 Ce seuil est fixé à 16 000 000 € pour les éditeurs de services de télévision qui ne bénéficient pas de ressources procurées
-par la diffusion de messages publicitaires.
+par la diffusion de messages publicitaires. 
 
 Le montant de la taxe résultant de l'application des dispositions précédentes est réduit de 50 % pour la société nationale de
 programme France Télévisions au titre de ses services de télévision spécifiques à l'outre-mer et pour les services de
@@ -724,15 +724,19 @@ d) 3,50 % pour la fraction supérieure à 750 000 000 € ;
 
 3° Dans le cas mentionné au deuxième alinéa de l'article L. 115-6, la taxe due en tant qu'éditeur de services est calculée
 selon les modalités mentionnées au 1° et la taxe due en tant que distributeur de services selon les modalités mentionnées au
-2°. Toutefois, le taux mentionné au d du 2° est majoré de 5,25.
+2°. Toutefois, le taux mentionné au d du 2° est majoré de  3,75.
 
 **Nota:**
 
 (1) Conformément à la loi n° 2011-1977 du 28 décembre 2011, article 20 II, modifié par la loi n° 2012-1510 du 29 décembre
-2012, article 79, les dispositions des a) à d) entrent en vigueur à une date fixée par décret qui ne peut être postérieure au
-1er janvier 2014.
+2012, article 79, et par la loi n° 2013-1279 du 29 décembre 2013, article 29-V, les dispositions des a) à d) entrent en
+vigueur le 1er janvier 2014.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 31 (V)
 
 	**Cite**:
 
@@ -845,10 +849,11 @@ L. 115-10, par le redevable qui a repris l'activité.
 
 ###### Article L115-13
 
-Les régisseurs de messages publicitaires et de parrainage mentionnés au a du 1° de l'article L. 115-7 fournissent à chaque
-éditeur de services de télévision, ainsi qu'au Centre national du cinéma et de l'image animée, avant le 15 février de chaque
-année, un état récapitulatif des sommes qu'ils ont encaissées au cours de l'année civile précédente en rémunération de la
-diffusion de messages publicitaires et de parrainage par le service de télévision concerné. 
+Les régisseurs de messages publicitaires et de parrainage ou les personnes assurant l'encaissement des sommes versées par les
+annonceurs et les parrains, mentionnés au a du 1° de l'article L. 115-7 fournissent à chaque éditeur de services de
+télévision, ainsi qu'au Centre national du cinéma et de l'image animée, avant le 15 février de chaque année, un état
+récapitulatif des sommes qu'ils ont encaissées au cours de l'année civile précédente en rémunération de la diffusion de
+messages publicitaires et de parrainage par le service de télévision ou le service de télévision de rattrapage concerné. 
 
 Les personnes mentionnées au c du 1° de l'article L. 115-7 assurant l'encaissement des sommes versées par les opérateurs de
 communications électroniques fournissent à chaque éditeur de services de télévision, ainsi qu'au Centre national du cinéma et
@@ -857,13 +862,9 @@ article qu'elles ont encaissées au cours de l'année civile précédente.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-	**Anciens textes**:
-
-	  - Livre des procédures fiscales - art. L102 AA (Ab)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 30 (V)
 
 	**Cité par**:
 
@@ -871,7 +872,7 @@ article qu'elles ont encaissées au cours de l'année civile précédente.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L115-7 (V)
+	  - Code du cinéma et de l'image animée - art. L115-7
 
 
 ##### Section 3 : Cotisations professionnelles
@@ -4281,26 +4282,19 @@ créance.
 Les détenteurs de parts ou d'actions d'entreprises de production ne peuvent se prévaloir du privilège sur les sommes revenant
 à ces entreprises au titre du présent article. 
 
-Le droit des créanciers privilégiés peut, par subrogation, être exercé par un établissement de crédit lorsque celui-ci a été
-amené à régler, pour le compte de l'entreprise de production, tout ou partie des créances exigibles énumérées aux postes de
-production mentionnés à l'article L. 312-2.
+Le droit des créanciers privilégiés peut, par subrogation, être exercé par un établissement de crédit ou une société de
+financement lorsque celui-ci a été amené à régler, pour le compte de l'entreprise de production, tout ou partie des créances
+exigibles énumérées aux postes de production mentionnés à l'article L. 312-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°59-1512 du 30 décembre 1959 - art. 22, alinéas 2, 4 et 6 (Ab)
-	  - Code de l'industrie cinématographique - art. 68, alinéa 3 (Ab)
-	  - Code de l'industrie cinématographique - art. 69 (Ab)
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 16
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L312-1 (V)
-	  - Code du cinéma et de l'image animée - art. L312-2 (V)
+	  - Code du cinéma et de l'image animée - art. L312-2
 
 
 ###### Article L312-4
@@ -4513,28 +4507,6 @@ HE du code général des impôts est régie par l'article 199 unvicies du même 
 	  - Code général des impôts, CGI. - art. 238 bis HE (V)
 
 
-###### Article L332-2
-
-L'amortissement exceptionnel que les entreprises peuvent pratiquer pour l'établissement de l'impôt sur les sociétés au titre
-des souscriptions au capital des sociétés mentionnées à l'article 238 bis HE du code général des impôts est régi par
-l'article 217 septies du même code.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 26
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 217 septies
-	  - Code général des impôts, CGI. - art. 238 bis HE
-
-
 ###### Article L332-3
 
 Les dispositions applicables aux sociétés de financement des œuvres cinématographiques ou audiovisuelles sont mentionnées aux
@@ -4614,38 +4586,6 @@ général des impôts.
 
 
 #### Chapitre IV : Taxe sur la valeur ajoutée
-
-
-###### Article L334-1
-
-L'application d'un taux réduit de 10 % de taxe sur la valeur ajoutée aux droits d'entrées dans les salles de spectacles
-cinématographiques, quels que soient le procédé de fixation ou de transmission et la nature du support des œuvres ou
-documents audiovisuels qui y sont présentés, est régie par le b quinquies de l'article 279 du code général des impôts. 
-
-L'application d'un taux réduit de 10 % de taxe sur la valeur ajoutée notamment aux cessions de tous droits portant sur les
-œuvres cinématographiques est régie par le g du 3° de l'article 279 du code général des impôts.
-
-**Nota:**
-
-Loi n° 2012-1510 du 29 décembre 2012, art. 68-III-B : le taux "7 %" est remplacé par le taux "10 %" pour les opérations dont
-le fait générateur intervient à compter du 1er janvier 2014. Toutefois, ils ne s'appliquent pas aux encaissements pour
-lesquels la taxe sur la valeur ajoutée est exigible avant cette date. 
-
-Pour les dérogations au taux de TVA de 10 % se reporter aux points 2 et 3 du B du III du même article 68.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 68 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 7
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 279
 
 
 ###### Article L334-2
@@ -4785,29 +4725,6 @@ des impôts.
 
 	  - Code général des impôts, CGI. - art. 238 B (V)
 	  - Code du cinéma et de l'image animée - art. L116-2 (V)
-
-
-###### Article L336-3
-
-Les conditions dans lesquelles est exercé le droit de reprise en ce qui concerne le prélèvement spécial sur la fraction des
-bénéfices industriels et commerciaux résultant de la production, de la distribution ou de la représentation d'œuvres à
-caractère pornographique ou d'incitation à la violence prévu à l'article 1605 sexies du code général des impôts sont
-mentionnées à l'article 172 B du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 20
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1605 sexies
-	  - Livre des procédures fiscales - art. L172 B
 
 
 ## Livre IV : Contrôles et sanctions
