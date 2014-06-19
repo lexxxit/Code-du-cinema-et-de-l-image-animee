@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2014-02-09
+Version Consolidée au 2014-06-20
 
 # Partie législative
 
@@ -2366,6 +2366,8 @@ délivrance de l'autorisation prévue par les dispositions de la présente secti
 	  - Code de commerce. - art. L752-7 (V)
 
 
+##### Sous-section 3 : Dispositions diverses
+
 ###### Article L212-11
 
 Les règles relatives à l'emprise au sol des surfaces, bâties ou non, affectées aux aires de stationnement annexes d'un
@@ -2375,15 +2377,15 @@ par l'article L. 111-6-1 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - DEPLACE: Loi n°2014-626 du 18 juin 2014 - art. 57
 
 	**Cite**:
 
-	  - Code de commerce. - art. L752-1 (V)
-	  - Code de l'urbanisme - art. L111-6-1 (V)
-	  - Code du cinéma et de l'image animée - art. L212-7 (V)
+	  - Code de commerce - art. L752-1
+	  - Code de l'urbanisme - art. L111-6-1
+	  - Code du cinéma et de l'image animée - art. L212-7
 
 
 ###### Article L212-12
@@ -2393,14 +2395,14 @@ territoriale sont fixées à l'article L. 122-1-15 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
+	  - DEPLACE: Loi n°2014-626 du 18 juin 2014 - art. 57
 
 	**Cite**:
 
 	  - Code de l'urbanisme - art. L122-1-15
-	  - Code du cinéma et de l'image animée - art. L212-7 (V)
+	  - Code du cinéma et de l'image animée - art. L212-7
 
 
 ###### Article L212-13
@@ -2412,17 +2414,13 @@ ladite autorisation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'urbanisme - art. L425-8 (V)
+	  - DEPLACE: Loi n°2014-626 du 18 juin 2014 - art. 57
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L212-7 (V)
+	  - Code du cinéma et de l'image animée - art. L212-7
 
 
 ##### Section 3 : Homologation des établissements de spectacles cinématographiques
