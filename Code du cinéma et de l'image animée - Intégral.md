@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2014-09-17
+Version Consolidée au 2014-12-19
 
 # Partie législative
 
@@ -2094,9 +2094,8 @@ pour chaque localité et chaque lieu de projection une fréquence de passage dé
 ###### Article L212-3
 
 Lorsque l'activité d'exploitant d'établissement de spectacles cinématographiques est exercée par une personne physique,
-l'autorisation est délivrée à cette personne sur justification de son immatriculation au registre du commerce et des sociétés
-ou, lorsqu'elle en est dispensée, sur justification de l'accomplissement des formalités prévues à l'article L. 123-1-1 du
-code de commerce. 
+l'autorisation est délivrée à cette personne sur justification de son immatriculation au registre du commerce et des
+sociétés.
 
 Lorsque l'activité d'exploitant d'établissement de spectacles cinématographiques est exercée par une personne morale,
 l'autorisation est délivrée à la personne physique représentant légal ou statutaire de celle-ci sous réserve des dispositions
@@ -2111,11 +2110,12 @@ l'autorité compétente.
 L'autorisation est personnelle et incessible. Elle ne peut être accordée aux personnes ayant fait l'objet d'une décision
 judiciaire leur interdisant l'exercice d'une activité commerciale.
 
+**Nota:**
+
+Conformément au 27 VI de la loi n° 2014-626 du 18 juin 2014, les présentes dispositions entrent en vigueur à une date fixée
+par décret et, au plus tard, le 19 décembre 2014.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 	**Cité par**:
 
@@ -2123,9 +2123,9 @@ judiciaire leur interdisant l'exercice d'une activité commerciale.
 	  - Code du cinéma et de l'image animée - art. R212-1 (V)
 	  - Code du cinéma et de l'image animée - art. R212-2 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L123-1-1 (V)
+	  - Loi n°2014-626 du 18 juin 2014 - art. 27
 
 
 ###### Article L212-4
