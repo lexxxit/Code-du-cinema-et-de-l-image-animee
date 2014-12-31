@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2014-12-19
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -413,9 +413,9 @@ Ordonnance n° 2009-901 du 24 juillet 2009 article 11 6° : L'article L. 114-2 e
 ###### Article L115-1
 
 Est affecté au Centre national du cinéma et de l'image animée le produit d'une taxe assise sur le prix des entrées aux
-séances organisées par les exploitants d'établissements de spectacles cinématographiques situés en France métropolitaine,
-quels que soient le procédé de fixation ou de transmission et la nature du support des œuvres ou documents cinématographiques
-ou audiovisuels qui y sont représentés. 
+séances organisées par les exploitants d'établissements de spectacles cinématographiques situés en France métropolitaine ou
+dans les départements d'outre-mer, quels que soient le procédé de fixation ou de transmission et la nature du support des
+œuvres ou documents cinématographiques ou audiovisuels qui y sont représentés. 
 
 Les exploitants et les représentations concernés sont ceux soumis au présent code. 
 
@@ -425,10 +425,6 @@ la base de la répartition des recettes entre l'exploitant de l'établissement d
 distributeur et les ayants droit de chaque œuvre ou document cinématographique ou audiovisuel.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 	**Cité par**:
 
@@ -460,13 +456,13 @@ distributeur et les ayants droit de chaque œuvre ou document cinématographique
 	  - Code du cinéma et de l'image animée - art. L311-2 (V)
 	  - Livre des procédures fiscales - art. L163 (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'industrie cinématographique - art. 45 (VT)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 117
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L212-23 (V)
+	  - Code du cinéma et de l'image animée - art. L212-23
 
 
 ###### Article L115-2
@@ -2174,17 +2170,20 @@ Les créations, extensions et réouvertures au public d'établissements de spect
 exigences de diversité de l'offre cinématographique, d'aménagement culturel du territoire, de protection de l'environnement
 et de qualité de l'urbanisme, en tenant compte de la nature spécifique des œuvres cinématographiques. Elles doivent
 contribuer à la modernisation des établissements de spectacles cinématographiques et à la satisfaction des intérêts du
-spectateur tant en ce qui concerne la programmation d'une offre diversifiée que la qualité des services offerts.
+spectateur tant en ce qui concerne la programmation d'une offre diversifiée, le maintien et la protection du pluralisme dans
+le secteur de l'exploitation cinématographique que la qualité des services offerts.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'industrie cinématographique - art. 30-1 (Ab)
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 	**Cité par**:
 
@@ -2193,10 +2192,279 @@ spectateur tant en ce qui concerne la programmation d'une offre diversifiée que
 	  - Code du cinéma et de l'image animée - art. L212-9 (VD)
 
 
+##### Sous-section 1 : Commissions d'aménagement cinématographique
+
+##### Paragraphe 1 : Commission départementale d'aménagement cinématographique
+
+###### Article L212-6-1
+
+Une commission départementale d'aménagement cinématographique statue sur les demandes d'autorisation d'aménagement
+cinématographique qui lui sont présentées en application des articles L. 212-7 à L. 212-9.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-6-2
+
+I.-La commission départementale d'aménagement cinématographique est présidée par le représentant de l'Etat dans le
+département. 
+
+II.-La commission est composée : 
+
+1° Des cinq élus suivants : 
+
+a) Le maire de la commune d'implantation du projet d'aménagement cinématographique ; 
+
+b) Le président de l'établissement public de coopération intercommunale compétent en matière d'aménagement de l'espace et de
+développement dont est membre la commune d'implantation ou, à défaut, le conseiller général du canton d'implantation ; 
+
+c) Le maire de la commune la plus peuplée de l'arrondissement, autre que la commune d'implantation ; à l'exception des
+communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et des communes de l'Essonne, du Val-
+d'Oise, des Yvelines et de Seine-et-Marne appartenant à l'agglomération parisienne au sens de l'Institut national de la
+statistique et des études économiques, dans le cas où la commune d'implantation appartient à une agglomération comportant au
+moins cinq communes, le maire de la commune la plus peuplée est choisi parmi les maires des communes de ladite
+agglomération ; 
+
+d) Le président du conseil général ou son représentant ; 
+
+e) Le président du syndicat mixte ou de l'établissement public de coopération intercommunale chargé du schéma de cohérence
+territoriale auquel adhère la commune d'implantation ou son représentant ou, à défaut, un adjoint au maire de la commune
+d'implantation. 
+
+Lorsque l'un des élus détient plusieurs des mandats mentionnés au présent 1°, le représentant de l'Etat dans le département
+désigne pour le remplacer un ou plusieurs maires de communes situées dans la zone d'influence cinématographique concernée ; 
+
+2° De trois personnalités qualifiées, respectivement, en matière de distribution et d'exploitation cinématographiques, de
+développement durable et d'aménagement du territoire. 
+
+Lorsque la zone d'influence cinématographique du projet dépasse les limites du département, le représentant de l'Etat dans le
+département complète la composition de la commission en désignant au moins un élu et une personnalité qualifiée de chaque
+autre département concerné. 
+
+La commission entend toute personne susceptible d'éclairer sa décision. 
+
+III.-A Paris, la commission est composée : 
+
+1° Des cinq élus suivants : 
+
+a) Le maire de Paris ou son représentant ; 
+
+b) Le maire de l'arrondissement du lieu d'implantation du projet d'aménagement cinématographique ou son représentant ; 
+
+c) Un conseiller d'arrondissement désigné par le conseil de Paris ; 
+
+d) Un adjoint au maire de Paris ; 
+
+e) Un conseiller régional désigné par le conseil régional d'Ile-de-France ; 
+
+2° De trois personnalités qualifiées, respectivement, en matière de distribution et d'exploitation cinématographiques, de
+développement durable et d'aménagement du territoire. 
+
+La commission entend toute personne susceptible d'éclairer sa décision. 
+
+IV.-La personnalité qualifiée en matière de distribution et d'exploitation cinématographiques mentionnée au 2° des II et III
+est proposée par le président du Centre national du cinéma et de l'image animée sur une liste établie par lui.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L212-10-3 (V)
+	  - Code du cinéma et de l'image animée - art. R212-6-6 (V)
+
+
+###### Article L212-6-3
+
+Tout membre de la commission départementale d'aménagement cinématographique informe le représentant de l'Etat dans le
+département des intérêts qu'il détient et de l'activité économique qu'il exerce. 
+
+Aucun membre de la commission départementale d'aménagement cinématographique ne peut délibérer dans une affaire où il a un
+intérêt personnel ou s'il représente ou a représenté une ou plusieurs parties.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. R212-6-7 (V)
+
+
+###### Article L212-6-4
+
+Les conditions de désignation des membres de la commission départementale d'aménagement cinématographique et les modalités de
+son fonctionnement sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+##### Paragraphe 2 : Commission nationale d'aménagement cinématographique
+
+###### Article L212-6-5
+
+La Commission nationale d'aménagement cinématographique comprend neuf membres nommés, pour une durée de six ans non
+renouvelable, par décret.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-6-6
+
+La Commission nationale d'aménagement cinématographique est composée : 
+
+1° D'un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat, président ; 
+
+2° D'un membre de la Cour des comptes désigné par le premier président de la Cour des comptes ; 
+
+3° D'un membre de l'inspection générale des finances désigné par le chef de ce service ; 
+
+4° D'un membre du corps de l'inspection générale des affaires culturelles ; 
+
+5° De deux personnalités qualifiées en matière de distribution et d'exploitation cinématographiques, dont une proposée par le
+président du Centre national du cinéma et de l'image animée, désignées par le ministre chargé de la culture ; 
+
+6° De trois personnalités désignées pour leur compétence, respectivement, en matière de consommation, d'urbanisme, de
+développement durable, d'aménagement du territoire ou d'emploi. Le président de l'Assemblée nationale, le président du Sénat
+et le ministre chargé de l'urbanisme désignent chacun une de ces trois personnalités.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-6-7
+
+Les membres de la Commission nationale d'aménagement cinématographique se conforment aux obligations de dépôt des
+déclarations prévues au 6° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie
+publique. Leurs déclarations d'intérêts sont tenues à la disposition de l'ensemble des autres membres de la Commission
+nationale d'aménagement cinématographique par le président. 
+
+Aucun membre de la Commission nationale d'aménagement cinématographique ne peut participer à des débats ou à une délibération
+dans une affaire dans laquelle lui-même ou une personne morale au sein de laquelle il a, au cours des trois années précédant
+la délibération, exercé des fonctions ou détenu un mandat a eu un intérêt ou représenté une partie intéressée au cours de la
+même période. 
+
+La Commission nationale d'aménagement cinématographique peut suspendre le mandat d'un de ses membres ou y mettre fin si elle
+constate, à la majorité des trois quarts des autres membres, qu'il se trouve dans une situation d'incompatibilité, qu'il est
+empêché d'exercer ses fonctions ou qu'il a manqué à ses obligations.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2013-907 du 11 octobre 2013 - art. 11 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-6-8
+
+Les conditions de désignation des membres de la Commission nationale d'aménagement cinématographique et de son président,
+ainsi que les modalités de son fonctionnement, sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+##### Paragraphe 3 : Dispositions communes
+
+###### Article L212-6-9
+
+Les commissions d'aménagement cinématographique autorisent ou refusent les projets dans leur totalité.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+##### Sous-section 2 : Autorisation d'aménagement cinématographique
+
+##### Paragraphe 1 : Projets soumis à autorisation
+
 ###### Article L212-7
 
-Sont soumis à autorisation, préalablement à la délivrance du permis de construire s'il y a lieu et avant réalisation si le
-permis de construire n'est pas exigé, les projets ayant pour objet :
+Sont soumis à autorisation les projets ayant pour objet :
 
 1° La création d'un établissement de spectacles cinématographiques comportant plusieurs salles et plus de 300 places et
 résultant soit d'une construction nouvelle, soit de la transformation d'un immeuble existant ;
@@ -2208,18 +2476,31 @@ places existantes et s'effectuant plus de cinq ans après la mise en exploitatio
 3° L'extension d'un établissement de spectacles cinématographiques comportant plusieurs salles et ayant déjà atteint le seuil
 de 1 500 places ou devant le dépasser par la réalisation du projet ;
 
+3° bis L'extension d'un établissement de spectacles cinématographiques comportant déjà huit salles au moins ou devant
+dépasser ce seuil par la réalisation du projet ; 
+
 4° La réouverture au public, sur le même emplacement, d'un établissement de spectacles cinématographiques comportant
 plusieurs salles et plus de 300 places et dont les locaux ont cessé d'être exploités pendant deux années consécutives.
 
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+Conformément à l'article 57 III, les demandes d'autorisation déposées en application de l'article L. 212-7 du code du cinéma
+et de l'image animée avant la date d'entrée en vigueur de la présente loi demeurent soumises aux dispositions applicables à
+la date de leur dépôt.
+
+Les membres de la Commission nationale d'aménagement commercial, dans sa composition spéciale pour statuer sur les projets
+d'aménagement cinématographique à la date d'entrée en vigueur du présent article, deviennent membres de la Commission
+nationale d'aménagement cinématographique pour la durée de leur mandat restant à courir.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'industrie cinématographique - art. 30-2, ( I )  (Ab)
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 	**Cité par**:
 
@@ -2269,18 +2550,14 @@ commun.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 	**Cite**:
 
-	  - Code de commerce. - art. L233-16 (V)
-	  - Code du cinéma et de l'image animée - art. L212-7 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'industrie cinématographique - art. 30-2, ( II ) (Ab)
+	  - Code de commerce - art. L233-16
+	  - Code du cinéma et de l'image animée - art. L212-7
 
 	**Cité par**:
 
@@ -2289,10 +2566,31 @@ commun.
 	  - Code de l'urbanisme - art. L142-4 (VD)
 
 
+###### Article L212-8-1
+
+Les projets d'aménagement cinématographique ne sont soumis à l'examen de la commission départementale d'aménagement
+cinématographique qu'à la condition d'être accompagnés de l'indication de la personne qui sera titulaire de l'autorisation
+d'exercice délivrée en application des articles L. 212-2 à L. 212-5.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+##### Paragraphe 2 : Décision de la commission départementale d'aménagement cinématographique
+
 ###### Article L212-9
 
-Dans le cadre des principes définis à l'article L. 212-6, les commissions d'aménagement commercial statuant en matière
-cinématographique se prononcent sur les deux critères suivants : 
+Dans le cadre des principes définis à l'article L. 212-6, la commission départementale d'aménagement cinématographique se
+prononce sur les deux critères suivants : 
 
 1° L'effet potentiel sur la diversité cinématographique offerte aux spectateurs dans la zone d'influence cinématographique
 concernée, évalué au moyen des indicateurs suivants : 
@@ -2320,20 +2618,31 @@ desserte routière, des parcs de stationnement ;
 
 d) L'insertion du projet dans son environnement ; 
 
-e) La localisation du projet.
+e) La localisation du projet, notamment au regard des schémas de cohérence territoriale et des plans locaux d'urbanisme.
+
+Lorsqu'une autorisation s'appuie notamment sur le projet de programmation cinématographique, ce projet fait l'objet d'un
+engagement de programmation cinématographique souscrit en application du 3° de l'article L. 212-23. 
+
+Lorsque le projet présenté concerne l'extension d'un établissement définie aux 2°, 3° ou 3° bis de l'article L. 212-7, le
+respect de l'engagement de programmation cinématographique souscrit par l'exploitant de l'établissement de spectacles
+cinématographiques en application de l'article L. 212-23 fait l'objet d'un contrôle du Centre national du cinéma et de
+l'image animée, transmis à la commission d'aménagement cinématographique compétente pour l'instruction du dossier.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'industrie cinématographique - art. 30-3 (Ab)
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 	**Cité par**:
 
+	  - Code de commerce - art. L752-7 (VT)
 	  - Code du cinéma et de l'image animée - art. A212-7 (Ab)
 	  - Code du cinéma et de l'image animée - art. A212-7-3-1 (V)
 	  - Code du cinéma et de l'image animée - art. L212-21 (V)
@@ -2342,28 +2651,247 @@ e) La localisation du projet.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L212-19 (V)
-	  - Code du cinéma et de l'image animée - art. L212-6 (V)
+	  - Code du cinéma et de l'image animée - art. L212-19
+	  - Code du cinéma et de l'image animée - art. L212-6
 
 
 ###### Article L212-10
 
-Les règles relatives aux commissions d'aménagement commercial statuant en matière cinématographique et aux modalités de
-délivrance de l'autorisation prévue par les dispositions de la présente section sont fixées par les articles L. 751-1 à L.
-751-7, L. 752-3-1, L. 752-7 et L. 752-14 à L. 752-22 du code de commerce.
+L'instruction des demandes d'autorisation est faite par les services déconcentrés de l'Etat.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+	**Cite**:
+
+	  - Code de commerce - art. L751-1
+	  - Code de commerce - art. L752-14
+	  - Code de commerce - art. L752-3-1
+	  - Code de commerce - art. L752-7
+
+
+###### Article L212-10-1
+
+I.-La commission départementale d'aménagement cinématographique autorise les projets par un vote à la majorité absolue des
+membres présents. Le procès-verbal indique le sens du vote émis par chacun de ces membres. 
+
+Le représentant de l'Etat dans le département ne prend pas part au vote. 
+
+II.-La commission départementale d'aménagement cinématographique se prononce dans un délai de deux mois à compter de sa
+saisine. 
+
+Passé ce délai, la décision est réputée favorable. 
+
+Les membres de la commission départementale d'aménagement cinématographique ont connaissance des demandes d'autorisation
+déposées au moins dix jours avant d'avoir à statuer. 
+
+La décision est notifiée dans les dix jours au maire et au pétitionnaire. Elle est également notifiée au médiateur du cinéma.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. R212-7-20 (V)
+
+
+###### Article L212-10-2
+
+L'autorisation d'aménagement cinématographique est délivrée préalablement à la délivrance du permis de construire s'il y a
+lieu, ou avant la réalisation du projet si le permis de construire n'est pas exigé. 
+
+L'autorisation est accordée pour un nombre déterminé de salles et de places de spectateur. 
+
+Une nouvelle demande d'autorisation est nécessaire lorsque le projet, en cours d'instruction ou de réalisation, subit des
+modifications substantielles concernant le nombre de salles et de places de spectateur. Il en est de même en cas de
+modification de la ou des enseignes désignées par le pétitionnaire. 
+
+L'autorisation d'aménagement cinématographique n'est ni cessible, ni transmissible tant que la mise en exploitation de
+l'établissement de spectacles cinématographiques n'est pas intervenue.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L414-4 (V)
+	  - Code du cinéma et de l'image animée - art. R212-7-11 (V)
+
+
+##### Paragraphe 3 : Recours contre la décision de la commission départementale d'aménagement cinématographique
+
+###### Article L212-10-3
+
+A l'initiative du représentant de l'Etat dans le département, du maire de la commune d'implantation, du président de
+l'établissement public de coopération intercommunale mentionné au b du 1° du II de l'article L. 212-6-2, de celui mentionné
+au e du même 1° ou du président du syndicat mixte mentionné au même e et de toute personne ayant intérêt à agir, la décision
+de la commission départementale d'aménagement cinématographique peut, dans un délai d'un mois, faire l'objet d'un recours
+devant la Commission nationale d'aménagement cinématographique. La Commission nationale d'aménagement cinématographique se
+prononce dans un délai de quatre mois à compter de sa saisine. 
+
+La saisine de la Commission nationale d'aménagement cinématographique est un préalable obligatoire à un recours contentieux,
+à peine d'irrecevabilité de ce dernier. 
+
+Ce recours est également ouvert au médiateur du cinéma.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R311-3 (V)
+	  - Code du cinéma et de l'image animée - art. R212-7-20 (V)
+	  - Code du cinéma et de l'image animée - art. R212-7-21 (V)
+	  - Code du cinéma et de l'image animée - art. R212-7-24 (V)
+	  - Code du cinéma et de l'image animée - art. R212-7-31 (V)
 
 	**Cite**:
 
-	  - Code de commerce. - art. L751-1 (V)
-	  - Code de commerce. - art. L752-14 (V)
-	  - Code de commerce. - art. L752-3-1 (V)
-	  - Code de commerce. - art. L752-7 (V)
+	  - Code du cinéma et de l'image animée - art. L212-6-2 (VT)
+
+
+###### Article L212-10-4
+
+Avant l'expiration du délai de recours ou, en cas de recours, avant la décision de la Commission nationale d'aménagement
+cinématographique, le permis de construire ne peut être accordé ni la réalisation entreprise et aucune nouvelle demande ne
+peut être déposée pour le même terrain d'assiette auprès de la commission départementale d'aménagement cinématographique.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-10-5
+
+Le maire de la commune d'implantation membre de la commission départementale d'aménagement cinématographique dont la décision
+fait l'objet du recours est entendu, lorsqu'il le demande, par la Commission nationale d'aménagement cinématographique.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-10-6
+
+Un commissaire du Gouvernement nommé par le ministre chargé de la culture assiste aux séances de la Commission nationale
+d'aménagement cinématographique.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-10-7
+
+Le président de la Commission nationale d'aménagement cinématographique a voix prépondérante en cas de partage égal des voix.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-10-8
+
+En cas de rejet pour un motif de fond de la demande d'autorisation par la Commission nationale d'aménagement
+cinématographique, il ne peut être déposé de nouvelle demande par le même pétitionnaire, pour un même projet et sur le même
+terrain, pendant une période d'un an à compter de la date de la décision de la commission nationale.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-10-9
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent paragraphe.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 
 ##### Sous-section 3 : Dispositions diverses
@@ -2629,10 +3157,16 @@ et uniquement la programmation des établissements de spectacles cinématographi
 et homologués par le président du Centre national du cinéma et de l'image animée ; 
 
 3° Les projets de programmation, mentionnés à l'article L. 212-9, sur la base desquels les commissions d'aménagement
-commercial statuant en matière cinématographique ont accordé des autorisations en application de l'article L. 212-7 ; 
+cinématographique ont accordé des autorisations en application de l'article L. 212-7 ; 
 
 4° Tout projet de programmation sur la base duquel un exploitant d'établissement de spectacles cinématographiques a bénéficié
 d'une aide financière du Centre national du cinéma et de l'image animée attribuée sous forme sélective.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
@@ -2656,13 +3190,13 @@ d'une aide financière du Centre national du cinéma et de l'image animée attri
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 1
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. L212-19
 	  - Code du cinéma et de l'image animée - art. L212-7
-	  - Code du cinéma et de l'image animée - art. L212-9 (V)
+	  - Code du cinéma et de l'image animée - art. L212-9
 
 
 ###### Article L212-24
@@ -5056,6 +5590,30 @@ transmission, il en informe sans délai le président du Centre national du cin�
 	  - Code du cinéma et de l'image animée - art. R414-1 (V)
 
 
+###### Article L414-4
+
+Les agents mentionnés à l'article L. 411-1 qui constatent l'exploitation illicite d'un nombre de salles ou de places de
+spectateur, au regard de l'article L. 212-10-2, établissent un rapport qu'ils transmettent au représentant de l'Etat dans le
+département d'implantation de l'établissement de spectacles cinématographiques concerné.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L212-10-2 (V)
+	  - Code du cinéma et de l'image animée - art. L411-1 (V)
+
+
 #### Chapitre V : Secret professionnel
 
 
@@ -5342,6 +5900,36 @@ versé au Centre national du cinéma et de l'image animée.
 	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
+#### Chapitre V : Dispositions particulières relatives à l'implantation des établissements de spectacles cinématographiques
+
+###### Article L425-1
+
+Le représentant de l'Etat dans le département peut, dans un délai d'un mois après réception du rapport mentionné à l'article
+L. 414-4, mettre en demeure l'exploitant de l'établissement de spectacles cinématographiques concerné de ramener le nombre de
+salles ou de places de spectateur au nombre figurant dans l'autorisation d'aménagement cinématographique accordée par la
+commission d'aménagement cinématographique compétente. Il peut, à défaut, prendre un arrêté ordonnant, dans un délai de
+quinze jours, la fermeture au public de l'établissement exploité illicitement, jusqu'à régularisation effective. Ces mesures
+sont assorties d'une astreinte journalière de 150 € par place de spectateur. 
+
+Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L434-1 (V)
+
+
 ### Titre III : Dispositions pénales
 
 #### Chapitre Ier : Dispositions générales
@@ -5459,6 +6047,30 @@ s'impute sur le montant de l'amende pénale prononcée par lui postérieurement.
 	  - Code du cinéma et de l'image animée - art. L212-32
 	  - Code du cinéma et de l'image animée - art. L222-1
 	  - Code du cinéma et de l'image animée - art. L422-1
+
+
+#### Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques
+
+###### Article L434-1
+
+Est puni d'une amende de 15 000 € le fait de ne pas exécuter les mesures prises par le représentant de l'Etat dans le
+département prévues à l'article L. 425-1.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L425-1 (V)
 
 
 ### Titre IV : Actions en justice
@@ -14604,17 +15216,17 @@ b) Ou lorsque entre 30 % et 50 % des jours de tournage sont réalisés en France
 
 c) Ou lorsque entre 15 % et 30 % des jours de tournage sont réalisés en France : 1 point ; 
 
-2° Plus de 50 % des dépenses liées à la réalisation des effets spéciaux de plateau sont effectuées auprès de prestataires
+2° Au moins 50 % des dépenses liées à la réalisation des effets spéciaux de plateau sont effectuées auprès de prestataires
 établis en France, pour les scènes tournées en France : 1 point ; 
 
-3° Plus de 50 % des dépenses liées à la location de matériels de tournage (prises de vues, machinerie, éclairage, prise de
+3° Au moins 50 % des dépenses liées à la location de matériels de tournage (prises de vues, machinerie, éclairage, prise de
 son) sont effectuées auprès de prestataires établis en France, pour les scènes tournées en France : 1 point ; 
 
-4° Plus de 50 % des dépenses liées aux travaux de laboratoire sont effectuées auprès de prestataires établis en France, pour
+4° Au moins 50 % des dépenses liées aux travaux de laboratoire sont effectuées auprès de prestataires établis en France, pour
 les scènes tournées en France : 1 point ; 
 
-5° Plus de 50 % des dépenses liées à l'étalonnage ou au mixage son, ou la fabrication d'effets visuels numériques de plus de
-10 plans sont effectuées auprès de prestataires établis en France : 2 points.
+5° Au moins 50 % des dépenses liées à l'étalonnage ou au mixage son, ou la fabrication d'effets visuels numériques de au
+moins 10 plans sont effectuées auprès de prestataires établis en France : 2 points.
 
 **Liens relatifs à cet article**
 
@@ -14622,9 +15234,9 @@ les scènes tournées en France : 1 point ;
 
 	  - Décret n°2014-794 du 9 juillet 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
+	  - Décret n°2014-1749 du 30 décembre 2014 - art. 1
 
 
 ##### Sous-Paragraphe 2 : Barème de points des œuvres appartenant au genre de l'animation
@@ -14767,35 +15379,35 @@ résidents français sont assimilés aux citoyens français.
 
 Pour le groupe " Infrastructures de création ", les points, au nombre de 31 au plus, sont affectés comme suit : 
 
-1° Plus de 50 % des dépenses liées au scénarimage et/ ou à la mise en place des décors et de l'animation et/ ou à la
+1° Au moins 50 % des dépenses liées au scénarimage et/ ou à la mise en place des décors et de l'animation et/ ou à la
 prévisualisation 3D sont effectuées auprès de prestataires établis en France : 1 point ; 
 
-2° Plus de 50 % des dépenses liées à la conception des personnages sont effectuées auprès de prestataires établis en France :
-1 point ; 
+2° Au moins 50 % des dépenses liées à la conception des personnages sont effectuées auprès de prestataires établis en
+France : 1 point ; 
 
-3° Plus de 50 % des dépenses liées à la conception des décors sont effectuées auprès de prestataires établis en France : 1
+3° Au moins 50 % des dépenses liées à la conception des décors sont effectuées auprès de prestataires établis en France : 1
 point ; 
 
 4° Au moins 10 % des dépenses liées à la modélisation incluant les décors numériques et/ ou à la rotoscopie et/ ou au suivi
-de mouvement sont effectuées auprès de prestataires établis en France : 0,5 point par tranche de 10 %, soit entre 0,5 et 5
+de mouvement sont effectuées auprès de prestataires établis en France : 1 point par tranche de 10 %, soit entre 1 et 5
 points ; 
 
 5° Au moins 10 % des dépenses liées à l'animation (personnages et caméras) et/ ou à la capture de mouvement sont effectuées
-auprès de prestataires établis en France : 1 point par tranche de 10 %, soit entre 1 et 10 points ; 
+auprès de prestataires établis en France : 2 points par tranche de 10 %, soit entre 2 et 10 points ; 
 
 6° Au moins 10 % des dépenses liées au rendu et/ ou à l'éclairage et/ ou à la trace et/ ou à la mise en couleurs sont
-effectuées auprès de prestataires établis en France : 0,5 point par tranche de 10 %, soit entre 0,5 et 5 points ; 
+effectuées auprès de prestataires établis en France : 1 point par tranche de 10 %, soit entre 1 et 5 points ; 
 
-7° Au moins 10 % des dépenses liées à l'assemblage numérique sont effectuées auprès de prestataires établis en France : 0,5
-point par tranche de 10 %, soit entre 0,5 et 5 points ; 
+7° Au moins 10 % des dépenses liées à l'assemblage numérique sont effectuées auprès de prestataires établis en France : 1
+point par tranche de 10 %, soit entre 1 et 5 points ; 
 
-8° Plus de 50 % des dépenses liées à la création sonore et au montage son sont effectuées auprès de prestataires établis en
+8° Au moins 50 % des dépenses liées à la création sonore et au montage son sont effectuées auprès de prestataires établis en
 France : 1 point ; 
 
-9° Plus de 50 % des dépenses liées à l'enregistrement de la musique sont effectuées auprès de prestataires établis en
+9° Au moins 50 % des dépenses liées à l'enregistrement de la musique sont effectuées auprès de prestataires établis en
 France : 1 point ; 
 
-10° Plus de 50 % des dépenses liées à l'enregistrement des voix et au montage des dialogues sont effectuées auprès de
+10° Au moins 50 % des dépenses liées à l'enregistrement des voix et au montage des dialogues sont effectuées auprès de
 prestataires établis en France : 1 point.
 
 **Liens relatifs à cet article**
@@ -14804,9 +15416,9 @@ prestataires établis en France : 1 point.
 
 	  - Décret n°2014-794 du 9 juillet 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
+	  - Décret n°2014-1749 du 30 décembre 2014 - art. 1
 
 
 ##### Sous-section 2 : Délivrance des agréments
