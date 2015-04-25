@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2015-03-13
+Version Consolidée au 2015-04-26
 
 # Partie législative
 
@@ -31418,10 +31418,15 @@ rémunération minimale de 2 000 € et l'interprétation de cette musique origi
 
 Dans ce cas, les coefficients sont augmentés de 0,1 ; 
 
-c) Le nombre de jours de travail du ou des chefs monteurs, rémunérés conformément à la convention collective nationale de la
-production audiovisuelle, atteint un seuil minimum. Dans ce cas, les coefficients sont augmentés de 0,1 lorsque le nombre de
-jours est supérieur ou égal à 25 et de 0,2 lorsque ce nombre est supérieur ou égal à 35 pour une œuvre d'une durée de 52
-minutes. Pour une œuvre d'une durée différente, le nombre de jours minimum est déterminé prorata temporis ; 
+c) Le nombre de jours de travail du ou des chefs monteurs atteint un seuil minimum. Le ou les chefs monteurs peuvent soit
+être engagés par l'entreprise de production déléguée établie en France et rémunérés conformément à la convention collective
+nationale de la production audiovisuelle, soit être engagés par un éditeur de services de télévision ou de services à la
+demande, mentionné à l'article 311-8 ou à l'article 311-9, et rémunérés conformément aux conventions et accords collectifs
+applicables dans les secteurs concernés. 
+
+Dans ce cas, les coefficients sont augmentés de 0,1 lorsque le nombre de jours est supérieur ou égal à 25 et de 0,2 lorsque
+ce nombre est supérieur ou égal à 35 pour une œuvre d'une durée de 52 minutes. Pour une œuvre d'une durée différente, le
+nombre de jours minimum est déterminé prorata temporis ; 
 
 d) Le ratio entre la masse salariale brute des personnels artistiques et techniques, hors artistes-interprètes, engagés par
 l'entreprise de production déléguée établie en France et la masse salariale brute totale de l'ensemble des personnels engagés
@@ -31459,14 +31464,19 @@ minutes produites, sans que cet abattement puisse avoir pour effet l'application
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 3, v. init.
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. 311-58 (VD)
 	  - Code du cinéma et de l'image animée - art. 311-97 (VD)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 311-81 (V)
+	  - Code du cinéma et de l'image animée - art. 311-9 (V)
 
 
 ##### Paragraphe 3 : Inscription sur le compte des sommes calculées 
@@ -32465,8 +32475,8 @@ internationale.
 
 ###### Article 311-101
 
-L'entreprise de production dispose d'un délai de trois ans suivant le premier versement pour obtenir l'autorisation
-définitive. 
+L'entreprise de production dispose d'un délai de trois ans à compter de la date de délivrance de l'autorisation préalable
+pour obtenir l'autorisation définitive. 
 
 En cas de non-respect de ce délai, l'entreprise de production est tenue de rembourser au Centre national du cinéma et de
 l'image animée l'aide dont elle a bénéficié. Toutefois, sur demande motivée de l'entreprise de production, le président du
@@ -32476,9 +32486,9 @@ nouveau délai ou, à titre exceptionnel, de renoncer au reversement de tout ou 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 4, v. init.
 
 
 ##### Sous-section 2 : Aides à la préparation 
@@ -39542,6 +39552,203 @@ Ces aides sont attribuées avec l'Etat représenté par le Commissariat généra
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
+### Titre III : Aides financières à la diffusion culturelle des œuvres cinématographiques, audiovisuelles et multimédias
+
+#### Chapitre unique : Aides financières à la numérisation des lieux de festivals
+
+
+##### Section unique : Aides financières sélectives
+
+###### Article 431-1
+
+Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
+animée, afin de soutenir la numérisation de lieux accueillant du public dans le cadre de festivals de cinéma.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. D311-3 (V)
+
+
+##### Sous-section 1 : Objet et conditions d'attribution
+
+###### Article 431-2
+
+Les aides à la numérisation des lieux de festivals sont attribuées aux propriétaires des lieux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
+
+
+###### Article 431-3
+
+Les aides à la numérisation des lieux de festivals sont attribuées pour l'installation initiale d'équipements de projection
+numérique conformes aux normes internationales ISO relatives à la projection numérique en salles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
+
+
+###### Article 431-4
+
+I.-Les lieux de festivals répondent aux conditions suivantes : 
+
+1° Ne pas être des établissements de spectacles cinématographiques homologués dans les conditions prévues à l'article L.
+212-14 du code du cinéma et de l'image animée ; 
+
+2° Avoir accueilli l'organisation d'au moins 30 % du nombre total de séances programmées dans le cadre de la dernière édition
+d'un festival de cinéma qui : 
+
+a) Est organisé en France ; 
+
+b) A bénéficié, l'année précédant la demande, d'une aide financière du Centre national du cinéma et de l'image animée en
+application de l'article 112-1 ou d'une aide financière attribuée par la direction régionale des affaires culturelles ; 
+
+c) A réalisé, au titre de sa dernière édition, un nombre total d'entrées supérieur ou égal à 15 000. 
+
+II.-Il peut être dérogé à la proportion minimale de séances prévue au 2° du I compte tenu du caractère emblématique d'un lieu
+pour la programmation du festival considéré et de la réalisation dans ce lieu d'un nombre d'entrées significatif dans le
+cadre de la dernière édition du festival.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 112-1 (V)
+	  - Code du cinéma et de l'image animée - art. L212-14 (V)
+
+
+###### Article 431-5
+
+Les aides à la numérisation des lieux de festivals sont attribuées en vue de contribuer à la prise en charge des dépenses
+relatives :
+
+1° Au projecteur ;
+
+2° A l'anamorphoseur et autres systèmes optiques ;
+
+3° Au serveur ;
+
+4° A l'onduleur ;
+
+5° A la chaîne sonore ;
+
+6° Au serveur central de stockage ;
+
+7° Au système d'automatisation des salles ;
+
+8° Au câblage internet et réseau informatique ;
+
+9° Au réseau électrique ;
+
+10° A la climatisation de la cabine de projection ;
+
+11° A l'extraction d'air ;
+
+12° Aux frais d'installation et aux extensions de garanties ;
+
+13° Aux frais financiers.
+
+Pour un même lieu, ces dépenses ne sont éligibles que dans la limite de 75 000 €.
+
+Sont exclues les dépenses relatives aux travaux de construction, d'amélioration, de réfection et d'aménagement des bâtiments
+rendus nécessaires par l'installation des équipements ainsi que les dépenses de maintenance et d'entretien de ces
+équipements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
+
+
+###### Article 431-6
+
+Le bénéfice des aides à la numérisation des lieux de festivals est subordonné au respect du règlement n° 1407/2013 de la
+Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
+européenne aux aides de minimis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
+
+
+##### Sous-section 2 : Procédure et modalités d'attribution
+
+###### Article 431-7
+
+Pour l'attribution d'une aide, le propriétaire du lieu remet un dossier comprenant :
+
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
+
+2° La liste des documents justificatifs figurant en annexe 16 du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. Annexe 4-16 (M)
+
+
+###### Article 431-8
+
+La décision d'attribution d'une aide est prise après expertise technique des dossiers effectuée par l'association dénommée
+"Commission supérieure technique de l'image et du son" .
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
+
+
+###### Article 431-9
+
+Le montant de l'aide ne peut excéder 30 % des dépenses éligibles. Il peut être porté à 40 % de ces dépenses lorsque d'autres
+projets cinématographiques significatifs sont organisés dans le lieu considéré en dehors du festival.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
+
+
+###### Article 431-10
+
+L'aide est attribuée sous forme de subvention.
+
+L'aide fait l'objet d'une convention établie avec le propriétaire du lieu. Cette convention fixe les modalités de versement
+de l'aide et les circonstances dans lesquelles elle donne lieu à reversement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
+
+
 ### ANNEXES AU LIVRE IV
 
 ###### Article Annexe 4-1
@@ -40510,6 +40717,40 @@ charge de suivre le projet ;
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. 421-33 (V)
+
+
+###### Article Annexe 4-16
+
+Aides à la numérisation des lieux de festivals (art. 431-7) 
+
+Liste des documents justificatifs : 
+
+1° Le devis détaillé des dépenses d'installation initiale des équipements de projection numérique, indiquant la conformité de
+ces équipements aux normes internationales ISO ; 
+
+2° Les justificatifs des autres sources de financement des équipements de projection numérique ; 
+
+3° Le cas échant, une copie de la décision d'aide financière attribuée par la direction régionale des affaires culturelles ; 
+
+4° Une note détaillant les autres projets cinématographiques en dehors du festival.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
+
+	**Transféré par**:
+
+	  - Délibération n°2016/CA/10 du 30 juin 2016 - art. 18, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 431-7 (V)
+
+	**Nouveaux textes**:
+
+	  - Code du cinéma et de l'image animée - art. Annexe 4-21 (V)
 
 
 ## Livre V : Soutien aux actions en faveur du patrimoine cinématographique
@@ -41726,13 +41967,16 @@ d'affaires total mondial hors taxes relatif à cette exploitation est inférieur
 - 10 % pour les éditeurs de services de médias audiovisuels à la demande qui ont un chiffre d'affaires total mondial hors
 taxes résultant de l'exploitation d'œuvres cinématographiques et audiovisuelles sur des services de médias audiovisuels à la
 demande compris entre 50 000 000 € et 200 000 000 € ou qui appartiennent à un groupe de personnes physiques ou morales dont
-le chiffre d'affaires total mondial hors taxes relatif à cette exploitation est compris entre 50 000 000 € et 200 000 000 €.
+le chiffre d'affaires total mondial hors taxes relatif à cette exploitation est compris entre 50 000 000 € et 200 000 000 €. 
+
+Ces taux sont respectivement portés à 25 % et à 20 % pour la part du chiffre d'affaires résultant de l'exploitation de
+l'œuvre en téléchargement définitif.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 6, v. init.
 
 
 ###### Article 612-14
@@ -42324,14 +42568,14 @@ prises.
 
 ###### Article 621-11
 
-La commission des aides aux nouvelles technologies de la création est composée de dix membres, dont un président, nommés pour
-une durée de deux ans renouvelable une fois.
+La commission des aides aux nouvelles technologies de la création est composée de douze  membres, dont un président, nommés
+pour une durée de deux ans renouvelable une fois.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 8, v. init.
 
 
 ### Titre III : Aides financières à la modernisation des industries techniques et à l'innovation technologique 
