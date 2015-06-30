@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2015-06-26
+Version Consolidée au 2015-07-01
 
 # Partie législative
 
@@ -20182,13 +20182,16 @@ montant cumulé calculé comme suit :
 - 5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure ou égale à 10 000 000 €. 
 
 La rémunération globale s'entend des salaires et des autres rémunérations, hors charges sociales, définitivement acquises,
-notamment à titre de droits d'auteurs ou de droits voisins, au moment de la mise en production de l'œuvre.
+notamment à titre de droits d'auteurs ou de droits voisins, au moment de la mise en production de l'œuvre. 
+
+En ce qui concerne les œuvres cinématographiques de longue durée appartenant au genre documentaire, les dispositions du
+présent article ne s'appliquent qu'aux œuvres pour lesquelles la rémunération globale la plus élevée excède 990 000 €.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 2, v. init.
 
 	**Cité par**:
 
@@ -21259,13 +21262,16 @@ de ces personnes excède un montant cumulé calculé comme suit :
 - 5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure ou égale à 10 000 000 €. 
 
 La rémunération globale s'entend des salaires et des autres rémunérations, hors charges sociales, définitivement acquises,
-notamment à titre de droits d'auteurs ou de droits voisins, au moment de la mise en production de l'œuvre.
+notamment à titre de droits d'auteurs ou de droits voisins, au moment de la mise en production de l'œuvre. 
+
+En ce qui concerne les œuvres cinématographiques de longue durée appartenant au genre documentaire, les dispositions du
+présent article ne s'appliquent qu'aux œuvres pour lesquelles la rémunération globale la plus élevée excède 990 000 €.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 2, v. init.
 
 	**Cité par**:
 
@@ -21653,13 +21659,16 @@ personnes excède un montant cumulé calculé comme suit :
 - 5 % de la part du coût de production de l'œuvre supérieure ou égale à 7 000 000 € et inférieure ou égale à 10 000 000 €. 
 
 La rémunération globale s'entend des salaires et des autres rémunérations, hors charges sociales, définitivement acquises,
-notamment à titre de droits d'auteurs ou de droits voisins, au moment de la mise en production de l'œuvre.
+notamment à titre de droits d'auteurs ou de droits voisins, au moment de la mise en production de l'œuvre. 
+
+En ce qui concerne les œuvres cinématographiques de longue durée appartenant au genre documentaire, les dispositions du
+présent article ne s'appliquent qu'aux œuvres pour lesquelles la rémunération globale la plus élevée excède 990 000 €.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 2, v. init.
 
 	**Cité par**:
 
@@ -42421,6 +42430,27 @@ diffusion par un éditeur de services de télévision ;
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. 621-10 (V)
+
+
+###### Article 621-4-1
+
+Les aides à la création par l'utilisation des nouvelles technologies de l'image et du son ne sont pas attribuées pour des
+œuvres cinématographiques de longue durée produites par des entreprises de production soit qui n'ont pas été autorisées à
+investir les sommes inscrites sur leur compte automatique en application de l'article 211-44, soit qui n'ont pu bénéficier
+d'une aide sélective à la production avant réalisation en application de l'article 211-105 ou d'une aide sélective après
+réalisation en application de l'article 211-128.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 7, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 211-105 (V)
+	  - Code du cinéma et de l'image animée - art. 211-128 (V)
+	  - Code du cinéma et de l'image animée - art. 211-44 (V)
 
 
 ###### Article 621-5
