@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2015-07-19
+Version Consolidée au 2015-08-09
 
 # Partie législative
 
@@ -20474,6 +20474,20 @@ certification par un commissaire aux comptes du coût définitif de l'œuvre cin
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
+###### Article 211-60-1
+
+Pour les demandes enregistrées par le Centre national du cinéma et de l'image animée à compter du 1er janvier 2018,
+l'agrément de production ne peut être délivré que si, pour l'œuvre cinématographique considérée, l'entreprise de production
+déléguée est à jour des obligations qui lui incombent au titre du dépôt légal au Centre national du cinéma et de l'image
+animée, en vertu du titre III du livre Ier du code du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 3, v. init.
+
+
 ###### Article 211-61
 
 L'agrément de production ouvre droit aux calculs des sommes représentant les aides financières automatiques auxquelles
@@ -21181,25 +21195,27 @@ La commission d'agrément est composée de vingt et un membres nommés pour une 
 
 10° Deux représentants des artistes-interprètes ; 
 
-11° Une personnalité qualifiée au titre de son activité de réalisation et de production.
+11° Une personnalité qualifiée au titre de son activité de réalisation et de production. 
+
+Un vice-président est désigné parmi les membres mentionnés aux 2° à 11°.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 4, v. init.
 
 
 ###### Article 211-101
 
-La nomination des membres de la commission, à l'exception du président, est effectuée après consultation des organisations
-professionnelles ou syndicales les plus représentatives.
+La nomination des membres de la commission, à l'exception du président et du vice-président, est effectuée après consultation
+des organisations professionnelles ou syndicales les plus représentatives.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 4, v. init.
 
 
 ###### Article 211-102
@@ -40736,13 +40752,18 @@ ces équipements aux normes internationales ISO ;
 ###### Article 511-1
 
 Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
-animée, afin de soutenir la restauration et la numérisation des œuvres cinématographiques du patrimoine.
+animée afin de soutenir :
+
+1° Soit la restauration et la numérisation des œuvres cinématographiques du patrimoine ;
+
+2° Soit la numérisation des œuvres cinématographiques du patrimoine qui, dans le cadre d'un même projet, font l'objet, pour
+une œuvre déterminée, d'une demande d'aide sélective à la diffusion en vidéo physique ou en ligne, en haute définition.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 6, v. init.
 
 	**Cité par**:
 
@@ -41002,13 +41023,20 @@ Pour l'attribution d'une aide, l'entreprise ou l'organisme remet un dossier comp
 
 1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
 
-2° La liste des documents justificatifs figurant en annexe 1 du présent livre.
+2° La liste des documents justificatifs figurant en annexe 1 du présent livre. 
+
+Dans le cas prévu au 2° de l'article 511-1, ce dossier est complété par le dossier remis en application des articles 611-27
+et 612-30.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 6, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 511-1 (V)
 
 	**Cité par**:
 
@@ -41021,13 +41049,20 @@ Pour l'attribution d'une aide, l'entreprise ou l'organisme remet un dossier comp
 
 Avant de prendre une décision d'attribution d'une aide, le président du Centre national du cinéma et de l'image animée peut
 faire appel à des personnalités reconnues pour leur compétence en matière de conservation, de restauration et de valorisation
-du patrimoine cinématographique et en matière de technologies numériques.
+du patrimoine cinématographique et en matière de technologies numériques. 
+
+Toutefois, dans le cas prévu au 2° de l'article 511-1, la décision d'attribution de l'aide est prise après avis de la
+commission des aides à la numérisation et à la diffusion des œuvres cinématographiques du patrimoine.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 6, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 511-1 (V)
 
 
 ###### Article 511-13
@@ -41071,35 +41106,295 @@ valorisation du patrimoine cinématographique prévue au 5° de l'article L. 111
 	  - Code du cinéma et de l'image animée - art. L111-2 (V)
 
 
-### ANNEXES AU LIVRE V
+##### Sous-section 3 : Commission consultative
 
-###### Article Annexe 5-1
+###### Article 511-15
 
-Aides à la restauration et à la numérisation (article 511-11)
+La commission des aides à la numérisation et à la diffusion des œuvres cinématographiques du patrimoine est composée de dix
+membres dont un président, nommés pour une durée de deux ans renouvelable.
 
-Liste des documents justificatifs :
+Elle comprend :
 
-1° Le matériel de promotion de l'œuvre concernée accompagné d'une sélection des critiques à la sortie en salle ou lors des
-diffusions télévisuelles, d'une sélection d'articles de presse et de tout autre document utile pour l'évaluation du projet ;
+1° Cinq membres nommés pour leur compétence en matière de conservation, de restauration et de valorisation du patrimoine
+cinématographique et en matière de technologies numériques ;
 
-2° Le cas échéant, une copie de l'œuvre ;
-
-3° Le certificat d'immatriculation de l'œuvre au registre public du cinéma et de l'audiovisuel ;
-
-4° Toutes pièces permettant de juger de la titularité des droits par le demandeur (contrats passés avec les auteurs, contrat
-d'acquisition des droits d'exploitation de l'œuvre, etc.) ;
-
-5° Un extrait K bis de moins de 3 mois et un dernier état des statuts (pour la première demande seulement sauf en cas de
-modifications) ;
-
-6° Les attestations de comptes à jour auprès des organismes de protection sociale (URSSAF, Pôle Emploi, Congés Spectacles,
-Audiences, AFDAS).
+2° Cinq membres titulaires et deux suppléants nommés parmi les membres de la commission des aides à l'édition vidéographique.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 6, v. init.
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. 611-29 (V)
+	  - Code du cinéma et de l'image animée - art. 612-32 (V)
+
+
+#### Chapitre Ier : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine 
+
+##### Section unique : Aides financières sélectives 
+
+#### Chapitre II : Aides financières aux actions de préservation patrimoniale des œuvres cinématographiques
+
+##### Section unique : Aides financières automatiques
+
+###### Article 512-1
+
+Des aides financières sont attribuées sous forme automatique au sens de l'article D. 311-2 du code du cinéma et de l'image
+animée, afin de soutenir les actions de préservation patrimoniale des œuvres cinématographiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. D311-2 (V)
+
+
+##### Sous-section unique : Allocations directes
+
+
+
+
+
+
+###### Article 512-2
+
+Les aides financières automatiques aux actions de préservation patrimoniale des œuvres cinématographiques donnent lieu à
+l'attribution d'allocations directes au sens du 2° de l'article D. 311-2 du code du cinéma et de l'image animée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. D311-2 (V)
+
+
+###### Article 512-3
+
+L'attribution des allocations directes aux actions de préservation patrimoniale des œuvres cinématographiques est soumise aux
+dispositions du règlement n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles
+avec le marché intérieur en application des articles 107 et 108 du traité, notamment celles prévues par le chapitre Ier et
+l'article 53 de la section 11 relatif aux régimes d'aides en faveur de la culture et de la conservation du patrimoine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+
+##### Paragraphe 1 : Objet et conditions d'attribution
+
+###### Article 512-4
+
+Des allocations directes sont attribuées aux entreprises de production pour réaliser le transfert sur support photochimique
+d'œuvres cinématographiques de longue durée et d'œuvres cinématographiques de courte durée originellement fixées sur fichier
+numérique ou n'ayant pas donné lieu à l'établissement d'éléments de tirage et d'exploitation sur support photochimique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+
+###### Article 512-5
+
+Les entreprises de production répondent aux conditions générales d'admission au bénéfice des aides financières à la
+production des œuvres cinématographiques de longue durée ou des aides financières à la production des œuvres
+cinématographiques de courte durée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+
+###### Article 512-6
+
+Sont éligibles aux allocations directes les œuvres cinématographiques de longue durée qui répondent aux conditions
+suivantes :
+
+1° Etre "d'initiative française" ;
+
+2° Avoir donné lieu, entre le 1er septembre 2015 et le 31 décembre 2017, à la délivrance de l'agrément de production ;
+
+3° Avoir un coût définitif de production inférieur à 5 000 000 € hors taxes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+
+###### Article 512-7
+
+Sont éligibles aux allocations directes les œuvres cinématographiques de courte durée qui ont bénéficié, entre le 1er
+septembre 2015 et le 31 décembre 2017, d'une aide à la production avant réalisation, d'une aide au programme de production ou
+d'une aide financière à la création par l'utilisation des nouvelles technologies de l'image et du son.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+
+###### Article 512-8
+
+Le support photochimique est réalisé sous forme d'une copie positive de format 35 mm résultant d'un report optique stéréo et
+d'un négatif image créé à partir d'un imageur dédié au report d'images numériques sur copie de format 35 mm, à l'exclusion de
+toute reprise directe d'un écran ou d'un moniteur à l'aide d'une caméra de prise de vues.
+
+La copie positive réalisée présente des qualités techniques de nature à garantir l'intégralité et l'intégrité de l'œuvre.
+Elle est approuvée à ce titre par le réalisateur et, le cas échéant, par le chef opérateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+
+##### Paragraphe 2 : Procédure et modalités d'attribution
+
+
+###### Article 512-9
+
+Pour l'attribution d'une allocation directe, l'entreprise de production remet un dossier comprenant :
+
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
+
+2° La liste des documents justificatifs figurant en annexe 2 du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. Annexe 5-2 (V)
+
+
+###### Article 512-10
+
+Pour les œuvres cinématographiques de longue durée, le montant de l'allocation directe est fixé à :
+
+80 % des dépenses liées au transfert sur support photochimique pour les œuvres dont le coût définitif de production est
+inférieur à 1 000 000 € ;
+
+65 % des dépenses liées au transfert sur support photochimique pour les œuvres dont le coût définitif de production est égal
+ou supérieur à 1 000 000 € et inférieur à 4 000 000 € ;
+
+50 % des dépenses liées au transfert sur support photochimique pour les œuvres dont le coût définitif de production est égal
+ou supérieur à 4 000 000 € et inférieur à 5 000 000 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+
+###### Article 512-11
+
+Pour les œuvres cinématographiques de courte durée, le montant de l'allocation directe est fixé à 80 % des dépenses liées au
+transfert sur support photochimique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+
+###### Article 512-12
+
+Les dépenses liées au transfert sur support photochimique servant d'assiette au calcul du montant de l'allocation directe ne
+sont prises en compte qu'à concurrence de 250 € par minute produite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+
+### ANNEXES AU LIVRE V
+
+###### Article Annexe 5-1
+
+Aides à la restauration et à la numérisation (article 511-11) 
+
+Liste des documents justificatifs : 
+
+1° Le matériel de promotion de l'œuvre concernée accompagné d'une sélection des critiques à la sortie en salle ou lors des
+diffusions télévisuelles, d'une sélection d'articles de presse et de tout autre document utile pour l'évaluation du projet ; 
+
+2° Le cas échéant, une copie de l'œuvre ; 
+
+3° Le certificat d'immatriculation de l'œuvre au registre public du cinéma et de l'audiovisuel ; 
+
+4° Toutes pièces permettant de juger de la titularité des droits par le demandeur (contrats passés avec les auteurs, contrat
+d'acquisition des droits d'exploitation de l'œuvre, etc.) ; 
+
+5° Un extrait K bis de moins de 3 mois et un dernier état des statuts (pour la première demande seulement sauf en cas de
+modifications) ; 
+
+6° Les attestations de comptes à jour auprès des organismes de protection sociale (URSSAF, Pôle Emploi, Congés Spectacles,
+Audiences, AFDAS). 
+
+En outre, dans le cas prévu au 2° de l'article 511-1, le demandeur fournit l'accord conclu avec les personnes mentionnées aux
+articles 611-2 et 612-3 attestant du projet mené en commun.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 6, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 511-1 (V)
+	  - Code du cinéma et de l'image animée - art. 511-11 (V)
+	  - Code du cinéma et de l'image animée - art. 611-2 (V)
+	  - Code du cinéma et de l'image animée - art. 612-3 (V)
+
+
+###### Article Annexe 5-2
+
+Aides aux actions de préservation patrimoniale des œuvres cinématographiques (article 512-9) 
+
+Liste des documents justificatifs : 
+
+1° Les factures relatives aux travaux de transfert sur support photochimique ; 
+
+2° Le support photochimique réalisé, accompagné de la justification de l'approbation du réalisateur et, le cas échéant, du
+chef opérateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 512-9 (V)
 
 
 ## Livre VI : Soutien à la diffusion vidéographique et à l'innovation technologique
@@ -41485,23 +41780,34 @@ de ce délai, les éditeurs de vidéogrammes sont déchus de la faculté d'inves
 
 ###### Article 611-21
 
-Des aides financières sélectives sont attribuées, soit pour l'édition ou la réédition d'une œuvre cinématographique ou
-audiovisuelle déterminée, soit pour l'édition d'un programme comprenant entre 6 et 30 projets d'édition, indépendamment du
-nombre d'œuvres cinématographiques ou audiovisuelles par projet. Un programme peut inclure, à titre accessoire, des projets
-portant sur des œuvres cinématographiques ou audiovisuelles destinées, exclusivement ou non, à une exploitation sur des
-services de médias audiovisuels à la demande.
+Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
+animée afin de soutenir :
+
+1° Soit l'édition ou la réédition d'une œuvre cinématographique ou audiovisuelle déterminée ;
+
+2° Soit l'édition d'un programme comprenant entre 6 et 30 projets d'édition, indépendamment du nombre d'œuvres
+cinématographiques ou audiovisuelles par projet. Un programme peut inclure, à titre accessoire, des projets portant sur des
+œuvres cinématographiques ou audiovisuelles destinées, exclusivement ou non, à une exploitation sur des services de médias
+audiovisuels à la demande ;
+
+3° Soit l'édition en haute définition d'une œuvre cinématographique déterminée qui, dans le cadre d'un même projet, fait
+l'objet d'une demande d'aide sélective à la numérisation des œuvres cinématographiques du patrimoine.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 8, v. init.
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. 611-27 (V)
 	  - Code du cinéma et de l'image animée - art. 611-29 (V)
 	  - Code du cinéma et de l'image animée - art. Annexe 6-2 (V)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
 ###### Article 611-22
@@ -41594,18 +41900,24 @@ Pour l'attribution d'une aide à l'édition d'une œuvre déterminée, l'éditeu
 
 1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
 
-2° La liste des documents justificatifs figurant en annexe 2 du présent livre.
+2° La liste des documents justificatifs figurant en annexe 2 du présent livre. 
+
+Dans le cas prévu au 3° de l'article 611-21, ce dossier est joint à celui remis en application de l'article 511-11.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 8, v. init.
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. 511-11 (V)
 	  - Code du cinéma et de l'image animée - art. Annexe 6-2 (V)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 611-21 (V)
 
 
 ###### Article 611-28
@@ -41629,13 +41941,22 @@ Pour l'attribution d'une aide à l'édition d'un programme d'œuvres, l'éditeur
 
 ###### Article 611-29
 
-La décision d'attribution d'une aide est prise après avis de la commission des aides à l'édition vidéographique.
+La décision d'attribution d'une aide est prise après avis de la commission des aides à l'édition vidéographique. 
+
+Toutefois, dans le cas prévu au 3° de l'article 611-21, la décision d'attribution d'une aide est prise après avis de la
+commission des aides à la numérisation et à la diffusion des œuvres cinématographiques du patrimoine prévue à l'article
+511-15.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 8, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 511-15 (V)
+	  - Code du cinéma et de l'image animée - art. 611-21 (V)
 
 
 ###### Article 611-30
@@ -42131,19 +42452,30 @@ de la faculté d'investir ces sommes.
 
 ###### Article 612-23
 
-Des aides financières sélectives sont attribuées, soit pour la diffusion en ligne d'une œuvre cinématographique ou
-audiovisuelle déterminée, soit pour la diffusion en ligne d'un programme d'œuvres cinématographiques ou audiovisuelles.
+Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
+animée afin de soutenir :
+
+1° Soit la diffusion en ligne d'une œuvre cinématographique ou audiovisuelle déterminée ;
+
+2° Soit la diffusion en ligne d'un programme d'œuvres cinématographiques ou audiovisuelles ;
+
+3° Soit la diffusion en ligne en haute définition d'une œuvre cinématographique déterminée qui, dans le cadre d'un même
+projet, fait l'objet d'une demande d'aide sélective à la numérisation des œuvres cinématographiques du patrimoine.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 8, v. init.
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. 612-30 (V)
 	  - Code du cinéma et de l'image animée - art. 612-32 (V)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
 ###### Article 612-24
@@ -42271,18 +42603,24 @@ dossier comprenant :
 
 1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
 
-2° La liste des documents justificatifs figurant en annexe 5 du présent livre.
+2° La liste des documents justificatifs figurant en annexe 5 du présent livre. 
+
+Dans le cas prévu au 3° de l'article 612-23, ce dossier est joint à celui remis en application de l'article 511-11.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 8, v. init.
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. 511-11 (V)
 	  - Code du cinéma et de l'image animée - art. Annexe 6-5 (V)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 612-23 (V)
 
 
 ###### Article 612-31
@@ -42307,13 +42645,22 @@ la demande ou l'entreprise titulaire de droits remet un dossier comprenant :
 
 ###### Article 612-32
 
-La décision d'attribution d'une aide est prise après avis de la commission des aides à l'édition vidéographique.
+La décision d'attribution d'une aide est prise après avis de la commission des aides à l'édition vidéographique. 
+
+Toutefois, dans le cas prévu au 3° de l'article 612-23, la décision d'attribution d'une aide est prise après avis de la
+commission des aides à la numérisation et à la diffusion des œuvres cinématographiques du patrimoine prévue à l'article
+511-15.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 8, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 511-15 (V)
+	  - Code du cinéma et de l'image animée - art. 612-23 (V)
 
 
 ###### Article 612-33
@@ -43807,32 +44154,37 @@ l'acquisition des droits d'édition vidéo en cas de mandats groupés ;
 
 ###### Article Annexe 6-2
 
-Aides à l'édition d'une œuvre déterminée (article 611-27)
+Aides à l'édition d'une œuvre déterminée (article 611-27) 
 
-Liste des documents justificatifs :
+Liste des documents justificatifs : 
 
-1° Un budget détaillé ;
+1° Un budget détaillé ; 
 
-2° Un extrait K bis (pour la première demande seulement sauf en cas de modifications) ;
+2° Un extrait K bis (pour la première demande seulement sauf en cas de modifications) ; 
 
 3° Pour les œuvres cinématographiques, la justification de l'inscription au registre public du cinéma et de l'audiovisuel du
 contrat d'acquisition des droits d'édition vidéographique, ou, si l'éditeur est producteur du programme, du contrat entre le
-producteur et l'auteur faisant mention de la cession de ces droits ;
+producteur et l'auteur faisant mention de la cession de ces droits ; 
 
-4° La liste des œuvres précédemment éditées et aidées ;
+4° La liste des œuvres précédemment éditées et aidées ; 
 
-5° Le contrat de distribution vidéo, un accord ou une lettre d'intention du distributeur ;
+5° Le contrat de distribution vidéo, un accord ou une lettre d'intention du distributeur ; 
 
-6° Une copie vidéo de l'œuvre ;
+6° Un moyen de visionnage de l'œuvre (sauf dans le cas prévu au 3° de l'article 611-21) ; 
 
 7° Une attestation de comptes à jour auprès des organismes de protection sociale (URSSAF, Pôle Emploi, Congés Spectacles,
 Audiens, AFDAS).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 8, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 611-21 (V)
+	  - Code du cinéma et de l'image animée - art. 611-27 (V)
 
 
 ###### Article Annexe 6-3
@@ -43896,19 +44248,25 @@ de l'entreprise lorsque ce montant est inférieur à 100 000 €.
 
 ###### Article Annexe 6-5
 
-Aides à la diffusion en ligne d'une œuvre déterminée (article 612-30)
+Aides à la diffusion en ligne d'une œuvre déterminée (article 612-30) 
 
-Liste des documents justificatifs :
+Liste des documents justificatifs : 
 
-1° Un budget détaillé ;
+1° Un budget détaillé ; 
 
-2° Un extrait K bis (pour la première demande seulement sauf en cas de modifications).
+2° Un extrait K bis (pour la première demande seulement sauf en cas de modifications) ; 
+
+3° Le cas échéant, un moyen de visionnage de l'œuvre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 8, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 612-30 (V)
 
 
 ###### Article Annexe 6-6
@@ -44482,13 +44840,16 @@ italiennes, signée à Cannes le 21 mai 2013 ;
 le 19 mai 2014 ; 
 
 3° Convention relative au Fonds bilatéral d'aide à la production d'œuvres cinématographiques franco-portugaises, signée à
-Cannes le 20 mai 2014.
+Cannes le 20 mai 2014 ;
+
+4° Convention relative au fonds d'aide franco-allemand au codéveloppement de séries audiovisuelles de fiction, signée à
+Cannes le 18 mai 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 9, v. init.
 
 
 #### Chapitre II : Aides financières aux cinémas du monde 
