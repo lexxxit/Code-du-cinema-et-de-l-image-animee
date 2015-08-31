@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2015-08-09
+Version Consolidée au 2015-09-01
 
 # Partie législative
 
@@ -19543,6 +19543,43 @@ production. Elle est expressément désignée à cet effet au contrat de coprodu
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
+##### Sous-section 3 bis : Conditions relatives à la préservation du patrimoine cinématographique
+
+###### Article 211-15-1
+
+En contrepartie de l'attribution des aides à la production et à la préparation des œuvres cinématographiques de longue durée,
+les entreprises de production s'assurent de la préservation de ces œuvres pour en permettre une exploitation durable,
+cohérente avec leur vocation patrimoniale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 2, v. init.
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. 211-15-2 (V)
+
+
+###### Article 211-15-2
+
+La condition prévue à l'article 211-15-1 ne s'applique pas lorsque, dans le cadre d'une coproduction internationale,
+l'entreprise de production ne détient qu'une part minoritaire des droits de propriété sur l'œuvre cinématographique et qu'il
+existe dans le pays du coproducteur majoritaire une obligation de dépôt légal des œuvres cinématographiques ou une obligation
+en tenant lieu à laquelle il est soumis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 2, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 211-15-1 (V)
+
+
 ##### Sous-section 4 : Conditions relatives à l'intensité des aides
 
 ###### Article 211-16
@@ -27270,6 +27307,9 @@ télévision diffusés par voie hertzienne terrestre ;
 
 6° La déclaration annuelle des données sociales. 
 
+6° bis La justification des démarches effectuées et des moyens utilisés pour assurer la préservation patrimoniale de
+l'œuvre. 
+
 Lorsque l'agrément des investissements n'a pas été demandé, outre les documents ci-dessus : 
 
 7° Tous les contrats inscrits au registre public du cinéma et de l'audiovisuel (à l'exception des actes de nantissement
@@ -27281,10 +27321,11 @@ l'œuvre et de la chaîne des droits d'auteurs.
 	**Cite**:
 
 	  - Décret n°2010-747 du 2 juillet 2010 - art. 6 (V)
+	  - Code du cinéma et de l'image animée - art. 211-65 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 2, v. init.
 
 
 ###### Article Annexe 2-3
@@ -40745,7 +40786,7 @@ ces équipements aux normes internationales ISO ;
 
 ### Titre unique : Aides financières à la préservation et à la valorisation du patrimoine cinématographique
 
-#### Chapitre unique : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine 
+#### Chapitre Ier : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine 
 
 ##### Section unique : Aides financières sélectives 
 
@@ -41131,10 +41172,6 @@ cinématographique et en matière de technologies numériques ;
 	  - Code du cinéma et de l'image animée - art. 611-29 (V)
 	  - Code du cinéma et de l'image animée - art. 612-32 (V)
 
-
-#### Chapitre Ier : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine 
-
-##### Section unique : Aides financières sélectives 
 
 #### Chapitre II : Aides financières aux actions de préservation patrimoniale des œuvres cinématographiques
 

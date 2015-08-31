@@ -22,6 +22,9 @@ télévision diffusés par voie hertzienne terrestre ;
 
 6° La déclaration annuelle des données sociales. 
 
+6° bis La justification des démarches effectuées et des moyens utilisés pour assurer la préservation patrimoniale de
+l'œuvre. 
+
 Lorsque l'agrément des investissements n'a pas été demandé, outre les documents ci-dessus : 
 
 7° Tous les contrats inscrits au registre public du cinéma et de l'audiovisuel (à l'exception des actes de nantissement
@@ -33,7 +36,8 @@ l'œuvre et de la chaîne des droits d'auteurs.
 	**Cite**:
 
 	  - Décret n°2010-747 du 2 juillet 2010 - art. 6 (V)
+	  - Code du cinéma et de l'image animée - art. 211-65 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 2, v. init.
