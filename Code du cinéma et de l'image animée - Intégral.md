@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2015-10-21
+Version Consolidée au 2015-10-24
 
 # Partie législative
 
@@ -6218,7 +6218,7 @@ approbation ;
 7° Les conventions de mise à disposition des immeubles appartenant à l'Etat et nécessaires à l'exercice des missions prévues
 à l'article L. 111-2, conclues dans les conditions prévues aux articles R. 128-12 à R. 128-17 du code du domaine de l'Etat ; 
 
-8° Les emprunts, les prises, extensions et cessions de participation ; 
+8° Les emprunts dont le terme est inférieur à douze mois, les prises, extensions et cessions de participation ; 
 
 9° Les projets d'achats d'immeubles, de prises à bail, de ventes et de baux d'immeubles ; 
 
@@ -6230,31 +6230,26 @@ approbation ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2010-654 du 11 juin 2010 - art. 16 (Ab)
-	  - Décret n°2010-654 du 11 juin 2010 - art. 3, alinéas 1 à 12 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2014-794 du 9 juillet 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
+	  - Décret n°2015-1331 du 22 octobre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code du domaine de l'Etat - art. R128-12 (V)
-	  - Code du cinéma et de l'image animée - art. L111-2 (V)
-	  - Code du cinéma et de l'image animée - art. L114-2 (V)
+	  - Code du domaine de l'Etat - art. R128-12
+	  - Code du cinéma et de l'image animée - art. L111-2
+	  - Code du cinéma et de l'image animée - art. L114-2
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. 122-3 (V)
 	  - Code du cinéma et de l'image animée - art. A112-30 (V)
 	  - Code du cinéma et de l'image animée - art. D332-4 (V)
-	  - Code du cinéma et de l'image animée - art. R112-23 (M)
+	  - Code du cinéma et de l'image animée - art. R112-23 (V)
 	  - Code du cinéma et de l'image animée - art. R112-5 (V)
 	  - Code du cinéma et de l'image animée - art. R112-6 (V)
 
@@ -6745,7 +6740,8 @@ devenu vacant, à condition que la durée du mandat restant à courir soit supé
 
 ###### Article R112-23
 
-Le président du Centre national du cinéma et de l'image animée dirige l'établissement. A ce titre : 
+Le président du Centre national du cinéma et de l'image animée est nommé pour un mandat de trois ans renouvelable deux fois.
+Il dirige l'établissement. A ce titre : 
 
 1° Il prépare les délibérations du conseil d'administration et en assure l'exécution ; 
 
@@ -6772,17 +6768,13 @@ public ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2010-654 du 11 juin 2010 - art. 5 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2014-794 du 9 juillet 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
+	  - Décret n°2015-1331 du 22 octobre 2015 - art. 1
 
 	**Cité par**:
 
@@ -6794,7 +6786,7 @@ public ;
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L111-2 (V)
+	  - Code du cinéma et de l'image animée - art. L111-2
 	  - Code du cinéma et de l'image animée - art. R112-4 (V)
 
 
@@ -42950,8 +42942,6 @@ prises.
 	  - Code du cinéma et de l'image animée - art. 621-4 (V)
 
 
-##### Sous-section 3 : Commission consultative 
-
 ##### Sous-section 3 : Commissions consultatives 
 
 ###### Article 621-11
@@ -44947,7 +44937,7 @@ cinémas du monde.
 	  - Code du cinéma et de l'image animée - art. 723-1 (V)
 
 
-### Titre II : Aides financières à la promotion à l'étranger des œuvres cinématographiques et audiovisuelles 
+### Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles 
 
 #### Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques 
 
@@ -45772,12 +45762,6 @@ renouvelable.
 
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
-
-### Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles 
-
-#### Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques 
-
-#### Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles 
 
 #### Chapitre III : Aides financières aux cinémas du monde
 
