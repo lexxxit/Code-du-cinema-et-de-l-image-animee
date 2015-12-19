@@ -1,6 +1,6 @@
 # Article Annexe 2-19
 
-Aides au développement de projets (article 212-48) 
+Aides au développement de projets (article 212-55) 
 
 Liste des documents justificatifs : 
 
@@ -43,17 +43,22 @@ informer la commission sur les aspects artistiques du projet ;
 auteurs du scénario et de toute personne collaborant à l'écriture, avec la justification de leur inscription au registre
 public du cinéma et de l'audiovisuel ; 
 
-15° Le cas échéant, une copie des contrats de coproduction ou de co-développement ; 
+15° Pour l'attribution de l'allocation directe mentionnée au 1° de l'article 212-4, une copie des contrats de coproduction ou
+de co-développement ou une copie du mandat de présentation de la demande ; 
 
-16° Le cas échéant, une copie du contrat portant sur les droits de propriété littéraire et artistique du compositeur de
-musique originale.
+16° Pour l'attribution de l'allocation directe mentionnée au 3° de l'article 212-4, une copie du contrat portant sur les
+droits de propriété littéraire et artistique du compositeur de musique originale ; 
+
+17° Pour l'attribution de l'allocation directe mentionnée au 2° de l'article 212-4, le contrat d'achat de droit de diffusion
+relatif à une œuvre cinématographique de courte durée produite avec le réalisateur associé au projet présenté.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 6, v. init.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-48 (V)
+	  - Code du cinéma et de l'image animée - art. 212-55 (V)

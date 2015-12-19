@@ -1,6 +1,6 @@
 # Article Annexe 2-13
 
-Aides à la conception de projets (article 212-8) 
+Aides à la conception de projets (article 212-15) 
 
 Liste des documents justificatifs : 
 
@@ -18,10 +18,10 @@ Liste des documents justificatifs :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-8 (V)
+	  - Code du cinéma et de l'image animée - art. 212-8

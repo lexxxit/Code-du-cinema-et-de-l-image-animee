@@ -161,7 +161,11 @@ ci manifestent expressément leur engagement financier ;
 13° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
 justification de son inscription au registre public du cinéma et de l'audiovisuel ; 
 
-14° Toute pièce justificative d'un financement public ou privé. 
+14° Toute pièce justificative d'un financement public ou privé ;
+
+15° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une
+note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts
+en intégrant leur bibliographie sur le sujet traité. 
 
 IV.-Adaptation audiovisuelle de spectacle vivant : 
 
@@ -179,9 +183,11 @@ IV.-Adaptation audiovisuelle de spectacle vivant :
 
 7° Les contrats de production audiovisuelle conclus avec les auteurs et le réalisateur ; 
 
-8° Les contrats de cession des droits à l'image et d'interprétation des artistes-interprètes ; 
+8° Les contrats de cession des droits à l'image et d'interprétation des artistes-interprètes, ou un accord écrit des ayants
+droit  ; 
 
-9° Les contrats conclus avec les ayants-droit du spectacle objet de l'œuvre audiovisuelle ; 
+9° Les contrats conclus avec les ayants-droit du spectacle objet de l'œuvre audiovisuelle, ou un accord écrit des ayants
+droit  ; 
 
 10° Le devis de production détaillé faisant apparaître : 
 
@@ -206,6 +212,9 @@ que la justification de son inscription au registre public du cinéma et de l'au
 Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le
 dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle
 celui-ci manifeste expressément son engagement financier et la nature de celui-ci ; 
+
+14° bis Tout contrat d'achat de droits de diffusion conclu avec un ou plusieurs éditeurs de services de télévision établis à
+l'étranger ; 
 
 15° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la
 demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production
@@ -278,9 +287,9 @@ justification de son inscription au registre public du cinéma et de l'audiovisu
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 33, v. init.
 
 	**Cite**:
 

@@ -1,6 +1,6 @@
 # Article Annexe 2-17
 
-Aides à la réécriture (article 212-35) 
+Aides à la réécriture (article 212-42) 
 
 Liste des documents justificatifs : 
 
@@ -37,10 +37,10 @@ auteurs, y compris, le cas échéant, du ou des auteurs de l'œuvre originaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-35 (V)
+	  - Code du cinéma et de l'image animée - art. 212-35

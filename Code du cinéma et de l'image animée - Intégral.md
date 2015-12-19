@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2015-11-01
+Version Consolidée au 2015-12-20
 
 # Partie législative
 
@@ -22225,57 +22225,160 @@ deux ans renouvelable.
 
 #### Chapitre II : Aides financières à l'élaboration et au développement de projets d'œuvres cinématographiques de longue durée 
 
-##### Section 1 : Aides financières sélectives 
+##### Section 1 : Aides financières automatiques
 
 ###### Article 212-1
 
-Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
-animée, afin de soutenir l'élaboration et le développement de projets d'œuvres cinématographiques de longue durée.
+Des aides financières sont attribuées sous forme automatique afin de soutenir le développement de projets d'œuvres
+cinématographiques de longue durée.
+
+Ces aides donnent lieu à l'attribution d'allocations directes au sens du 2° de l'article D. 311-2 du code du cinéma et de
+l'image animée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 212-8 (V)
-
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. D311-3 (V)
+	  - Code du cinéma et de l'image animée - art. D311-2
 
+
+##### Sous-section unique : Allocations directes
+
+##### Paragraphe unique : Allocations directes pour le développement de projets
+
+##### Sous-Paragraphe 1 : Objet et conditions d'attribution
+
+###### Article 212-2
+
+Les allocations directes pour le développement de projets sont attribuées en complément des aides sélectives attribuées en
+application de l'article 212-49 dont elles constituent l'accessoire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
+
+
+###### Article 212-3
+
+Des allocations directes sont attribuées en vue de contribuer au financement des dépenses de développement autres que les
+dépenses d'écriture, de réécriture, d'achats de droits et, pour les œuvres appartenant au genre animation, de travaux de
+création graphique.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
+
+
+###### Article 212-4
+
+Des allocations directes, cumulables entre elles, sont attribuées lorsque le projet d'œuvre répond aux conditions suivantes :
+
+1° Le projet est développé en commun par au moins deux entreprises de production répondant chacune aux conditions prévues aux
+articles 212-50 et 212-51 ;
+
+2° Le projet associe un réalisateur n'ayant jamais réalisé d'œuvre cinématographique de longue durée et une entreprise de
+production ayant produit au plus deux œuvres cinématographiques de longue durée pour lesquelles l'agrément des
+investissements ou, lorsque celui-ci n'est pas demandé, l'agrément de production a été délivré.
+
+Le réalisateur et l'entreprise de production ont produit et réalisé ensemble, dans les trois ans qui précèdent la demande
+d'aide, au moins une œuvre cinématographique de courte durée ayant fait l'objet d'un contrat d'achat de droits de diffusion
+conclu avec un éditeur de services de télévision ou ayant été sélectionné dans un festival mentionné sur la liste prévue à
+l'article 212-21 ;
+
+3° Le projet inclut la création d'une musique originale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. 212-58 (V)
+
+
+###### Article 212-5
+
+Un même projet ne peut simultanément faire l'objet de l'allocation directe prévue à l'article 212-3 et d'une ou plusieurs
+allocations directes prévues à l'article 212-4.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
+
+
+##### Sous-Paragraphe 2 : Procédure et modalités d'attribution
+
+
+###### Article 212-6
+
+Le montant de l'allocation directe attribuée en application de l'article 212-3 est égal à 20 % du montant de l'aide sélective
+attribuée.
+
+Le montant de l'allocation directe attribuée en application du 1° de l'article 212-4 est égal à 40 % du montant de l'aide
+sélective attribuée.
+
+Le montant de l'allocation directe attribuée en application du 2° de l'article 212-4 est égal à 100 % du montant de l'aide
+sélective attribuée.
+
+Le montant de l'allocation directe attribuée en application du 3° de l'article 212-4 est égal à 40 % du montant de l'aide
+sélective attribuée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
+
+
+###### Article 212-7
+
+Les allocations directes sont attribuées sous forme de subvention.
+
+Les modalités de versement et de reversement des allocations directes sont fixées par la convention prévue à l'article
+212-59.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
+
+
+##### Section 1 : Aides financières sélectives 
 
 ##### Sous-section 1 : Aides à la conception de projets 
 
 ##### Paragraphe 1 : Objet et conditions d'attribution 
 
-###### Article 212-2
+###### Article 212-9
 
 Des aides financières sélectives sont attribuées aux auteurs pour l'écriture d'un synopsis détaillé ou d'un traitement d'une
 œuvre cinématographique de longue durée appartenant au genre fiction et au genre animation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-9 (V)
+	  - Code du cinéma et de l'image animée - art. 212-2 (T)
 
 
-###### Article 212-3
+###### Article 212-10
 
 Pour être admis au bénéfice des aides à la conception de projets, les auteurs sont soit de nationalité française, soit
 ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen,
@@ -22289,20 +22392,16 @@ document équivalent délivré par un Etat membre de l'Union européenne ou un a
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-10 (V)
+	  - Code du cinéma et de l'image animée - art. 212-3 (T)
 
 
-###### Article 212-4
+###### Article 212-11
 
 Les auteurs doivent avoir précédemment collaboré à la réalisation d'au moins une œuvre cinématographique de fiction ou
 d'animation répondant aux conditions suivantes : 
@@ -22318,24 +22417,16 @@ clair.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-11 (M)
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. 212-58 (V)
+	  - Code du cinéma et de l'image animée - art. 212-4 (T)
 
 
-###### Article 212-5
+###### Article 212-12
 
 Sont éligibles aux aides à la conception de projets les projets conçus pour des œuvres destinées à être réalisées
 intégralement ou principalement en version originale en langue française ou dans une langue régionale en usage en France. 
@@ -22345,39 +22436,31 @@ dans la langue du livret ou de projets d'œuvres d'animation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-12 (V)
+	  - Code du cinéma et de l'image animée - art. 212-5 (T)
 
 
-###### Article 212-6
+###### Article 212-13
 
 Les aides à la conception de projets ne peuvent être cumulées avec les aides à l'écriture de scénario.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-13 (V)
+	  - Code du cinéma et de l'image animée - art. 212-6 (T)
 
 
-###### Article 212-7
+###### Article 212-14
 
 Le bénéfice des aides à la conception de projets est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission du
 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux
@@ -22385,22 +22468,22 @@ aides de minimis.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-14 (V)
+	  - Code du cinéma et de l'image animée - art. 212-7 (T)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. Annexe 2-14 (V)
 
 
 ##### Paragraphe 2 : Procédure et modalités d'attribution 
 
-###### Article 212-8
+###### Article 212-15
 
 Pour l'attribution d'une aide, l'auteur remet un dossier comprenant : 
 
@@ -22410,43 +22493,31 @@ Pour l'attribution d'une aide, l'auteur remet un dossier comprenant :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-15 (V)
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. Annexe 2-13 (V)
+	  - Code du cinéma et de l'image animée - art. 212-8 (T)
 
 
-###### Article 212-9
+###### Article 212-16
 
 Le montant de l'aide ne peut excéder 10 000 € par projet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-16 (V)
+	  - Code du cinéma et de l'image animée - art. 212-9 (T)
 
 
-###### Article 212-10
+###### Article 212-17
 
 L'aide est attribuée sous forme de subvention. 
 
@@ -22459,64 +22530,56 @@ de l'aide.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-17 (V)
+	  - Code du cinéma et de l'image animée - art. 212-10 (T)
 
 
 ##### Sous-section 2 : Aides à l'écriture de scénario 
 
 ##### Paragraphe 1 : Objet et conditions d'attribution 
 
-###### Article 212-11
+###### Article 212-18
 
 Des aides financières sélectives sont attribuées aux auteurs pour l'écriture du scénario d'une œuvre cinématographique de
 longue durée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-18 (V)
+	  - Code du cinéma et de l'image animée - art. 212-11 (T)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. Annexe 2-15 (V)
 
 
-###### Article 212-12
+###### Article 212-19
 
 Les aides à l'écriture de scénario sont destinées à des projets présentés sous la forme de synopsis développé ou de
 traitement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-19 (V)
+	  - Code du cinéma et de l'image animée - art. 212-12 (T)
 
 
-###### Article 212-13
+###### Article 212-20
 
 Pour être admis au bénéfice des aides à l'écriture de scénario, les auteurs sont soit de nationalité française, soit
 ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen,
@@ -22530,20 +22593,16 @@ document équivalent délivré par un Etat membre de l'Union européenne ou un a
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-20 (V)
+	  - Code du cinéma et de l'image animée - art. 212-13 (T)
 
 
-###### Article 212-14
+###### Article 212-21
 
 Pour l'attribution des aides à l'écriture de scénario, les auteurs doivent, selon les cas : 
 
@@ -22566,44 +22625,36 @@ moins une œuvre cinématographique de longue durée représentée en salles de 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-21 (V)
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. Annexe 2-14 (V)
+	  - Code du cinéma et de l'image animée - art. 212-14 (T)
 
 
-###### Article 212-15
+###### Article 212-22
 
 Les aides à l'écriture de scénario peuvent également bénéficier aux collaborateurs des auteurs chargés d'apporter leur
 concours pour l'élaboration du travail d'écriture.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-22 (V)
+	  - Code du cinéma et de l'image animée - art. 212-15 (T)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. Annexe 2-16 (V)
 
 
-###### Article 212-16
+###### Article 212-23
 
 Sont éligibles aux aides à l'écriture de scénario les projets conçus pour des œuvres destinées à être réalisées intégralement
 ou principalement en version originale en langue française ou dans une langue régionale en usage en France. 
@@ -22614,42 +22665,34 @@ traité ou de projets d'œuvres d'animation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-23 (V)
+	  - Code du cinéma et de l'image animée - art. 212-16 (T)
 
 
-###### Article 212-17
+###### Article 212-24
 
 Un même projet ne peut, pour les mêmes dépenses, bénéficier à la fois des aides à l'écriture de scénario et d'autres aides
 attribuées par le Centre national du cinéma et de l'image animée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-24 (V)
+	  - Code du cinéma et de l'image animée - art. 212-17 (T)
 
 
 ##### Paragraphe 2 : Procédure et modalités d'attribution 
 
-###### Article 212-18
+###### Article 212-25
 
 Pour l'attribution d'une aide, l'auteur remet un dossier comprenant : 
 
@@ -22659,24 +22702,16 @@ Pour l'attribution d'une aide, l'auteur remet un dossier comprenant :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-25 (V)
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. Annexe 2-15 (V)
+	  - Code du cinéma et de l'image animée - art. 212-18 (T)
 
 
-###### Article 212-19
+###### Article 212-26
 
 La décision d'attribution d'une aide est prise après avis de la commission des aides à l'écriture et à la réécriture de
 scénario. Toutefois, sont seuls soumis à l'avis de la commission les projets qui n'ont pas fait l'objet d'une décision de
@@ -22684,39 +22719,31 @@ refus à l'issue d'une sélection préalable effectuée par des comités de lect
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-26 (V)
+	  - Code du cinéma et de l'image animée - art. 212-19 (T)
 
 
-###### Article 212-20
+###### Article 212-27
 
 Lorsque la commission émet un avis favorable, elle propose le principe de l'attribution d'une aide.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-27 (V)
+	  - Code du cinéma et de l'image animée - art. 212-20 (T)
 
 
-###### Article 212-21
+###### Article 212-28
 
 La décision d'attribution à titre définitif est prise après fixation du montant de l'aide sur proposition d'un comité de
 chiffrage composé du président et du vice-président de la commission et de représentants du Centre national du cinéma et de
@@ -22724,20 +22751,20 @@ l'image animée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-28 (V)
+	  - Code de commerce - art. L233-3
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 212-21 (T)
 
 
-###### Article 212-22
+###### Article 212-29
 
 Pour l'obtention de la décision d'attribution à titre définitif, l'auteur remet un dossier comprenant : 
 
@@ -22747,43 +22774,31 @@ Pour l'obtention de la décision d'attribution à titre définitif, l'auteur rem
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-29 (V)
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. Annexe 2-16 (V)
+	  - Code du cinéma et de l'image animée - art. 212-22 (T)
 
 
-###### Article 212-23
+###### Article 212-30
 
 Le montant maximum de l'aide est fixé à 30 000 € dont 20 000 € maximum pour l'auteur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-30 (V)
+	  - Code du cinéma et de l'image animée - art. 212-23 (T)
 
 
-###### Article 212-24
+###### Article 212-31
 
 L'aide est attribuée sous forme de subvention. 
 
@@ -22798,64 +22813,52 @@ reversée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-31 (V)
+	  - Code du cinéma et de l'image animée - art. 212-24 (T)
 
 
 ##### Sous-section 3 : Aides à la réécriture de scénario 
 
 ##### Paragraphe 1 : Objet et conditions d'attribution 
 
-###### Article 212-25
+###### Article 212-32
 
 Des aides financières sélectives sont attribuées aux auteurs et aux entreprises de production pour la réécriture du scénario
 d'une œuvre cinématographique de longue durée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-32 (V)
+	  - Code du cinéma et de l'image animée - art. 212-25 (T)
 
 
-###### Article 212-26
+###### Article 212-33
 
 Les aides à la réécriture de scénario sont destinées à des projets présentés sous la forme d'une continuité dialoguée pour
 lesquels un travail complémentaire d'écriture est nécessaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-33 (V)
+	  - Code du cinéma et de l'image animée - art. 212-26 (T)
 
 
-###### Article 212-27
+###### Article 212-34
 
 Pour être admis au bénéfice des aides à la réécriture de scénario, les auteurs sont soit de nationalité française, soit
 ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen,
@@ -22869,20 +22872,16 @@ document équivalent délivré par un Etat membre de l'Union européenne ou un a
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-34 (V)
+	  - Code du cinéma et de l'image animée - art. 212-27 (T)
 
 
-###### Article 212-28
+###### Article 212-35
 
 Pour être admises au bénéfice des aides à la réécriture de scénario, les entreprises de production répondent aux conditions
 suivantes : 
@@ -22910,24 +22909,20 @@ morales ressortissantes d'Etats autres que les Etats européens mentionnés au 2
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code de commerce - art. L233-3 (M)
+	  - Code du cinéma et de l'image animée - art. 212-28 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code du cinéma et de l'image animée - art. 212-35 (V)
+	  - Code du cinéma et de l'image animée - art. Annexe 2-17 (V)
 
 
-###### Article 212-29
+###### Article 212-36
 
 Pour l'attribution des aides à la réécriture de scénario, les auteurs doivent, selon les cas : 
 
@@ -22939,20 +22934,16 @@ moins une œuvre cinématographique de longue durée représentée en salles de 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-36 (V)
+	  - Code du cinéma et de l'image animée - art. 212-29 (T)
 
 
-###### Article 212-30
+###### Article 212-37
 
 Pour l'attribution des aides à la réécriture de scénario, les entreprises de production doivent, selon les cas : 
 
@@ -22964,40 +22955,32 @@ représentée en salles de spectacles cinématographiques.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-37 (V)
+	  - Code du cinéma et de l'image animée - art. 212-30 (T)
 
 
-###### Article 212-31
+###### Article 212-38
 
 Les aides à la réécriture de scénario peuvent également bénéficier aux collaborateurs des auteurs chargés d'apporter leur
 concours pour l'élaboration du travail de réécriture.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-38 (V)
+	  - Code du cinéma et de l'image animée - art. 212-31 (T)
 
 
-###### Article 212-32
+###### Article 212-39
 
 Sont éligibles aux aides à la réécriture de scénario les projets conçus pour des œuvres destinées à être réalisées
 intégralement ou principalement en version originale en langue française ou dans une langue régionale en usage en France. 
@@ -23008,61 +22991,53 @@ traité ou de projets d'œuvres d'animation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-39 (V)
+	  - Code du cinéma et de l'image animée - art. 212-32 (T)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. Annexe 2-18 (V)
 
 
-###### Article 212-33
+###### Article 212-40
 
 Un projet ayant bénéficié d'une aide à l'écriture de scénario ne peut bénéficier d'une aide à la réécriture de scénario.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-40 (V)
+	  - Code du cinéma et de l'image animée - art. 212-33 (T)
 
 
-###### Article 212-34
+###### Article 212-41
 
 Un même projet ne peut, pour les mêmes dépenses, bénéficier à la fois des aides à la réécriture de scénario et d'autres aides
 attribuées par le Centre national du cinéma et de l'image animée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-41 (V)
+	  - Code du cinéma et de l'image animée - art. 212-34 (T)
 
 
 ##### Paragraphe 2 : Procédure et modalités d'attribution 
 
-###### Article 212-35
+###### Article 212-42
 
 Pour l'attribution d'une aide, l'auteur ou l'entreprise de production remet un dossier comprenant : 
 
@@ -23072,24 +23047,16 @@ Pour l'attribution d'une aide, l'auteur ou l'entreprise de production remet un d
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-42 (V)
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. Annexe 2-17 (V)
+	  - Code du cinéma et de l'image animée - art. 212-35 (T)
 
 
-###### Article 212-36
+###### Article 212-43
 
 La décision d'attribution d'une aide est prise après avis de la commission des aides à l'écriture et à la réécriture de
 scénario. Toutefois, sont seuls soumis à l'avis de la commission les projets qui n'ont pas fait l'objet d'une décision de
@@ -23097,39 +23064,35 @@ refus à l'issue d'une sélection préalable effectuée par des comités de lect
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-43 (V)
+	  - Code de commerce - art. L233-3
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 212-36 (T)
 
 
-###### Article 212-37
+###### Article 212-44
 
 Lorsque la commission émet un avis favorable, elle propose le principe de l'attribution d'une aide.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-44 (V)
+	  - Code du cinéma et de l'image animée - art. 212-37 (T)
 
 
-###### Article 212-38
+###### Article 212-45
 
 La décision d'attribution à titre définitif est prise après fixation du montant de l'aide sur proposition d'un comité de
 chiffrage composé du président et du vice-président de la commission et de représentants du Centre national du cinéma et de
@@ -23137,20 +23100,16 @@ l'image animée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-45 (V)
+	  - Code du cinéma et de l'image animée - art. 212-38 (T)
 
 
-###### Article 212-39
+###### Article 212-46
 
 Pour l'obtention de la décision d'attribution à titre définitif, l'auteur ou l'entreprise de production remet un dossier
 comprenant : 
@@ -23161,43 +23120,31 @@ comprenant :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-46 (V)
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. Annexe 2-18 (V)
+	  - Code du cinéma et de l'image animée - art. 212-39 (T)
 
 
-###### Article 212-40
+###### Article 212-47
 
 Le montant maximum de l'aide est fixé à 21 000 € dont 9 000 € maximum pour l'auteur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-47 (V)
+	  - Code du cinéma et de l'image animée - art. 212-40 (T)
 
 
-###### Article 212-41
+###### Article 212-48
 
 L'aide est attribuée sous forme de subvention. 
 
@@ -23212,17 +23159,17 @@ déjà versée est reversée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-48 (V)
+	  - Code du cinéma et de l'image animée - art. 212-41 (T)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. Annexe 2-19 (M)
 
 
 ##### Sous-section 4 : Aides au développement de projets 
@@ -23231,27 +23178,23 @@ déjà versée est reversée.
 
 ##### Paragraphe 1 : Objet et conditions d'attribution 
 
-###### Article 212-42
+###### Article 212-49
 
 Des aides financières sélectives sont attribuées aux entreprises de production pour le développement de projets d'œuvres
 cinématographiques de longue durée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-49 (V)
+	  - Code du cinéma et de l'image animée - art. 212-42 (T)
 
 
-###### Article 212-43
+###### Article 212-50
 
 Pour être admises au bénéfice des aides au développement de projets, les entreprises de production répondent aux conditions
 suivantes : 
@@ -23279,24 +23222,16 @@ morales ressortissantes d'Etats autres que les Etats européens mentionnés au 2
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code de commerce - art. L233-3 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 212-50 (V)
+	  - Code du cinéma et de l'image animée - art. 212-43 (T)
 
 
-###### Article 212-44
+###### Article 212-51
 
 Les entreprises de production qui ont déjà produit, en qualité d'entreprises de production déléguée, au cours des quatre
 années précédant la demande, au moins trois œuvres cinématographiques de longue durée d'initiative française ayant donné lieu
@@ -23311,20 +23246,20 @@ pas remplie, il peut être tenu compte du fait que les dirigeants des entreprise
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-51 (V)
+	  - Code du cinéma et de l'image animée - art. 212-44 (T)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. 212-52 (V)
 
 
-###### Article 212-45
+###### Article 212-52
 
 Sont éligibles aux aides au développement de projets les projets conçus pour des œuvres destinées à être réalisées
 intégralement ou principalement en version originale en langue française ou dans une langue régionale en usage en France. 
@@ -23335,20 +23270,20 @@ traité ou de projets d'œuvres d'animation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-52 (V)
+	  - Code du cinéma et de l'image animée - art. 212-45 (T)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 212-51
 
 
-###### Article 212-46
+###### Article 212-53
 
 Les aides au développement de projets sont attribuées en considération, d'une part, de la qualité des projets, de leur
 ambition artistique, ainsi que de leur viabilité, et, d'autre part, de l'expérience et des résultats des entreprises de
@@ -23356,20 +23291,16 @@ production, ainsi que de leur démarche et de leur engagement à l'égard du dé
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-53 (V)
+	  - Code du cinéma et de l'image animée - art. 212-46 (T)
 
 
-###### Article 212-47
+###### Article 212-54
 
 Un projet ayant bénéficié d'une aide au développement ne peut bénéficier d'une aide à la réécriture de scénario. 
 
@@ -23378,22 +23309,18 @@ demande d'aide à la production avant réalisation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-54 (V)
+	  - Code du cinéma et de l'image animée - art. 212-47 (T)
 
 
 ##### Paragraphe 2 : Procédure et modalités d'attribution 
 
-###### Article 212-48
+###### Article 212-55
 
 Pour l'attribution d'une aide, l'entreprise de production remet un dossier comprenant : 
 
@@ -23403,138 +23330,115 @@ Pour l'attribution d'une aide, l'entreprise de production remet un dossier compr
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 212-55 (V)
-
 	**Cité par**:
 
-	  - Code du cinéma et de l'image animée - art. Annexe 2-19 (M)
+	  - Code de la sécurité sociale. - art. D311-1 (V)
+	  - Code du cinéma et de l'image animée - art. Annexe 2-19 (V)
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 212-48 (T)
 
 
-###### Article 212-49
+###### Article 212-56
 
 La décision d'attribution d'une aide est prise après avis de la commission des aides au développement de projets.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-56 (V)
+	  - Code du cinéma et de l'image animée - art. 212-49 (T)
 
 
-###### Article 212-50
+###### Article 212-57
 
-Le montant de l'aide ne peut excéder 50 % des dépenses d'écriture, de réécriture et d'achat de droits, dans la limite de 70
-000 €. 
-
-Toutefois, ce montant peut, au titre des autres dépenses de développement, être augmenté dans la limite de 20 %.
+Le montant de l'aide ne peut excéder 50 % des dépenses d'écriture, de réécriture, d'achats de droits et, pour les œuvres
+appartenant au genre animation, de travaux de création graphique, dans la limite de 70 000 €.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code du cinéma et de l'image animée - art. 212-57 (V)
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 212-50 (T)
 
 
-###### Article 212-51
+###### Article 212-58
 
-Font l'objet d'une attention particulière, notamment quant au montant de l'aide attribuée et, le cas échéant, peuvent donner
-lieu à l'attribution d'une aide complémentaire spécifique : 
-
-1° Les projets présentés conjointement par deux entreprises de production en vue du développement en commun de chacun de
-leurs projets respectifs dans la limite de deux par demande ; 
-
-2° Les projets qui associent, pour leur première œuvre cinématographique de longue durée, une entreprise de production et un
-réalisateur qui ont précédemment produit et réalisé ensemble au moins une œuvre cinématographique de courte durée ; 
-
-3° Les projets incluant la création d'une musique originale.
+Lorsque le projet est éligible aux allocations directes prévues au 1° de l'article 212-4, la demande d'aide est présentée par
+l'entreprise de production dont la participation au codéveloppement est majoritaire ou, lorsque les participations sont
+égales, par l'entreprise de production mandatée à cet effet.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code du cinéma et de l'image animée - art. 212-52 (V)
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 4, v. init.
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-58 (V)
+	  - Code du cinéma et de l'image animée - art. 212-4 (V)
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 212-51 (T)
 
 
-###### Article 212-52
+###### Article 212-59
 
-L'aide est attribuée sous forme d'avance. L'aide complémentaire spécifique mentionnée à l'article 212-51 est attribuée sous
-forme de subvention. 
+L'aide est attribuée sous forme d'avance. 
 
 L'aide fait l'objet d'une convention conclue avec l'entreprise de production au vu des justificatifs de dépenses. Cette
 convention fixe notamment les modalités de versement et de remboursement de l'aide ainsi que les circonstances dans
 lesquelles celle-ci donne lieu à reversement. 
 
 Lorsque le projet est mis en production, le remboursement de l'aide est effectué à hauteur de 50 % au premier jour de
-tournage et à hauteur de 50 % lors de la sortie en salles de spectacles cinématographiques. Lorsque le projet n'est pas mis
-en production à l'issue d'un délai de trois ans après la date de signature de la convention, le remboursement de l'aide n'est
-exigé que si l'entreprise de production demande ultérieurement l'attribution d'une nouvelle aide. Dans ce dernier cas, le
-remboursement est effectué à hauteur de 25 %. 
+tournage et à hauteur de 50 % lors de la sortie en salles de spectacles cinématographiques. 
 
-Lorsqu'une subvention est attribuée en complément d'une avance, la convention fixe les modalités de son versement et les
-circonstances dans lesquelles elle donne lieu à reversement.
+Lorsque le projet n'est pas mis en production à l'issue d'un délai de trois ans après la date de signature de la convention,
+le remboursement de l'aide n'est exigé que si l'entreprise de production demande ultérieurement l'attribution d'une nouvelle
+aide. Dans ce dernier cas, le remboursement est effectué à hauteur de 25 %.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du cinéma et de l'image animée - art. 212-51 (V)
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 5, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-59 (V)
+	  - Code du cinéma et de l'image animée - art. 212-52 (T)
 
 
 ##### Sous-section 5 : Commissions consultatives 
 
 ##### Paragraphe 1 : Commission des aides à l'écriture et à la réécriture de scénario 
 
-###### Article 212-53
+###### Article 212-60
 
 La commission des aides à l'écriture et à la réécriture de scénario est composée de dix-sept membres, dont un président et
 deux vice-présidents, nommés pour une durée d'un an renouvelable à compter du 1er septembre de chaque année.
@@ -23543,18 +23447,14 @@ deux vice-présidents, nommés pour une durée d'un an renouvelable à compter d
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-60 (V)
+	  - Code du cinéma et de l'image animée - art. 212-53 (T)
 
 
-###### Article 212-54
+###### Article 212-61
 
 La commission est formée de deux collèges siégeant séparément. 
 
@@ -23568,18 +23468,14 @@ demandes d'aide à l'écriture et à la réécriture des autres scénarios d'œu
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-61 (V)
+	  - Code du cinéma et de l'image animée - art. 212-54 (T)
 
 
-###### Article 212-55
+###### Article 212-62
 
 Les comités de lecture chargés de la sélection des projets sont constitués du président de la commission, du vice-président
 du collège compétent, de deux membres titulaires de ce collège, ainsi que de quatre lecteurs choisis sur une liste établie
@@ -23590,25 +23486,16 @@ chaque comité sont fixés par le secrétariat de la commission.
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code de la sécurité sociale. - art. D311-1 (V)
-	  - Code du cinéma et de l'image animée - art. Annexe 2-19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 212-62 (V)
+	  - Code du cinéma et de l'image animée - art. 212-55 (T)
 
 
 ##### Paragraphe 2 : Commission des aides au développement de projets 
 
-###### Article 212-56
+###### Article 212-63
 
 La commission des aides au développement de projets est composée de cinq membres, dont un président, nommés pour une durée
 d'un an renouvelable.
@@ -23617,16 +23504,46 @@ d'un an renouvelable.
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Transféré par**:
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 212-56 (T)
+
+
+##### Section 2 : Aides financières sélectives
+
+###### Article 212-8
+
+Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
+animée, afin de soutenir l'élaboration et le développement de projets d'œuvres cinématographiques de longue durée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
 
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 212-63 (V)
+	  - Code du cinéma et de l'image animée - art. 212-1 (T)
 
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. Annexe 2-13 (V)
+
+
+##### Sous-section 1 : Aides à la conception de projets 
+
+##### Sous-section 2 : Aides à l'écriture de scénario 
+
+##### Sous-section 3 : Aides à la réécriture de scénario 
+
+##### Sous-section 4 : Aides au développement de projets 
+
+
+
+##### Sous-section 5 : Commissions consultatives 
 
 ### Titre II : Aides financières à la distribution cinématographique 
 
@@ -23680,13 +23597,13 @@ qu'au moment du versement de l'aide ;
 
 2° Etre constituées sous forme de société commerciale et avoir un capital social en numéraire entièrement libéré d'un montant
 minimal de 15 000 €. Le respect de la condition relative au montant du capital social est vérifié lors de la première demande
-d'aide financière automatique.
+d'aide financière.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 7, v. init.
 
 
 ##### Sous-section 2 : Conditions relatives à l'intensité des aides 
@@ -26563,7 +26480,10 @@ cinématographiques ;
 10° La mise en conformité avec les règles d'hygiène et de sécurité et avec les règles d'urbanisme ; 
 
 11° La construction d'aires de stationnement et l'amélioration des accès aux établissements de spectacles
-cinématographiques. 
+cinématographiques ;
+
+12° L'aménagement des bâtiments ainsi que l'achat, le remplacement, l'installation et la maintenance d'équipements, en vue
+d'assurer ou de renforcer la sécurité des personnes et des biens. 
 
 Sont exclus des travaux et investissements ceux réalisés dans le but de générer des recettes annexes à celles de l'activité
 principale de projection d'œuvres cinématographiques. 
@@ -26573,9 +26493,9 @@ spectacles cinématographiques ou de ses dépendances.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 8, v. init.
 
 	**Cité par**:
 
@@ -27704,7 +27624,7 @@ qualification européenne et les fiches n° 6 à 11 du formulaire relatif à la 
 
 ###### Article Annexe 2-13
 
-Aides à la conception de projets (article 212-8) 
+Aides à la conception de projets (article 212-15) 
 
 Liste des documents justificatifs : 
 
@@ -27722,18 +27642,18 @@ Liste des documents justificatifs :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-8 (V)
+	  - Code du cinéma et de l'image animée - art. 212-8
 
 
 ###### Article Annexe 2-14
 
-Aides à l'écriture de scénario-Liste de festivals (article 212-14) 
+Aides à l'écriture de scénario-Liste de festivals (article 212-21) 
 
 1° Sélection en compétition dans l'un des festivals suivants en France (catégorie 1) :
 
@@ -27909,18 +27829,18 @@ u) Etats-Unis :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-14 (V)
+	  - Code du cinéma et de l'image animée - art. 212-14
 
 
 ###### Article Annexe 2-15
 
-Aides à l'écriture (article 212-18) 
+Aides à l'écriture (article 212-25) 
 
 Liste des documents justificatifs : 
 
@@ -27945,18 +27865,18 @@ ayants-droit ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-18 (V)
+	  - Code du cinéma et de l'image animée - art. 212-18
 
 
 ###### Article Annexe 2-16
 
-Décision d'attribution à titre définitif des aides à l'écriture (article 212-22) 
+Décision d'attribution à titre définitif des aides à l'écriture (article 212-29) 
 
 Liste des documents justificatifs : 
 
@@ -27966,18 +27886,18 @@ Liste des documents justificatifs :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-22 (V)
+	  - Code du cinéma et de l'image animée - art. 212-22
 
 
 ###### Article Annexe 2-17
 
-Aides à la réécriture (article 212-35) 
+Aides à la réécriture (article 212-42) 
 
 Liste des documents justificatifs : 
 
@@ -28014,18 +27934,18 @@ auteurs, y compris, le cas échéant, du ou des auteurs de l'œuvre originaire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-35 (V)
+	  - Code du cinéma et de l'image animée - art. 212-35
 
 
 ###### Article Annexe 2-18
 
-Décision d'attribution à titre définitif des aides à la réécriture (article 212-39) 
+Décision d'attribution à titre définitif des aides à la réécriture (article 212-46) 
 
 Liste des documents justificatifs : 
 
@@ -28035,18 +27955,18 @@ Liste des documents justificatifs :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-39 (V)
+	  - Code du cinéma et de l'image animée - art. 212-39
 
 
 ###### Article Annexe 2-19
 
-Aides au développement de projets (article 212-48) 
+Aides au développement de projets (article 212-55) 
 
 Liste des documents justificatifs : 
 
@@ -28089,20 +28009,25 @@ informer la commission sur les aspects artistiques du projet ;
 auteurs du scénario et de toute personne collaborant à l'écriture, avec la justification de leur inscription au registre
 public du cinéma et de l'audiovisuel ; 
 
-15° Le cas échéant, une copie des contrats de coproduction ou de co-développement ; 
+15° Pour l'attribution de l'allocation directe mentionnée au 1° de l'article 212-4, une copie des contrats de coproduction ou
+de co-développement ou une copie du mandat de présentation de la demande ; 
 
-16° Le cas échéant, une copie du contrat portant sur les droits de propriété littéraire et artistique du compositeur de
-musique originale.
+16° Pour l'attribution de l'allocation directe mentionnée au 3° de l'article 212-4, une copie du contrat portant sur les
+droits de propriété littéraire et artistique du compositeur de musique originale ; 
+
+17° Pour l'attribution de l'allocation directe mentionnée au 2° de l'article 212-4, le contrat d'achat de droit de diffusion
+relatif à une œuvre cinématographique de courte durée produite avec le réalisateur associé au projet présenté.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 6, v. init.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 212-48 (V)
+	  - Code du cinéma et de l'image animée - art. 212-55 (V)
 
 
 ###### Article Annexe 2-20
@@ -30561,6 +30486,38 @@ dispositions de l'article 311-81. Elle ne s'applique pas pour le bénéfice des 
 	  - Code du cinéma et de l'image animée - art. 311-81 (VD)
 
 
+###### Article 311-11-1
+
+Par dérogation au 1° de l'article 311-11, la proportion minimale de l'apport initial est ramenée à 20 % en ce qui concerne
+les œuvres appartenant au genre animation pour le bénéfice des aides automatiques, lorsque l'œuvre répond aux conditions
+suivantes : 
+
+a) Faire l'objet de contrats de prévente internationale pour un montant au moins égal au double de la différence entre le
+montant de l'apport initial qui résulterait de l'application d'une proportion minimale de 25 % et le montant de l'apport
+initial effectivement réalisé. Sont considérés comme contrats de prévente internationale les contrats conclus, avant la fin
+des prises de vues, avec un éditeur de services de télévision établi à l'étranger, soit directement par l'entreprise de
+production déléguée établie en France, soit par le détenteur du mandat de commercialisation ou le cessionnaire de droits pour
+l'exploitation de l'œuvre à l'étranger ; 
+
+b) Obtenir un nombre minimum de 30 points au titre du groupe " Création " et un nombre minimum de 36 points au titre du
+groupe " Fabrication " sur le barème prévu, selon les conditions de réalisation de l'œuvre, au A ou au B de l'article 311-45.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 11, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 311-11 (V)
+	  - Code du cinéma et de l'image animée - art. 311-45 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. 311-30 (VD)
+
+
 ##### Sous-Paragraphe 2 : Œuvres audiovisuelles conçues pour les services à la demande 
 
 ###### Article 311-12
@@ -30836,6 +30793,50 @@ et les moyens de son financement.
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
+##### Sous-section 6 : Dispositions diverses
+
+###### Article 311-24-1
+
+Pour les œuvres appartenant au genre animation :
+
+1° L'attribution des aides financières automatiques à la production et à la préparation est soumise aux dispositions du
+règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché
+intérieur en application des articles 107 et 108 du traité, notamment celles prévues par le chapitre Ier et l'article 54 de
+la section 11 relatif aux régimes d'aides en faveur des œuvres audiovisuelles ;
+
+2° L'attribution des aides financières sélectives à la production et à la préparation est soumise aux dispositions du
+règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché
+intérieur en application des articles 107 et 108 du traité, notamment celles prévues par le chapitre Ier et l'article 54 de
+la section 11 relatif aux régimes d'aides en faveur des œuvres audiovisuelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 15, v. init.
+
+
+###### Article 311-24-2
+
+Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant :
+
+1° L'attribution des aides financières automatiques à la production et à la préparation est soumise aux dispositions du
+règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché
+intérieur en application des articles 107 et 108 du traité, notamment celles prévues par le chapitre Ier et l'article 54 de
+la section 11 relatif aux régimes d'aides en faveur des œuvres audiovisuelles ;
+
+2° L'attribution des aides financières sélectives à la production et à la préparation est soumise aux dispositions du
+règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché
+intérieur en application des articles 107 et 108 du traité, notamment celles prévues par le chapitre Ier et l'article 54 de
+la section 11 relatif aux régimes d'aides en faveur des œuvres audiovisuelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 15, v. init.
+
+
 ##### Section 2 : Aides financières automatiques 
 
 ###### Article 311-25
@@ -30931,14 +30932,24 @@ Pour être inscrites sur la liste des œuvres de référence, les œuvres audiov
 2° Lorsque les œuvres appartiennent au genre documentaire de création et sont insérées au sein de cases de programmation
 consacrées à la diffusion de magazines autres que ceux mentionnés au 2° de l'article 311-92, elles doivent avoir une durée
 ou, pour les œuvres audiovisuelles conçues pour les services à la demande, une durée cumulée, par œuvre unitaire ou par
-épisode, supérieure ou égale à 45 minutes ; 
+épisode, supérieure ou égale à 45 minutes.
+
+Lorsque les œuvres appartiennent au genre adaptation audiovisuelle de spectacle vivant, elles doivent satisfaire au niveau de
+qualité artistique et technique prévu au 3° de l'article 311-57-1 ;
 
 3° Avoir obtenu l'autorisation préalable et l'autorisation définitive. Cette condition n'est pas requise en ce qui concerne
 les œuvres pour lesquelles a été attribuée une aide financière à la production d'œuvres pour les nouveaux médias et qui
 répondent aux conditions prévues aux articles 311-9 et 311-12 ; 
 
-4° Avoir bénéficié de l'apport initial prévu aux articles 311-10 et 311-11 ou à l'article 311-12, au moins égal à 25 % du
-coût définitif de l'œuvre ou à 25 % de la participation française en cas de coproduction internationale ; 
+4° Avoir bénéficié de l'apport initial prévu aux articles 311-10 et 311-11 ou aux articles 311-12 et 311-12-1, au moins égal
+à 25 % du coût définitif de l'œuvre ou à 25 % de la participation française en cas de coproduction internationale.
+
+Pour les œuvres appartenant au genre animation, cette proportion minimale de l'apport initial est ramenée à 20 % dans le cas
+prévu à l'article 311-11-1. 
+
+Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant, l'apport horaire en numéraire du ou des
+éditeurs de services de télévision ou l'apport horaire en numéraire du ou des éditeurs de services à la demande est supérieur
+ou égal à 15 000 € ;
 
 5° Avoir fait l'objet, au cours de l'année précédente, d'une première diffusion sur un service de télévision ou d'une
 première mise à disposition du public sur un service à la demande. Toutefois, les œuvres peuvent avoir fait l'objet d'une
@@ -30949,14 +30960,15 @@ certifiée de sa version définitive par l'ensemble de ces éditeurs de services
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 16, v. init.
 
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. 311-10 (V)
-	  - Code du cinéma et de l'image animée - art. 311-12 (V)
+	  - Code du cinéma et de l'image animée - art. 311-11-1 (V)
+	  - Code du cinéma et de l'image animée - art. 311-12-1 (V)
 	  - Code du cinéma et de l'image animée - art. 311-9 (V)
 	  - Code du cinéma et de l'image animée - art. 311-92 (V)
 
@@ -31079,15 +31091,16 @@ durée cumulée pondérée des œuvres inscrites sur la liste des œuvres de ré
 
 La durée pondérée ou la durée cumulée pondérée est fixée pour chaque genre d'œuvres audiovisuelles. 
 
-Elle peut donner lieu à des bonifications en fonction notamment des conditions de réalisation des œuvres, de leur destination
-et de leurs conditions de diffusion. Elle peut également faire l'objet d'une modulation dans le cas où la condition relative
-à la part minimale en numéraire de l'apport du ou des éditeurs de services de télévision n'est pas remplie.
+Elle peut donner lieu, selon les cas, à des bonifications ou à des majorations  en fonction notamment des conditions de
+réalisation des œuvres, de leur destination et de leurs conditions de diffusion. Elle peut également faire l'objet d'une
+modulation dans le cas où la condition relative à la part minimale en numéraire de l'apport du ou des éditeurs de services de
+télévision n'est pas remplie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 17, v. init.
 
 
 ###### Article 311-39
@@ -31158,7 +31171,11 @@ sécurité sociale.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français ; 
+économique européen, sont assimilés aux citoyens français.
+
+Lorsque les techniciens et ouvriers précités sont employés à titre permanent, seuls sont pris en compte les salaires et
+charges sociales correspondant à la période durant laquelle ces personnels ont été effectivement employés à la production de
+l'œuvre concernée  ;
 
 2° Dépenses liées à des prestations effectuées par des industries techniques établies en France et qui y effectuent
 personnellement et intégralement ces prestations ; 
@@ -31167,13 +31184,18 @@ personnellement et intégralement ces prestations ;
 fabrication de l'animation établis en France et qui y effectuent personnellement et intégralement ces prestations ; 
 
 4° Dépenses techniques et autres dépenses non forfaitaires directement liées au tournage et à la post-production, effectuées
-en France ; 
+en France. Pour les œuvres appartenant au genre animation, les dépenses techniques incluent les dépenses de matériels
+techniques nécessaires à la fabrication des images, à savoir les dépenses de matériels de prise de vues et d'éclairage, ainsi
+que les dépenses d'équipements, de fournitures, de matériels et logiciels informatiques directement affectés à la mise en
+place et à la fabrication de l'animation ; 
 
 5° Dépenses liées à l'acquisition de droits artistiques, effectuées en France ; 
 
 6° Dépenses de conception graphique et de production technique directement liées à la création des œuvres audiovisuelles
 conçues pour les services à la demande, à l'exception de celles liées à la diffusion, au stockage, à l'habillage ou à la mise
-en ligne. 
+en ligne ;
+
+7° Pour les œuvres appartenant au genre animation, frais financiers et frais d'assurance liés à la production de l'œuvre. 
 
 Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant, le coût du plateau artistique est regardé
 comme dépense horaire française pour l'ensemble des ayants droit le composant. En outre, n'est pas prise en compte, au titre
@@ -31183,9 +31205,9 @@ coproduction par le producteur de spectacle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 18, v. init.
 
 
 ###### Article 311-44
@@ -31240,104 +31262,134 @@ suivantes :
 
 I.-Les œuvres sont réparties en deux groupes : 
 
-1° Premier groupe : œuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 244 000 € ; 
+1° Premier groupe : œuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 350 000 € ; 
 
-2° Deuxième groupe : œuvres dont le montant des dépenses horaires françaises est inférieur à 244 000 € et supérieur à 122 000
+2° Deuxième groupe : œuvres dont le montant des dépenses horaires françaises est inférieur à 350 000 € et supérieur à 122 000
 €. 
 
 II.-Les coefficients appliqués à la durée ou à la durée cumulée des œuvres sont les suivants : 
 
-1° Premier groupe : 3 ; 
+1° Premier groupe : 3,7 ; 
 
-2° Deuxième groupe : le coefficient varie entre 3 et 0,7 proportionnellement au montant des dépenses horaires françaises. Ce
-coefficient est arrondi aux quatre chiffres après la virgule. 
+2° Deuxième groupe : le coefficient varie entre 3,7 et 1,3 proportionnellement au montant des dépenses horaires françaises.
+Ce coefficient est arrondi aux quatre chiffres après la virgule. 
 
-III.-A. Les coefficients prévus au II sont bonifiés de 20 % lorsque les œuvres remplissent les conditions suivantes : 
+III. - Les coefficients prévus au II sont bonifiés de 20 % lorsque les œuvres obtiennent cumulativement un nombre minimum de
+30 points au titre du groupe "Création" et un nombre minimum de 36 points au titre du groupe "Fabrication" sur le barème
+prévu au A ou au B selon les conditions de réalisation de l'œuvre.
 
-1° Le montant des dépenses effectuées en France est supérieur ou égal à 70 % du coût définitif des œuvres ; 
+A. - Pour les œuvres autres que celles réalisées en images de synthèse, il est institué un barème de 100 points répartis au
+sein d'un groupe "Création" et d'un groupe "Fabrication" dans les conditions suivantes :
 
-2° Etre réalisées, à hauteur d'un minimum de 17 points sur les barèmes prévus au B, avec le concours : 
+1° Groupe "Création" :
 
-a) D'auteurs, d'artistes-interprètes, de techniciens collaborateurs de création, de techniciens collaborateurs chargés de la
+Bible littéraire : 5 points ;
+
+Bible graphique : 5 points ;
+
+Scénario : 9 points ;
+
+Direction d'écriture : 2 points ;
+
+Réalisation : 7 points ;
+
+Composition musicale : 3 points ;
+
+Scénarimage : 9 points ;
+
+2° Groupe "Fabrication" :
+
+Décors de référence : 5 points ;
+
+Développement des personnages : 5 points ;
+
+Mise en place de l'animation et des décors : 10 points ;
+
+Animation : 20 points ;
+
+Exécution des décors : 5 points ;
+
+Assemblage numérique et effets spéciaux : 5 points ;
+
+Post-production image : 5 points ;
+
+Post-production son : 5 points.
+
+B. - Pour les œuvres réalisées en images de synthèse, il est institué un barème de 100 points répartis au sein d'un groupe
+"Création" et d'un groupe "Fabrication" dans les conditions suivantes :
+
+1° Groupe "Création" :
+
+Bible littéraire : 5 points ;
+
+Bible graphique : 5 points ;
+
+Scénario : 9 points ;
+
+Direction d'écriture : 2 points ;
+
+Réalisation : 7 points ;
+
+Composition musicale : 3 points ;
+
+Scénarimage : 9 points ;
+
+2° Groupe "Fabrication" :
+
+Modélisation des décors : 5 points ;
+
+Modélisation des personnages : 5 points ;
+
+Mise en place de l'animation et des décors : 4 points ;
+
+Animation : 20 points ;
+
+Rendu et éclairage : 8 points ;
+
+Assemblage numérique et effets spéciaux : 8 points ;
+
+Post-production image : 5 points ;
+
+Post-production son : 5 points.
+
+C. - Les œuvres dont la totalité des scénarios est écrite et enregistrée en version originale en langue française bénéficient
+de cinq points supplémentaires qui sont affectés en totalité à l'un ou l'autre des deux groupes pour atteindre le nombre
+minimum de points requis.
+
+D. - Pour l'application des barèmes, les points sont obtenus si les œuvres sont réalisées avec le concours :
+
+1° D'auteurs, d'artistes-interprètes, de techniciens collaborateurs de création, de techniciens collaborateurs chargés de la
 préparation et de la fabrication de l'animation qui sont soit de nationalité française, soit ressortissants d'un Etat membre
 de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention
 européenne sur la télévision transfrontière du Conseil de l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou
-l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. 
+l'Union européenne a conclu des accords ayant trait au secteur audiovisuel.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français ; 
+économique européen, sont assimilés aux citoyens français.
 
-b) D'entreprises effectuant les travaux de préparation, de fabrication et de post-production, y compris les effets spéciaux,
-qui sont établies dans les Etats européens précités. 
+Le contrat conclu avec les auteurs, artistes-interprètes et techniciens précités désigne la loi française comme loi
+applicable ;
 
-B.-1° Pour les œuvres autres que celles réalisées en images de synthèse, il est institué un barème de 21 points affectés
-comme suit : 
+2° D'entreprises effectuant les travaux de préparation, de fabrication et de post-production, y compris les effets spéciaux,
+établies en France.
 
-Bible littéraire : 2 points ; 
+Lorsqu'une partie seulement des personnes remplit les conditions prévues au 1° ou qu'une partie seulement des entreprises
+répond à la condition prévue au 2°, il est fait application d'un prorata pour l'attribution des points autres que ceux
+relatifs à la bible littéraire, à la bible graphique et à la composition musicale, calculé en fonction du pourcentage de
+personnes ou d'entreprises remplissant les conditions précitées. Pour les séries, ce prorata est calculé en fonction du
+nombre d'épisodes pour lesquels les conditions précitées sont remplies et, le cas échéant, en fonction du pourcentage de
+personnes ou d'entreprises remplissant ces conditions par épisode. Il peut également être tenu compte de la nature des
+emplois, de la durée des engagements et du montant des salaires.
 
-Bible graphique : 2 points ; 
-
-Réalisation : 2 points ; 
-
-Scénario : 2 points ; 
-
-Composition musicale : 1 point ; 
-
-Création du scénarimage : 2 points ; 
-
-Feuille d'exposition : 1 point ; 
-
-Mise en place de l'animation et des décors : 1 point ; 
-
-Animation : 2 points ; 
-
-Exécution des décors : 1 point ; 
-
-Traçage, gouachage ou colorisation : 1 point ; 
-
-Assemblage numérique et effets spéciaux : 2 points ; 
-
-Post-production image : 1 point ; 
-
-Post-production son : 1 point. 
-
-2° Pour les œuvres réalisées en images de synthèse, il est institué un barème de 21 points affectés comme suit : 
-
-Bible littéraire : 2 points ; 
-
-Bible graphique : 2 points ; 
-
-Réalisation : 2 points ; 
-
-Scénario : 2 points ; 
-
-Composition musicale : 1 point ; 
-
-Création du scénarimage : 2 points ; 
-
-Modélisation des décors : 1 point ; 
-
-Modélisation des personnages : 2 points ; 
-
-Animation : 2 points ; 
-
-Rendu et éclairage : 2 points ; 
-
-Assemblage numérique et effets spéciaux : 1 point ; 
-
-Post-production image : 1 point ; 
-
-Post-production son : 1 point. 
-
-3° Un point supplémentaire est accordé pour les œuvres dont la totalité des scénarios est écrite et enregistrée en version
-originale en langue française.
+IV. - Les dépenses liées à l'acquisition des droits d'adaptation d'une œuvre préexistante sont prises en compte au titre des
+dépenses horaires françaises dans la limite de 10 000 € par heure.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 19, v. init.
 
 	**Cité par**:
 
@@ -31371,6 +31423,25 @@ coefficient est arrondi aux quatre chiffres après la virgule.
 	**Créé par**:
 
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+
+
+###### Article 311-46-1
+
+Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant, lorsque les sommes calculées excèdent un
+plafond correspondant à deux fois et demi le montant de l'apport en numéraire du ou des éditeurs de services de télévision ou
+le montant de l'apport en numéraire du ou des éditeurs de services à la demande, elles ne sont retenues qu'à concurrence de
+ce plafond.
+
+Pour la détermination du plafond, sont également pris en compte les apports en numéraire provenant d'un ou plusieurs éditeurs
+de services de télévision établis à l'étranger réalisés sous forme de contrats d'achat de droits de diffusion conclus avant
+la date d'achèvement de l'œuvre. Le contrat peut être conclu soit directement avec l'entreprise de production déléguée, soit
+avec le détenteur du mandat de commercialisation ou le cessionnaire de droits d'exploitation de l'œuvre à l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 21, v. init.
 
 
 ##### Sous-Paragraphe 4 : Modalités de calcul pour le documentaire de création 
@@ -31428,9 +31499,9 @@ projet.
 circonstances et selon les modalités suivantes : 
 
 a) L'œuvre a bénéficié d'une aide à l'écriture ou au développement attribuée par une personne publique ou privée, autre
-qu'une aide automatique à la préparation, ou a fait l'objet d'un apport horaire en numéraire d'un montant minimum de 6 000 €
-dans le cadre d'une convention d'écriture ou de développement conclue avec un éditeur de services de télévision ou un éditeur
-de services à la demande. 
+qu'une aide automatique à la préparation, d'un montant minimum de 3 000 €  ou a fait l'objet d'un apport horaire en numéraire
+d'un montant minimum de 6 000 € dans le cadre d'une convention d'écriture ou de développement conclue avec un éditeur de
+services de télévision ou un éditeur de services à la demande. 
 
 Dans ce cas, les coefficients sont augmentés de 0,1 ; 
 
@@ -31472,23 +31543,81 @@ propres au magazine ou au reportage. En cas de contestation sur l'éligibilité 
 national du cinéma et de l'image animée peut consulter la commission spécialisée compétente pour l'attribution des aides
 sélectives. 
 
-3° Pour les documentaires de création historiques ou scientifiques, les coefficients sont bonifiés de 20 %. Cette
-bonification reste de 20 % pour les documentaires qui sont à la fois historiques et scientifiques. 
+IV. - Les coefficients prévus au II font l'objet d'une majoration de 20 % pour les documentaires de création historiques,
+scientifiques, ou présentant ces deux caractéristiques à la fois.
 
-En cas de contestation ou de difficulté d'interprétation sur la qualification de documentaire de création historique ou
-scientifique, le président du Centre national du cinéma et de l'image animée peut consulter la commission spécialisée
-compétente pour l'attribution des aides sélectives. 
+Sont considérés comme documentaires de création historiques les documentaires de création visant à faire connaître une ou
+plusieurs périodes de l'histoire antérieures d'au moins cinq ans à la date de dépôt de la demande d'aide.
 
-IV.-Pour les œuvres insérées au sein de cases de programmation consacrées à la diffusion de programmes récurrents, dont la
-production est assurée par la même entreprise de production déléguée ou repose sur le même concept et les mêmes principes de
-réalisation, les coefficients résultant de l'application des II et III font l'objet d'un abattement de 10 % toutes les 520
-minutes produites, sans que cet abattement puisse avoir pour effet l'application d'un coefficient inférieur à 0,5.
+Sont considérés comme documentaires de création scientifiques les documentaires de création visant à faire comprendre des
+sujets relevant d'une ou plusieurs disciplines des sciences exactes et naturelles, des sciences de l'ingénieur et
+technologiques, des sciences médicales et sanitaires et des sciences agricoles telles que définies par le "Manuel de
+Frascati" publié par l'Organisation de coopération et de développement économiques (OCDE).
+
+Pour bénéficier de la majoration, les documentaires de création historiques ou scientifiques doivent répondre aux conditions
+suivantes :
+
+1° Respecter au moins trois des cinq critères suivants :
+
+a) L'œuvre a bénéficié d'une aide à l'écriture ou au développement attribuée par une personne publique ou privée, autre
+qu'une aide automatique à la préparation, d'un montant minimum de 3 000 € ou a fait l'objet d'un apport horaire en numéraire
+d'un montant minimum de 6 000 € dans le cadre d'une convention d'écriture ou de développement conclue avec un éditeur de
+services de télévision ou un éditeur de services à la demande ;
+
+b) Une musique originale a été spécialement créée pour l'œuvre en application d'un contrat de cession de droits conclu entre
+l'entreprise de production déléguée établie en France et l'auteur de la composition musicale, en contrepartie d'une
+rémunération minimale de 2 000 € et l'interprétation de cette musique originale a donné lieu à au moins un cachet ;
+
+c) Le nombre de jours de travail du ou des chefs monteurs est supérieur ou égal à 25 pour une œuvre d'une durée de 52
+minutes. Pour une œuvre d'une durée différente, le nombre de jours minimum est déterminé prorata temporis ;
+
+d) Le ratio entre la masse salariale brute des personnels artistiques et techniques, hors artistes-interprètes, engagés par
+l'entreprise de production déléguée établie en France et la masse salariale brute totale de l'ensemble des personnels engagés
+pour la production de l'œuvre est supérieur ou égal à 60 % ;
+
+e) Le nombre de pays étrangers pour lesquels un éditeur de services de télévision ou de services à la demande a conclu, avant
+la date d'achèvement de l'œuvre, un contrat pour l'exploitation de l'œuvre est supérieur ou égal à trois. Le contrat peut
+être conclu soit directement avec l'entreprise de production déléguée établie en France, soit avec le détenteur du mandat de
+commercialisation ou le cessionnaire de droits pour l'exploitation de l'œuvre à l'étranger ;
+
+2° Avoir bénéficié d'un apport horaire en numéraire provenant d'un ou plusieurs éditeurs de services de télévision ou d'un ou
+plusieurs éditeurs de services à la demande, établis en France ou à l'étranger, supérieur ou égal à 100 000 €. Lorsque
+l'éditeur de services de télévision ou l'éditeur de services à la demande est établi à l'étranger, le contrat d'achat de
+droits de diffusion est conclu avant la date d'achèvement de l'œuvre, soit directement avec l'entreprise de production
+déléguée établie en France, soit avec le détenteur du mandat de commercialisation ou le cessionnaire de droits pour
+l'exploitation de l'œuvre à l'étranger.
+
+Pour le respect de cette condition, outre les apports en numéraire des éditeurs de services précités, sont également pris en
+compte les apports en numéraire provenant d'autres entreprises ou organismes établis en France mentionnés au 2° de l'article
+311-12, dans le cadre d'un contrat d'achat de droits d'exploitation non commerciale conclu avant la date d'achèvement de
+l'œuvre, hors parts de producteur et hors subventions ;
+
+3° Enrichir significativement le récit par l'intégration d'images d'archives, de séquences d'animation, de séquences de
+fiction ou d'autres séquences d'images animées, de photographies, ou par l'utilisation de techniques stéréoscopiques ou
+d'effets visuels numériques ;
+
+4° Etre réalisés avec le concours d'au moins un conseiller historique ou scientifique ou, à défaut, avoir donné lieu à la
+consultation de plusieurs experts du sujet traité. Ces conseillers ou experts sont crédités au générique de l'œuvre.
+
+Pour les documentaires de création qui ont recours aux codes d'écriture ou de réalisation propres au magazine ou au
+reportage, le président du Centre national du cinéma et de l'image animée saisit pour avis la commission spécialisée
+compétente pour l'attribution des aides sélectives. Pour les autres documentaires de création, le président du Centre
+national du cinéma et de l'image animée peut consulter la commission spécialisée en cas de contestation ou de difficulté
+d'interprétation concernant l'éligibilité à la majoration.
+
+En outre, le président du Centre national du cinéma et de l'image animée peut également consulter tout expert historique ou
+scientifique dont l'audition lui paraît de nature à éclairer sa décision.
+
+V.-Pour les œuvres insérées au sein de cases de programmation  consacrées à la diffusion de programmes récurrents, dont la
+production  est assurée par la même entreprise de production déléguée ou repose sur  le même concept et les mêmes principes
+de réalisation, les coefficients  résultant de l'application des II et III font l'objet d'un abattement de  10 % toutes les
+520 minutes produites, sans que cet abattement puisse  avoir pour effet l'application d'un coefficient inférieur à 0,5.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 3, v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 22, v. init.
 
 	**Cité par**:
 
@@ -31505,22 +31634,23 @@ minutes produites, sans que cet abattement puisse avoir pour effet l'application
 
 ###### Article 311-49
 
-Les sommes calculées ne sont effectivement inscrites sur le compte automatique des entreprises de production qu'à condition
-que le montant total obtenu soit égal ou supérieur aux seuils suivants : 
+Les sommes calculées, le cas échéant plafonnées pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle
+vivant,  ne sont effectivement inscrites sur le compte automatique des entreprises de production qu'à condition que le
+montant total obtenu soit égal ou supérieur aux seuils suivants : 
 
 1° Pour les œuvres appartenant au genre fiction : 168 000 € ; 
 
-2° Pour les œuvres appartenant au genre animation : 31 000 € ; 
+2° Pour les œuvres appartenant au genre animation : 168 000 € ; 
 
 3° Pour les œuvres appartenant au genre documentaire de création : 70 000 € ; 
 
-4° Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant : 70 000 €.
+4° Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant : 120 000 €.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 23, v. init.
 
 
 ###### Article 311-50
@@ -31528,25 +31658,36 @@ que le montant total obtenu soit égal ou supérieur aux seuils suivants :
 Les sommes inscrites sur le compte automatique des entreprises de production sont majorées de 25 % lorsque les œuvres de
 référence répondent aux conditions suivantes : 
 
-1° Avoir été réalisées intégralement ou principalement en version originale en langue française ou dans une langue régionale
+1° Pour les œuvres appartenant au genre fiction, documentaire de création ou adaptation audiovisuelle de spectacle vivant : 
+
+a) Avoir été réalisées intégralement ou principalement en version originale en langue française ou dans une langue régionale
 en usage en France ; 
 
-2° Avoir fait l'objet de dépenses de production en France pour au moins 80 % de leur coût définitif ; 
+b) Avoir fait l'objet de dépenses de production en France pour au moins 80 % de leur coût définitif ; 
 
-3° Avoir fait l'objet de dépenses de production en France pour au moins 80 % du coût correspondant à certaines catégories de
-postes : 
+c) Avoir fait l'objet de dépenses de production en France pour au moins 80 % du coût correspondant aux catégories de postes
+suivantes : droits artistiques hors acquisition de droits d'exploitation d'images d'archives, personnels techniques et
+charges sociales afférentes, artistes-interprètes et charges sociales afférentes, décors et costumes, moyens techniques ; 
 
-a) Pour les œuvres appartenant au genre fiction, documentaire de création et adaptation audiovisuelle de spectacle vivant :
-droits artistiques hors acquisition de droits d'exploitation d'images d'archives, personnels techniques et charges sociales
-afférentes, artistes-interprètes et charges sociales afférentes, décors et costumes, moyens techniques ; 
+2° Pour les œuvres appartenant au genre animation : 
 
-b) Pour les œuvres appartenant au genre animation : droits artistiques et fabrication de l'animation.
+a) Avoir été réalisées intégralement ou principalement en version originale en langue française ou dans une langue régionale
+en usage en France ; 
+
+b) Avoir fait l'objet de dépenses horaires françaises pour un montant supérieur ou égal à 350 000 € ; 
+
+c) Obtenir un nombre minimum de 30 points au titre du groupe " Création " et un nombre minimum de 45 points au titre du
+groupe " Fabrication " sur le barème prévu, selon les conditions de réalisation de l'œuvre, au A ou au B de l'article 311-45.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 24, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 311-45 (V)
 
 	**Cité par**:
 
@@ -31685,6 +31826,38 @@ unitaire ou par épisode, doit être supérieure ou égale à 45 minutes.
 	  - Code du cinéma et de l'image animée - art. 311-92 (V)
 
 
+###### Article 311-57-1
+
+Les adaptations audiovisuelles de spectacle vivant doivent, en ce qui concerne l'investissement pour la production :
+
+1° Etre financées par un apport horaire en numéraire d'un ou plusieurs éditeurs de services de télévision ou par un apport
+horaire en numéraire d'un ou plusieurs éditeurs de services à la demande, supérieur ou égal à 15 000 € ;
+
+2° Faire l'objet d'un montant de dépenses horaires françaises supérieur ou égal à 54 000 € ;
+
+3° Satisfaire à un niveau de qualité artistique et technique apprécié en fonction d'un nombre minimum de jours de travail
+fixé à :
+
+a) 26 jours lorsque la durée de l'œuvre est supérieure à 60 minutes ;
+
+b) 20 jours lorsque la durée de l'œuvre est inférieure ou égale à 60 minutes ou lorsque l'œuvre porte sur des musiques dites
+"musiques actuelles".
+
+Le nombre minimum de jours de travail est comptabilisé sur l'ensemble des postes de création et de production suivants :
+réalisateur, chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller
+musical.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 25, v. init.
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. 311-92 (VD)
+
+
 ##### Paragraphe 5 : Investissement pour la production des sommes inscrites sur le compte et avances 
 
 ##### Sous-Paragraphe 1 : Investissement pour la production 
@@ -31698,13 +31871,20 @@ L'autorisation préalable est délivrée avant la fin des prises de vues. Elle p
 réinvesties. 
 
 L'autorisation définitive est délivrée après achèvement de l'œuvre. Cette autorisation constitue la décision d'attribution à
-titre définitif des sommes réinvesties.
+titre définitif des sommes réinvesties. Elle constate, le cas échéant, l'admission au bénéfice des bonifications ou des
+majorations prévues aux articles 311-45,311-48 et 311-50.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 26, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 311-45 (V)
+	  - Code du cinéma et de l'image animée - art. 311-48 (V)
+	  - Code du cinéma et de l'image animée - art. 311-50 (V)
 
 
 ###### Article 311-59
@@ -32020,13 +32200,17 @@ Pour une même œuvre audiovisuelle, le montant des sommes investies ne peut êt
 préparation et ne peut excéder 100 000 €. 
 
 Pour les œuvres audiovisuelles appartenant au genre fiction, la limite de 40 % est portée à 60 % lorsque les sommes sont
-réinvesties en l'absence de convention d'écriture ou de développement avec un éditeur de services de télévision.
+réinvesties en l'absence de convention d'écriture ou de développement avec un éditeur de services de télévision. 
+
+Pour les œuvres audiovisuelles appartenant au genre animation qui ne sont pas adaptées d'une œuvre préexistante, ci-après
+dénommées "créations originales", la limite de 40 % est portée à 50 %. Pour les séries, cette dernière limite s'applique
+uniquement aux sommes investies pour la préparation de la première saison.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 27, v. init.
 
 
 ###### Article 311-77
@@ -32058,34 +32242,10 @@ spécialisée compétente pour l'attribution des aides sélectives.
 
 ###### Article 311-79
 
-Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant, il est exigé un niveau de qualité
-technique, apprécié selon un barème de points composé des trois groupes suivants : 
-
-1° Groupe " Préparation " : 
-
-Un point par jour de travail rémunéré pour chacune des fonctions suivantes : réalisateur, chef opérateur et/ ou ingénieur de
-la vision, scripte, ingénieur du son. 
-
-2° Groupe " Tournage " : 
-
-Un point pour l'ensemble des fonctions suivantes multiplié par le nombre de prises, entendu comme le nombre de fois où le
-spectacle est filmé dans son intégralité : réalisateur, chef opérateur et/ ou ingénieur de la vision, scripte, ingénieur du
-son. 
-
-Les répétitions en condition de tournage sont comptabilisées dans le nombre de prises. 
-
-Un point supplémentaire est obtenu si le nombre de caméras divergées est égal ou supérieur à cinq. 
-
-3° Groupe " Post-production " : 
-
-Un point par jour de travail rémunéré pour chacune des fonctions suivantes : réalisateur, chef monteur, mixeur. 
-
-Sont éligibles les œuvres qui obtiennent au moins 23 points. Par dérogation, le nombre de points requis est ramené à 18 pour
-les adaptations audiovisuelles portant sur des festivals de musique. 
-
-Pour les adaptations audiovisuelles portant sur des regroupements exceptionnels d'artistes pour une prestation particulière
-ou consistant dans la compilation d'extraits de plusieurs spectacles vivants, les aides financières automatiques sont
-attribuées après avis de la commission spécialisée compétente pour l'attribution des aides sélectives. 
+Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant portant sur des regroupements exceptionnels
+d'artistes pour une prestation particulière ou consistant dans la compilation d'extraits de plusieurs spectacles vivants, les
+aides financières automatiques sont attribuées après avis de la commission spécialisée compétente pour l'attribution des
+aides sélectives.
 
 Les aides financières automatiques ne peuvent être attribuées que pour une seule adaptation audiovisuelle d'un même spectacle
 vivant interprété par le même artiste au cours d'une même année. Elles ne peuvent être attribuées pour une deuxième
@@ -32093,9 +32253,9 @@ adaptation qu'après avis de la commission spécialisée compétente pour l'attr
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 28, v. init.
 
 
 ###### Article 311-80
@@ -32427,13 +32587,20 @@ L'attribution d'une aide dont le principe a été retenu est subordonnée à la 
 Une autorisation préalable est délivrée avant la fin des prises de vues. Elle prévoit les modalités de versement de l'aide. 
 
 Une autorisation définitive est délivrée après achèvement de l'œuvre. Cette autorisation constitue la décision d'attribution
-à titre définitif de l'aide.
+à titre définitif de l'aide. Elle constate, le cas échéant, l'admission au bénéfice des bonifications ou des majorations
+prévues aux articles 311-45,311-48 et 311-50.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 31, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 311-45 (V)
+	  - Code du cinéma et de l'image animée - art. 311-48 (V)
+	  - Code du cinéma et de l'image animée - art. 311-50 (V)
 
 
 ###### Article 311-98
@@ -32682,6 +32849,22 @@ soit de renoncer au reversement de tout ou partie de celle-ci.
 	**Créé par**:
 
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+
+
+###### Article 311-109-1
+
+Pour une même œuvre audiovisuelle, le montant de l'aide attribuée ne peut être supérieur à 40 % du montant des dépenses de
+préparation et ne peut excéder 100 000 €.
+
+Pour les œuvres audiovisuelles appartenant au genre animation constituant des créations originales, la limite de 40 % est
+portée à 50 %. Pour les séries, cette dernière limite s'applique uniquement aux sommes investies pour la préparation de la
+première saison.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 32, v. init.
 
 
 ##### Sous-section 3 : Aides spécifiques à la production de "pilotes"
@@ -34847,7 +35030,9 @@ Liste des postes (article 311-18)
 
 - Le chef layout ;
 
-- Le chef décorateur. 
+- Le chef décorateur ;
+
+- Le directeur d'écriture. 
 
 3° Documentaire de création et magazine :
 
@@ -34885,9 +35070,9 @@ Liste des postes (article 311-18)
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 33, v. init.
 
 	**Cite**:
 
@@ -35006,7 +35191,10 @@ lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autr
 ci manifestent expressément leur engagement financier ; 
 
 17° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
-justification de son inscription au registre public du cinéma et de l'audiovisuel. 
+justification de son inscription au registre public du cinéma et de l'audiovisuel ;
+
+18° Le cas échéant, tout contrat de prévente internationale ou tout document contractuel attestant de l'intention de conclure
+un tel contrat. 
 
 III.-Documentaire de création : 
 
@@ -35061,7 +35249,11 @@ lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autr
 ci manifestent expressément leur engagement financier ; 
 
 15° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
-justification de son inscription au registre public du cinéma et de l'audiovisuel. 
+justification de son inscription au registre public du cinéma et de l'audiovisuel ;
+
+16° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une
+note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts
+en intégrant leur bibliographie sur le sujet traité. 
 
 IV.-Adaptation audiovisuelle de spectacle vivant : 
 
@@ -35078,7 +35270,8 @@ IV.-Adaptation audiovisuelle de spectacle vivant :
 6° Le dispositif de tournage prévu et le plan de travail ; 
 
 7° Tout contrat avec les personnes physiques ou morales pouvant faire valoir leur droit à l'image sur le spectacle objet de
-l'œuvre audiovisuelle, notamment le contrat avec les ayants droit du spectacle et leurs annexes ; 
+l'œuvre audiovisuelle, notamment le contrat avec les ayants droit du spectacle et leurs annexes, ou un accord écrit des
+ayants droits  ; 
 
 8° Tout contrat de coproduction conclu avec une autre entreprise de production, ses annexes et éventuels avenants ainsi que
 la justification de son inscription au registre public du cinéma et de l'audiovisuel lorsque l'œuvre a été immatriculée ; 
@@ -35089,7 +35282,11 @@ la justification de son inscription au registre public du cinéma et de l'audiov
 
 11° La liste nominative prévisionnelle avec mention de la nationalité et de la résidence fiscale des personnels engagés sur
 la production de l'œuvre, précisant la fonction, les salaires bruts et la part patronale des charges afférentes à chacune de
-ces rémunérations ; 
+ces rémunérations ;
+
+11° bis Lorsqu'ils ne sont pas embauchés par l'entreprise de production déléguée, un document émanant de l'employeur
+indiquant le nombre de jours de travail prévisionnel des techniciens suivants : chef opérateur, scripte, ingénieur du son,
+ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ;  
 
 12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ; 
 
@@ -35112,6 +35309,9 @@ Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure
 dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle
 celui-ci manifeste expressément son engagement financier et la nature de celui-ci ; 
 
+16° bis Tout contrat d'achat de droits de diffusion conclu avec un ou plusieurs éditeurs de services de télévision établis à
+l'étranger ; 
+
 17° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la
 demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production
 n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une
@@ -35123,9 +35323,9 @@ justification de son inscription au registre public du cinéma et de l'audiovisu
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 33, v. init.
 
 	**Cite**:
 
@@ -35220,6 +35420,12 @@ des factures ;
 10° Le ou les contrats de prestation, les annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
 préalable ou si de nouveaux avenants ont été signés ; 
 
+10° bis Le cas échéant, tout contrat de prévente internationale lorsqu'il n'a pas été remis dans le dossier de demande
+d'autorisation préalable ;
+
+10° ter Le cas échéant, un document valant attestation sur l'honneur signé par le représentant légal de l'entreprise de
+production indiquant que la totalité des scénarios est écrite et enregistrée en version originale en langue française ;
+
 11° Une copie vidéo de l'œuvre incluant les génériques. 
 
 III.-Documentaire de création : 
@@ -35237,7 +35443,7 @@ commissaire aux comptes ;
 4° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son
 inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
 
-5° Le relevé complet des génériques ; 
+5° Le relevé complet des génériques créditant notamment les conseillers historiques ou scientifiques ou les experts  ; 
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, la durée du travail, les salaires bruts et la part patronale des charges
@@ -35248,8 +35454,8 @@ compris lorsqu'il est embauché sous le statut de journaliste), directeur de la 
 chef opérateur de prise de son, ingénieur du son, chef monteur, directeur de production, producteur exécutif et l'animateur
 intervenant à l'image ; 
 
-8° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+8° Le contrat du ou des diffuseurs, y compris ceux établis à l'étranger, ses annexes et éventuels avenants s'ils n'ont pas
+été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ; 
 
 8° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
@@ -35262,7 +35468,11 @@ des factures ;
 10° Le ou les contrats de prestation, les annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
 préalable ou si de nouveaux avenants ont été signés ; 
 
-11° Une copie vidéo de l'œuvre incluant les génériques. 
+11° Une copie vidéo de l'œuvre incluant les génériques. ;
+
+12° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une
+note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts
+en intégrant leur bibliographie sur le sujet traité, s'ils n'ont pas été fournis lors de l'autorisation préalable. 
 
 IV.-Adaptation audiovisuelle de spectacle vivant : 
 
@@ -35283,15 +35493,22 @@ inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre 
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, la durée du travail, les salaires bruts et la part patronale des charges
-afférentes à chacune de ces rémunérations ; 
+afférentes à chacune de ces rémunérations ;
 
-7° Tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes ; 
+6° bis Lorsqu'ils ne sont pas embauchés par l'entreprise de production déléguée, un document émanant de l'employeur attestant
+du nombre de jours de travail effectif des techniciens suivants : chef opérateur, scripte, ingénieur du son, ingénieur de la
+vision, chef monteur, mixeur, étalonneur, conseiller musical ; 
 
-8° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur-
-technicien, directeur de la photographie, ingénieur du son tournage, chef monteur, ingénieur du son mixage, scripte ; 
+7° Tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes, ainsi que tout contrat avec les
+personnes physiques ou morales pouvant faire valoir leur droit à l'image sur le spectacle objet de l'œuvre audiovisuelle,
+notamment le contrat avec les ayants droit du spectacle et leurs annexes, s'ils n'ont pas été fournis lors de l'autorisation
+préalable ; 
 
-9° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+8° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur,
+chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ; 
+
+9° Le contrat du ou des diffuseurs, y compris ceux établis à l'étranger, ses annexes et éventuels avenants s'ils n'ont pas
+été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ; 
 
 9° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
@@ -35316,7 +35533,7 @@ mois suivant celui de la date d'entrée en vigueur de la présente délibératio
 
 	**Modifié par**:
 
-	  - DÉLIBÉRATION n°2015/CA/15 du 24 septembre 2015 - art. 3, v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 33, v. init.
 
 	**Cite**:
 
@@ -35785,7 +36002,11 @@ ci manifestent expressément leur engagement financier ;
 13° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
 justification de son inscription au registre public du cinéma et de l'audiovisuel ; 
 
-14° Toute pièce justificative d'un financement public ou privé. 
+14° Toute pièce justificative d'un financement public ou privé ;
+
+15° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une
+note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts
+en intégrant leur bibliographie sur le sujet traité. 
 
 IV.-Adaptation audiovisuelle de spectacle vivant : 
 
@@ -35803,9 +36024,11 @@ IV.-Adaptation audiovisuelle de spectacle vivant :
 
 7° Les contrats de production audiovisuelle conclus avec les auteurs et le réalisateur ; 
 
-8° Les contrats de cession des droits à l'image et d'interprétation des artistes-interprètes ; 
+8° Les contrats de cession des droits à l'image et d'interprétation des artistes-interprètes, ou un accord écrit des ayants
+droit  ; 
 
-9° Les contrats conclus avec les ayants-droit du spectacle objet de l'œuvre audiovisuelle ; 
+9° Les contrats conclus avec les ayants-droit du spectacle objet de l'œuvre audiovisuelle, ou un accord écrit des ayants
+droit  ; 
 
 10° Le devis de production détaillé faisant apparaître : 
 
@@ -35830,6 +36053,9 @@ que la justification de son inscription au registre public du cinéma et de l'au
 Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le
 dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle
 celui-ci manifeste expressément son engagement financier et la nature de celui-ci ; 
+
+14° bis Tout contrat d'achat de droits de diffusion conclu avec un ou plusieurs éditeurs de services de télévision établis à
+l'étranger ; 
 
 15° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la
 demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production
@@ -35902,9 +36128,9 @@ justification de son inscription au registre public du cinéma et de l'audiovisu
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 33, v. init.
 
 	**Cite**:
 
@@ -36000,6 +36226,11 @@ préalable ou si de nouveaux avenants ont été signés ;
 12° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son
 inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
 
+12° bis Le cas échéant, tout contrat de prévente internationale ;
+
+12° ter Le cas échéant, un document valant attestation sur l'honneur signé par le représentant légal de l'entreprise de
+production indiquant que la totalité des scénarios est écrite et enregistrée en version originale en langue française ;
+
 13° Une copie vidéo de l'œuvre incluant les génériques. 
 
 III.-Documentaire de création : 
@@ -36016,7 +36247,7 @@ précisément les dépenses réalisées en France, le cas échéant certifié pa
 4° Tout contrat de coproduction conclu avec une autre entreprise française ou étrangère s'il a été modifié ou non fourni au
 moment de l'autorisation préalable ; 
 
-5° Le relevé complet des génériques ; 
+5° Le relevé complet des génériques créditant notamment les conseillers historiques ou scientifiques ou les experts  ; 
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, les salaires bruts et la part patronale des charges afférentes à chacune de ces
@@ -36031,8 +36262,8 @@ compris lorsqu'il est embauché sous le statut de journaliste), directeur de la 
 chef opérateur de prise de son, ingénieur du son, chef monteur, directeur de production, producteur exécutif et l'animateur
 intervenant à l'image ; 
 
-10° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+10° Le contrat du ou des diffuseurs, y compris ceux établis à l'étranger, ses annexes et éventuels avenants s'ils n'ont pas
+été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ; 
 
 10° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
@@ -36042,7 +36273,11 @@ détaillant les moyens effectivement mis à disposition ainsi que la date et la 
 11° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son
 inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
 
-12° Une copie vidéo de l'œuvre incluant les génériques. 
+12° Une copie vidéo de l'œuvre incluant les génériques ;
+
+13° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une
+note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts
+en intégrant leur bibliographie sur le sujet traité, s'ils n'ont pas été fournis lors de l'autorisation préalable.  
 
 IV.-Adaptation audiovisuelle de spectacle vivant : 
 
@@ -36062,17 +36297,24 @@ française ou étrangère s'il a été modifié ou non fourni au moment de l'aut
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, les salaires bruts et la part patronale des charges afférentes à chacune de ces
-rémunérations ; 
+rémunérations ;
+
+6° bis Lorsqu'ils ne sont pas embauchés par l'entreprise de production déléguée, un document émanant de l'employeur attestant
+du nombre de jours de travail effectif des techniciens suivants : chef opérateur, scripte, ingénieur du son, ingénieur de la
+vision, chef monteur, mixeur, étalonneur, conseiller musical ;  
 
 7° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ; 
 
-8° Tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes ; 
+8° Tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes, ainsi que tout contrat avec les
+personnes physiques ou morales pouvant faire valoir leur droit à l'image sur le spectacle objet de l'œuvre audiovisuelle,
+notamment le contrat avec les ayants droit du spectacle et leurs annexes, s'ils n'ont pas été fournis lors de l'autorisation
+préalable ; 
 
-9° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur-
-technicien, directeur de la photographie, ingénieur du son tournage, chef-monteur, ingénieur du son mixage, scripte ; 
+9° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur,
+chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ;
 
-10° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+10° Le contrat du ou des diffuseurs, y compris ceux établis à l'étranger, ses annexes et éventuels avenants s'ils n'ont pas
+été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ; 
 
 10° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
@@ -36123,17 +36365,11 @@ détaillant les moyens effectivement mis à disposition ainsi que la date et la 
 
 11° Une copie vidéo de l'œuvre incluant les génériques.
 
-**Nota:**
-
-Conformément à l'article 8 de la délibération n° 2015/CA/15 du 24  septembre 2015, les présentes dispositions s'appliquent
-aux demandes  d'autorisation définitive adressées au Centre national du cinéma et de  l'image animée à compter du premier
-jour du mois suivant celui de la  date d'entrée en vigueur de la présente délibération.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - DÉLIBÉRATION n°2015/CA/15 du 24 septembre 2015 - art. 3, v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 33, v. init.
 
 	**Cite**:
 
@@ -41277,15 +41513,15 @@ l'attribution d'allocations directes au sens du 2° de l'article D. 311-2 du cod
 ###### Article 512-3
 
 L'attribution des allocations directes aux actions de préservation patrimoniale des œuvres cinématographiques est soumise aux
-dispositions du règlement n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles
-avec le marché intérieur en application des articles 107 et 108 du traité, notamment celles prévues par le chapitre Ier et
-l'article 53 de la section 11 relatif aux régimes d'aides en faveur de la culture et de la conservation du patrimoine.
+dispositions du régime d'aide exempté n° SA.42681, relatif aux aides en faveur de la culture et de la conservation du
+patrimoine pour la période 2014-2020, adopté sur la base du règlement n° 651/2014 de la Commission du 17 juin 2014 déclarant
+certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 34, v. init.
 
 
 ##### Paragraphe 1 : Objet et conditions d'attribution
@@ -45025,6 +45261,24 @@ Des aides financières sont attribuées sous forme automatique et sous forme sé
 	  - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
+###### Article 721-1-1
+
+L'attribution des aides financières à la promotion à l'étranger d'œuvres cinématographiques est soumise aux dispositions du
+règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché
+intérieur en application des articles 107 et 108 du traité, notamment celles prévues par le chapitre Ier et l'article 54 de
+la section 11 relatif aux régimes d'aides en faveur des œuvres audiovisuelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 35, v. init.
+
+	**Abrogé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
+
+
 ##### Sous-section 1 : Conditions relatives aux bénéficiaires 
 
 ###### Article 721-2
@@ -45292,16 +45546,18 @@ de promotion suivantes :
 
 4° Le recours à un attaché de presse et l'achat d'espace publicitaire dans la presse ; 
 
-5° Le transport des supports de diffusion et la projection. 
+5° Le transport des supports de diffusion et la projection ;
+
+6° Les frais techniques relatifs à la mise en ligne des œuvres, y compris ceux liés à la sécurisation des œuvres. 
 
 Des aides peuvent également être attribuées pour soutenir des opérations exceptionnelles de promotion, à l'exception des
 dépenses afférentes à l'organisation de réceptions ou de soirées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 36, v. init.
 
 
 ##### Paragraphe 2 : Procédure et modalités d'attribution 
@@ -45362,23 +45618,13 @@ L'aide est attribuée sous forme de subvention.
 
 ###### Article 721-20
 
-L'aide ne peut représenter plus de 50 % du montant des dépenses de promotion pour les œuvres cinématographiques qui : 
-
-1° Sont réalisées intégralement ou principalement en version originale en langue française ou dans une langue régionale en
-usage en France ; 
-
-2° Sont réalisées dans une langue étrangère mais sont produites dans le cadre d'une coproduction majoritaire française dont
-le réalisateur est de nationalité française. 
-
-L'aide ne peut représenter plus de 25 % du montant des dépenses de promotion pour les œuvres cinématographiques qui sont
-réalisées dans une langue étrangère et produites dans le cadre d'une coproduction majoritaire française mais dont le
-réalisateur est de nationalité étrangère.
+L'aide ne peut représenter plus de 50 % du montant des dépenses de promotion.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 37, v. init.
 
 
 ###### Article 721-21
@@ -45389,13 +45635,15 @@ L'aide est attribuée dans la limite des plafonds suivants :
 
 2° Un plafond de 25 000 € par œuvre ; 
 
-3° Un plafond annuel de 100 000 € par entreprise.
+3° Un plafond annuel de 130 000 € par entreprise ;
+
+4° Un plafond annuel de 4 500 € par entreprise pour la part des aides attribuée au titre du 6° de l'article 721-15.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 38, v. init.
 
 
 ##### Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises 
@@ -45493,35 +45741,25 @@ L'aide est attribuée sous forme de subvention.
 
 ###### Article 721-28
 
-L'aide ne peut représenter plus de 50 % du montant des dépenses de promotion pour les œuvres cinématographiques qui : 
-
-1° Sont réalisées intégralement ou principalement en version originale en langue française ou dans une langue régionale en
-usage en France ; 
-
-2° Sont réalisées dans une langue étrangère mais sont produites dans le cadre d'une coproduction majoritaire française dont
-le réalisateur est de nationalité française. 
-
-L'aide ne peut représenter plus de 25 % du montant des dépenses de promotion pour les œuvres cinématographiques qui sont
-réalisées dans une langue étrangère et produites dans le cadre d'une coproduction majoritaire française mais dont le
-réalisateur est de nationalité étrangère.
+L'aide ne peut représenter plus de 50 % du montant des dépenses de promotion.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 39, v. init.
 
 
 ###### Article 721-29
 
-L'aide est attribuée dans la limite d'un plafond annuel de 100 000 € par entreprise incluant, le cas échéant, le montant des
+L'aide est attribuée dans la limite d'un plafond annuel de 130 000 € par entreprise incluant, le cas échéant, le montant des
 aides à la promotion à l'étranger d'œuvres déterminées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 40, v. init.
 
 
 ##### Sous-section 3 : Commission consultative 
@@ -45556,6 +45794,24 @@ animée, afin de soutenir la promotion à l'étranger des œuvres audiovisuelles
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. D311-3 (V)
+
+
+###### Article 722-1-2
+
+L'attribution des aides financières à la promotion à l'étranger d'œuvres audiovisuelles est soumise aux dispositions du
+règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché
+intérieur en application des articles 107 et 108 du traité, notamment celles prévues par le chapitre Ier et l'article 54 de
+la section 11 relatif aux régimes d'aides en faveur des œuvres audiovisuelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 41, v. init.
+
+	**Abrogé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
 ##### Sous-section 1 : Objet et conditions d'attribution 
