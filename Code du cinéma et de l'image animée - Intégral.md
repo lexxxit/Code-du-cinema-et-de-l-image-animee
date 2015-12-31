@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2015-12-20
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -447,7 +447,8 @@ distributeur et les ayants droit de chaque œuvre ou document cinématographique
 
 	**Modifié par**:
 
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 117
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 117 (VD)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 35
 
 	**Cite**:
 
@@ -734,7 +735,7 @@ vigueur le 1er janvier 2014.
 Les redevables acquittent la taxe auprès de l'agent comptable du Centre national du cinéma et de l'image animée par acomptes
 mensuels ou trimestriels selon la périodicité de leur déclaration de taxe sur la valeur ajoutée. Ces acomptes mensuels ou
 trimestriels sont au moins égaux, respectivement, au douzième ou au quart du montant de la taxe due au titre de l'année
-civile précédente majoré de 5 %. 
+civile précédente. 
 
 Les redevables qui estiment que les acomptes déjà payés au titre de l'année atteignent le montant de la taxe dont ils seront
 en définitive redevables peuvent, après en avoir informé le Centre national du cinéma et de l'image animée, surseoir au
@@ -750,14 +751,9 @@ La taxe est acquittée par virement ou télérèglement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-	**Anciens textes**:
-
-	  - Code général des impôts, CGI. - art. 1609 sexdecies, IV, alinéa 1 (VT)
-	  - Code général des impôts, CGI. - art. 1693 quater (VT)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 115
 
 	**Cité par**:
 
@@ -765,7 +761,7 @@ La taxe est acquittée par virement ou télérèglement.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L115-24 (V)
+	  - Code du cinéma et de l'image animée - art. L115-24
 
 
 ###### Article L115-11
@@ -835,22 +831,17 @@ L. 115-10, par le redevable qui a repris l'activité.
 
 ###### Article L115-13
 
-Les régisseurs de messages publicitaires et de parrainage ou les personnes assurant l'encaissement des sommes versées par les
-annonceurs et les parrains, mentionnés au a du 1° de l'article L. 115-7 fournissent à chaque éditeur de services de
-télévision, ainsi qu'au Centre national du cinéma et de l'image animée, avant le 15 février de chaque année, un état
-récapitulatif des sommes qu'ils ont encaissées au cours de l'année civile précédente en rémunération de la diffusion de
-messages publicitaires et de parrainage par le service de télévision ou le service de télévision de rattrapage concerné. 
-
-Les personnes mentionnées au c du 1° de l'article L. 115-7 assurant l'encaissement des sommes versées par les opérateurs de
-communications électroniques fournissent à chaque éditeur de services de télévision, ainsi qu'au Centre national du cinéma et
-de l'image animée, avant le 15 février de chaque année, un état récapitulatif des sommes mentionnées au c du 1° de cet
-article qu'elles ont encaissées au cours de l'année civile précédente.
+Les régisseurs de messages publicitaires et de parrainage mentionnés au a du 1° de l'article L. 115-7 fournissent à chaque
+éditeur de services de télévision, ainsi qu'au Centre national du cinéma et de l'image animée, avant le 15 février de chaque
+année, un état récapitulatif des sommes qu'ils ont encaissées au cours de l'année civile précédente en rémunération de la
+diffusion de messages publicitaires et de parrainage par le service de télévision ou le service de télévision de rattrapage
+concerné.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 30 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 115
 
 	**Cité par**:
 
@@ -858,7 +849,7 @@ article qu'elles ont encaissées au cours de l'année civile précédente.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L115-7
+	  - Code du cinéma et de l'image animée - art. L115-7 (V)
 
 
 ##### Section 3 : Cotisations professionnelles
@@ -2825,35 +2816,35 @@ animée, et au plus tard le 1er janvier 2015.
 Les règles relatives à l'emprise au sol des surfaces, bâties ou non, affectées aux aires de stationnement annexes d'un
 établissement de spectacles cinématographiques soumis à l'autorisation prévue à l'article L. 212-7 du présent code, installé
 ou non sur le même site qu'un commerce soumis à l'autorisation prévue à l'article L. 752-1 du code de commerce, sont fixées
-par l'article L. 111-6-1 du code de l'urbanisme.
+par les articles L. 111-19 et L. 111-20 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Loi n°2014-626 du 18 juin 2014 - art. 57
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 	**Cite**:
 
 	  - Code de commerce - art. L752-1
-	  - Code de l'urbanisme - art. L111-6-1
+	  - Code de l'urbanisme - art. L111-19 (VD)
 	  - Code du cinéma et de l'image animée - art. L212-7
 
 
 ###### Article L212-12
 
 Les règles relatives à la compatibilité de l'autorisation prévue à l'article L. 212-7 avec les schémas de cohérence
-territoriale sont fixées à l'article L. 122-1-15 du code de l'urbanisme.
+territoriale sont fixées à l'article L. 142-1 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Loi n°2014-626 du 18 juin 2014 - art. 57
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-1-15
+	  - Code de l'urbanisme - art. L142-1 (VD)
 	  - Code du cinéma et de l'image animée - art. L212-7
 
 
@@ -7016,34 +7007,24 @@ Sont publiées au Bulletin officiel du cinéma et de l'image animée :
 
 1° Les directives, instructions et circulaires, prises par le président du Centre national du cinéma et de l'image animée au
 titre des prérogatives prévues à l'article L. 111-3, qui comportent une interprétation du droit positif ou une description
-des procédures administratives, en application de l'article 29 du décret n° 2005-1755 du 30 décembre 2005 relatif à la
-liberté d'accès aux documents administratifs et à la réutilisation des informations publiques, pris pour l'application de la
-loi n° 78-753 du 17 juillet 1978 ; 
+des procédures administratives, en application de l'article R. 312-3 du code des relations entre le public et
+l'administration ; 
 
 2° Lorsque le conseil d'administration en décide ainsi, les directives, instructions et circulaires du Centre national du
 cinéma et de l'image animée qui comportent une interprétation du droit positif ou une description des procédures
-administratives, en application de l'article 32 du décret du 30 décembre 2005 mentionné au 1° du présent article.
+administratives, en application de l'article R. 312-6 du code des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2015-1342 du 23 octobre 2015 - art. 3 (V)
+
 	**Cite**:
 
-	  - Loi n°78-753 du 17 juillet 1978 (V)
-	  - Décret n°2005-1755 du 30 décembre 2005 - art. 29 (V)
-	  - Décret n°2005-1755 du 30 décembre 2005 - art. 32 (V)
 	  - Code du cinéma et de l'image animée - art. L111-3 (V)
-
-	**Anciens textes**:
-
-	  - Arrêté du 5 novembre 2010 - art. 2, alinéa 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
+	  - Code des relations entre le public et l'adminis... - art. R312-3 (V)
+	  - Code des relations entre le public et l'adminis... - art. R312-6 (V)
 
 
 ###### Article A112-33
@@ -22356,7 +22337,27 @@ Les modalités de versement et de reversement des allocations directes sont fix�
 	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
 
 
-##### Section 1 : Aides financières sélectives 
+##### Section 2 : Aides financières sélectives
+
+###### Article 212-8
+
+Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
+animée, afin de soutenir l'élaboration et le développement de projets d'œuvres cinématographiques de longue durée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 212-1 (T)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. Annexe 2-13 (V)
+
 
 ##### Sous-section 1 : Aides à la conception de projets 
 
@@ -23510,40 +23511,6 @@ d'un an renouvelable.
 
 	  - Code du cinéma et de l'image animée - art. 212-56 (T)
 
-
-##### Section 2 : Aides financières sélectives
-
-###### Article 212-8
-
-Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
-animée, afin de soutenir l'élaboration et le développement de projets d'œuvres cinématographiques de longue durée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 2, v. init.
-
-	**Anciens textes**:
-
-	  - Code du cinéma et de l'image animée - art. 212-1 (T)
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. Annexe 2-13 (V)
-
-
-##### Sous-section 1 : Aides à la conception de projets 
-
-##### Sous-section 2 : Aides à l'écriture de scénario 
-
-##### Sous-section 3 : Aides à la réécriture de scénario 
-
-##### Sous-section 4 : Aides au développement de projets 
-
-
-
-##### Sous-section 5 : Commissions consultatives 
 
 ### Titre II : Aides financières à la distribution cinématographique 
 
@@ -30391,8 +30358,9 @@ aux aides automatiques à la préparation et aux aides à la production de " pil
 
 ###### Article 311-9
 
-Les œuvres audiovisuelles admises au bénéfice des aides financières automatiques sont également des œuvres conçues pour une
-mise à disposition du public par un ou plusieurs éditeurs de services à la demande, établis en France. 
+Les œuvres audiovisuelles admises au bénéfice des aides financières automatiques et des aides financières sélectives pour les
+œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant  sont également des œuvres conçues pour une mise à
+disposition du public par un ou plusieurs éditeurs de services à la demande, établis en France. 
 
 Ces éditeurs de services sont : 
 
@@ -30426,9 +30394,9 @@ contrôlent pas, au sens du même article, l'éditeur de services.
 	  - Décret n°2010-1379 du 12 novembre 2010 -  CHAPITRE II : DISPOSITIONS PERMETTANT DE GARANT... (V)
 	  - Code de commerce - art. L233-3 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 9, v. init.
 
 	**Cité par**:
 
@@ -30471,14 +30439,16 @@ Lorsqu'il est requis, l'apport initial doit :
 internationale. Pour les aides sélectives, cet apport peut être inférieur à 25 % ; 
 
 2° Comporter, en ce qui concerne l'apport du ou des éditeurs de services de télévision, une part minimale en numéraire dont
-le montant horaire est fixé à 12 000 €. Pour le bénéfice des aides automatiques, cette condition s'applique sous réserve des
-dispositions de l'article 311-81. Elle ne s'applique pas pour le bénéfice des aides sélectives.
+le montant horaire est fixé à 12 000 € pour les œuvres appartenant aux genres fiction, animation et documentaire de création
+et à 15 000 € pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant. Pour le bénéfice des aides
+automatiques, cette condition s'applique sous réserve des dispositions de l'article 311-81. Elle ne s'applique pas pour le
+bénéfice des aides sélectives.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 10, v. init.
 
 	**Cité par**:
 
@@ -30536,16 +30506,17 @@ Les entreprises ou organismes ne détiennent pas, directement ou indirectement, 
 12,5 % de la participation française en cas de coproduction internationale. 
 
 L'apport initial doit être au moins égal à 25 % du coût définitif de l'œuvre ou à 25 % de la participation française en cas
-de coproduction internationale. 
+de coproduction internationale. En outre, pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant,
+le montant horaire de l'apport initial en numéraire des éditeurs de services à la demande est fixé à 15 000 €.
 
 La condition d'apport initial n'est pas requise pour l'éligibilité des œuvres audiovisuelles aux aides automatiques à la
 préparation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 12, v. init.
 
 	**Cite**:
 
@@ -30556,6 +30527,37 @@ préparation.
 
 	  - Code du cinéma et de l'image animée - art. 311-30 (M)
 	  - Code du cinéma et de l'image animée - art. 311-47 (V)
+
+
+###### Article 311-12-1
+
+Pour être admises au bénéfice des aides financières sélectives, les œuvres appartenant au genre adaptation audiovisuelle de
+spectacle vivant doivent être financées par un apport initial en numéraire provenant : 
+
+1° Soit d'un ou plusieurs éditeurs de services à la demande. Dans ce cas, l'apport est réalisé sous forme d'un contrat
+d'achat de droits de mise à disposition du public de l'œuvre conclu avec l'entreprise de production avant la fin des prises
+de vues ; 
+
+2° Soit d'un ou plusieurs éditeurs de services à la demande et d'autres entreprises ou organismes, établis en France, en
+application d'un contrat conclu avec l'entreprise de production, sous réserve des dispositions des articles 122-28 et 311-7.
+Les entreprises ou organismes ne détiennent pas, directement ou indirectement, de parts de producteur et l'apport du ou des
+éditeurs de services, réalisé dans les conditions prévues au 1°, est au moins égal à la moitié du montant total de l'apport
+initial en numéraire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 13, v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 122-28 (V)
+	  - Code du cinéma et de l'image animée - art. 311-7 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. 311-30 (VD)
 
 
 ###### Article 311-13
@@ -30727,8 +30729,10 @@ spectacle vivant doivent être produites par des entreprises de production dél�
 
 1° Détiennent, en cas de coproduction, au moins 30 % des parts de producteur ; 
 
-2° Acquièrent les droits de propriété intellectuelle pour des modes d'exploitation multiples, au moins pour le territoire
-français et pour une durée minimale de cinq ans ; 
+2° Détiennent les droits de propriété intellectuelle pour au moins deux modes d'exploitation distincts, au moins pour le
+territoire de l'Union européenne et pour une durée minimale de cinq ans. Cette durée minimale est ramenée à trois ans pour
+les adaptations audiovisuelles portant sur des musiques dites "musiques actuelles". Une partie de ces droits peut être
+détenue par un coproducteur qui n'agit pas en qualité d'entreprise de production déléguée.
 
 3° Sont propriétaires ou copropriétaires à hauteur des parts minimales de producteur mentionnées au 1° des éléments matériels
 de l'œuvre pour la durée de détention des droits de propriété intellectuelle, sans rétrocession ; 
@@ -30737,9 +30741,9 @@ de l'œuvre pour la durée de détention des droits de propriété intellectuell
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 14, v. init.
 
 
 ##### Sous-section 4 : Conditions relatives à l'intensité des aides 
@@ -31008,9 +31012,10 @@ d'épisodes dénommé " saison ".
 
 ###### Article 311-33
 
-L'inscription d'une œuvre audiovisuelle sur la liste des œuvres de référence est effectuée à la demande de l'entreprise de
-production jusqu'au 15 janvier de l'année qui suit celle au cours de laquelle cette œuvre a été, pour la première fois,
-diffusée sur un service de télévision ou mise à disposition du public sur un service à la demande. 
+L'inscription d'une œuvre audiovisuelle sur la liste des œuvres de référence est effectuée jusqu'au 15 janvier de l'année qui
+suit celle au cours de laquelle cette œuvre a été diffusée pour la première fois sur un service de télévision ou mise à
+disposition du public sur un service à la demande sous réserve que l'entreprise de production déléguée en ait fait la demande
+dans les quinze jours qui suivent la fin du trimestre au cours duquel a eu lieu cette diffusion ou cette mise à disposition.
 
 Toutefois, lorsqu'une œuvre n'a pas fait l'objet d'une diffusion ou d'une mise à disposition du public dans le délai d'un an
 après l'acceptation dûment renseignée et certifiée de sa version définitive par l'éditeur d'un des services précités, la
@@ -31018,9 +31023,9 @@ demande doit être effectuée au plus tard le 15 janvier de l'année qui suit l'
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 5, v. init.
 
 
 ###### Article 311-34
@@ -31409,20 +31414,20 @@ I.-Les œuvres sont réparties en deux groupes :
 1° Premier groupe : œuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 400 000 € ; 
 
 2° Deuxième groupe : œuvres dont le montant des dépenses horaires françaises est inférieur à 400 000 € et supérieur ou égal à
-48 000 €. 
+54 000 €. 
 
 II.-Les coefficients appliqués à la durée ou à la durée cumulée des œuvres sont les suivants : 
 
 1° Premier groupe : 3 ; 
 
-2° Deuxième groupe : le coefficient varie entre 3 et 0,5 proportionnellement au montant des dépenses horaires françaises. Ce
+2° Deuxième groupe : le coefficient varie entre 3 et 0,54 proportionnellement au montant des dépenses horaires françaises. Ce
 coefficient est arrondi aux quatre chiffres après la virgule.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 20, v. init.
 
 
 ###### Article 311-46-1
@@ -32278,11 +32283,13 @@ financières automatiques sont attribuées après avis de la commission spécial
 sélectives, sauf lorsque l'œuvre a donné lieu à un avis favorable pour l'attribution d'une aide financière à l'élaboration et
 au développement de projets d'œuvres audiovisuelles.
 
+Ces dispositions ne sont pas applicables aux œuvres appartenant au genre adaptation de spectacle vivant.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 29, v. init.
 
 	**Cité par**:
 
@@ -32471,22 +32478,31 @@ d'un compte automatique, pour la production d'œuvres audiovisuelles appartenant
 
 1° Documentaire de création ; 
 
-2° Magazine, présentant un intérêt particulier d'ordre essentiellement culturel. 
+2° Magazine, présentant un intérêt particulier d'ordre essentiellement culturel ; 
+
+3° Adaptation audiovisuelle de spectacle vivant. 
 
 Les documentaires de création éligibles sont ceux destinés à être insérés au sein de cases de programmation consacrées à la
 diffusion de magazines autres que ceux mentionnés au 2° et dont la durée ou la durée cumulée, par œuvre unitaire ou par
-épisode, est inférieure à 45 minutes.
+épisode, est inférieure à 45 minutes. 
+
+Les adaptations audiovisuelles de spectacle vivant éligibles sont celles qui ne répondent pas à une ou plusieurs des
+conditions prévues à l'article 311-57-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 30, v. init.
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. 311-30 (VD)
 	  - Code du cinéma et de l'image animée - art. 311-57 (VD)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. 311-57-1 (V)
 
 
 ###### Article 311-93
