@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2016-05-04
+Version Consolidée au 2016-07-09
 
 # Partie législative
 
@@ -3356,7 +3356,7 @@ de spectacles cinématographiques des exploitants associés, ni clause d'apparte
 Le contrôle des recettes d'exploitation des œuvres et documents cinématographiques ou audiovisuels dans les établissements de
 spectacles cinématographiques est organisé dans les conditions suivantes : 
 
-1° Les exploitants d'établissements de spectacles cinématographiques délivrent un billet d'entrée à chaque spectateur ou
+1° Les exploitants d'établissements de spectacles cinématographiques délivrent un droit d'entrée à chaque spectateur ou
 enregistrent et conservent dans un système informatisé les données relatives à l'entrée, avant tout accès du spectateur à une
 salle de spectacles cinématographiques ; 
 
@@ -3369,6 +3369,25 @@ l'article L. 102 B du livre des procédures fiscales ;
 3° Les exploitants d'établissements de spectacles cinématographiques adressent, à la fin de chaque semaine cinématographique,
 au Centre national du cinéma et de l'image animée une déclaration des recettes réalisées pour chaque programme
 cinématographique représenté dans les salles de leurs établissements. Cette déclaration est transmise par voie électronique.
+Ils communiquent également cette déclaration de recettes aux distributeurs et à une société de perception et de répartition
+des droits relevant du titre II du livre III de la première partie du code de la propriété intellectuelle chargée des droits
+musicaux lorsqu'il existe un accord entre une telle société et les exploitants d'établissements de spectacles
+cinématographiques ou leurs représentants. Toutefois, le Centre national du cinéma et de l'image animée peut se charger, en
+lieu et place des exploitants, de la transmission de la déclaration de recettes, sous quelque forme que ce soit, aux
+distributeurs et, le cas échéant, à la société de perception et de répartition des droits précitée ; 
+
+4° Les fabricants, les importateurs ou les marchands de billets d'entrée déclarent au Centre national du cinéma et de l'image
+animée la livraison de ces billets aux établissements de spectacles cinématographiques ; 
+
+5° Les constructeurs et les fournisseurs de systèmes informatisés de billetterie font homologuer ces systèmes par le Centre
+national du cinéma et de l'image animée, sur la base de leur conformité à un cahier des charges, et déclarent au Centre
+national du cinéma et de l'image animée la livraison de ces systèmes aux établissements de spectacles cinématographiques ; 
+
+6° Les installateurs de systèmes informatisés de billetterie déclarent au Centre national du cinéma et de l'image animée
+l'installation de ces systèmes dans les établissements de spectacles cinématographiques. Ils déclarent également, ainsi que
+les exploitants d'établissements de spectacles cinématographiques, l'état des compteurs de numérotation lors de toute mise en
+service, de tout changement de lieu d'implantation et de toute modification technique nécessitant l'intervention du
+constructeur ou du fournisseur.
 
 **Liens relatifs à cet article**
 
@@ -3395,17 +3414,77 @@ cinématographique représenté dans les salles de leurs établissements. Cette 
 	  - Code du cinéma et de l'image animée - art. L433-1 (V)
 	  - Code du cinéma et de l'image animée - art. L441-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 7
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 27
 
 	**Cite**:
 
+	  - Code de la propriété intellectuelle -  Titre II : Sociétés de perception et de réparti... (V)
 	  - Livre des procédures fiscales - art. L102 B
 
-	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. L212-26 (T)
+###### Article L212-33
+
+Le droit d'entrée à une séance de spectacles cinématographiques organisée par un exploitant d'établissement de spectacles
+cinématographiques est individuel. Sa tarification est organisée en catégories selon des modalités fixées par voie
+réglementaire.
+
+Sauf dérogation, il ne peut être délivré de droits d'entrée non liés à un système informatisé de billetterie en dehors des
+établissements de spectacles cinématographiques.
+
+Le droit d'entrée est conservé par le spectateur jusqu'à la fin de la séance de spectacles cinématographiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 27
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L212-34
+
+Le fait, pour un exploitant d'établissement de spectacles cinématographiques, d'offrir à un spectateur, quelles que soient
+les modalités de l'offre, la vente d'un droit d'entrée à une séance de spectacle cinématographique : 
+
+1° Soit associée, avec ou sans supplément de prix, à la remise d'un bien ou à la fourniture d'un service ; 
+
+2° Soit dans le cadre d'un service de vente ou de réservation en ligne, 
+
+ne peut avoir pour effet d'entraîner une diminution de la valeur de ce droit d'entrée par rapport au prix de vente du droit
+d'entrée qui aurait été remis au spectateur, dans les mêmes conditions et pour la même séance, s'il n'avait pas choisi cette
+offre ou n'en avait pas bénéficié, ce prix constituant dans tous les cas l'assiette de la taxe prévue à l'article L. 115-1 et
+l'assiette de la répartition des recettes prévue à l'article L. 213-10.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 27
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L115-1 (V)
+	  - Code du cinéma et de l'image animée - art. L213-10 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L212-35
+
+Les modalités d'application de la présente section sont fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 27
 
 
 #### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques
@@ -3956,20 +4035,31 @@ l'image animée.
 
 Les exploitants d'établissements de spectacles cinématographiques transmettent aux distributeurs les données extraites des
 journaux de fonctionnement des équipements de projection numérique relatives à l'exploitation des œuvres cinématographiques
-de longue durée que ces distributeurs ont mises à leur disposition. 
+de longue durée que ces distributeurs ont mises à leur disposition. Toutefois, le Centre national du cinéma et de l'image
+animée peut se charger, en lieu et place des exploitants, de la transmission aux distributeurs intéressés.
 
 Les exploitants d'établissements de spectacles cinématographiques transmettent également au Centre national du cinéma et de
 l'image animée les données extraites des journaux de fonctionnement précités relatives à toutes les utilisations de leurs
 équipements de projection numérique. 
 
-Les données mentionnées aux alinéas précédents, leurs modalités et leur périodicité de transmission sont fixées par décision
-du président du Centre national du cinéma et de l'image animée.
+Les exploitants d'établissements de spectacles cinématographiques ou les installateurs de leurs équipements de projection
+numérique transmettent au Centre national du cinéma et de l'image animée les certificats de ces équipements.
+
+Les distributeurs et les régisseurs de messages publicitaires qui mettent à la disposition des exploitants d'établissements
+de spectacles cinématographiques, sous forme de fichiers numériques, des œuvres ou des documents cinématographiques ou
+audiovisuels, ou les laboratoires qui réalisent pour ces distributeurs et ces régisseurs les fichiers numériques transmettent
+au Centre national du cinéma et de l'image animée les identifiants universels uniques de ces fichiers numériques ainsi que
+les numéros internationaux normalisés des œuvres et documents concernés ou tout numéro permettant de les identifier.
+
+Les modalités et la périodicité de la transmission des données, certificats, identifiants et numéros mentionnés au présent
+article ainsi que les modalités et la durée de la conservation de ces informations sont fixées par décision du président du
+Centre national du cinéma et de l'image animée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1149 du 30 septembre 2010 - art. 1
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 27
 
 	**Cité par**:
 
@@ -4014,6 +4104,428 @@ ayant concouru à l'équipement numérique des salles de l'établissement de spe
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. L212-23
+
+
+#### Chapitre III bis : Transparence des comptes de production et d'exploitation des œuvres cinématographiques de longue durée 
+
+
+
+##### Section 1 : Transparence des comptes de production 
+
+##### Sous-section 1 : Obligations des producteurs délégués 
+
+###### Article L213-24
+
+Tout producteur qui, en sa qualité de producteur délégué, a pris l'initiative et la responsabilité financière, artistique et
+technique de la réalisation d'une œuvre cinématographique de longue durée, admise au bénéfice des aides financières à la
+production du Centre national du cinéma et de l'image animée et dont il a garanti la bonne fin doit, dans les huit mois
+suivant la date de délivrance du visa d'exploitation cinématographique, établir et transmettre le compte de production de
+l'œuvre aux autres coproducteurs, aux entreprises avec lesquelles il a conclu un contrat de financement leur conférant un
+intéressement aux recettes d'exploitation ainsi qu'aux auteurs énumérés à l'article L. 113-7 du code de la propriété
+intellectuelle et, le cas échéant, aux éditeurs cessionnaires des droits d'adaptation audiovisuelle d'une œuvre imprimée, dès
+lors qu'il a conclu avec ces auteurs ou éditeurs un contrat leur conférant un intéressement aux recettes d'exploitation de
+l'œuvre, conditionné à l'amortissement du coût de production. 
+
+Le compte de production est également transmis à toute autre personne physique ou morale avec laquelle le producteur délégué
+a conclu un contrat lui conférant un intéressement aux recettes d'exploitation de l'œuvre, conditionné à l'amortissement du
+coût de production. Lorsqu'il existe une convention collective ou un accord spécifique rendu obligatoire sur le fondement de
+l'article L. 212-8 du même code prévoyant, au profit des artistes-interprètes, une rémunération conditionnée à
+l'amortissement du coût de production de l'œuvre, le producteur délégué transmet le compte de production à ces derniers ou à
+une société de perception et de répartition des droits des artistes-interprètes mentionnée au titre II du livre III de la
+première partie dudit code désignée à cet effet. Lorsqu'un intéressement aux recettes d'exploitation de l'œuvre est déterminé
+en fonction de l'amortissement de certains éléments du coût de production, le producteur délégué transmet ces éléments, ainsi
+que le coût de production, au bénéficiaire de l'intéressement. 
+
+Le compte de production comprend l'ensemble des dépenses engagées pour la préparation, la réalisation et la postproduction de
+l'œuvre, en arrête le coût définitif et indique les moyens de son financement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+	  - Code de la propriété intellectuelle - art. L212-8 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L213-26 (V)
+	  - Code du cinéma et de l'image animée - art. L213-27 (M)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L213-25
+
+La forme du compte de production, la définition des différentes catégories de dépenses qui le composent ainsi que la nature
+des moyens de financement sont déterminées par accord professionnel conclu entre les organisations professionnelles
+représentatives des producteurs d'œuvres cinématographiques de longue durée, les organismes professionnels d'auteurs et les
+sociétés de perception et de répartition des droits des auteurs mentionnées au titre II du livre III de la première partie du
+code de la propriété intellectuelle. L'accord peut être rendu obligatoire pour l'ensemble des intéressés du secteur
+d'activité concerné par arrêté de l'autorité compétente de l'Etat. 
+
+A défaut d'accord professionnel rendu obligatoire dans le délai d'un an à compter de la promulgation de la loi n° 2016-925 du
+7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, la forme du compte de production, la
+définition des dépenses de préparation, de réalisation et de postproduction d'une œuvre ainsi que la nature des moyens de
+financement sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L213-26
+
+Le contrat de coproduction, le contrat de financement ainsi que les contrats conclus avec les auteurs et avec toute autre
+personne physique ou morale bénéficiant d'un intéressement aux recettes d'exploitation de l'œuvre, conditionné à
+l'amortissement du coût de production ou déterminé en fonction de l'amortissement de certains éléments de ce coût, comportent
+une clause rappelant les obligations résultant de l'article L. 213-24.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-24 (V)
+
+
+##### Sous-section 2 : Audit des comptes de production
+
+###### Article L213-27
+
+Le Centre national du cinéma et de l'image animée peut, dans les trois ans suivant la date de délivrance du visa
+d'exploitation cinématographique, procéder ou faire procéder par un expert indépendant à un audit du compte de production
+mentionné à l'article L. 213-24. Cet audit a pour objet de contrôler la régularité et la sincérité du compte. 
+
+Le producteur délégué transmet au Centre national du cinéma et de l'image animée ou à l'expert indépendant tous les documents
+ou pièces utiles à la réalisation de l'audit. 
+
+Le Centre national du cinéma et de l'image animée transmet le projet de rapport d'audit au producteur délégué qui présente
+ses observations. Le rapport d'audit définitif est transmis au producteur délégué, aux autres coproducteurs, aux entreprises
+avec lesquelles le producteur délégué a conclu un contrat de financement leur conférant un intéressement aux recettes
+d'exploitation ainsi qu'aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle et, le cas échéant,
+aux éditeurs cessionnaires des droits d'adaptation audiovisuelle d'une œuvre imprimée, dès lors qu'il a conclu avec ces
+auteurs ou éditeurs un contrat leur conférant un intéressement aux recettes d'exploitation de l'œuvre, conditionné à
+l'amortissement du coût de production. 
+
+Le Centre national du cinéma et de l'image animée transmet également le rapport d'audit définitif à toute autre personne
+physique ou morale avec laquelle le producteur délégué a conclu un contrat lui conférant un intéressement aux recettes
+d'exploitation de l'œuvre, conditionné à l'amortissement du coût de production. Lorsqu'il existe une convention collective ou
+un accord spécifique rendu obligatoire sur le fondement de l'article L. 212-8 du même code prévoyant, au profit des artistes-
+interprètes, une rémunération conditionnée à l'amortissement du coût de production de l'œuvre, le Centre national du cinéma
+et de l'image animée transmet le rapport d'audit définitif à ces derniers ou à une société de perception et de répartition
+des droits des artistes-interprètes mentionnée au titre II du livre III de la première partie dudit code désignée à cet
+effet. Lorsqu'un intéressement aux recettes d'exploitation de l'œuvre est déterminé en fonction de l'amortissement de
+certains éléments du coût de production, le Centre national du cinéma et de l'image animée transmet les informations
+relatives à ces éléments et au coût de production au bénéficiaire de l'intéressement. 
+
+Lorsque le rapport d'audit révèle l'existence d'une fausse déclaration pour le bénéfice des aides financières à la production
+du Centre national du cinéma et de l'image animée, celui-ci peut procéder au retrait de l'aide attribuée après que le
+bénéficiaire a été mis à même de faire valoir ses observations. En outre, lorsque le rapport d'audit révèle un manquement
+mentionné à l'article L. 421-1 du présent code, celui-ci est constaté et sanctionné dans les conditions prévues au livre IV.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+	  - Code de la propriété intellectuelle - art. L212-8 (V)
+	  - Code du cinéma et de l'image animée - art. L213-24 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D213-12 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+##### Section 2 : Transparence des comptes d'exploitation
+
+##### Sous-section 1 : Obligations des distributeurs
+ 
+
+
+
+###### Article L213-28
+
+Tout distributeur qui, en sa qualité de cessionnaire ou de mandataire, dispose de droits d'exploitation pour la
+commercialisation d'une œuvre cinématographique de longue durée admise au bénéfice des aides financières à la production du
+Centre national du cinéma et de l'image animée doit, dans les six mois suivant la sortie en salles, puis au moins une fois
+par an pendant la durée d'exécution du contrat conclu avec le producteur délégué, établir et transmettre à ce dernier le
+compte d'exploitation de cette œuvre. 
+
+Les éléments du compte d'exploitation sont fournis pour chaque mode d'exploitation de l'œuvre en France ainsi que pour chaque
+territoire d'exploitation de l'œuvre à l'étranger, sauf pour ceux de ces éléments qui ne sont pas individualisables. Les
+coûts d'exploitation et leur état d'amortissement ne sont indiqués que lorsqu'ils sont pris en compte pour le calcul du
+montant des recettes nettes revenant au producteur. Les aides financières perçues par le distributeur et les frais généraux
+d'exploitation ne sont indiqués qu'en tant qu'ils se rapportent à l'œuvre concernée. L'état d'amortissement des minima
+garantis est indiqué dans tous les cas.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L213-30 (V)
+	  - Code du cinéma et de l'image animée - art. L213-31 (V)
+	  - Code du cinéma et de l'image animée - art. L213-33 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L213-29
+
+La forme du compte d'exploitation ainsi que la définition des encaissements bruts, des coûts d'exploitation et des frais
+généraux d'exploitation sont déterminées par accord professionnel conclu entre les organisations représentatives des
+producteurs d'œuvres cinématographiques de longue durée, les organisations professionnelles représentatives des distributeurs
+de ces œuvres, les organismes professionnels d'auteurs et les sociétés de perception et de répartition des droits des auteurs
+mentionnées au titre II du livre III de la première partie du code de la propriété intellectuelle. L'accord peut être rendu
+obligatoire pour l'ensemble des intéressés du secteur d'activité concerné par arrêté de l'autorité compétente de l'Etat. 
+
+A défaut d'accord professionnel rendu obligatoire dans le délai d'un an à compter de la promulgation de la loi n° 2016-925 du
+7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, la forme du compte d'exploitation
+ainsi que la définition des encaissements bruts, des coûts d'exploitation et des frais généraux d'exploitation sont fixées
+par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L213-30
+
+Le contrat de cession de droits d'exploitation ou le contrat de mandat de commercialisation comporte une clause rappelant les
+obligations résultant de l'article L. 213-28.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-28 (V)
+
+
+###### Article L213-31
+
+Les obligations résultant de l'article L. 213-28 ne sont applicables ni aux exploitants d'établissements de spectacles
+cinématographiques, ni aux éditeurs de services de télévision, ni aux éditeurs de services de médias audiovisuels à la
+demande au titre des acquisitions de droits de diffusion ou de mise à disposition du public sur les services qu'ils éditent
+réalisées en contrepartie d'un prix forfaitaire et définitif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-28 (V)
+
+
+##### Sous-section 2 : Obligations des producteurs délégués
+
+###### Article L213-32
+
+Le producteur délégué transmet le compte d'exploitation qui lui est remis en application de la sous-section 1 de la présente
+section aux autres coproducteurs, aux entreprises auxquelles il est lié par un contrat de financement leur conférant un
+intéressement aux recettes d'exploitation, aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle
+ainsi que, le cas échéant, aux éditeurs cessionnaires des droits d'adaptation audiovisuelle d'une œuvre imprimée. Pour les
+auteurs, cette transmission tient lieu de la fourniture de l'état des recettes prévue à l'article L. 132-28 du même code. 
+
+Le compte d'exploitation est également transmis à toute autre personne physique ou morale avec laquelle le producteur délégué
+a conclu un contrat lui conférant un intéressement aux recettes d'exploitation de l'œuvre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+	  - Code de la propriété intellectuelle - art. L132-28 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D213-13 (V)
+	  - Code du cinéma et de l'image animée - art. L213-34 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L213-33
+
+Lorsque, pour un ou plusieurs des modes d'exploitation, le producteur délégué exploite directement une œuvre
+cinématographique de longue durée, il établit le compte d'exploitation correspondant, conformément à la sous-section 1 de la
+présente section. 
+
+Dans les délais prévus à l'article L. 213-28 du présent code, le producteur délégué transmet le compte d'exploitation aux
+autres coproducteurs, aux entreprises auxquelles il est lié par un contrat de financement leur conférant un intéressement aux
+recettes d'exploitation, aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle, ainsi que, le cas
+échéant, aux éditeurs cessionnaires des droits d'adaptation audiovisuelle d'une œuvre imprimée. Pour les auteurs, cette
+transmission tient lieu de la fourniture de l'état des recettes prévue à l'article L. 132-28 du même code. 
+
+Le compte d'exploitation est également transmis à toute autre personne physique ou morale avec laquelle le producteur délégué
+a conclu un contrat lui conférant un intéressement aux recettes d'exploitation de l'œuvre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+	  - Code de la propriété intellectuelle - art. L132-28 (V)
+	  - Code du cinéma et de l'image animée - art. L213-28 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D213-14 (V)
+	  - Code du cinéma et de l'image animée - art. L213-35 (V)
+
+
+###### Article L213-34
+
+Lorsqu'un contrat de cession de droits de diffusion d'une œuvre cinématographique à un éditeur de services de télévision
+prévoit une rémunération complémentaire en fonction des résultats d'exploitation de cette œuvre en salles de spectacles
+cinématographiques, le producteur délégué joint à la transmission du compte d'exploitation prévue aux articles L. 213-32 et
+L. 213-33 les informations relatives au versement de cette rémunération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-32 (V)
+
+
+##### Sous-section 3 : Audit des comptes d'exploitation
+
+###### Article L213-35
+
+Le Centre national du cinéma et de l'image animée peut procéder ou faire procéder par un expert indépendant à un audit du
+compte d'exploitation. Cet audit a pour objet de contrôler la régularité et la sincérité du compte. 
+
+Le distributeur ou, le cas échéant, le producteur délégué transmet au Centre national du cinéma et de l'image animée ou à
+l'expert indépendant tous les documents ou pièces utiles à la réalisation de l'audit. 
+
+Le Centre national du cinéma et de l'image animée transmet le projet de rapport d'audit au distributeur ou au producteur
+délégué dans le cas prévu à l'article L. 213-33 du présent code, qui présente ses observations. Le rapport d'audit définitif
+est transmis au distributeur, au producteur délégué, aux autres coproducteurs, aux auteurs énumérés à l'article L. 113-7 du
+code de la propriété intellectuelle et, le cas échéant, aux éditeurs cessionnaires des droits d'adaptation audiovisuelle
+d'une œuvre imprimée. 
+
+Le Centre national du cinéma et de l'image animée porte également à la connaissance de toute personne physique ou morale avec
+laquelle le producteur délégué a conclu un contrat conférant à cette personne un intéressement aux recettes d'exploitation de
+l'œuvre les informations relatives à cet intéressement. 
+
+Lorsque le rapport d'audit révèle un manquement mentionné à l'article L. 421-1 du présent code, celui-ci est constaté et
+sanctionné dans les conditions prévues au livre IV.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+	  - Code du cinéma et de l'image animée - art. L213-33 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D213-14 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L213-36
+
+Lorsqu'un accord professionnel, rendu obligatoire sur le fondement de l'article L. 132-25 du code de la propriété
+intellectuelle, dans sa rédaction antérieure à la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à
+l'architecture et au patrimoine, ou de l'article L. 132-25-1 du même code, prévoit notamment la définition du coût de
+production d'une œuvre cinématographique de longue durée, des modalités de son amortissement et des recettes nettes, le
+Centre national du cinéma et de l'image animée peut procéder ou faire procéder par un expert indépendant à un audit du compte
+d'exploitation établi par le producteur délégué en application de cet accord. 
+
+Le producteur délégué transmet au Centre national du cinéma et de l'image animée ou à l'expert indépendant tous les documents
+ou pièces utiles à la réalisation de l'audit. 
+
+Le Centre national du cinéma et de l'image animée transmet le projet de rapport d'audit au producteur délégué qui présente
+ses observations. Le rapport d'audit définitif est transmis au producteur délégué, ainsi qu'aux auteurs énumérés à l'article
+L. 113-7 dudit code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 (V)
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+	  - Code de la propriété intellectuelle - art. L132-25 (V)
+	  - Code de la propriété intellectuelle - art. L132-25-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D213-15 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L213-37
+
+Un décret fixe les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+
+	**Cité par**:
+
+	  - Décret n°2017-40 du 16 janvier 2017 (V)
 
 
 #### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques
@@ -4484,15 +4996,13 @@ services représentatifs d'une ou plusieurs catégories de services ;
 
 3° Un ensemble d'éditeurs de services représentatifs d'une ou plusieurs catégories de services.
 
+L'arrêté rend obligatoire ces accords pour une durée maximale de trois ans.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-	**Anciens textes**:
-
-	  - Code de l'industrie cinématographique - art. 30-7, alinéas 1 à 4 (Ab)
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 28
 
 	**Cité par**:
 
@@ -4536,6 +5046,401 @@ prévues par les dispositions du titre III du livre Ier du code du patrimoine.
 	**Créé par**:
 
 	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+
+### Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles
+
+#### Chapitre unique : Transparence des comptes de production et d'exploitation des œuvres audiovisuelles 
+
+
+
+##### Section 1 : Transparence des comptes de production
+
+##### Sous-section 1 : Obligations des producteurs délégués 
+
+
+###### Article L251-1
+
+Tout producteur qui, en sa qualité de producteur délégué, a pris l'initiative et la responsabilité financière, artistique et
+technique de la réalisation d'une œuvre audiovisuelle appartenant aux genres de la fiction, de l'animation, du documentaire
+de création ou de l'adaptation audiovisuelle de spectacle vivant, admise au bénéfice des aides financières à la production du
+Centre national du cinéma et de l'image animée et dont il a garanti la bonne fin doit, dans les six mois suivant la date
+d'achèvement de l'œuvre audiovisuelle, établir et transmettre le compte de production de l'œuvre aux autres coproducteurs,
+aux entreprises avec lesquelles il a conclu un contrat de financement leur conférant un intéressement aux recettes
+d'exploitation, aux éditeurs de services de télévision qui ont contribué au financement de la production de l'œuvre ainsi
+qu'aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle et, le cas échéant, aux éditeurs
+cessionnaires des droits d'adaptation audiovisuelle d'une œuvre imprimée, dès lors qu'il a conclu avec ces auteurs ou
+éditeurs un contrat leur conférant un intéressement aux recettes d'exploitation de l'œuvre, conditionné à l'amortissement du
+coût de production. 
+
+Le compte de production est également transmis à toute autre personne physique ou morale avec laquelle le producteur délégué
+a conclu un contrat lui conférant un intéressement aux recettes d'exploitation de l'œuvre, conditionné à l'amortissement du
+coût de production. 
+
+Le compte de production comprend l'ensemble des dépenses engagées pour la préparation, la réalisation et la postproduction de
+l'œuvre, en arrête le coût définitif et indique les moyens de son financement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D251-1 (V)
+	  - Code du cinéma et de l'image animée - art. L251-3 (V)
+	  - Code du cinéma et de l'image animée - art. L251-4 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L251-2
+
+La forme du compte de production, la définition des différentes catégories de dépenses, la nature des moyens de financement
+ainsi que les modalités d'amortissement du coût de production sont déterminées par un ou plusieurs accords professionnels
+conclus entre les organisations professionnelles représentatives des producteurs d'œuvres audiovisuelles et, ensemble ou
+séparément, les organisations professionnelles représentatives des distributeurs de ces œuvres, les organisations
+professionnelles représentatives des éditeurs de services de télévision, ou un ensemble d'éditeurs de services de télévision
+représentatifs, les organismes professionnels d'auteurs et les sociétés de perception et de répartition des droits des
+auteurs mentionnées au titre II du livre III de la première partie du code de la propriété intellectuelle. Les accords
+peuvent être rendus obligatoires pour l'ensemble des intéressés des secteurs d'activité concernés par arrêté de l'autorité
+compétente de l'Etat. 
+
+A défaut d'accords professionnels rendus obligatoires dans le délai d'un an à compter de la publication de la loi n° 2016-925
+du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, la forme du compte de production,
+la définition des dépenses de préparation, de réalisation et de postproduction d'une œuvre, la nature des moyens de
+financement ainsi que les modalités d'amortissement du coût de production sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 (V)
+	  - Code de la propriété intellectuelle -  Titre II : Sociétés de perception et de réparti... (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L251-3
+
+Le contrat de coproduction, le contrat de financement ainsi que les contrats conclus avec les auteurs et avec toute autre
+personne physique ou morale bénéficiant d'un intéressement aux recettes d'exploitation de l'œuvre, conditionné à
+l'amortissement du coût de production, comportent une clause rappelant les obligations résultant de l'article L. 251-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L251-1 (V)
+
+
+##### Sous-section 2 : Audit des comptes de production
+
+###### Article L251-4
+
+Le Centre national du cinéma et de l'image animée peut, dans les trois ans suivant la date d'achèvement de l'œuvre
+audiovisuelle, procéder ou faire procéder par un expert indépendant à un audit du compte de production mentionné à l'article
+L. 251-1. Cet audit a pour objet de contrôler la régularité et la sincérité du compte. 
+
+Le producteur délégué transmet au Centre national du cinéma et de l'image animée ou à l'expert indépendant tous les documents
+ou pièces utiles à la réalisation de l'audit. 
+
+Le Centre national du cinéma et de l'image animée transmet le projet de rapport d'audit au producteur délégué, qui présente
+ses observations. Le rapport d'audit définitif est transmis au producteur délégué, aux autres coproducteurs, aux entreprises
+avec lesquelles le producteur délégué a conclu un contrat de financement leur conférant un intéressement aux recettes
+d'exploitation, aux éditeurs de services de télévision qui ont contribué au financement de la production de l'œuvre ainsi
+qu'aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle et, le cas échéant, aux éditeurs
+cessionnaires des droits d'adaptation audiovisuelle d'une œuvre imprimée, dès lors qu'il a conclu avec ces auteurs ou
+éditeurs un contrat leur conférant un intéressement aux recettes d'exploitation de l'œuvre, conditionné à l'amortissement du
+coût de production. 
+
+Le Centre national du cinéma et de l'image animée transmet également le rapport d'audit définitif à toute autre personne
+physique ou morale avec laquelle le producteur délégué a conclu un contrat lui conférant un intéressement aux recettes
+d'exploitation de l'œuvre, conditionné à l'amortissement du coût de production. 
+
+Lorsque le rapport d'audit révèle l'existence d'une fausse déclaration pour le bénéfice des aides financières à la production
+du Centre national du cinéma et de l'image animée, celui-ci peut procéder au retrait de l'aide attribuée après que le
+bénéficiaire a été mis à même de faire valoir ses observations. En outre, lorsque le rapport d'audit révèle un manquement
+mentionné à l'article L. 421-1 du présent code, ce manquement est constaté et sanctionné dans les conditions prévues au livre
+IV.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+	  - Code du cinéma et de l'image animée - art. L251-1 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D251-2 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+##### Section 2 : Transparence des comptes d'exploitation
+
+##### Sous-section 1 : Obligations des distributeurs
+
+###### Article L251-5
+
+Tout distributeur qui, en sa qualité de cessionnaire ou de mandataire, dispose de droits d'exploitation pour la
+commercialisation d'une œuvre audiovisuelle appartenant aux genres de la fiction, de l'animation, du documentaire de création
+ou de l'adaptation audiovisuelle de spectacle vivant et admise au bénéfice des aides financières à la production du Centre
+national du cinéma et de l'image animée doit, dans les trois premiers mois de l'année qui suit celle de la première diffusion
+de l'œuvre par un éditeur de services de télévision, puis au moins une fois par an pendant la durée d'exécution du contrat
+conclu avec le producteur délégué, établir et transmettre à ce dernier le compte d'exploitation de cette œuvre. 
+
+Les éléments du compte d'exploitation sont fournis pour chaque mode d'exploitation de l'œuvre en France ainsi que pour chaque
+territoire d'exploitation de l'œuvre à l'étranger, sauf pour ceux de ces éléments qui ne sont pas individualisables. Les
+coûts d'exploitation et leur état d'amortissement ne sont indiqués que lorsqu'ils sont pris en compte pour le calcul du
+montant des recettes nettes revenant au producteur. Les aides financières perçues par le distributeur ne sont indiquées qu'en
+tant qu'elles se rapportent à l'œuvre concernée. L'état d'amortissement des minima garantis est indiqué dans tous les cas.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L251-10 (V)
+	  - Code du cinéma et de l'image animée - art. L251-7 (V)
+	  - Code du cinéma et de l'image animée - art. L251-8 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L251-6
+
+La forme du compte d'exploitation, la définition des encaissements bruts et des coûts d'exploitation ainsi que les conditions
+dans lesquelles est négociée la commission opposable sont déterminées par un ou plusieurs accords professionnels conclus
+entre les organisations représentatives des producteurs d'œuvres audiovisuelles et, ensemble ou séparément, les organisations
+professionnelles représentatives des distributeurs de ces œuvres, les organisations professionnelles représentatives des
+éditeurs de services de télévision ou un ensemble d'éditeurs de services de télévision représentatifs, les organismes
+professionnels d'auteurs et les sociétés de perception et de répartition des droits des auteurs mentionnées au titre II du
+livre III de la première partie du code de la propriété intellectuelle. Les accords peuvent être rendus obligatoires pour
+l'ensemble des intéressés des secteurs d'activité concernés par arrêté de l'autorité compétente de l'Etat. 
+
+A défaut d'accords professionnels rendus obligatoires dans le délai d'un an à compter de la publication de la loi n° 2016-925
+du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, la forme du compte d'exploitation,
+la définition des encaissements bruts et des coûts d'exploitation ainsi que les conditions dans lesquelles est négociée la
+commission opposable sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 (V)
+	  - Code de la propriété intellectuelle -  Titre II : Sociétés de perception et de réparti... (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L251-7
+
+Le contrat de cession de droits d'exploitation ou le contrat de mandat de commercialisation comporte une clause rappelant les
+obligations résultant de l'article L. 251-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L251-5 (V)
+
+
+###### Article L251-8
+
+Les obligations résultant de l'article L. 251-5 ne sont pas applicables aux éditeurs de services de télévision et aux
+éditeurs de services de médias audiovisuels à la demande au titre des acquisitions de droits de diffusion ou de mise à
+disposition du public sur les services qu'ils éditent réalisées en contrepartie d'un prix forfaitaire et définitif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L251-5 (V)
+
+
+##### Sous-section 2 : Obligations des producteurs délégués
+
+###### Article L251-9
+
+Le producteur délégué transmet le compte d'exploitation qui lui est remis en application de la sous-section 1 de la présente
+section aux autres coproducteurs, aux entreprises auxquelles il est lié par un contrat de financement leur conférant un
+intéressement aux recettes d'exploitation, aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle
+ainsi que, le cas échéant, aux éditeurs cessionnaires des droits d'adaptation audiovisuelle d'une œuvre imprimée. Pour les
+auteurs, cette transmission tient lieu de la fourniture de l'état des recettes prévue à l'article L. 132-28 du même code. 
+
+Le compte d'exploitation est également transmis à toute autre personne physique ou morale avec laquelle le producteur délégué
+a conclu un contrat lui conférant un intéressement aux recettes d'exploitation de l'œuvre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+	  - Code de la propriété intellectuelle - art. L132-28 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D251-3 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L251-10
+
+Lorsque, pour un ou plusieurs des modes d'exploitation, le producteur délégué exploite directement une œuvre audiovisuelle,
+il établit le compte d'exploitation correspondant, conformément à la sous-section 1 de la présente section. 
+
+Dans les délais prévus à l'article L. 251-5 du présent code, le producteur délégué transmet le compte d'exploitation aux
+autres coproducteurs, aux entreprises auxquelles il est lié par un contrat de financement leur conférant un intéressement aux
+recettes d'exploitation, aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle ainsi que, le cas
+échéant, aux éditeurs cessionnaires des droits d'adaptation audiovisuelle d'une œuvre imprimée. Pour les auteurs, cette
+transmission tient lieu de la fourniture de l'état des recettes prévue à l'article L. 132-28 du même code. 
+
+Le compte d'exploitation est également transmis à toute autre personne physique ou morale avec laquelle le producteur délégué
+a conclu un contrat lui conférant un intéressement aux recettes d'exploitation de l'œuvre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+	  - Code de la propriété intellectuelle - art. L132-28 (V)
+	  - Code du cinéma et de l'image animée - art. L251-5 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D251-4 (V)
+	  - Code du cinéma et de l'image animée - art. L251-11 (V)
+
+
+##### Sous-section 3 : Audit des comptes d'exploitation 
+
+
+###### Article L251-11
+
+Le Centre national du cinéma et de l'image animée peut procéder ou faire procéder par un expert indépendant à un audit du
+compte d'exploitation. Cet audit a pour objet de contrôler la régularité et la sincérité du compte. 
+
+Le distributeur ou, dans le cas prévu à l'article L. 251-10, le producteur délégué transmet au Centre national du cinéma et
+de l'image animée ou à l'expert indépendant tous les documents ou pièces utiles à la réalisation de l'audit. 
+
+Le Centre national du cinéma et de l'image animée transmet le projet de rapport d'audit au distributeur ou, dans le cas prévu
+au même article L. 251-10, au producteur délégué, qui présente ses observations. Le rapport d'audit définitif est transmis au
+distributeur, au producteur délégué, aux autres coproducteurs, aux éditeurs de services de télévision qui ont contribué au
+financement de la production de l'œuvre, aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle
+ainsi que, le cas échéant, aux éditeurs cessionnaires des droits d'adaptation audiovisuelle d'une œuvre imprimée. 
+
+Le Centre national du cinéma et de l'image animée porte également à la connaissance de toute personne physique ou morale avec
+laquelle le producteur délégué a conclu un contrat conférant à cette personne un intéressement aux recettes d'exploitation de
+l'œuvre les informations relatives à cet intéressement. 
+
+Lorsque le rapport d'audit révèle un manquement mentionné à l'article L. 421-1 du présent code, celui-ci est constaté et
+sanctionné dans les conditions prévues au livre IV.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+	  - Code du cinéma et de l'image animée - art. L251-10 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D251-4 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L251-12
+
+Lorsqu'il existe un accord professionnel rendu obligatoire sur le fondement de l'article L. 132-25-1 du code de la propriété
+intellectuelle prévoyant notamment la définition du coût de production d'une œuvre audiovisuelle appartenant aux genres de la
+fiction, de l'animation, du documentaire de création ou de l'adaptation audiovisuelle de spectacle vivant, des modalités de
+son amortissement et des recettes nettes, le Centre national du cinéma et de l'image animée peut procéder ou faire procéder
+par un expert indépendant à un audit du compte d'exploitation établi par le producteur délégué en application de cet accord. 
+
+Le producteur délégué transmet au Centre national du cinéma et de l'image animée ou à l'expert indépendant tous les documents
+ou pièces utiles à la réalisation de l'audit. 
+
+Le Centre national du cinéma et de l'image animée transmet le projet de rapport d'audit au producteur délégué, qui présente
+ses observations. Le rapport d'audit définitif est transmis au producteur délégué ainsi qu'aux auteurs énumérés à l'article
+L. 113-7 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+	  - Code de la propriété intellectuelle - art. L132-25-1 (V)
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D251-5 (V)
+	  - Code du cinéma et de l'image animée - art. L421-1 (V)
+
+
+###### Article L251-13
+
+Un décret fixe les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+
+	**Cité par**:
+
+	  - Décret n°2017-40 du 16 janvier 2017 (V)
 
 
 ## Livre III : Financement et fiscalité
@@ -5570,8 +6475,9 @@ application ;
 4° Des dispositions des articles L. 212-27 à L. 212-31 relatives à l'agrément des formules d'accès au cinéma donnant droit à
 des entrées multiples ainsi que des textes et décisions pris pour leur application ; 
 
-5° Des dispositions de l'article L. 212-32 relatives au contrôle des recettes des œuvres cinématographiques dans les
-établissements de spectacles cinématographiques ; 
+5° Des dispositions de l'article L. 212-32 des deux premiers alinéas de l'article L. 212-33 et de l'article L. 212-34
+relatives au contrôle des recettes des œuvres cinématographiques dans les établissements de spectacles cinématographiques
+ainsi que des textes et décisions pris pour leur application ; 
 
 6° Des dispositions des articles L. 213-9 à L. 213-13 relatives aux conditions de concession des droits de représentation
 cinématographique ; 
@@ -5579,6 +6485,15 @@ cinématographique ;
 6° bis Des dispositions du I de l'article L. 213-16 relatives à l'obligation de versement de la contribution à l'équipement
 numérique des établissements de spectacles cinématographiques et des dispositions de l'article L. 213-21 relatives à
 l'obligation de transmission de données ainsi que des décisions prises pour leur application ; 
+
+6° ter Des dispositions de l'article L. 213-24 relatives à l'établissement et à la transmission du compte de production, des
+dispositions des articles L. 213-28 et L. 213-32 à L. 213-34 relatives à l'établissement et à la transmission du compte
+d'exploitation, ainsi que des dispositions des articles L. 213-27, L. 213-35 et L. 213-36 relatives à la transmission des
+documents et pièces utiles à la réalisation des audits ; 
+
+6° quater Des stipulations d'un accord professionnel rendu obligatoire dans les conditions prévues aux articles L. 213-25 et
+L. 213-29 ou des dispositions des décrets en Conseil d'Etat mentionnés aux mêmes articles L. 213-25 et L. 213-29 ainsi que
+des stipulations d'un accord professionnel rendu obligatoire mentionné à l'article L. 213-36 ; 
 
 7° Des dispositions des articles L. 214-1 à L. 214-8 relatives à l'organisation de certaines séances de spectacles
 cinématographiques ainsi que des textes et décisions pris pour leur application ; 
@@ -5592,6 +6507,15 @@ audiovisuelles sous forme de vidéogrammes ;
 10° Des dispositions de l'article L. 231-1, du décret mentionné au dernier alinéa de l'article L. 232-1 ou des stipulations
 d'un accord professionnel rendu obligatoire dans les conditions prévues à l'article L. 234-1 ; 
 
+10° bis Des dispositions de l'article L. 251-1 relatives à l'établissement et à la transmission du compte de production, des
+dispositions des articles L. 251-5, L. 251-9 et L. 251-10 relatives à l'établissement et à la transmission du compte
+d'exploitation ainsi que des dispositions des articles L. 251-4, L. 251-11 et L. 251-12 relatives à la transmission des
+documents et pièces utiles à la réalisation des audits ; 
+
+10° ter Des stipulations d'un accord professionnel rendu obligatoire dans les conditions prévues aux articles L. 251-2 et L.
+251-6 ou des dispositions des décrets en Conseil d'Etat mentionnés aux mêmes articles L. 251-2 et L. 251-6 ainsi que des
+stipulations d'un accord professionnel rendu obligatoire mentionné à l'article L. 251-12 ; 
+
 11° Des dispositions prises pour l'application des articles L. 311-1 à L. 313-1 relatives aux aides financières du Centre
 national du cinéma et de l'image animée ; 
 
@@ -5600,17 +6524,11 @@ déterminée d'usage ou des dispositions de l'article L. 8211-1 du même code re
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°2010-1149 du 30 septembre 2010 - art. 4
-
 	**Cité par**:
 
 	  - Loi n°2016-925 du 7 juillet 2016 - art. 93 (V)
 	  - Code du cinéma et de l'image animée - art. L213-27 (V)
 	  - Code du cinéma et de l'image animée - art. L213-35 (V)
-	  - Code du cinéma et de l'image animée - art. L251-11 (V)
-	  - Code du cinéma et de l'image animée - art. L251-4 (V)
 	  - Code du cinéma et de l'image animée - art. L412-4 (V)
 	  - Code du cinéma et de l'image animée - art. L414-1 (M)
 	  - Code du cinéma et de l'image animée - art. L414-2 (Ab)
@@ -5619,6 +6537,12 @@ déterminée d'usage ou des dispositions de l'article L. 8211-1 du même code re
 	  - Code du cinéma et de l'image animée - art. L422-3 (Ab)
 	  - Code du cinéma et de l'image animée - art. R421-1 (V)
 	  - Code du travail - art. L1246-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 22
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 29
 
 	**Cite**:
 
@@ -5629,15 +6553,31 @@ déterminée d'usage ou des dispositions de l'article L. 8211-1 du même code re
 	  - Code du cinéma et de l'image animée - art. L212-19
 	  - Code du cinéma et de l'image animée - art. L212-2
 	  - Code du cinéma et de l'image animée - art. L212-27
-	  - Code du cinéma et de l'image animée - art. L212-32
+	  - Code du cinéma et de l'image animée - art. L212-32 (M)
+	  - Code du cinéma et de l'image animée - art. L212-33 (V)
+	  - Code du cinéma et de l'image animée - art. L212-34 (V)
 	  - Code du cinéma et de l'image animée - art. L213-16
+	  - Code du cinéma et de l'image animée - art. L213-21 (V)
+	  - Code du cinéma et de l'image animée - art. L213-24 (V)
+	  - Code du cinéma et de l'image animée - art. L213-25 (V)
+	  - Code du cinéma et de l'image animée - art. L213-28 (V)
+	  - Code du cinéma et de l'image animée - art. L213-29 (V)
+	  - Code du cinéma et de l'image animée - art. L213-32 (V)
+	  - Code du cinéma et de l'image animée - art. L213-36 (V)
 	  - Code du cinéma et de l'image animée - art. L213-9
 	  - Code du cinéma et de l'image animée - art. L214-1
 	  - Code du cinéma et de l'image animée - art. L221-1
 	  - Code du cinéma et de l'image animée - art. L222-1
 	  - Code du cinéma et de l'image animée - art. L231-1
 	  - Code du cinéma et de l'image animée - art. L232-1
-	  - Code du cinéma et de l'image animée - art. L234-1
+	  - Code du cinéma et de l'image animée - art. L234-1 (V)
+	  - Code du cinéma et de l'image animée - art. L251-1 (V)
+	  - Code du cinéma et de l'image animée - art. L251-11 (V)
+	  - Code du cinéma et de l'image animée - art. L251-2 (V)
+	  - Code du cinéma et de l'image animée - art. L251-4 (V)
+	  - Code du cinéma et de l'image animée - art. L251-5 (V)
+	  - Code du cinéma et de l'image animée - art. L251-6 (V)
+	  - Code du cinéma et de l'image animée - art. L251-9 (V)
 	  - Code du cinéma et de l'image animée - art. L311-1
 
 
@@ -6009,15 +6949,36 @@ faits connexes et quelle que soit la qualification retenue, exercer les droits r
 
 ###### Article L442-1
 
-Le président du Centre national du cinéma et de l'image animée peut, conformément aux dispositions du code de la propriété
-intellectuelle, exercer les droits reconnus à la partie civile en ce qui concerne le délit de contrefaçon d'une œuvre
-audiovisuelle au sens de ce code.
+Le Centre national du cinéma et de l'image animée peut porter plainte et se constituer partie civile dans les conditions
+prévues à l'article L. 331-3 du code de la propriété intellectuelle.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 39
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L331-3 (V)
+
+
+#### Chapitre III : Atteinte à un droit d'auteur ou à un droit voisin par un service de communication au public en ligne
+
+###### Article L443-1
+
+Le Centre national du cinéma et de l'image animée peut saisir le tribunal de grande instance dans les conditions prévues à
+l'article L. 336-2 du code de la propriété intellectuelle.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 40
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L336-2 (M)
 
 
 ## Livre V : Dispositions relatives à l'outre-mer
@@ -34238,7 +35199,7 @@ commission compétente.
 
 ### Titre II : Aides financières à la création des œuvres du multimédia
 
-#### Chapitre Ier : Aides financières à la production, à l'écriture et au développement de projets d'œuvres pour les nouveaux médias et d'œuvres transmédias 
+#### Chapitre Ier : Aides financières à la production, à l'écriture et au développement de projets d'œuvres pour les nouveaux médias 
 
 
 
@@ -34480,7 +35441,7 @@ de versement de l'aide ainsi que les circonstances dans lesquelles celle-ci donn
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Aides à l'écriture et au développement de projets d'œuvres pour les nouveaux médias 
+##### Sous-section 2 : Aides au développement de projets d'œuvres pour les nouveaux médias 
 
 ##### Paragraphe 1 : Objet et conditions d'attribution 
 
@@ -34668,13 +35629,7 @@ de l'aide ainsi que les circonstances dans lesquelles celle-ci donne lieu à rev
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Aides au développement de projets d'œuvres pour les nouveaux médias 
-
-##### Paragraphe 1 : Objet et conditions d'attribution 
-
-##### Paragraphe 2 : Procédure et modalités d'attribution 
-
-##### Sous-section 3 : Aides à l'écriture et au développement de projets d'œuvres transmédias 
+##### Sous-section 3 : Aides à l'écriture de projets d'œuvres pour les nouveaux médias
 
 ##### Paragraphe 1 : Objet et conditions d'attribution 
 
@@ -34820,12 +35775,6 @@ de l'aide ainsi que les circonstances dans lesquelles celle-ci donne lieu à rev
 	  - Délibération n°2016/CA/03 du 7 avril 2016 - art. 25, v. init.
 
 
-##### Sous-section 3 : Aides à l'écriture de projets d'œuvres pour les nouveaux médias
-
-##### Paragraphe 1 : Objet et conditions d'attribution 
-
-##### Paragraphe 2 : Procédure et modalités d'attribution 
-
 ##### Sous-section 4 : Commission consultative 
 
 ###### Article 321-36
@@ -34843,12 +35792,6 @@ pour une durée  de deux ans renouvelable une fois.
 
 	  - Code du cinéma et de l'image animée - art. Annexe 3-22 (M)
 
-
-#### Chapitre Ier : Aides financières à la production, à l'écriture et au développement de projets d'œuvres pour les nouveaux médias 
-
-
-
-##### Section unique : Aides financières sélectives 
 
 #### Chapitre II : Aides financières à la création et à la diffusion d'œuvres novatrices et expérimentales
 
