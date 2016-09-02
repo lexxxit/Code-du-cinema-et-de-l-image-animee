@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2016-07-27
+Version Consolidée au 2016-09-03
 
 # Partie législative
 
@@ -15521,9 +15521,17 @@ principalement sur le territoire français les œuvres cinématographiques ou au
 suivantes : 
 
 1° Les œuvres cinématographiques ou audiovisuelles appartenant au genre de la fiction tournées et faisant l'objet de travaux
-de traitement des images et de postproduction, principalement en France. Des dérogations peuvent être accordées à la
-condition de localisation principale du tournage en France lorsqu'une partie du temps de tournage est réalisée à l'étranger
-pour des raisons artistiques tenant à un scénario imposant le recours à des décors naturels ou historiques ; 
+de traitement des images et de postproduction, principalement en France. 
+
+Des dérogations à la condition de localisation principale du tournage en  France peuvent être accordées lorsqu'une partie du
+temps de tournage  est réalisée à l'étranger pour des raisons artistiques tenant à un  scénario imposant le recours à des
+décors naturels ou historiques.
+
+Pour les œuvres cinématographiques de  fiction mentionnées au dernier alinéa du 1 du III de l'article 220  sexies précité,
+des dérogations à la condition de localisation  principale des travaux de traitement des images et de postproduction en
+France peuvent être accordées lorsque tout ou partie du traitement  numérique mentionné à cet alinéa est réalisé à l'étranger
+pour des  raisons artistiques tenant à un scénario ou à un projet de réalisation  imposant le recours à des techniques ou des
+moyens particuliers qui ne  peuvent pas être mis en œuvre par des entreprises situées en France ; 
 
 2° Les œuvres cinématographiques ou audiovisuelles appartenant au genre du documentaire faisant l'objet de travaux de
 conception et d'écriture, de travaux de traitement des images et de postproduction principalement en France ; 
@@ -15533,21 +15541,21 @@ conception et d'écriture, de travaux de fabrication, de traitement des images e
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-325 du 20 mars 2006 - art. 4 (Ab)
-
 	**Codifié par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Créé par**:
 
 	  - Décret n°2014-794 du 9 juillet 2014 - art.
 
 	**Cité par**:
 
 	  - Décret n°2016-1191 du 31 août 2016 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-1191 du 31 août 2016 - art. 1
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2016-1191 du 31 août 2016 - art., v. init.
 
 	**Cite**:
 
@@ -25991,7 +25999,7 @@ l'investissement financier de l'entreprise de distribution au sens de l'article 
 
 ##### Sous-section 4 : Aides à la structure 
 
-##### Paragraphe 1 : Objet et conditions d'attribution 
+##### Paragraphe 1 : Aides à la structure des entreprises fragiles 
 
 ##### Sous-paragraphe 1 : Objet et conditions d'attribution 
 
@@ -26152,12 +26160,6 @@ qualité du travail effectué par elle.
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 1 : Aides à la structure des entreprises fragiles 
-
-##### Sous-paragraphe 1 : Objet et conditions d'attribution 
-
-##### Sous-paragraphe 2 : Procédure et modalités d'attribution 
-
 ##### Paragraphe 2 : Aides complémentaires à la structure des entreprises bénéficiaires de l'allocation directe en fonction des conditions de diffusion des œuvres cinématographiques
 
 
@@ -26258,7 +26260,7 @@ de versement de l'aide ainsi que les circonstances dans lesquelles celle-ci donn
 	  - Délibération n°2016/CA/10 du 30 juin 2016 - art. 11, v. init.
 
 
-##### Sous-section 5 : Commission consultative 
+##### Sous-section 5 : Commissions consultatives 
 
 ##### Paragraphe 1 : Commission des aides à la distribution cinématographique 
 
@@ -26297,10 +26299,6 @@ demandes d'aides concernant la distribution d'œuvres destinées au jeune public
 
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
-
-##### Sous-section 5 : Commissions consultatives 
-
-##### Paragraphe 1 : Commission des aides à la distribution cinématographique 
 
 ##### Paragraphe 2 : Commission des aides complémentaires à la structure
 
