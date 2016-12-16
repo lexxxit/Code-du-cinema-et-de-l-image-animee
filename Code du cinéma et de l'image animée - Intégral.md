@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2016-10-19
+Version Consolidée au 2016-12-17
 
 # Partie législative
 
@@ -25343,20 +25343,35 @@ et à la délivrance du visa d'exploitation cinématographique.
 
 ###### Article 221-30
 
-Les aides à la distribution d'œuvres inédites sont attribuées en considération de la qualité artistique des œuvres
-cinématographiques présentées, des prévisions et conditions de distribution annoncées, des efforts prévus en termes
-d'exposition des œuvres en salles, du travail de promotion envisagé, ainsi que du respect des engagements souscrits dans la
-convention d'aide au titre de l'attribution d'aides précédentes. Il peut également être tenu compte de la taille de
-l'entreprise ainsi que de sa situation financière et juridique. 
+Les aides à la distribution d'œuvres inédites sont attribuées en considération :
 
-Pour les aides attribuées au titre d'un programme annuel de distribution, il est également tenu compte de la qualité et de la
-cohérence de la ligne éditoriale de l'entreprise, ainsi que du travail de distribution effectué l'année précédant la demande.
+1° De la qualité artistique des œuvres  cinématographiques présentées, des prévisions et conditions de  distribution
+annoncées, des efforts prévus en termes d'exposition des  œuvres en salles, du travail de promotion envisagé, ainsi que du
+respect  des engagements souscrits dans la convention d'aide au titre de  l'attribution d'aides précédentes ;
+
+2° De la taille de l'entreprise ;
+
+3° De la situation financière et juridique de l'entreprise ;
+
+4° Pour les aides attribuées au titre d'un  programme annuel de distribution, de la qualité et de la cohérence de la  ligne
+éditoriale de l'entreprise, ainsi que du travail de distribution  effectué l'année précédant la demande ;
+
+5° De la part des plans de sortie des  œuvres cinématographiques d'art et d'essai effectivement distribuées par  l'entreprise
+dans au moins 175 établissements de spectacles  cinématographiques au cours de l'année précédant la demande, consacrée à  des
+établissements situés dans les unités urbaines de moins de 50 000  habitants et les communes n'appartenant pas à une unité
+urbaine, au  regard des proportions de référence suivantes :
+
+17 % pour les œuvres cinématographiques  d'art et d'essai présentes dans 175 à 250 établissements lors de leur  sortie
+nationale ;
+
+25 % pour les œuvres cinématographiques  d'art et d'essai présentes dans plus de 250 établissements lors de leur  sortie
+nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 4, v. init.
 
 
 ##### Paragraphe 2 : Procédure et modalités d'attribution 
@@ -25848,18 +25863,33 @@ Des aides financières sélectives sont attribuées pour la distribution d'œuvr
 
 ###### Article 221-58
 
-Les aides à la distribution d'œuvres destinées au jeune public sont attribuées en considération de la qualité artistique des
-œuvres cinématographiques présentées, des prévisions et conditions de distribution annoncées, des efforts prévus en termes
-d'exposition des œuvres en salles et pour l'élaboration de documents spécifiques adaptés à la tranche d'âge ciblée, du
-travail de promotion envisagé, ainsi que du respect des engagements souscrits dans la convention d'aide au titre de
-l'attribution d'aides précédentes. Il peut également être tenu compte de la taille de l'entreprise ainsi que de sa situation
-financière et juridique.
+Les aides à la distribution d'œuvres destinées au jeune public sont attribuées en considération :
+
+1° De la qualité artistique des œuvres  cinématographiques présentées, des prévisions et conditions de  distribution
+annoncées, des efforts prévus en termes d'exposition des  œuvres en salles et pour l'élaboration de documents spécifiques
+adaptés à  la tranche d'âge ciblée, du travail de promotion envisagé, ainsi que du  respect des engagements souscrits dans la
+convention d'aide au titre de  l'attribution d'aides précédentes ;
+
+2° De la taille de l'entreprise ;
+
+3° De la situation financière et juridique de l'entreprise ;
+
+4° De la part des plans de sortie des  œuvres cinématographiques d'art et d'essai effectivement distribuées par  l'entreprise
+dans au moins 175 établissements de spectacles  cinématographiques au cours de l'année précédant la demande, consacrée à  des
+établissements situés dans les unités urbaines de moins de 50 000  habitants et les communes n'appartenant pas à une unité
+urbaine, au  regard des proportions de référence suivantes :
+
+17 % pour les œuvres cinématographiques  d'art et d'essai présentes dans 175 à 250 établissements lors de leur  sortie
+nationale ;
+
+25 % pour les œuvres cinématographiques  d'art et d'essai présentes dans plus de 250 établissements lors de leur  sortie
+nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 5, v. init.
 
 
 ###### Article 221-59
@@ -26066,18 +26096,34 @@ ou de manifestations en régions.
 
 ###### Article 221-71
 
-Les aides à la structure sont attribuées en considération du nombre et de la qualité des œuvres cinématographiques
-effectivement distribuées par les entreprises de distribution au cours de l'année précédente, de l'activité prévisionnelle de
-distribution pour l'année en cours, des caractéristiques des salles de spectacles cinématographiques choisies pour la
-représentation des œuvres, de la qualité de la ligne éditoriale, ainsi que du respect des engagements souscrits dans la
-convention d'aide au titre de l'attribution d'aides précédentes. Il peut également être tenu compte de la taille de
-l'entreprise et de ses frais de structure.
+Les aides à la structure sont attribuées en considération :
+
+1° Du nombre et de la qualité des œuvres  cinématographiques effectivement distribuées par les entreprises de  distribution
+au cours de l'année précédente, de l'activité  prévisionnelle de distribution pour l'année en cours, des  caractéristiques
+des salles de spectacles cinématographiques choisies  pour la représentation des œuvres, de la qualité de la ligne
+éditoriale,  ainsi que du respect des engagements souscrits dans la convention  d'aide au titre de l'attribution d'aides
+précédentes ;
+
+2° De la taille de l'entreprise ;
+
+3° Des frais de structure de l'entreprise ;
+
+4° De la part des plans de sortie des  œuvres cinématographiques d'art et d'essai effectivement distribuées par  l'entreprise
+dans au moins 175 établissements de spectacles  cinématographiques au cours de l'année précédant la demande, consacrée à  des
+établissements situés dans les unités urbaines de moins de 50 000  habitants et les communes n'appartenant pas à une unité
+urbaine, au  regard des proportions de référence suivantes :
+
+17 % pour les œuvres cinématographiques  d'art et d'essai présentes dans 175 à 250 établissements lors de leur  sortie
+nationale ;
+
+25 % pour les œuvres cinématographiques  d'art et d'essai présentes dans plus de 250 établissements lors de leur  sortie
+nationale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 6, v. init.
 
 
 ###### Article 221-72
@@ -33455,46 +33501,6 @@ soit de renoncer au reversement de tout ou partie de celle-ci.
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-###### Article 311-72
-
-Lorsqu'il décide de renoncer au reversement de l'aide, le président du Centre national du cinéma et de l'image animée peut
-également décider, pour les œuvres appartenant aux genres fiction, documentaire de création et animation, de réinscrire sur
-le compte de l'entreprise de production une somme correspondant à tout ou partie du montant de l'aide déjà versée. Dans ce
-dernier cas, les travaux de préparation doivent avoir fait l'objet de dépenses effectuées en France pour au moins 80 % de
-leur coût.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Abrogé par**:
-
-	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 7, v. init.
-
-
-###### Article 311-73
-
-Pour la réinscription, l'entreprise de production fournit les documents justificatifs permettant de vérifier la réalité de
-l'ensemble des dépenses et des travaux effectués pour la préparation de l'œuvre. 
-
-Le cas échéant, le Centre national du cinéma et de l'image animée peut demander à l'entreprise de production de fournir un
-document comptable certifié par un commissaire aux comptes indiquant le coût de la préparation de l'œuvre et les moyens de
-son financement et faisant apparaître précisément la nature et le montant de chacune des dépenses engagées, ainsi que les
-dépenses effectuées en France.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Abrogé par**:
-
-	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 7, v. init.
-
-
 ###### Article 311-74
 
 Seules ouvrent droit à l'investissement des sommes inscrites sur leur compte automatique par les entreprises de production
@@ -39385,7 +39391,7 @@ intentions "curatoriales", éditoriales ou de programmation, la corrélation ent
 
 ### Titre Ier : Aides financières à la création et à la diffusion des œuvres cinématographiques de courte durée 
 
-#### Chapitre Ier : Aides financières à la production des œuvres cinématographiques de courte durée 
+#### Chapitre Ier : Aides financières à la production, à l'élaboration et au développement des œuvres cinématographiques de courte durée 
 
 ##### Section 1 : Dispositions générales 
 
@@ -40977,14 +40983,6 @@ une durée d'un an renouvelable.
 
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
-
-#### Chapitre Ier : Aides financières à la production, à l'élaboration et au développement des œuvres cinématographiques de courte durée 
-
-##### Section 1 : Dispositions générales 
-
-##### Section 2 : Aides financières automatiques 
-
-##### Section 3 : Aides financières sélectives 
 
 #### Chapitre II : Aides financières à la programmation en salles des œuvres cinématographiques de courte durée 
 
@@ -48225,13 +48223,14 @@ de coproduction cinématographique ou audiovisuelle dans le domaine de l'animati
 de coproduction audiovisuelle télévisée de langue française, signé à Ottawa le 14 mars 1990 ; 
 
 4° L'accord entre le gouvernement de la République Française et le gouvernement de la République Fédérale d'Allemagne relatif
-au soutien de projets de coproduction cinématographique, signé à Cannes le 17 mai 2001.
+au soutien de projets de coproduction cinématographique, signé à Cannes le 17 mai 2001, modifié par l'accord sous forme
+d'échange de lettres signées à Paris le 6 octobre 2014 et le 28 avril 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 9, v. init.
 
 
 ##### Section 2 : Dispositifs d'aides institués par des accords administratifs 
@@ -48260,6 +48259,30 @@ Cannes le 18 mai 2015.
 	**Modifié par**:
 
 	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 9, v. init.
+
+
+#### Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales 
+
+##### Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux 
+
+##### Section 2 : Dispositifs d'aides institués par des accords administratifs 
+
+##### Section 3 : Dispositions communes
+
+
+###### Article 711-3
+
+Les dispositifs d'aides mentionnés aux articles 711-1 et 711-2 sont pris  en application du régime cadre exempté n° SA.
+46706, relatif aux aides  en faveur du codéveloppement international et de la coproduction  internationale des œuvres
+cinématographiques ou audiovisuelles, adopté  sur la base du règlement (UE) n° 651/2014 de la Commission du 17 juin  2014
+déclarant certaines catégories d'aides compatibles avec le marché  intérieur en application des articles 107 et 108 du
+traité, figurant en  annexe 1 du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 10, v. init.
 
 
 #### Chapitre II : Aides financières aux cinémas du monde 
