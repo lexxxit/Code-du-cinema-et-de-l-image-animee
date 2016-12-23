@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2016-12-17
+Version Consolidée au 2016-12-24
 
 # Partie législative
 
@@ -3369,12 +3369,12 @@ l'article L. 102 B du livre des procédures fiscales ;
 3° Les exploitants d'établissements de spectacles cinématographiques adressent, à la fin de chaque semaine cinématographique,
 au Centre national du cinéma et de l'image animée une déclaration des recettes réalisées pour chaque programme
 cinématographique représenté dans les salles de leurs établissements. Cette déclaration est transmise par voie électronique.
-Ils communiquent également cette déclaration de recettes aux distributeurs et à une société de perception et de répartition
-des droits relevant du titre II du livre III de la première partie du code de la propriété intellectuelle chargée des droits
-musicaux lorsqu'il existe un accord entre une telle société et les exploitants d'établissements de spectacles
-cinématographiques ou leurs représentants. Toutefois, le Centre national du cinéma et de l'image animée peut se charger, en
-lieu et place des exploitants, de la transmission de la déclaration de recettes, sous quelque forme que ce soit, aux
-distributeurs et, le cas échéant, à la société de perception et de répartition des droits précitée ; 
+Ils communiquent également cette déclaration de recettes aux distributeurs et à un organisme de gestion collective relevant
+du titre II du livre III de la première partie du code de la propriété intellectuelle chargé des droits musicaux lorsqu'il
+existe un accord entre un tel organisme  et les exploitants d'établissements de spectacles cinématographiques ou leurs
+représentants. Toutefois, le Centre national du cinéma et de l'image animée peut se charger, en lieu et place des
+exploitants, de la transmission de la déclaration de recettes, sous quelque forme que ce soit, aux distributeurs et, le cas
+échéant, à l'organisme de gestion collective précité  ; 
 
 4° Les fabricants, les importateurs ou les marchands de billets d'entrée déclarent au Centre national du cinéma et de l'image
 animée la livraison de ces billets aux établissements de spectacles cinématographiques ; 
@@ -3416,11 +3416,11 @@ constructeur ou du fournisseur.
 
 	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 27
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle -  Titre II : Sociétés de perception et de réparti... (V)
+	  - Code de la propriété intellectuelle
 	  - Livre des procédures fiscales - art. L102 B
 
 
@@ -4130,10 +4130,10 @@ Le compte de production est également transmis à toute autre personne physique
 a conclu un contrat lui conférant un intéressement aux recettes d'exploitation de l'œuvre, conditionné à l'amortissement du
 coût de production. Lorsqu'il existe une convention collective ou un accord spécifique rendu obligatoire sur le fondement de
 l'article L. 212-8 du même code prévoyant, au profit des artistes-interprètes, une rémunération conditionnée à
-l'amortissement du coût de production de l'œuvre, le producteur délégué transmet le compte de production à ces derniers ou à
-une société de perception et de répartition des droits des artistes-interprètes mentionnée au titre II du livre III de la
-première partie dudit code désignée à cet effet. Lorsqu'un intéressement aux recettes d'exploitation de l'œuvre est déterminé
-en fonction de l'amortissement de certains éléments du coût de production, le producteur délégué transmet ces éléments, ainsi
+l'amortissement du coût de production de l'œuvre, le producteur délégué transmet le compte de production à ces derniers ou
+à un organisme de gestion collective des droits des artistes-interprètes mentionné au titre II du livre III de la première
+partie dudit code désigné à cet effet. Lorsqu'un intéressement aux recettes d'exploitation de l'œuvre est déterminé en
+fonction de l'amortissement de certains éléments du coût de production, le producteur délégué transmet ces éléments, ainsi
 que le coût de production, au bénéficiaire de l'intéressement. 
 
 Le compte de production comprend l'ensemble des dépenses engagées pour la préparation, la réalisation et la postproduction de
@@ -4141,19 +4141,19 @@ l'œuvre, en arrête le coût définitif et indique les moyens de son financemen
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L113-7 (V)
-	  - Code de la propriété intellectuelle - art. L212-8 (V)
+	  - Code de la propriété intellectuelle - art. L113-7
+	  - Code de la propriété intellectuelle - art. L212-8
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. L213-26 (V)
-	  - Code du cinéma et de l'image animée - art. L213-27 (M)
+	  - Code du cinéma et de l'image animée - art. L213-27 (V)
 	  - Code du cinéma et de l'image animée - art. L421-1 (V)
 
 
@@ -4161,10 +4161,10 @@ l'œuvre, en arrête le coût définitif et indique les moyens de son financemen
 
 La forme du compte de production, la définition des différentes catégories de dépenses qui le composent ainsi que la nature
 des moyens de financement sont déterminées par accord professionnel conclu entre les organisations professionnelles
-représentatives des producteurs d'œuvres cinématographiques de longue durée, les organismes professionnels d'auteurs et les
-sociétés de perception et de répartition des droits des auteurs mentionnées au titre II du livre III de la première partie du
-code de la propriété intellectuelle. L'accord peut être rendu obligatoire pour l'ensemble des intéressés du secteur
-d'activité concerné par arrêté de l'autorité compétente de l'Etat. 
+représentatives des producteurs d'œuvres cinématographiques de longue durée, les organismes professionnels d'auteurs et
+les organismes de gestion collective des droits des auteurs mentionnés au titre II du livre III de la première partie du code
+de la propriété intellectuelle. L'accord peut être rendu obligatoire pour l'ensemble des intéressés du secteur d'activité
+concerné par arrêté de l'autorité compétente de l'Etat. 
 
 A défaut d'accord professionnel rendu obligatoire dans le délai d'un an à compter de la promulgation de la loi n° 2016-925 du
 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, la forme du compte de production, la
@@ -4175,11 +4175,11 @@ financement sont fixées par décret en Conseil d'Etat.
 
 	**Cite**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 (V)
+	  - Loi n°2016-925 du 7 juillet 2016
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 	**Cité par**:
 
@@ -4228,11 +4228,11 @@ physique ou morale avec laquelle le producteur délégué a conclu un contrat lu
 d'exploitation de l'œuvre, conditionné à l'amortissement du coût de production. Lorsqu'il existe une convention collective ou
 un accord spécifique rendu obligatoire sur le fondement de l'article L. 212-8 du même code prévoyant, au profit des artistes-
 interprètes, une rémunération conditionnée à l'amortissement du coût de production de l'œuvre, le Centre national du cinéma
-et de l'image animée transmet le rapport d'audit définitif à ces derniers ou à une société de perception et de répartition
-des droits des artistes-interprètes mentionnée au titre II du livre III de la première partie dudit code désignée à cet
-effet. Lorsqu'un intéressement aux recettes d'exploitation de l'œuvre est déterminé en fonction de l'amortissement de
-certains éléments du coût de production, le Centre national du cinéma et de l'image animée transmet les informations
-relatives à ces éléments et au coût de production au bénéficiaire de l'intéressement. 
+et de l'image animée transmet le rapport d'audit définitif à ces derniers ou                              à un organisme de
+gestion collective des droits des artistes-interprètes mentionné au titre II du livre III de la première partie dudit code
+désigné à cet effet. Lorsqu'un intéressement aux recettes d'exploitation de l'œuvre est déterminé en fonction de
+l'amortissement de certains éléments du coût de production, le Centre national du cinéma et de l'image animée transmet les
+informations relatives à ces éléments et au coût de production au bénéficiaire de l'intéressement. 
 
 Lorsque le rapport d'audit révèle l'existence d'une fausse déclaration pour le bénéfice des aides financières à la production
 du Centre national du cinéma et de l'image animée, celui-ci peut procéder au retrait de l'aide attribuée après que le
@@ -4241,14 +4241,14 @@ mentionné à l'article L. 421-1 du présent code, celui-ci est constaté et san
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L113-7 (V)
-	  - Code de la propriété intellectuelle - art. L212-8 (V)
+	  - Code de la propriété intellectuelle - art. L113-7
+	  - Code de la propriété intellectuelle - art. L212-8
 	  - Code du cinéma et de l'image animée - art. L213-24 (V)
 
 	**Cité par**:
@@ -4298,9 +4298,10 @@ garantis est indiqué dans tous les cas.
 La forme du compte d'exploitation ainsi que la définition des encaissements bruts, des coûts d'exploitation et des frais
 généraux d'exploitation sont déterminées par accord professionnel conclu entre les organisations représentatives des
 producteurs d'œuvres cinématographiques de longue durée, les organisations professionnelles représentatives des distributeurs
-de ces œuvres, les organismes professionnels d'auteurs et les sociétés de perception et de répartition des droits des auteurs
-mentionnées au titre II du livre III de la première partie du code de la propriété intellectuelle. L'accord peut être rendu
-obligatoire pour l'ensemble des intéressés du secteur d'activité concerné par arrêté de l'autorité compétente de l'Etat. 
+de ces œuvres, les organismes professionnels d'auteurs et           les organismes de gestion collective des droits des
+auteurs mentionnés au titre II du livre III de la première partie du code de la propriété intellectuelle. L'accord peut être
+rendu obligatoire pour l'ensemble des intéressés du secteur d'activité concerné par arrêté de l'autorité compétente de
+l'Etat. 
 
 A défaut d'accord professionnel rendu obligatoire dans le délai d'un an à compter de la promulgation de la loi n° 2016-925 du
 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, la forme du compte d'exploitation
@@ -4311,11 +4312,11 @@ par décret en Conseil d'Etat.
 
 	**Cite**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 (V)
+	  - Loi n°2016-925 du 7 juillet 2016
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 	**Cité par**:
 
@@ -5105,10 +5106,10 @@ ainsi que les modalités d'amortissement du coût de production sont déterminé
 conclus entre les organisations professionnelles représentatives des producteurs d'œuvres audiovisuelles et, ensemble ou
 séparément, les organisations professionnelles représentatives des distributeurs de ces œuvres, les organisations
 professionnelles représentatives des éditeurs de services de télévision, ou un ensemble d'éditeurs de services de télévision
-représentatifs, les organismes professionnels d'auteurs et les sociétés de perception et de répartition des droits des
-auteurs mentionnées au titre II du livre III de la première partie du code de la propriété intellectuelle. Les accords
-peuvent être rendus obligatoires pour l'ensemble des intéressés des secteurs d'activité concernés par arrêté de l'autorité
-compétente de l'Etat. 
+représentatifs, les organismes professionnels d'auteurs et           les organismes de gestion collective des droits des
+auteurs mentionnés au titre II du livre III de la première partie du code de la propriété intellectuelle. Les accords peuvent
+être rendus obligatoires pour l'ensemble des intéressés des secteurs d'activité concernés par arrêté de l'autorité compétente
+de l'Etat. 
 
 A défaut d'accords professionnels rendus obligatoires dans le délai d'un an à compter de la publication de la loi n° 2016-925
 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, la forme du compte de production,
@@ -5119,12 +5120,12 @@ financement ainsi que les modalités d'amortissement du coût de production sont
 
 	**Cite**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 (V)
-	  - Code de la propriété intellectuelle -  Titre II : Sociétés de perception et de réparti... (V)
+	  - Loi n°2016-925 du 7 juillet 2016
+	  - Code de la propriété intellectuelle
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 	**Cité par**:
 
@@ -5235,7 +5236,7 @@ dans lesquelles est négociée la commission opposable sont déterminées par un
 entre les organisations représentatives des producteurs d'œuvres audiovisuelles et, ensemble ou séparément, les organisations
 professionnelles représentatives des distributeurs de ces œuvres, les organisations professionnelles représentatives des
 éditeurs de services de télévision ou un ensemble d'éditeurs de services de télévision représentatifs, les organismes
-professionnels d'auteurs et les sociétés de perception et de répartition des droits des auteurs mentionnées au titre II du
+professionnels d'auteurs et           les organismes de gestion collective des droits des auteurs mentionnés au titre II du
 livre III de la première partie du code de la propriété intellectuelle. Les accords peuvent être rendus obligatoires pour
 l'ensemble des intéressés des secteurs d'activité concernés par arrêté de l'autorité compétente de l'Etat. 
 
@@ -5248,12 +5249,12 @@ commission opposable sont fixées par décret en Conseil d'Etat.
 
 	**Cite**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 (V)
-	  - Code de la propriété intellectuelle -  Titre II : Sociétés de perception et de réparti... (V)
+	  - Loi n°2016-925 du 7 juillet 2016
+	  - Code de la propriété intellectuelle
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+	  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 	**Cité par**:
 
@@ -48202,7 +48203,7 @@ un schéma avant/ après faisant figurer précisément l'évolution de la produc
 
 ### Titre Ier : Aides financières au développement des coproductions internationales 
 
-#### Chapitre Ier : Aides financières aux projets de coproductions internationales 
+#### Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales 
 
 ##### Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux 
 
@@ -48260,12 +48261,6 @@ Cannes le 18 mai 2015.
 
 	  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 9, v. init.
 
-
-#### Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales 
-
-##### Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux 
-
-##### Section 2 : Dispositifs d'aides institués par des accords administratifs 
 
 ##### Section 3 : Dispositions communes
 
