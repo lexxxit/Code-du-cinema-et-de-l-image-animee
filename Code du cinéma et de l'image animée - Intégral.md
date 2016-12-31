@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2016-12-24
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -922,17 +922,9 @@ pour les autres catégories d'entreprises, sur des déclarations trimestrielles 
 
 ###### Article L115-16
 
-Les déclarations prévues aux articles L. 115-4, L. 115-11 et L. 115-15 sont contrôlées par les services du Centre national du
-cinéma et de l'image animée. 
-
-A cette fin, les agents habilités à cet effet par le président du Centre national du cinéma et de l'image animée peuvent
-demander aux redevables tous renseignements, justifications ou éclaircissements relatifs à leur déclaration. 
-
-Ils peuvent également examiner sur place les documents utiles. Préalablement, un avis de passage est adressé aux redevables
-afin qu'ils puissent se faire assister d'un conseil. 
-
-En cas d'opposition par le redevable ou par des tiers à la mise en œuvre de l'examen sur place des documents, il est dressé
-procès-verbal sur le champ dont copie est adressée au redevable. 
+Les déclarations prévues aux articles L. 115-4, L. 115-11 et L. 115-15 sont contrôlées par les agents du Centre national du
+cinéma et de l'image animée, habilités à cet effet par le président de cet établissement, comme en matière de taxes sur le
+chiffre d'affaires.
 
 L'obligation du secret professionnel, telle qu'elle est définie aux articles 226-13 et 226-14 du code pénal, s'applique à
 toutes les personnes appelées à intervenir dans l'établissement de l'assiette, le contrôle, le recouvrement ou le contentieux
@@ -942,14 +934,14 @@ des taxes ou des cotisations.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 79 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 55
 
 	**Cite**:
 
 	  - Code pénal - art. 226-13
-	  - Code du cinéma et de l'image animée - art. L115-11 (V)
-	  - Code du cinéma et de l'image animée - art. L115-15 (V)
-	  - Code du cinéma et de l'image animée - art. L115-4 (V)
+	  - Code du cinéma et de l'image animée - art. L115-11
+	  - Code du cinéma et de l'image animée - art. L115-15
+	  - Code du cinéma et de l'image animée - art. L115-4
 
 	**Cité par**:
 
@@ -19439,6 +19431,22 @@ Il précise, le cas échéant, le nom des membres qui se sont déportés.
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
+##### Sous-section 3 : Attribution des aides
+
+
+###### Article 122-26-1
+
+Les bénéficiaires d'une aide financière fournissent au Centre national du cinéma et de l'image animée, selon les procédures
+qu'il institue, le numéro international normalisé (ISAN) de l'œuvre ou du projet d'œuvre cinématographique, audiovisuelle ou
+multimédia pour laquelle ou lequel l'aide a été attribuée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 2, v. init.
+
+
 ##### Section 2 : Conditions générales d'éligibilité 
 
 ##### Sous-section 1 : Exclusions du bénéfice des aides financières
@@ -20725,13 +20733,15 @@ Les taux de calcul sont fixés à :
 On entend par recette le produit de la vente des entrées aux séances organisées par les exploitants d'établissements de
 spectacles cinématographiques ou, en cas de formule d'accès au cinéma donnant droit à des entrées multiples, des sommes
 correspondant au prix de référence par place déterminé dans les conditions prévues à l'article L. 212-28 du code du cinéma et
-de l'image animée.
+de l'image animée. 
+
+Dans le cadre de l'expérimentation mentionnée à l'article 721-2-1, les taux précités sont abattus de 7 %.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 2, v. init.
 
 	**Cité par**:
 
@@ -20845,7 +20855,39 @@ télévision.
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
+##### Sous-paragraphe 4 : Calcul à raison de la commercialisation à l'étranger
+
+###### Article 211-32-1
+
+Dans le cadre de l'expérimentation mentionnée à l'article 721-2-1, des  sommes sont calculées à raison de la représentation
+commerciale en  salles de spectacles cinématographiques, dans les pays et territoires  figurant en annexe 2 du livre VII, des
+œuvres cinématographiques  mentionnées à l'article 721-6.
+
+Le calcul est effectué par application d'un  taux au montant des sommes inscrites à titre définitif sur le compte
+automatique de l'entreprise de vente à l'étranger conformément à  l'article 721-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 3, v. init.
+
+
+###### Article 211-32-2
+
+Le taux de calcul est fixé à 66 % du montant des sommes inscrites à  titre définitif sur le compte automatique de
+l'entreprise de vente à  l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 3, v. init.
+
+
 ##### Sous-paragraphe 4 : Réduction des taux de calcul
+
+##### Sous-paragraphe 5 : Réduction des taux de calcul
 
 ###### Article 211-33
 
@@ -20866,6 +20908,8 @@ Ces taux peuvent également être réduits lorsqu'il est fait application des di
 
 
 ##### Sous-paragraphe 5 : Coefficients de pondération
+
+##### Sous-paragraphe 6 : Coefficients de pondération
 
 ###### Article 211-34
 
@@ -31883,8 +31927,9 @@ Les entreprises ou organismes ne détiennent pas, directement ou indirectement, 
 12,5 % de la participation française en cas de coproduction internationale. 
 
 L'apport initial doit être au moins égal à 25 % du coût définitif de l'œuvre ou à 25 % de la participation française en cas
-de coproduction internationale. En outre, pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant,
-le montant horaire de l'apport initial en numéraire des éditeurs de services à la demande est fixé à 15 000 €.
+de coproduction internationale. En outre, pour les œuvres appartenant aux genres documentaire de création et adaptation
+audiovisuelle de spectacle vivant, le montant horaire de l'apport initial en numéraire des éditeurs de services à la demande
+est respectivement fixé à 12 000 € et 15 000 €.
 
 La condition d'apport initial n'est pas requise pour l'éligibilité des œuvres audiovisuelles aux aides automatiques à la
 préparation.
@@ -31893,7 +31938,7 @@ préparation.
 
 	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 12, v. init.
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 3, v. init.
 
 	**Cite**:
 
@@ -32147,15 +32192,19 @@ Des dérogations aux seuils de 50 % d'intensité des aides publiques peuvent êt
 du cinéma et de l'image animée, dans la limite de 60 % et sur demande motivée de l'entreprise de production, pour les œuvres
 audiovisuelles " difficiles " ou " à petit budget ". 
 
+La limite prévue au premier alinéa est portée à 80 % pour les œuvres  difficiles appartenant au genre documentaire de
+création, admises au  bénéfice des aides financières sélectives à la production et à la  préparation, dont le budget total
+est inférieur ou égal à 150 000 € par  heure.  
+
 Une œuvre difficile est celle qui présente un caractère innovant, peu accessible ou délicat, en considération, notamment, du
 sujet, du format, de la dramaturgie, de la réalisation ou des conditions de production. Une œuvre à petit budget est celle
 dont le budget total est inférieur ou égal à 100 000 € par heure.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 4, v. init.
 
 
 ##### Sous-section 5 : Dispositions relatives au contrôle du coût de production 
@@ -32343,6 +32392,10 @@ répondent aux conditions prévues aux articles 311-9 et 311-12 ;
 Pour les œuvres appartenant au genre animation, cette proportion minimale de l'apport initial est ramenée à 20 % dans le cas
 prévu à l'article 311-11-1. 
 
+Pour  les œuvres appartenant au genre documentaire de création, l'apport  horaire en numéraire du ou des éditeurs de services
+de télévision ou  l'apport horaire en numéraire du ou des éditeurs de services à la  demande est supérieur ou égal à 12 000
+€. 
+
 Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant, l'apport horaire en numéraire du ou des
 éditeurs de services de télévision ou l'apport horaire en numéraire du ou des éditeurs de services à la demande est supérieur
 ou égal à 15 000 € ;
@@ -32358,7 +32411,7 @@ certifiée de sa version définitive par l'ensemble de ces éditeurs de services
 
 	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 16, v. init.
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 6, v. init.
 
 	**Cite**:
 
@@ -32874,7 +32927,8 @@ I.-Les œuvres sont réparties en trois groupes :
 2° Deuxième groupe : œuvres pour lesquelles l'apport horaire en numéraire est inférieur à 160 000 € et supérieur ou égal à 25
 000 € ; 
 
-3° Troisième groupe : œuvres pour lesquelles l'apport horaire en numéraire est inférieur à 25 000 €. 
+3° Troisième groupe : œuvres pour lesquelles l'apport horaire en numéraire est inférieur à 25 000 € et supérieur ou égal à 12
+000 €. 
 
 II.-Les coefficients appliqués à la durée ou à la durée cumulée des œuvres sont les suivants : 
 
@@ -32885,30 +32939,22 @@ Ce coefficient est arrondi aux quatre chiffres après la virgule ;
 
 3° Troisième groupe : 0,5. 
 
-III.-Les coefficients prévus au II peuvent être bonifiés dans les cas suivants : 
+III. - Les coefficients prévus au II peuvent être bonifiés dans les circonstances et selon les modalités suivantes :
 
-1° Lorsque l'apport horaire en numéraire est inférieur à 12 000 €, le coefficient peut être bonifié sur proposition de la
-commission spécialisée compétente pour l'attribution des aides sélectives lorsqu'elle est consultée en application de
-l'article 311-81. Dans ce cas, le coefficient est porté à 0,7, à 0,9 ou à 1 en fonction de la qualité et de l'économie du
-projet. 
-
-2° Lorsque l'apport horaire en numéraire est supérieur à 12 000 €, les coefficients peuvent être bonifiés dans les
-circonstances et selon les modalités suivantes : 
-
-a) L'œuvre a bénéficié d'une aide à l'écriture ou au développement attribuée par une personne publique ou privée, autre
-qu'une aide automatique à la préparation, d'un montant minimum de 3 000 €  ou a fait l'objet d'un apport horaire en numéraire
+1° L'œuvre a bénéficié d'une aide à l'écriture ou au développement attribuée par une personne publique ou privée, autre
+qu'une aide automatique à la préparation, d'un montant minimum de 3 000 € ou a fait l'objet d'un apport horaire en numéraire
 d'un montant minimum de 6 000 € dans le cadre d'une convention d'écriture ou de développement conclue avec un éditeur de
 services de télévision ou un éditeur de services à la demande. 
 
 Dans ce cas, les coefficients sont augmentés de 0,1 ; 
 
-b) Une musique originale a été spécialement créée pour l'œuvre en application d'un contrat de cession de droits conclu entre
+2° Une musique originale a été spécialement créée pour l'œuvre en application d'un contrat de cession de droits conclu entre
 l'entreprise de production déléguée établie en France et l'auteur de la composition musicale, en contrepartie d'une
 rémunération minimale de 2 000 € et l'interprétation de cette musique originale a donné lieu à au moins un cachet. 
 
 Dans ce cas, les coefficients sont augmentés de 0,1 ; 
 
-c) Le nombre de jours de travail du ou des chefs monteurs atteint un seuil minimum. Le ou les chefs monteurs peuvent soit
+3° Le nombre de jours de travail du ou des chefs monteurs atteint un seuil minimum. Le ou les chefs monteurs peuvent soit
 être engagés par l'entreprise de production déléguée établie en France et rémunérés conformément à la convention collective
 nationale de la production audiovisuelle, soit être engagés par un éditeur de services de télévision ou de services à la
 demande, mentionné à l'article 311-8 ou à l'article 311-9, et rémunérés conformément aux conventions et accords collectifs
@@ -32918,13 +32964,13 @@ Dans ce cas, les coefficients sont augmentés de 0,1 lorsque le nombre de jours 
 ce nombre est supérieur ou égal à 35 pour une œuvre d'une durée de 52 minutes. Pour une œuvre d'une durée différente, le
 nombre de jours minimum est déterminé prorata temporis ; 
 
-d) Le ratio entre la masse salariale brute des personnels artistiques et techniques, hors artistes-interprètes, engagés par
+4° Le ratio entre la masse salariale brute des personnels artistiques et techniques, hors artistes-interprètes, engagés par
 l'entreprise de production déléguée établie en France et la masse salariale brute totale de l'ensemble des personnels engagés
 pour la production de l'œuvre est supérieur ou égal à 60 %. 
 
 Dans ce cas, les coefficients sont augmentés de 0,1 ; 
 
-e) Le nombre de pays étrangers pour lesquels un éditeur de services de télévision ou de services à la demande a conclu, avant
+5° Le nombre de pays étrangers pour lesquels un éditeur de services de télévision ou de services à la demande a conclu, avant
 la date d'achèvement de l'œuvre, un contrat pour l'exploitation de l'œuvre atteint un nombre minimum. Le contrat peut être
 conclu soit directement avec l'entreprise de production déléguée établie en France, soit avec le détenteur du mandat de
 commercialisation ou le cessionnaire de droits pour l'exploitation de l'œuvre à l'étranger. 
@@ -32932,10 +32978,10 @@ commercialisation ou le cessionnaire de droits pour l'exploitation de l'œuvre �
 Dans ce cas, les coefficients sont augmentés de 0,1 lorsque le nombre de pays est supérieur ou égal à 3 et de 0,2 lorsque ce
 nombre est supérieur ou égal à 5. 
 
-L'application cumulée des bonifications prévues aux a à e ne peut avoir pour effet d'augmenter les coefficients de plus de
+L'application cumulée des bonifications prévues aux 1° à 5° ne peut avoir pour effet d'augmenter les coefficients de plus de
 0,5. 
 
-Les bonifications prévues aux a à e ne s'appliquent pas aux œuvres qui ont recours aux codes d'écriture ou de réalisation
+Les bonifications prévues aux 1° à 5° ne s'appliquent pas aux œuvres qui ont recours aux codes d'écriture ou de réalisation
 propres au magazine ou au reportage. En cas de contestation sur l'éligibilité aux bonifications, le président du Centre
 national du cinéma et de l'image animée peut consulter la commission spécialisée compétente pour l'attribution des aides
 sélectives. 
@@ -33005,16 +33051,16 @@ d'interprétation concernant l'éligibilité à la majoration.
 En outre, le président du Centre national du cinéma et de l'image animée peut également consulter tout expert historique ou
 scientifique dont l'audition lui paraît de nature à éclairer sa décision.
 
-V.-Pour les œuvres insérées au sein de cases de programmation  consacrées à la diffusion de programmes récurrents, dont la
-production  est assurée par la même entreprise de production déléguée ou repose sur  le même concept et les mêmes principes
-de réalisation, les coefficients  résultant de l'application des II et III font l'objet d'un abattement de  10 % toutes les
-520 minutes produites, sans que cet abattement puisse  avoir pour effet l'application d'un coefficient inférieur à 0,5.
+V.-Pour les œuvres insérées au sein de cases de programmation consacrées à la diffusion de programmes récurrents, dont la
+production est assurée par la même entreprise de production déléguée ou repose sur le même concept et les mêmes principes de
+réalisation, les coefficients résultant de l'application des II et III font l'objet d'un abattement de 10 % toutes les 520
+minutes produites, sans que cet abattement puisse avoir pour effet l'application d'un coefficient inférieur à 0,5.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 22, v. init.
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 7, v. init.
 
 	**Cité par**:
 
@@ -33023,7 +33069,6 @@ de réalisation, les coefficients  résultant de l'application des II et III fon
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 311-81 (V)
 	  - Code du cinéma et de l'image animée - art. 311-9 (V)
 
 
@@ -33208,15 +33253,19 @@ et la préparation des œuvres audiovisuelles qui appartiennent à l'un des genr
 
 ###### Article 311-57
 
+Les  documentaires de création doivent, en ce qui concerne l'investissement  pour la production, être financés par un apport
+horaire en numéraire  d'un ou plusieurs éditeurs de services de télévision ou par un apport  horaire en numéraire d'un ou
+plusieurs éditeurs de services à la  demande, supérieur ou égal à 12 000 €.
+
 Lorsque les documentaires de création sont destinés à être insérés au sein de cases de programmation consacrées à la
 diffusion de magazines autres que ceux mentionnés au 2° de l'article 311-92, leur durée ou leur durée cumulée, par œuvre
 unitaire ou par épisode, doit être supérieure ou égale à 45 minutes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 8, v. init.
 
 	**Cite**:
 
@@ -33635,13 +33684,14 @@ financières automatiques sont attribuées après avis de la commission spécial
 sélectives, sauf lorsque l'œuvre a donné lieu à un avis favorable pour l'attribution d'une aide financière à l'élaboration et
 au développement de projets d'œuvres audiovisuelles.
 
-Ces dispositions ne sont pas applicables aux œuvres appartenant au genre adaptation de spectacle vivant.
+Ces dispositions ne sont pas applicables aux œuvres appartenant aux genres documentaire de création et adaptation
+audiovisuelle de spectacle vivant.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 29, v. init.
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 9, v. init.
 
 	**Cité par**:
 
@@ -33830,13 +33880,17 @@ d'un compte automatique, pour la production d'œuvres audiovisuelles appartenant
 
 1° Documentaire de création ; 
 
+Les documentaires de création éligibles sont ceux qui :
+
+a) Sont financés par un apport horaire en numéraire d'un ou plusieurs éditeurs de services de télévision ou d'un ou plusieurs
+éditeurs de services à la demande inférieur à 12 000 € ;
+
+b) Sont destinés à être insérés au sein de cases de programmation consacrées à la diffusion de magazines autres que ceux
+mentionnés au 2° et dont la durée ou la durée cumulée, par œuvre unitaire ou par épisode, est inférieure à 45 minutes. 
+
 2° Magazine, présentant un intérêt particulier d'ordre essentiellement culturel ; 
 
 3° Adaptation audiovisuelle de spectacle vivant. 
-
-Les documentaires de création éligibles sont ceux destinés à être insérés au sein de cases de programmation consacrées à la
-diffusion de magazines autres que ceux mentionnés au 2° et dont la durée ou la durée cumulée, par œuvre unitaire ou par
-épisode, est inférieure à 45 minutes. 
 
 Les adaptations audiovisuelles de spectacle vivant éligibles sont celles qui ne répondent pas à une ou plusieurs des
 conditions prévues à l'article 311-57-1.
@@ -33845,7 +33899,7 @@ conditions prévues à l'article 311-57-1.
 
 	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 30, v. init.
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 10, v. init.
 
 	**Cité par**:
 
@@ -45153,6 +45207,53 @@ de ce délai, les éditeurs de vidéogrammes sont déchus de la faculté d'inves
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
+##### Sous-section 2 : Allocations directes
+
+###### Article 611-20-1
+
+Des allocations directes sont attribuées en complément des aides  sélectives attribuées en application de l'article 611-21
+dont elles  constituent l'accessoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 34, v. init.
+
+
+###### Article 611-20-2
+
+Les allocations directes sont attribuées :
+
+1° En complément des aides sélectives  prévues aux 1° et 3° de l'article 611-21, lorsque ces aides ont été  attribuées pour
+l'édition ou la réédition d'une œuvre cinématographique  de courte durée ;
+
+2° En complément des aides sélectives  prévues au 2° de l'article 611-21, lorsque ces aides ont été attribuées  pour
+l'édition d'un programme comprenant au moins une œuvre  cinématographique de courte durée par vidéogramme.
+
+Les œuvres cinématographiques de courte  durée ont fait l'objet d'une acquisition des droits d'édition  vidéographique à
+titre onéreux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 34, v. init.
+
+
+###### Article 611-20-3
+
+Le montant de l'allocation directe est égal à 5 % du montant de l'aide sélective attribuée.
+
+L'allocation directe est attribuée sous forme de subvention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 34, v. init.
+
+
 ##### Section 3 : Aides financières sélectives 
 
 ##### Sous-section 1 : Objet et conditions d'attribution 
@@ -45823,6 +45924,46 @@ de la faculté d'investir ces sommes.
 	**Créé par**:
 
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+
+
+##### Sous-section 2 : Allocations directes
+
+
+###### Article 612-22-1
+
+Des allocations directes sont attribuées en complément des aides  sélectives attribuées en application du 2° de l'article
+612-23 dont  elles constituent l'accessoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 35, v. init.
+
+
+###### Article 612-22-2
+
+Les allocations directes sont attribuées pour la diffusion en ligne d'un  programme comprenant au moins 25 % d'œuvres
+cinématographiques de  courte durée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 35, v. init.
+
+
+###### Article 612-22-3
+
+Le montant de l'allocation directe est égal à 5 % du montant de l'aide sélective attribuée.
+
+L'allocation directe est attribuée sous forme de subvention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 35, v. init.
 
 
 ##### Section 3 : Aides financières sélectives 
@@ -48313,22 +48454,21 @@ cinémas du monde.
 
 ###### Article 721-1
 
-Des aides financières sont attribuées sous forme automatique et sous forme sélective au sens des articles D. 311-2 et D.
-311-3 du code du cinéma et de l'image animée, afin de soutenir la promotion à l'étranger des œuvres cinématographiques.
+Des aides financières sont attribuées sous forme automatique au sens de l'article D. 311-2 du code du cinéma et de l'image
+animée, afin de soutenir la promotion à l'étranger des œuvres cinématographiques.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. D311-2 (V)
-	  - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
-###### Article 721-1-1
+###### Article 721-2
 
 L'attribution des aides financières à la promotion à l'étranger d'œuvres cinématographiques est soumise aux dispositions du
 règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché
@@ -48337,98 +48477,74 @@ la section 11 relatif aux régimes d'aides en faveur des œuvres audiovisuelles.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
+
+
+###### Article 721-2-1
+
+Les dispositions du présent chapitre font l'objet d'une expérimentation d'une durée de trois ans à compter du 1er janvier
+2017. Cette expérimentation fait l'objet d'une évaluation en vue, le cas échéant, de la pérennisation du dispositif.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
-
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 35, v. init.
-
-	**Abrogé par**:
 
 	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
 ##### Sous-section 1 : Conditions relatives aux bénéficiaires 
 
-###### Article 721-2
+###### Article 721-3
 
-Les bénéficiaires des aides à la promotion à l'étranger des œuvres cinématographiques sont des entreprises d'exportation qui,
-à ce titre, sont cessionnaires des droits d'exploitation à l'étranger des œuvres cinématographiques, ainsi que des
-entreprises de production.
+Les bénéficiaires des aides à la promotion à l'étranger des œuvres cinématographiques sont des entreprises de vente à
+l'étranger qui, en qualité de cessionnaires ou de mandataires, disposent de droits d'exploitation pour la commercialisation à
+l'étranger d'œuvres cinématographiques.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-###### Article 721-3
+###### Article 721-4
 
 Pour être admises au bénéfice des aides à la promotion à l'étranger des œuvres cinématographiques, les entreprises répondent
-aux conditions suivantes : 
+aux conditions suivantes :
 
 1° Etre établies en France. Sont réputées établies en France les entreprises y exerçant effectivement une activité au moyen
 d'une installation stable et durable et dont le siège social est situé en France, dans un autre Etat membre de l'Union
-européenne ou dans un Etat partie à l'accord sur l'Espace économique européen. 
+européenne ou dans un Etat partie à l'accord sur l'Espace économique européen.
 
 Pour les entreprises dont le siège social est situé dans un autre Etat membre de l'Union européenne, le respect de la
 condition d'établissement en France, sous forme d'établissement stable, de succursale ou d'agence permanente, n'est exigé
-qu'au moment du versement de l'aide ; 
+qu'au moment du versement de l'aide ;
 
 2° Avoir des présidents, directeurs ou gérants, ainsi que la majorité des administrateurs, soit de nationalité française,
 soit ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique
 européen, d'un Etat partie à la Convention européenne sur la télévision transfrontière ou à la Convention européenne sur la
 coproduction cinématographique du Conseil de l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou l'Union
-européenne a conclu des accords ayant trait au secteur audiovisuel. 
+européenne a conclu des accords ayant trait au secteur audiovisuel.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français ; 
+économique européen, sont assimilés aux citoyens français ;
 
 3° Ne pas être contrôlées, au sens de l'article L. 233-3 du code de commerce, par une ou plusieurs personnes physiques ou
 morales ressortissantes d'Etats autres que les Etats européens mentionnés au 2°, lorsqu'elles sont constituées sous forme de
-société commerciale.
+société commerciale ;
+
+4° Etre à jour du paiement de la cotisation professionnelle prévue à l'article L. 115-14 du code du cinéma et de l'image
+animée.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 	**Cite**:
 
-	  - Code de commerce - art. L233-3 (M)
-
-
-##### Sous-section 2 : Conditions relatives aux œuvres 
-
-###### Article 721-4
-
-Sont éligibles aux aides à la promotion à l'étranger des œuvres cinématographiques : 
-
-1° Les œuvres cinématographiques pour lesquelles un agrément de production a été délivré depuis moins de quatre ans au moment
-du dépôt de la demande et, lorsqu'elles ne sont pas intégralement ou principalement réalisées en version originale en langue
-française ou dans une langue régionale en usage en France, les œuvres cinématographiques dont le budget de production est
-inférieur à 8 000 000 € ; 
-
-2° Les œuvres cinématographiques ayant bénéficié d'une aide aux cinémas du monde et dont le budget de production est
-inférieur à 2 500 000 € ; 
-
-3° Les œuvres cinématographiques de patrimoine, lorsque les conditions suivantes sont remplies : 
-
-a) Les œuvres ont bénéficié d'une aide à la restauration et à la numérisation ou sont présentées au sein d'un catalogue
-d'œuvres ayant bénéficié de cette aide, ou ont obtenu la principale récompense aux festivals de Venise, de Berlin ou de
-Cannes, ou le César ou l'Oscar du meilleur film ; 
-
-b) L'aide est demandée par une entreprise ayant réalisé au cours des trois dernières années un chiffre d'affaires à raison de
-la promotion à l'étranger d'au moins 600 000 € ; 
-
-c) L'entreprise ne présente pas plus de cinq œuvres cinématographiques de patrimoine dans son catalogue.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Code de commerce - art. L233-3 (V)
+	  - Code du cinéma et de l'image animée - art. L115-14 (V)
 
 	**Cité par**:
 
@@ -48437,223 +48553,247 @@ c) L'entreprise ne présente pas plus de cinq œuvres cinématographiques de pat
 
 ###### Article 721-5
 
-Les œuvres cinématographiques produites dans le cadre d'une coproduction minoritaire française et réalisées dans une langue
-étrangère ne sont pas éligibles aux aides à la promotion à l'étranger, à l'exception de celles mentionnées au 2° de l'article
-721-4.
+Les entreprises de vente à l'étranger disposent des droits d'exploitation pour la commercialisation à l'étranger d'au moins
+trois œuvres cinématographiques de longue durée pour lesquelles l'agrément de production a été délivré, pour tous les modes
+de diffusion, sur le territoire d'au moins quinze Etats et pour une durée minimale de vingt-quatre mois. Ces droits doivent
+être mis en œuvre de manière effective.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. 721-4 (V)
 
 
-##### Section 2 : Aides financières automatiques 
+##### Sous-section 2 : Conditions relatives aux œuvres 
 
 ###### Article 721-6
 
-Les aides financières automatiques à la promotion à l'étranger des œuvres cinématographiques donnent lieu à l'attribution
-d'allocations directes au sens du 2° de l'article D. 311-2 du code du cinéma et de l'image animée.
+Sont éligibles aux aides à la promotion à l'étranger des œuvres cinématographiques :
+
+1° Les œuvres cinématographiques de longue durée pour lesquelles un agrément des investissements a été délivré au moment du
+dépôt de la demande, sous réserve de la délivrance de l'agrément de production ;
+
+2° Les œuvres cinématographiques de longue durée pour lesquelles un agrément de production a été délivré depuis moins de
+quatre ans au moment du dépôt de la demande ;
+
+3° Les œuvres cinématographiques pour lesquelles une aide aux cinémas du monde a été attribuée et dont le budget de
+production est inférieur à 2 500 000 € ;
+
+4° Les œuvres cinématographiques de longue durée pour lesquelles un agrément de production a été délivré depuis plus de
+quatre ans au moment du dépôt de la demande ou qui ont obtenu un agrément pour le bénéfice d'aides financières à la
+production d'œuvres cinématographiques de longue durée avant l'institution de l'agrément de production ;
+
+5° Les œuvres cinématographiques de longue durée éligibles aux aides à la restauration et à la numérisation des œuvres
+cinématographiques du patrimoine.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. D311-2 (V)
 
 
-##### Sous-section 1 : Allocations directes 
-
-##### Paragraphe 1 : Allocations directes au doublage 
-
-##### Sous-Paragraphe 1 : Objet et conditions d'attribution 
-
 ###### Article 721-7
 
-Des allocations directes sont attribuées pour la réalisation du doublage d'une œuvre cinématographique en anglais, en
-espagnol castillan, en espagnol neutre, en allemand, en italien ou en japonais.
+La gestion des droits d'exploitation à l'étranger des œuvres cinématographiques mentionnées à l'article 721-6 est assurée au
+niveau de l'installation stable et durable mentionnée au 1° de l'article 721-4.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
+
+
+##### Sous-section 3 : Conditions relatives à l'intensité des aides
 
 
 ###### Article 721-8
 
-Les allocations directes au doublage sont attribuées dans la limite de deux par an et par entreprise. Une allocation directe
-supplémentaire peut être attribuée pour le doublage d'une œuvre cinématographique appartenant au genre animation.
+Le montant total des aides financières attribuées pour la promotion à l'étranger des œuvres cinématographiques ne peut
+excéder 50 % des dépenses supportées par l'entreprise de vente à l'étranger.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
-
-##### Sous-Paragraphe 2 : Procédure et modalités d'attribution 
 
 ###### Article 721-9
 
-Pour le versement des allocations directes, l'entreprise remet un dossier comprenant : 
+Des dérogations au seuil de 50 % d'intensité des aides publiques peuvent être accordées par le président du Centre national
+du cinéma et de l'image animée, dans la limite de 60 % et sur demande motivée de l'entreprise de vente à l'étranger, pour les
+œuvres cinématographiques "difficiles" ou "à petit budget".
 
-1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
-
-2° La liste des documents justificatifs figurant en annexe 1 du présent livre.
+Une œuvre difficile est la première ou la deuxième œuvre d'un réalisateur. Une œuvre à petit budget est celle dont le budget
+total de production est inférieur ou égal à 1 250 000 €.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. Annexe 7-1 (VT)
 
 
+##### Section 2 : Aides financières automatiques 
+
+##### Sous-section unique : Allocations d'investissement
+
 ###### Article 721-10
 
-Le montant des allocations directes est fixé à 50 % des dépenses correspondant aux factures acquittées par l'entreprise dans
-la limite de 20 000 €.
+Les aides financières automatiques à la promotion à l'étranger des œuvres cinématographiques donnent lieu à l'attribution
+d'allocations d'investissement au sens du 1° de l'article D. 311-2 du code du cinéma et de l'image animée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 2 : Allocations directes au sous-titrage 
-
-##### Sous-Paragraphe 1 : Objet et conditions d'attribution 
+##### Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger
 
 ###### Article 721-11
 
-Des allocations directes sont attribuées pour la réalisation du sous-titrage d'une œuvre cinématographique en anglais, en
-espagnol castillan, en espagnol neutre, en allemand, en italien ou en japonais.
+Pour l'attribution des aides financières automatiques à la promotion à l'étranger des œuvres cinématographiques sous forme
+d'allocations d'investissement, il est ouvert dans les écritures du Centre national du cinéma et de l'image animée, au nom de
+chaque entreprise de vente à l'étranger, un compte dénommé "compte automatique". Sont inscrites sur ce compte les sommes
+représentant les aides financières automatiques auxquelles peut prétendre cette entreprise.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
-
-##### Sous-Paragraphe 2 : Procédure et modalités d'attribution 
 
 ###### Article 721-12
 
-Pour le versement des allocations directes, l'entreprise remet un dossier comprenant : 
+Sur décision du président du Centre national du cinéma et de l'image animée, les sommes inscrites sur le compte automatique
+d'une entreprise de vente à l'étranger peuvent être reportées sur le compte automatique d'une autre entreprise de vente à
+l'étranger soit en totalité en cas de reprise complète de l'activité de vente à l'étranger, soit en partie en cas de reprise
+complète d'une branche autonome de l'activité de vente à l'étranger.
 
-1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
-
-2° La liste des documents justificatifs figurant en annexe 2 du présent livre.
+En cas de cessation définitive de l'activité de vente à l'étranger d'œuvres cinématographiques d'une entreprise, il est
+procédé à la clôture de son compte automatique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. Annexe 7-2 (VT)
 
 
+##### Paragraphe 2 : Calcul des sommes inscrites sur le compte
+
 ###### Article 721-13
 
-Le montant des allocations directes est fixé à 50 % des dépenses correspondant aux factures acquittées par l'entreprise dans
-la limite de 3 000 €.
+Les sommes représentant les aides financières automatiques auxquelles peuvent prétendre les entreprises de vente à l'étranger
+sont calculées à raison de la représentation commerciale en salles de spectacles cinématographiques des œuvres
+cinématographiques mentionnées à l'article 721-6 dans les pays et territoires figurant en annexe 2 du présent livre. En cas
+de coproduction, les pays et territoires des coproducteurs ne sont pas pris en compte.
 
-**Liens relatifs à cet article**
+Le calcul est effectué en fonction du nombre total d'entrées réalisées durant l'année civile précédant celle au cours de
+laquelle ce calcul est effectué.
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-
-##### Section 3 : Aides financières sélectives 
-
-##### Sous-section 1 : Aides à la promotion à l'étranger d'œuvres déterminées 
-
-##### Paragraphe 1 : Objet et conditions d'attribution 
-
-###### Article 721-14
-
-Des aides financières sélectives sont attribuées aux entreprises d'exportation pour la promotion à l'étranger d'œuvres
-cinématographiques déterminées.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-
-###### Article 721-15
-
-Les aides à la promotion à l'étranger d'une œuvre cinématographique déterminée concourent à la prise en charge des dépenses
-de promotion suivantes : 
-
-1° La traduction de scénarios ; 
-
-2° La fabrication de supports de démonstration ; 
-
-3° La conception, la fabrication et la diffusion de supports de promotion, y compris sous forme électronique ; 
-
-4° Le recours à un attaché de presse et l'achat d'espace publicitaire dans la presse ; 
-
-5° Le transport des supports de diffusion et la projection ;
-
-6° Les frais techniques relatifs à la mise en ligne des œuvres, y compris ceux liés à la sécurisation des œuvres. 
-
-Des aides peuvent également être attribuées pour soutenir des opérations exceptionnelles de promotion, à l'exception des
-dépenses afférentes à l'organisation de réceptions ou de soirées.
+Le calcul est effectué à titre provisionnel au cours du premier semestre de chaque année et à titre définitif au cours du
+second semestre de la même année.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 36, v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution 
+###### Article 721-14
+
+Les sommes inscrites sur le compte automatique des entreprises de vente à l'étranger sont calculées dans les conditions
+suivantes :
+
+1° Pour les œuvres cinématographiques mentionnées aux 1°, 2° et 3° de l'article 721-6 :
+
+0,90 € par entrée lorsque le nombre d'entrées réalisées par l'œuvre cinématographique est inférieur ou égal à 50 000
+entrées ;
+
+0,55 € par entrée lorsque le nombre d'entrées réalisées par l'œuvre cinématographique est supérieur à 50 000 et inférieur ou
+égal à 100 000 entrées ;
+
+0,35 € par entrée lorsque le nombre d'entrées réalisées par l'œuvre cinématographique est supérieur à 100 000 et inférieur ou
+égal à 200 000 entrées ;
+
+0,15 € par entrée lorsque le nombre d'entrées réalisées par l'œuvre cinématographique est supérieur à 200 000 et inférieur ou
+égal à 700 000 entrées.
+
+Aucune somme n'est calculée au titre des entrées réalisées au-delà de 700 000 entrées.
+
+2° Pour les œuvres cinématographiques mentionnées aux 4° et 5° de l'article 721-6 : 0,30 € par entrée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
+
+
+###### Article 721-15
+
+Les sommes calculées en application de l'article 721-14 sont majorées de 20 % :
+
+1° Pour les œuvres cinématographiques réalisées intégralement ou principalement en version originale en langue française ou
+dans une langue régionale en usage en France ;
+
+2° Pour les œuvres cinématographiques qui sont les premières ou deuxièmes œuvres cinématographiques de longue durée de leurs
+réalisateurs.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
+
+
+##### Paragraphe 3 : Inscription des sommes sur le compte
 
 ###### Article 721-16
 
-La demande d'aide est présentée entre six et huit semaines avant la date prévue pour chacune des deux sessions annuelles de
-la commission des aides à la promotion cinématographique.
+Les sommes sont inscrites sur le compte automatique d'une entreprise de vente à l'étranger à titre provisionnel au cours du
+premier semestre de chaque année et à titre définitif au cours du second semestre de la même année.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
+
+##### Paragraphe 4 : Affectation des sommes inscrites sur le compte
 
 ###### Article 721-17
 
-Pour l'attribution d'une aide, l'entreprise remet un dossier comprenant : 
-
-1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
-
-2° La liste des documents justificatifs figurant en annexe 3 du présent livre.
+Les sommes inscrites sur le compte automatique des entreprises de vente à l'étranger peuvent être investies soit pour la
+promotion à l'étranger d'œuvres cinématographiques déterminées, soit pour la promotion à l'étranger du catalogue des
+entreprises au titre des œuvres cinématographiques mentionnées à l'article 721-6.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 	**Cité par**:
 
@@ -48662,107 +48802,159 @@ Pour l'attribution d'une aide, l'entreprise remet un dossier comprenant :
 
 ###### Article 721-18
 
-La décision d'attribution d'une aide est prise après avis de la commission des aides à la promotion cinématographique sur
-présentation des factures acquittées par l'entreprise bénéficiaire.
+Les sommes inscrites sur le compte automatique des entreprises de vente à l'étranger peuvent être investies pour la prise en
+charge des dépenses suivantes, portant sur des œuvres cinématographiques mentionnées à l'article 721-6 :
+
+1° Traduction de scénarios ;
+
+2° Réalisation du doublage et/ou du sous-titrage d'une œuvre cinématographique ;
+
+3° Fabrication de supports de démonstration ;
+
+4° Conception, fabrication et diffusion de supports de promotion, y compris sous forme électronique ;
+
+5° Conception, création et fonctionnement d'un site internet dédié à la vente internationale ;
+
+6° "Webmarketing" ;
+
+7° Achat d'espaces publicitaires, quel que soit le mode de communication utilisé et fabrication d'objets promotionnels ;
+
+8° Recours à un attaché de presse et à un interprète ;
+
+9° Fabrication, duplication et transport de supports de diffusion et projection ;
+
+10° Location de bureaux ou de stands dans les marchés et festivals ;
+
+11° Opérations spéciales de promotion, à l'exception des dépenses afférentes à l'organisation de réceptions ou de soirées ;
+
+12° Mise en ligne des œuvres ;
+
+13° Protection contre les risques de contrefaçon ;
+
+14° Formatage lié à l'adaptation d'une œuvre cinématographique pour une représentation sur écran géant au sens du 8° de
+l'article 621-4.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
 ###### Article 721-19
 
-L'aide est attribuée sous forme de subvention.
+Les sommes inscrites sur le compte automatique des entreprises de vente à l'étranger peuvent également être investies pour
+acquérir les droits d'exploitation à l'étranger d'œuvres cinématographiques mentionnées aux 1°, 2° et 3° de l'article 721-6.
 
-**Liens relatifs à cet article**
+Seuls sont pris en compte les contrats d'acquisition de droits d'exploitation à l'étranger conclus à compter du 1er octobre
+2016.
 
-	**Créé par**:
+Les sommes peuvent être investies au plus tard un an après la première représentation commerciale des œuvres en salles de
+spectacles cinématographiques en France.
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+Ces sommes ne peuvent être investies :
 
+1° Pour des œuvres cinématographiques de longue durée produites par des entreprises de production qui n'ont pas été
+autorisées à investir les sommes inscrites sur leur compte automatique en application de l'article 211-44 ;
 
-###### Article 721-20
+2° Pour des œuvres cinématographiques de longue durée produites dans le cadre d'une coproduction internationale admise au
+bénéfice d'un accord intergouvernemental de coproduction, dans laquelle la participation française est minoritaire et ne
+comporte pas d'apport artistique ou technique, dite "coproduction financière", à l'exception des œuvres cinématographiques
+ayant bénéficié d'une aide aux cinémas du monde.
 
-L'aide ne peut représenter plus de 50 % du montant des dépenses de promotion.
+Les sommes investies sont reversées dans le cas où l'œuvre cinématographique n'est pas réalisée ou, pour les œuvres
+mentionnées au 1° de l'article 721-6, lorsque l'agrément de production n'est pas délivré.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 37, v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
+
+
+##### Paragraphe 5 : Investissement des sommes inscrites sur le compte
+
+###### Article 721-20
+
+L'investissement des sommes inscrites sur leur compte automatique par les entreprises de vente à l'étranger est subordonné à
+la délivrance d'une autorisation d'investissement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
 ###### Article 721-21
 
-L'aide est attribuée dans la limite des plafonds suivants : 
+Pour la délivrance de l'autorisation d'investissement, l'entreprise de vente à l'étranger remet un dossier comprenant :
 
-1° Un plafond de 15 œuvres par entreprise ; 
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
 
-2° Un plafond de 25 000 € par œuvre ; 
-
-3° Un plafond annuel de 130 000 € par entreprise ;
-
-4° Un plafond annuel de 4 500 € par entreprise pour la part des aides attribuée au titre du 6° de l'article 721-15.
+2° La liste des documents justificatifs figurant en annexe 3 du présent livre.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 38, v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
-
-##### Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises 
-
-##### Paragraphe 1 : Objet et conditions d'attribution 
 
 ###### Article 721-22
 
-Des aides financières sélectives sont attribuées aux entreprises d'exportation pour la promotion à l'étranger de leurs
-activités et de leur catalogue, ainsi que de leur stratégie de prospection.
+La demande d'autorisation d'investissement est présentée une fois par an lorsqu'elle concerne la promotion à l'étranger du
+catalogue de l'entreprise et deux fois maximum lorsqu'elle concerne la promotion à l'étranger d'une œuvre cinématographique
+déterminée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
 ###### Article 721-23
 
-Les aides à la promotion à l'étranger des activités et du catalogue des entreprises concourent à la prise en charge des
-dépenses suivantes : 
+Lorsque l'investissement des sommes inscrites sur leur compte automatique par les entreprises de vente à l'étranger est
+effectué au titre de l'article 721-19 et que les sommes dues en contrepartie de l'acquisition des droits d'exploitation à
+l'étranger n'ont pas encore été versées au moment du dépôt de la demande, cet investissement fait l'objet de deux
+versements :
 
-1° La conception, la création et le fonctionnement d'un site internet dédié à la vente internationale ; 
+1° Le premier versement, qui ne peut excéder 75% du montant des sommes investies, est effectué au moment de la délivrance de
+l'autorisation d'investissement ;
 
-2° La conception, la fabrication et la diffusion d'un catalogue papier ; 
-
-3° La conception, la fabrication et la diffusion de supports concernant des " line-up " pour des marchés ; 
-
-4° La location de bureaux ou de stands ; 
-
-5° La protection contre les risques de contrefaçon.
+2° Le solde est versé après présentation des documents justificatifs du versement des sommes dues en contrepartie de
+l'acquisition des droits d'exploitation à l'étranger.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution 
+##### Paragraphe 6 : Péremption des sommes inscrites sur le compte
 
 ###### Article 721-24
 
-La demande d'aide est présentée entre six et huit semaines avant la date prévue pour la session annuelle de la commission.
+L'investissement des sommes inscrites sur leur compte automatique par les entreprises de vente à l'étranger doit être
+effectué dans un délai de trois ans à compter du 1er janvier de l'année suivant celle au cours de laquelle elles ont été
+calculées. A l'expiration de ce délai, les entreprises de vente à l'étranger sont déchues de la faculté d'investir ces
+sommes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
+
+##### Section 3 : Aides financières sélectives 
+
+##### Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises 
+
+##### Paragraphe 2 : Procédure et modalités d'attribution 
 
 ###### Article 721-25
 
@@ -48845,88 +49037,50 @@ deux ans renouvelable.
 
 #### Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles 
 
-##### Section 1 : Aides financières sélectives 
+##### Section 1 : Dispositions générales 
 
 ###### Article 722-1
 
-Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
-animée, afin de soutenir la promotion à l'étranger des œuvres audiovisuelles.
+Des aides financières sont attribuées sous forme automatique et sous forme sélective au sens des articles D. 311-2 et D.
+311-3 du code du cinéma et de l'image animée, afin de soutenir la promotion à l'étranger des œuvres audiovisuelles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
-###### Article 722-1-2
+###### Article 722-2
 
-L'attribution des aides financières à la promotion à l'étranger d'œuvres audiovisuelles est soumise aux dispositions du
+L'attribution des aides financières à la promotion à l'étranger des œuvres audiovisuelles est soumise aux dispositions du
 règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché
 intérieur en application des articles 107 et 108 du traité, notamment celles prévues par le chapitre Ier et l'article 54 de
 la section 11 relatif aux régimes d'aides en faveur des œuvres audiovisuelles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 41, v. init.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 1 : Objet et conditions d'attribution 
-
-###### Article 722-2
-
-Des aides financières sélectives sont attribuées aux entreprises de production et aux entreprises de distribution soit pour
-la promotion d'œuvres audiovisuelles déterminées, soit pour la promotion de plusieurs œuvres audiovisuelles constituant le
-catalogue de l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
+##### Sous-section 1 : Conditions relatives aux bénéficiaires
 
 ###### Article 722-3
 
-Pour être admises au bénéfice des aides à la promotion à l'étranger des œuvres audiovisuelles, les entreprises répondent aux
-conditions suivantes : 
-
-1° Etre établies en France. Sont réputées établies en France les entreprises y exerçant effectivement une activité au moyen
-d'une installation stable et durable et dont le siège social est situé en France, dans un autre Etat membre de l'Union
-européenne ou dans un Etat partie à l'accord sur l'Espace économique européen. 
-
-Pour les entreprises dont le siège social est situé dans un autre Etat membre de l'Union européenne, le respect de la
-condition d'établissement en France, sous forme d'établissement stable, de succursale ou d'agence permanente, n'est exigé
-qu'au moment du versement de l'aide ; 
-
-2° Avoir des présidents, directeurs ou gérants, ainsi que la majorité des administrateurs, soit de nationalité française,
-soit ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique
-européen, d'un Etat partie à la Convention européenne sur la télévision transfrontière du Conseil de l'Europe ou d'un Etat
-tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. 
-
-Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
-document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français ; 
-
-3° Ne pas être contrôlées, au sens de l'article L. 233-3 du code de commerce, par une ou plusieurs personnes physiques ou
-morales ressortissantes d'Etats autres que les Etats européens mentionnés au 2°, lorsqu'elles sont constituées sous forme de
-société commerciale.
+Les bénéficiaires des aides à la promotion à l'étranger des œuvres audiovisuelles sont des entreprises de production ou de
+distribution.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 	**Cite**:
 
@@ -48935,149 +49089,170 @@ société commerciale.
 
 ###### Article 722-4
 
-Les éditeurs de services de télévision ne sont pas admis au bénéfice des aides à la promotion à l'étranger des œuvres
-audiovisuelles.
+Pour être admises au bénéfice des aides à la promotion à l'étranger des œuvres audiovisuelles, les entreprises répondent aux
+conditions suivantes :
+
+1° Etre établies en France. Sont réputées établies en France les entreprises y exerçant effectivement une activité au moyen
+d'une installation stable et durable et dont le siège social est situé en France, dans un autre Etat membre de l'Union
+européenne ou dans un Etat partie à l'accord sur l'Espace économique européen.
+
+Pour les entreprises dont le siège social est situé dans un autre Etat membre de l'Union européenne, le respect de la
+condition d'établissement en France, sous forme d'établissement stable, de succursale ou d'agence permanente, n'est exigé
+qu'au moment du versement de l'aide ;
+
+2° Avoir des présidents, directeurs ou gérants, ainsi que la majorité des administrateurs, soit de nationalité française,
+soit ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique
+européen, d'un Etat partie à la Convention européenne sur la télévision transfrontière du Conseil de l'Europe ou d'un Etat
+tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur audiovisuel.
+
+Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
+document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
+économique européen, sont assimilés aux citoyens français ;
+
+3° Ne pas être contrôlées, au sens de l'article L. 233-3 du code de commerce, par une ou plusieurs personnes physiques ou
+morales ressortissantes d'Etats autres que les Etats européens mentionnés au 2°, lorsqu'elles sont constituées sous forme de
+société commerciale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
 ###### Article 722-5
 
-Pour l'attribution des aides à la promotion à l'étranger des œuvres audiovisuelles, les entreprises justifient d'un montant
-de 200 000 € de ventes effectuées à l'étranger dans les trois dernières années.
+Les entreprises justifient de ventes à l'étranger portant sur des œuvres répondant aux conditions de l'article 722-6 soit
+pour un montant minimum de 100 000 € au cours de l'année précédant la demande d'aide, soit pour un montant minimum de 200 000
+€ au cours des deux années précédant la demande d'aide.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
+
+##### Sous-section 2 : Conditions relatives aux œuvres
 
 ###### Article 722-6
 
 Sont éligibles aux aides à la promotion à l'étranger des œuvres audiovisuelles, les œuvres audiovisuelles produites dans les
 conditions prévues au chapitre Ier du titre Ier du livre III et qui ont fait l'objet d'une acceptation dûment renseignée et
 certifiée de leur version définitive par un ou plusieurs éditeurs de services de télévision ou de services à la demande,
-depuis moins de deux ans. Des dérogations à ce délai peuvent être accordées pour les œuvres pouvant potentiellement justifier
-de ventes à l'étranger.
+depuis moins de deux ans. Des dérogations à ce délai peuvent être accordées pour les œuvres pouvant justifier de ventes à
+l'étranger.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+##### Sous-section 3 : Conditions relatives à l'intensité des aides
 
 
 ###### Article 722-7
 
-Les aides à la promotion à l'étranger des œuvres audiovisuelles concourent à la prise en charge des dépenses de promotion
-suivantes : 
-
-1° Le doublage en version étrangère ; 
-
-2° Le sous-titrage en version étrangère ; 
-
-3° La voix off en version étrangère ; 
-
-4° Le reformatage en format international ; 
-
-5° Le transcodage de versions doublées ou sous-titrées en version étrangère et de bandes de démonstration en version
-étrangère ou bilingue française et étrangère ; 
-
-6° La fabrication de bandes de démonstration en version étrangère ou bilingue française et étrangère ; 
-
-7° La conception, la fabrication et la diffusion de supports de promotion, y compris sous forme électronique. Les parties
-rédactionnelles de ces supports de promotion doivent être en version étrangère ou en version bilingue française et
-étrangère ; 
-
-8° L'achat d'espace publicitaire dans la presse professionnelle spécialisée.
+Le montant total des aides financières attribuées pour la promotion à l'étranger des œuvres audiovisuelles ne peut excéder 50
+% des dépenses supportées par l'entreprise.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. 722-8 (V)
 
 
+##### Sous-section 4 : Conditions relatives au montant des aides
+
+
+
 ###### Article 722-8
 
-Les entreprises dont les œuvres audiovisuelles ont fait l'objet d'une coproduction ou d'un préachat avec des entreprises
-établies à l'étranger ne peuvent pas bénéficier des aides pour la promotion à l'étranger desdites œuvres dans la langue du
-pays du coproducteur ou de l'acheteur. 
-
-Ces dispositions ne s'appliquent pas aux entreprises de distribution lorsqu'elles peuvent justifier d'un contrat de
-distribution. Dans ce cas, elles peuvent bénéficier des aides pour la prise en charge des dépenses de promotion correspondant
-aux opérations de promotion mentionnées aux 5°, 6° et 7° de l'article 722-7. 
-
-Les entreprises ayant obtenu une aide financière de l'Union européenne pour le doublage, le sous-titrage ou la distribution
-d'une œuvre audiovisuelle ne peuvent bénéficier pour cette même œuvre des aides à la promotion.
+Le montant total des aides financières attribuées pour la promotion à l'étranger des œuvres audiovisuelles ne peut excéder
+180 000 € par entreprise et par an.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. 722-7 (V)
 
 
+##### Section 2 : Aides financières automatiques
+
 ###### Article 722-9
 
-En ce qui concerne le doublage, le sous-titrage et le reformatage des séries et collections d'œuvres audiovisuelles, les
-aides à la promotion à l'étranger sont attribuées à hauteur de 25 % de la durée ou de la durée cumulée totale de ces séries
-et collections. 
-
-Toutefois, lorsque les entreprises de production et les entreprises de distribution disposent d'une offre d'achat ferme
-émanant d'un éditeur de services de télévision ou d'un éditeur de services à la demande établi à l'étranger et portant sur
-l'intégralité d'une série ou d'une collection d'œuvres audiovisuelles, les aides à la promotion à l'étranger sont attribuées
-à hauteur de la totalité de la durée ou de la durée cumulée de la série ou de la collection.
+Les aides financières automatiques à la promotion à l'étranger des œuvres audiovisuelles donnent lieu à l'attribution
+d'allocations directes au sens du 2° de l'article D. 311-2 du code du cinéma et de l'image animée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
+
+##### Sous-section unique : Allocations directes
+
+
+
+
+  
+
+##### Paragraphe 1 : Objet et conditions d'attribution
 
 ###### Article 722-10
 
-En ce qui concerne la fabrication de bandes de démonstration, les aides à la promotion à l'étranger des œuvres audiovisuelles
-sont réservées à la promotion de séries et collections dont la durée ou la durée cumulée totale est supérieure à quatre
-heures et dont les épisodes ou numéros ont une durée ou une durée cumulée supérieure à cinq minutes.
+Des allocations directes sont attribuées soit pour la promotion à l'étranger d'œuvres audiovisuelles déterminées, soit pour
+la promotion à l'étranger du catalogue des entreprises au titre des œuvres mentionnées à l'article 722-6.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
-
-##### Sous-section 2 : Procédure et modalités d'attribution 
 
 ###### Article 722-11
 
-Pour l'attribution d'une aide à la promotion d'une œuvre audiovisuelle déterminée, l'entreprise remet un dossier
-comprenant : 
+Les allocations directes concourent à la prise en charge des dépenses de promotion suivantes :
 
-1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
+1° Doublage en version étrangère ;
 
-2° La liste des documents justificatifs figurant en annexe 5 du présent livre.
+2° Sous-titrage en version étrangère ;
+
+3° Traduction en version étrangère d'une continuité dialoguée dénommée "script" ;
+
+4° Voix off en version étrangère ;
+
+5° Reformatage en format international, hors haute définition ;
+
+6° Fabrication de bandes de démonstration en version étrangère ou bilingue française et étrangère ;
+
+7° Conception, fabrication et diffusion de supports de promotion, y compris sous forme électronique. Les parties
+rédactionnelles de ces supports de promotion doivent être en version étrangère ou en version bilingue française et
+étrangère ;
+
+8° Achat d'espaces publicitaires dans la presse professionnelle spécialisée ;
+
+9° Inscription des œuvres dans les vidéothèques.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 	**Cité par**:
 
@@ -49086,17 +49261,23 @@ comprenant :
 
 ###### Article 722-12
 
-Pour l'attribution d'une aide à la promotion d'un catalogue, l'entreprise remet un dossier comprenant : 
+Les entreprises dont les œuvres audiovisuelles ont fait l'objet d'une coproduction ou d'un préachat avec des entreprises
+établies à l'étranger ne peuvent bénéficier des allocations directes pour la promotion à l'étranger desdites œuvres dans la
+langue du pays du coproducteur ou de l'acheteur.
 
-1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
+Ces dispositions ne s'appliquent pas aux entreprises de distribution lorsqu'elles peuvent justifier d'un contrat de
+distribution. Dans ce cas, elles peuvent bénéficier des allocations directes pour la prise en charge des dépenses de
+promotion mentionnées aux 6° et 7° de l'article 722-11.
 
-2° La liste des documents justificatifs figurant en annexe 6 du présent livre.
+Les entreprises ayant obtenu une aide financière de l'Union européenne pour le doublage, le sous-titrage ou la distribution
+d'une œuvre audiovisuelle ne peuvent bénéficier des allocations directes pour la prise en charge des mêmes dépenses de
+promotion.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 	**Cité par**:
 
@@ -49105,6 +49286,210 @@ Pour l'attribution d'une aide à la promotion d'un catalogue, l'entreprise remet
 
 ###### Article 722-13
 
+En ce qui concerne le doublage, le sous-titrage, la voix off et le reformatage des séries et collections d'œuvres
+audiovisuelles, les allocations directes sont attribuées à hauteur de 25 % de la durée ou de la durée cumulée totale de ces
+séries et collections.
+
+Toutefois, lorsque les entreprises de production et les entreprises de distribution disposent d'une offre d'achat ferme
+émanant d'un éditeur de services de télévision ou d'un éditeur de services à la demande établi à l'étranger et portant sur
+l'intégralité d'une série ou d'une collection d'œuvres audiovisuelles, les allocations directes sont attribuées à hauteur de
+la totalité de la durée ou de la durée cumulée de la série ou de la collection.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+###### Article 722-14
+
+En ce qui concerne la fabrication de bandes de démonstration, les allocations directes sont réservées à la promotion de
+séries et collections dont la durée ou la durée cumulée totale est supérieure à quatre heures et dont les épisodes ou numéros
+ont une durée ou une durée cumulée supérieure à cinq minutes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+##### Paragraphe 2 : Procédure et modalités d'attribution
+
+###### Article 722-15
+
+Pour l'attribution d'une allocation directe, l'entreprise remet un dossier comprenant :
+
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
+
+2° La liste des documents justificatifs figurant en annexe 4 du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+###### Article 722-16
+
+Lorsque plusieurs entreprises assurent ensemble la promotion à l'étranger d'une même œuvre audiovisuelle et concourent à la
+prise en charge des mêmes dépenses pour les mêmes territoires, la demande d'aide concernant ces dépenses est présentée par
+une seule de ces entreprises selon l'accord intervenu entre elles.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+###### Article 722-17
+
+Le montant de l'allocation directe est fixé :
+
+1° A 30 % des dépenses liées à la réalisation du doublage pour chacune des versions étrangères, dans la limite de :
+
+50 € par minute pour deux versions étrangères par œuvre au choix de l'entreprise ;
+
+30 € par minute pour les autres versions étrangères ;
+
+8% du montant de la vente pour les contrats multi-territoires incluant plus de trois versions linguistiques.
+
+2° A 45 % des dépenses liées à la réalisation du sous-titrage pour chacune des versions étrangères, dans la limite de :
+
+16 € par minute pour une version étrangère par œuvre au choix de l'entreprise ;
+
+10 € par minute pour les autres versions étrangères.
+
+3° A 45 % des dépenses liées à la traduction de scripts pour chacune des versions étrangères dans la limite de 8€ par minute.
+
+4° A 45 % des dépenses liées à la réalisation de la voix off en version étrangère, dans la limite de :
+
+32 € par minute pour une version étrangère par œuvre au choix de l'entreprise ;
+
+25 € par minute pour les autres versions étrangères.
+
+5° A 50 % des dépenses liées au reformatage en format international, dans la limite de :
+
+2 500 € pour une œuvre de 52 minutes ;
+
+2 000 € pour une œuvre de 26 minutes.
+
+6° A 45 % des dépenses liées à la fabrication de bandes de démonstration en version étrangère ou bilingue française et
+étrangère, dans la limite de :
+
+2 500 € pour une série comportant plus de trois épisodes ou un catalogue d'œuvres ;
+
+1 000 € pour une œuvre unitaire, dans la limite de deux œuvres par an ;
+
+500 € pour les autres œuvres unitaires.
+
+7° A 45 % des dépenses liées à la conception, la fabrication et la diffusion de supports de promotion, y compris sous forme
+électronique, dans la limite de :
+
+700 € pour la réalisation d'un support de promotion d'une page ou d'une feuille recto-verso ;
+
+1 200 € pour la réalisation d'un support de promotion multipages ;
+
+3 000 € pour la réalisation d'un catalogue par entreprise et par an ;
+
+1 500 € pour la réalisation d'une lettre d'information, dans la limite de deux par entreprise et par an.
+
+8° A 35 % des dépenses liées à l'achat d'espaces publicitaires dans la presse professionnelle spécialisée.
+
+9° A 45 % des dépenses liées à l'inscription d'œuvres dans les vidéothèques, dans la limite de 5 000 € par entreprise et par
+an.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+###### Article 722-18
+
+Le président du Centre national du cinéma et de l'image animée peut consulter la commission des aides à la promotion
+audiovisuelle sur la valorisation des dépenses de promotion lorsque les prestations correspondantes sont internalisées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+##### Section 3 : Aides financières sélectives
+
+
+
+##### Sous-section 1 : Objet et conditions d'attribution
+
+###### Article 722-19
+
+Des aides financières sélectives sont attribuées soit pour la promotion à l'étranger d'œuvres audiovisuelles déterminées,
+soit pour la promotion à l'étranger du catalogue des entreprises au titre des œuvres mentionnées à l'article 722-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+###### Article 722-20
+
+Les aides à la promotion à l'étranger des œuvres audiovisuelles concourent à la prise en charge des dépenses de promotion
+suivantes :
+
+1° Conception, création, refonte ou aménagement substantiel d'un site internet dédié à la vente internationale ;
+
+2° "Webmarketing" au titre des opérations suivantes : mailing, campagne virale vidéo, animation de communautés en ligne et de
+réseaux sociaux, graphisme, site internet dédié à une œuvre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+##### Sous-section 2 : Procédure et modalités d'attribution
+
+###### Article 722-21
+
+Pour l'attribution d'une aide à la promotion d'œuvres déterminées, l'entreprise remet un dossier comprenant :
+
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
+
+2° La liste des documents justificatifs figurant en annexe 5 du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+###### Article 722-22
+
+Pour l'attribution d'une aide à la promotion d'un catalogue, l'entreprise remet un dossier comprenant :
+
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
+
+2° La liste des documents justificatifs figurant en annexe 6 du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+###### Article 722-23
+
 La décision d'attribution d'une aide est prise après avis de la commission des aides à la promotion audiovisuelle sur
 présentation des factures acquittées par l'entreprise.
 
@@ -49112,34 +49497,51 @@ présentation des factures acquittées par l'entreprise.
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-###### Article 722-14
+###### Article 722-24
 
-L'aide attribuée ne peut excéder 50 % des dépenses supportées par l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-
-###### Article 722-15
-
-Le montant de l'aide attribuée par entreprise et par année ne peut excéder 150 000 €.
+La demande d'aide est présentée entre six et huit semaines avant la date prévue pour chacune des deux sessions annuelles de
+la commission des aides à la promotion audiovisuelle.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 3 : Commission consultative 
+###### Article 722-25
 
-###### Article 722-16
+L'aide est attribuée sous forme de subvention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+###### Article 722-26
+
+Le montant de l'aide est plafonné :
+
+1° A 50 % des dépenses liées à la conception, la création et la refonte ou l'aménagement substantiel d'un site internet dédié
+à la vente internationale, dans la limite de 30 000 € par entreprise tous les trois ans ;
+
+2° A 50 % des dépenses liées au "webmarketing", dans la limite de 5 000 € par entreprise et par an.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+
+
+##### Sous-section 3 : Commission consultative
+
+###### Article 722-27
 
 La commission des aides à la promotion audiovisuelle est composée de quatre membres nommés pour une durée de deux ans
 renouvelable.
@@ -49148,7 +49550,7 @@ renouvelable.
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
 #### Chapitre III : Aides financières aux cinémas du monde
@@ -49404,162 +49806,576 @@ d'un an renouvelable.
 
 ###### Article Annexe 7-1
 
-Allocations directes au doublage (article 721-9) 
+Régime cadre exempté de notification N° SA. 46706 (article 711-3)
 
-Liste des documents justificatifs : 
+Régime cadre exempté de notification N° SA.  46706 relatif aux aides en faveur du codéveloppement international et  de la
+coproduction internationale des œuvres cinématographiques ou  audiovisuelles
 
-1° Une note détaillant les raisons de la réalisation du doublage ainsi que les ventes déjà effectuées ou en cours grâce à ce
-doublage, en précisant, pour chaque vente, le distributeur et le pays concerné ; 
+Les autorités françaises ont informé la  Commission de la mise en œuvre du présent régime cadre exempté de  notification
+relatif aux aides en faveur du codéveloppement  international et de la coproduction internationale des œuvres
+cinématographiques ou audiovisuelles fondé sur le règlement général  d'exemption par catégorie n° 651/2014 du 17 juin 2014
+(RGEC) et  notamment son article 54. Ce régime d'aide a été enregistré par la  Commission sous la référence SA. 46706.
 
-2° Les factures détaillées des frais de doublage au nom de l'entreprise qui sollicite l'aide, en précisant, pour chaque
-facture, les frais auxquels elles correspondent ; 
+Sommaire
 
-3° Une copie vidéo de l'œuvre cinématographique doublée.
+Article 1. Objet du régime 
+
+Article 2. Durée 
+
+Article 3. Seuil de notification 
+
+Article 4. Champ d'application 
+
+Article 5. Transparence des aides 
+
+Article 6. Effet incitatif des aides 
+
+Article 7. Projets éligibles 
+
+Article 8. Coûts admissibles 
+
+Article 9. Territorialisation 
+
+Article 10. Intensité des aides 
+
+Article 11. Cumul des aides 
+
+Article 12. Publication 
+
+Article 13. Rapport annuel 
+
+Article 14. Conservation des documents 
+
+Article 1. Objet du régime
+
+Le présent régime cadre relatif aux aides  en faveur du codéveloppement international et de la coproduction  internationale
+d'œuvres cinématographiques ou audiovisuelles encadre,  conformément à la réglementation européenne les dispositifs d'aides
+institués par un accord intergouvernemental dont la gestion et le  financement sont confiés au Centre national du cinéma et
+de l'image  animée (CNC) ou par un accord administratif de partenariat conclu entre  le CNC et d'autres autorités publiques
+de l'Union européenne et d'Etats  tiers. Ces dispositifs sont listés au livre VII, titre 1, chapitre 1 du  règlement général
+des aides financières du CNC.
+
+Le présent régime cadre reprend et précise  les conditions du RGEC applicables aux régimes d'aides en faveur du
+codéveloppement et de la coproduction internationale.
+
+Les dispositifs d'aides institués sur la  base du présent régime cadre doivent en respecter toutes les conditions  et en
+mentionner la référence, notamment :
+
+Pour un accord intergouvernemental ou administratif instituant un dispositif d'aide (ou autre document équivalent) :
+
+Dispositif d'aides pris en application du  régime cadre exempté n° SA. 46706, relatif aux aides en faveur du  codéveloppement
+international et de la coproduction internationale des  œuvres cinématographiques ou audiovisuelles, adopté sur la base du
+règlement n° 651/2014  de la Commission du 17 juin 2014 déclarant certaines catégories d'aides  compatibles avec le marché
+intérieur en application des articles 107 et  108 du traité.
+
+Pour tout acte juridique attributif d'une aide :
+
+Aide attribuée sur la base du [préciser  l'intitulé du dispositif d'aides concerné] pris en application du régime  cadre
+exempté n° SA. 46706, relatif aux aides en faveur codéveloppement  international et de la coproduction internationale des
+œuvres  cinématographiques ou audiovisuelles, adopté sur la base du règlement n° 651/2014  de la Commission du 17 juin 2014
+déclarant certaines catégories d'aides  compatibles avec le marché intérieur en application des articles 107 et  108 du
+traité. 
+
+Article 2. Durée
+
+Le présent régime cadre entre en vigueur le  lendemain de la publication au Journal officiel de la République  Française de
+la délibération du Conseil d'administration du CNC du 24  novembre 2016 et est applicable jusqu'au 31 décembre 2020, date de
+fin  de validité du RGEC, ou, le cas échéant, jusqu'à une date ultérieure si  la Commission européenne a pris une décision
+autorisant sa prolongation.
+
+Article 3. Seuil de notification
+
+Le présent régime cadre couvre les  dispositifs d'aides en faveur du codéveloppement international et de la  coproduction
+internationale des œuvres cinématographiques ou  audiovisuelles dans la mesure où la contribution financière du CNC au  titre
+de chaque dispositif est inférieure à 50 millions d'euros par an.
+
+Dans les cas où cette contribution  financière excéderait 50 millions d'euros par an, une notification du  dispositif d'aide
+concerné sera nécessaire.
+
+Article 4. Champ d'application
+
+4.1 Champ d'application
+
+Le présent régime cadre s'applique aux  contributions financières apportées par le CNC au titre des dispositifs  d'aides au
+codéveloppement international et à la coproduction d'œuvres  cinématographiques ou audiovisuelles.
+
+4.2 Exclusions
+
+Le présent régime cadre ne s'applique pas aux aides suivantes :
+
+- aides réservées à des activités de  production spécifiques ou à des maillons individuels de la chaîne de  valeur de la
+production ;
+
+- aides en faveur des infrastructures des studios ;
+
+- aides en faveur d'une entreprise faisant  l'objet d'une injonction de récupération non exécutée suivant une  décision de la
+Commission déclarant des aides illégales et incompatibles  avec le marché intérieur ;
+
+- aides qui par elles-mêmes, par les  modalités dont elles sont assorties ou par leur mode de financement,  entraînent de
+manière indissociable une violation du droit de l'Union,  en particulier :
+
+1) les mesures d'aide dont l'octroi est  subordonné à l'obligation pour le bénéficiaire d'avoir son siège dans  l'Etat membre
+concerné ou d'être établi à titre principal dans ledit  Etat membre. Il est toutefois autorisé d'exiger que le bénéficiaire
+ait  un établissement ou une succursale dans l'Etat membre qui octroie l'aide  au moment du versement de l'aide ;
+
+2) les aides qui sont réservées exclusivement aux ressortissants nationaux ;
+
+3) les mesures d'aide dont l'octroi est  subordonné à l'obligation pour le bénéficiaire d'utiliser des biens  produits sur le
+territoire national ou d'avoir recours à des prestations  de services effectuées depuis le territoire national, dans des
+proportions supérieures à celles autorisées par l'article 54 du RGEC.
+
+- aides accordées aux entreprises en difficulté, telles que définies par l'article 2 (18) du RGEC,
+
+- aides qui favorisent des activités liées à  l'exportation vers des pays tiers ou un Etat membre, à savoir celles  qui sont
+directement liées aux quantités exportées ;
+
+- aides qui financent la mise en place et  le fonctionnement d'un réseau de distribution ou d'autres dépenses  courantes
+liées à l'activité d'exportation.
+
+Article 5. Transparence des aides
+
+Les aides attribuées sur le fondement des  dispositifs d'aides pris en application du présent régime cadre doivent  être
+“transparentes”, c'est-à-dire qu'il doit être possible de calculer  précisément et préalablement leur équivalent-subvention
+brut, sans qu'il  soit nécessaire d'effectuer une analyse de risque.
+
+Les aides attribuées sous forme de  subventions sont considérées comme transparentes. Les aides attribuées  sous forme
+d'avances récupérables sont considérées comme transparentes  sous réserve que le montant total ne dépasse pas les seuils et
+les  intensités d'aide applicables au titre du présent régime.
+
+Article 6. Effet incitatif des aides
+
+Les aides attribuées sur le fondement des  dispositifs d'aides pris en application du présent régime doivent avoir  un effet
+incitatif.
+
+Une aide est réputée avoir un effet  incitatif si le bénéficiaire a présenté une demande d'aide écrite à  l'organisme qui
+octroie l'aide avant le début des travaux liés au projet  ou à l'activité en question. La demande d'aide contient au moins
+les  informations suivantes :
+
+a) Le nom et la taille de l'entreprise ;
+
+b) Une description du projet, y compris ses dates de début et de fin ;
+
+c) La localisation du projet ;
+
+d) Une liste des coûts admissibles ;
+
+e) Le type d'aide sollicitée (subvention, bonification d'intérêt, avance récupérable, prêt, garantie) ;
+
+f) Le montant estimé de l'aide sollicitée.
+
+Si l'effet incitatif n'est pas démontré les aides ne sont pas attribuées.
+
+Article 7. Projets éligibles
+
+Les aides attribuées sur le fondement des  dispositifs d'aides pris en application du présent régime cadre doivent  être
+destinées à soutenir le codéveloppement international ou la  coproduction internationale d'œuvres cinématographiques ou
+audiovisuelles constitutives d'un produit culturel. Cet aspect culturel  sera établi suivant les procédures instaurées à
+cette fin.
+
+Article 8. Coûts admissibles
+
+Les coûts admissibles sont les suivants :
+
+Pour les aides au développement : coûts de  préparation, couvrant les coûts de l'écriture de scénarios et des autres
+dépenses de développement ;
+
+Pour les aides à la production : coûts de  production, couvrant les coûts globaux de la production, y compris les  coûts
+destinés à améliorer l'accessibilité pour les personnes  handicapées ;
+
+Article 9. Territorialisation
+
+Les dispositifs d'aides pris en application  du présent régime cadre peuvent prévoir que les aides attribuées sont
+subordonnées à des obligations de territorialisation des dépenses.
+
+Les obligations de territorialisation sont  des obligations imposées aux bénéficiaires des aides de dépenser un  montant
+minimal et/ou d'exercer une activité de production minimale sur  un territoire donné. Ces obligations peuvent :
+
+- exiger que jusqu'à 160 % de l'aide  attribuée pour une œuvre déterminée soient dépensés sur le territoire de  l'Etat membre
+qui attribue l'aide ; ou
+
+- calculer l'aide attribuée pour une œuvre  déterminée en pourcentage des dépenses liées aux activités de  développement et
+de production dans l'Etat membre qui attribue l'aide.
+
+Dans les deux cas, les dépenses maximales  soumises aux obligations de territorialisation n'excèdent en aucun cas  80 % du
+budget global de la production.
+
+Les dispositifs d'aides pris en application  du présent régime cadre peuvent également subordonner l'éligibilité  d'un projet
+à une aide à un niveau minimal d'activité de développement  et de production sur le territoire concerné à condition que ce
+niveau  n'excède pas 50 % du budget global.
+
+Article 10. Intensité des aides
+
+L'intensité de l'aide correspond au montant  brut de l'aide exprimé en pourcentage des coûts admissibles, avant  impôts ou
+autres prélèvements.
+
+L'intensité de l'aide au développement  n'excède pas 100 % des coûts admissibles. Si le scénario ou le projet  débouche sur
+une œuvre cinématographique ou audiovisuelle les coûts de  développement sont intégrés au budget global et pris en compte
+dans le  calcul de l'intensité de l'aide.
+
+L'intensité de l'aide à la production n'excède pas 50 % des coûts admissibles.
+
+Elle peut être portée :
+
+- à 60 % des coûts admissibles pour les  œuvres cinématographiques ou audiovisuelles transfrontières financées  par plus d'un
+Etat membre et faisant intervenir des producteurs de plus  d'un Etat membre ;
+
+- à 100 % des coûts admissibles pour les  œuvres cinématographiques ou audiovisuelles difficiles(1) et les  coproductions
+faisant intervenir des pays de la liste du Comité d'aide  au développement (CAD) de l'OCDE(2).
+
+Les coûts admissibles sont étayés de pièces justificatives claires, spécifiques et contemporaines des faits.
+
+Article 11. Cumul des aides
+
+Afin de s'assurer que les intensités d'aide  maximales sont respectées, il convient de tenir compte du montant total  d'aides
+publiques accordées en faveur du projet considéré, que ces  aides proviennent de sources locales, régionales, nationales ou
+européennes.
+
+Les aides en faveur du codéveloppement et  de la coproduction des œuvres cinématographiques ou audiovisuelles  attribuées sur
+le fondement d'un dispositif d'aides institué sur la base  du présent régime cadre peuvent être cumulées avec :
+
+- toute autre aide d'Etat, tant que ces aides portent sur des coûts admissibles identifiables différents ;
+
+- toute autre aide d'Etat, se chevauchant  en partie ou totalement, si ce cumul conduit à une intensité ou à un  montant
+d'aide inférieur ou égal au plafond maximal applicable à ces  aides au titre du règlement général d'exemption par catégorie ;
+
+- les aides en faveur des travailleurs  handicapés prévues au titre du RGEC portant sur les mêmes coûts  admissibles et
+dépasser ainsi le seuil applicable le plus élevé prévu  par ce règlement, à condition que ce cumul ne conduise pas à une
+intensité d'aide supérieur à 100 % des coûts correspondants sur toute  période pendant laquelle les travailleurs concernés
+sont employés.
+
+Les aides attribuées sur le fondement d'un  dispositif d'aides pris en application du présent régime cadre peuvent  être
+cumulées avec des aides de minimis prévues par le règlement (UE) n°  1407/2013 de la Commission, du 18 décembre 2013 relatif
+à l'application  des articles 107 et 108 du traité sur le fonctionnement de l'Union  européenne aux aides de minimis,
+concernant les mêmes coûts admissibles  sauf si ce cumul conduit à une intensité d'aide excédant celles fixées à  l'article
+10 du présent régime.
+
+Les financements de l'Union gérés au niveau  central par les institutions, les agences, les entreprises communes ou  d'autres
+organes de l'Union, et contrôlés ni directement, ni  indirectement par l'Etat membre ne sont pas pris en compte pour
+déterminer si les intensités d'aides ou les montants d'aides maximaux  sont respectés.
+
+Article 12. Publication
+
+Seront publiés sur un site internet national :
+
+- les informations contenues dans la fiche SANI transmise à la Commission en application du RGEC ;
+
+- le texte intégral des dispositifs d'aides pris en application du présent régime cadre ;
+
+- les informations relatives aux aides individuelles de 500 000 € ou plus. Ces informations portent sur :
+
+Nom du bénéficiaire
+
+Identifiant du bénéficiaire : numéro SIREN - 9 chiffres
+
+Type d'entreprise au moment de l'octroi de l'aide : PME ou grande entreprise
+
+Région du bénéficiaire
+
+Montant de l'aide
+
+Instrument d'aide
+
+Date d'octroi
+
+Objectif de l'aide
+
+Autorité d'octroi
+
+Numéro de la mesure d'aide.
+
+Article 13. Rapport annuel
+
+Le présent régime cadre fera l'objet d'un  rapport annuel, sous forme électronique, transmis à la Commission  européenne par
+les autorités françaises conformément au règlement (CE) n° 794/2004 de la Commission du 21 avril 2004 concernant la mise en
+œuvre du règlement (CE) n° 659/1999  du Conseil du 22 mars 1999 portant modalités d'application de l'article  93 du traité
+CE. Ce rapport contiendra les informations de ce régime,  pour chaque année complète ou chaque partie de l'année durant
+laquelle  le règlement s'applique.
+
+Article 14. Conservation des documents
+
+Les dossiers détaillés contenant les  informations et les pièces justificatives nécessaires pour établir si  toutes les
+conditions énoncées dans le présent régime cadre sont  remplies doivent être conservés pendant dix ans à compter de la date
+d'octroi de l'aide ad hoc ou de la dernière aide octroyée au titre du  régime considéré.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 721-9 (V)
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 13, v. init.
 
 
 ###### Article Annexe 7-2
 
-Allocations directes au sous-titrage (article 721-12)
+Liste des pays et territoires pour le calcul des sommes inscrites sur le compte (article 721-13)
 
-Liste des documents justificatifs : 
+- Afrique du Sud
 
-1° Les factures détaillées des frais de sous-titrage au nom de l'entreprise qui sollicite l'aide en précisant, pour chaque
-facture, les frais auxquels elles correspondent ; 
+- Allemagne
 
-2° Une copie vidéo de l'œuvre cinématographique sous-titrée.
+- Argentine
+
+- Australie
+
+- Autriche
+
+- Bolivie
+
+- Brésil
+
+- Bulgarie
+
+- Canada (hors Québec)
+
+- Chili
+
+- Chine
+
+- Colombie
+
+- Corée du Sud
+
+- Croatie
+
+- Danemark
+
+- Emirats arabes unis
+
+- Espagne
+
+- Estonie
+
+- Etats-Unis
+
+- Finlande
+
+- Grèce
+
+- Hong-Kong
+
+- Hongrie
+
+- Islande
+
+- Italie
+
+- Japon
+
+- Lettonie
+
+- Liban
+
+- Lituanie
+
+- Maroc
+
+- Mexique
+
+- Norvège
+
+- Nouvelle-Zélande
+
+- Paraguay
+
+- Pays-Bas
+
+- Pologne
+
+- Portugal
+
+- Québec
+
+- République tchèque
+
+- Roumanie
+
+- Royaume-Uni
+
+- Russie
+
+- Serbie
+
+- Singapour
+
+- Slovaquie
+
+- Slovénie
+
+- Suède
+
+- Suisse alémanique
+
+- Suisse italienne
+
+- Taïwan
+
+- Turquie
+
+- Ukraine
+
+- Uruguay
+
+- Venezuela
+
+- Vietnam
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 721-12 (V)
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 13, v. init.
 
 
 ###### Article Annexe 7-3
 
-Aides à la promotion à l'étranger d'une œuvre cinématographique déterminée (article 721-17) 
+Autorisation d'investissement (article 721-21)
 
-Liste des documents justificatifs : 
+Liste des documents justificatifs :
 
-1° Une note détaillant la stratégie de prospection mise en place pour l'œuvre cinématographique ; 
+1° Pour la promotion à l'étranger d'œuvres cinématographiques déterminées :
 
-2° Le cas échéant, une note détaillant la nature de l'opération exceptionnelle mise en place, les modalités de sa réalisation
-et les résultats obtenus ; 
+a) Une note détaillant la stratégie de prospection mise en place pour l'œuvre cinématographique ;
 
-3° La liste des supports de promotion qui ont été réalisés et des actions de promotion qui ont été engagées mentionnant leurs
-coûts respectifs ; 
+b) Lorsque l'investissement est effectué au titre de l'article 721-19, une copie du contrat d'acquisition des droits
+d'exploitation à l'étranger si celui-ci n'est pas encore inscrit au registre du cinéma et de l'audiovisuel, mentionnant le
+montant des sommes dues en contrepartie de l'acquisition ;
 
-4° La liste des marchés et manifestations au cours desquels l'œuvre a été présentée ; 
+c) Le cas échéant, lorsque l'investissement est effectué au titre de l'article 721-19, tout document justificatif du
+versement des sommes dues en contrepartie de l'acquisition des droits d'exploitation à l'étranger ;
 
-5° Une copie de la lettre d'attribution de l'aide du CNC à la numérisation des œuvres du patrimoine ; 
+d) La liste des territoires pour lesquels les droits ont été acquis ainsi que les montants correspondants ;
 
-6° Les factures détaillées correspondant à l'ensemble des frais éligibles ; 
+e) Le cas échéant, une note détaillant la nature de l'opération spéciale mise en place, les modalités de sa réalisation et
+les résultats obtenus ;
 
-7° La liste des territoires où les droits de l'œuvre ont été cédés ainsi que les montants correspondants ; 
+f) La liste des supports de promotion qui ont été réalisés et des actions de promotion qui ont été engagées mentionnant leurs
+coûts respectifs ;
 
-8° Un exemplaire de chaque support de promotion réalisé.
+g) La liste des marchés et manifestations au cours desquels l'œuvre a été présentée ;
+
+h) Une copie de la lettre d'attribution de l'aide du CNC à la numérisation des œuvres du patrimoine ;
+
+i) Les factures détaillées correspondant à l'ensemble des frais éligibles ;
+
+j) En cas de coûts internes, un relevé détaillé de ces coûts certifié par un expert-comptable ou un commissaire aux comptes
+précisant la méthode de valorisation retenue.
+
+k) Un exemplaire de chaque support de promotion réalisé ;
+
+2° Pour la promotion à l'étranger d'un catalogue :
+
+a) Une note détaillant la stratégie de prospection mise en place au cours de l'année de référence et la place réservée aux
+œuvres cinématographiques françaises ;
+
+b) Une note décrivant les autres supports et actions de promotion réalisés ;
+
+c) Les factures détaillées correspondant à l'ensemble des frais engagés ;
+
+d) Un exemplaire de chaque support de promotion réalisé ;
+
+e) En cas de coûts internes, un relevé détaillé de ces coûts certifié par un expert-comptable ou un commissaire aux comptes
+précisant la méthode de valorisation retenue.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 721-17 (V)
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 13, v. init.
 
 
 ###### Article Annexe 7-4
 
-Aide à la promotion à l'étranger des activités et du catalogue d'une entreprise (article 721-25) 
+Allocations directes pour la promotion à l'étranger d'œuvres audiovisuelles déterminées ou du catalogue des entreprises
+(article 722-15)
 
-Liste des documents justificatifs : 
+Liste des documents justificatifs :
 
-1° Une note détaillant la stratégie de prospection mise en place au cours de l'année de référence et la place réservée aux
-œuvres cinématographiques françaises ; 
+1° Pour la promotion à l'étranger d'œuvres audiovisuelles déterminées :
 
-2° Une note décrivant les autres supports et actions de promotion réalisés ; 
+a) La copie de l'autorisation préalable ou définitive lorsque celle-ci a été délivrée ;
 
-3° Les factures détaillées correspondant à l'ensemble des frais engagés ; 
+b) Le contrat de distribution lorsque la demande est présentée par un distributeur ;
 
-4° Un exemplaire de chaque support de promotion réalisé.
+c) L'acceptation, dûment renseignée et certifiée, de l'œuvre par le ou les éditeurs de services de télévision chargés d'en
+assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition du public, avec mention
+du titre et de la durée de l'œuvre ;
+
+d) Le cas échéant, le contrat de vente, pour des dépenses de doublage, de sous-titrage, de voix off et de reformatage ;
+
+e) Le cas échéant, l'offre d'achat ferme prévue à l'article 722-13 ;
+
+f) Le contrat de vente pour le bénéfice de la dérogation prévue à l'article 722-6.
+
+g) Les factures détaillées établies pour chaque œuvre émanant du prestataire technique ;
+
+h) Un exemplaire de chaque support de promotion réalisé ;
+
+i) En cas de coûts internes, un relevé détaillé de ces coûts certifié par un expert-comptable ou un commissaire aux comptes
+précisant la méthode de valorisation retenue.
+
+2° Pour la promotion à l'étranger d'un catalogue :
+
+a) Les factures détaillées émanant du prestataire technique ;
+
+b) Un exemplaire de chaque support de promotion réalisé ;
+
+c) En cas de coûts internes, un relevé détaillé de ces coûts certifié par un expert-comptable ou un commissaire aux comptes
+précisant la méthode de valorisation retenue.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 721-25 (V)
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 13, v. init.
 
 
 ###### Article Annexe 7-5
 
-Aides à la promotion à l'étranger d'une œuvre audiovisuelle déterminée (article 722-11) 
+Aides financières à la promotion à l'étranger d'œuvres audiovisuelles déterminées (article 722-21)
 
-Liste des documents justificatifs : 
+Liste des documents justificatifs :
 
-1° Un synopsis de l'œuvre ; 
+1° Un synopsis de l'œuvre ;
 
-2° La copie de l'autorisation préalable ou définitive lorsque celle-ci a été délivrée ; 
+2° La copie de l'autorisation préalable ou définitive lorsque celle-ci a été délivrée ;
 
-3° Le contrat de distribution lorsque la demande est présentée par un distributeur ; 
+3° Le contrat de distribution lorsque la demande est présentée par un distributeur ;
 
 4° L'acceptation, dûment renseignée et certifiée, de l'œuvre par le ou les éditeurs de services de télévision chargés d'en
 assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition du public, avec mention
-du titre et de la durée de l'œuvre ; 
+du titre et de la durée de l'œuvre ;
 
-5° Les factures détaillées établies pour chaque œuvre émanant du prestataire technique ; 
+5° Les factures détaillées établies pour chaque œuvre émanant du prestataire technique ;
 
-6° Un exemplaire de chaque support de promotion réalisé.
+6° Un exemplaire de chaque support de promotion réalisé ;
+
+7° En cas de coûts internes, un relevé détaillé de ces coûts certifié par un expert-comptable ou un commissaire aux comptes
+précisant la méthode de valorisation retenue.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 722-11 (V)
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 13, v. init.
 
 
 ###### Article Annexe 7-6
 
-Aides à la promotion à l'étranger d'un catalogue (article 722-12) 
+Aides financières à la promotion à l'étranger d'un catalogue (article 722-22)
 
-Liste des documents justificatifs : 
+Liste des documents justificatifs :
 
-1° Les factures détaillées établies pour chaque œuvre émanant du prestataire technique ; 
+1° Les factures détaillées émanant du prestataire technique ;
 
-2° Un exemplaire de chaque support de promotion réalisé.
+2° Un exemplaire de chaque support de promotion réalisé ;
+
+3° En cas de coûts internes, un relevé détaillé de ces coûts certifié par un expert-comptable ou un commissaire aux comptes
+précisant la méthode de valorisation retenue.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 722-12 (V)
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 13, v. init.
 
 
 ###### Article Annexe 7-7

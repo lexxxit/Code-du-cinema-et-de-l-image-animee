@@ -1,20 +1,119 @@
 # Article Annexe 7-2
 
-Allocations directes au sous-titrage (article 721-12)
+Liste des pays et territoires pour le calcul des sommes inscrites sur le compte (article 721-13)
 
-Liste des documents justificatifs : 
+- Afrique du Sud
 
-1° Les factures détaillées des frais de sous-titrage au nom de l'entreprise qui sollicite l'aide en précisant, pour chaque
-facture, les frais auxquels elles correspondent ; 
+- Allemagne
 
-2° Une copie vidéo de l'œuvre cinématographique sous-titrée.
+- Argentine
+
+- Australie
+
+- Autriche
+
+- Bolivie
+
+- Brésil
+
+- Bulgarie
+
+- Canada (hors Québec)
+
+- Chili
+
+- Chine
+
+- Colombie
+
+- Corée du Sud
+
+- Croatie
+
+- Danemark
+
+- Emirats arabes unis
+
+- Espagne
+
+- Estonie
+
+- Etats-Unis
+
+- Finlande
+
+- Grèce
+
+- Hong-Kong
+
+- Hongrie
+
+- Islande
+
+- Italie
+
+- Japon
+
+- Lettonie
+
+- Liban
+
+- Lituanie
+
+- Maroc
+
+- Mexique
+
+- Norvège
+
+- Nouvelle-Zélande
+
+- Paraguay
+
+- Pays-Bas
+
+- Pologne
+
+- Portugal
+
+- Québec
+
+- République tchèque
+
+- Roumanie
+
+- Royaume-Uni
+
+- Russie
+
+- Serbie
+
+- Singapour
+
+- Slovaquie
+
+- Slovénie
+
+- Suède
+
+- Suisse alémanique
+
+- Suisse italienne
+
+- Taïwan
+
+- Turquie
+
+- Ukraine
+
+- Uruguay
+
+- Venezuela
+
+- Vietnam
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 721-12 (V)
+	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 13, v. init.
