@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-19
 
 # Partie législative
 
@@ -14215,6 +14215,87 @@ Copie de ce rapport est adressée au président de l'Autorité de la concurrence
 	  - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
+#### Chapitre III bis : Transparence des comptes de production et d'exploitation des œuvres cinématographiques de longue durée
+
+##### Section 1 : Transparence des comptes de production 
+
+##### Sous-section unique : Audit des comptes de production
+
+###### Article D213-12
+
+Le producteur délégué dispose d'un délai de trois mois à compter de la réception du projet de rapport d'audit prévu à
+l'article L. 213-27 pour présenter ses observations écrites au Centre national du cinéma et de l'image animée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-40 du 16 janvier 2017 - art. 1
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-27
+
+
+##### Section 2 :  Transparence des comptes d'exploitation 
+
+
+##### Sous-section 1 : Obligation des producteurs délégués 
+
+###### Article D213-13
+
+Le producteur délégué transmet, au moins une fois par an, aux personnes mentionnées à l'article L. 213-32, les différents
+comptes d'exploitation qui lui ont été remis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-40 du 16 janvier 2017 - art. 1
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-32
+
+
+##### Sous-section 2 :  Audit des comptes d'exploitation 
+
+
+
+###### Article D213-14
+
+Le distributeur ou, dans le cas prévu à l'article L. 213-33, le producteur délégué, dispose d'un délai de trois mois à
+compter de la réception du projet de rapport d'audit prévu à l'article L. 213-35 pour présenter ses observations écrites au
+Centre national du cinéma et de l'image animée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-40 du 16 janvier 2017 - art. 1
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-33
+	  - Code du cinéma et de l'image animée - art. L213-35
+
+
+###### Article D213-15
+
+Le producteur délégué dispose d'un délai de trois mois à compter de la réception du projet de rapport d'audit prévu à
+l'article L. 213-36 pour présenter ses observations écrites au Centre national du cinéma et de l'image animée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-40 du 16 janvier 2017 - art. 1
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L213-36
+
+
 #### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques
 
 ##### Section 1 : Dispositions relatives aux séances organisées exceptionnellement par les associations ou groupements à but non lucratif
@@ -14943,6 +15024,106 @@ du code du patrimoine.
 	  - Code du patrimoine - art. R131-1 (V)
 	  - Code du patrimoine - art. R132-24 (V)
 	  - Code du patrimoine - art. R133-1 (V)
+
+
+### Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles
+
+#### Chapitre unique : Transparence des comptes de production et d'exploitation des œuvres audiovisuelles 
+
+
+##### Section 1 : Transparence des comptes de production 
+
+##### Sous-section 1 : Obligation des producteurs délégués 
+
+###### Article D251-1
+
+La date d'achèvement de l'œuvre audiovisuelle mentionnée à l'article L. 251-1 est celle figurant sur l'attestation
+d'acceptation de sa version définitive par un éditeur de services de télévision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-40 du 16 janvier 2017 - art. 2
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L251-1
+
+
+##### Sous-section 2 :  Audit des comptes de production
+
+###### Article D251-2
+
+Le producteur délégué dispose d'un délai de trois mois à compter de la réception du projet de rapport d'audit prévu à
+l'article L. 251-4 pour présenter ses observations écrites au Centre national du cinéma et de l'image animée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-40 du 16 janvier 2017 - art. 2
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L251-4
+
+
+##### Section 2 :  Transparence des comptes d'exploitation 
+
+##### Sous-section 1 : Obligation des producteurs délégués 
+
+###### Article D251-3
+
+Le producteur délégué transmet, au moins une fois par an, aux personnes mentionnées à l'article L. 251-9, les différents
+comptes d'exploitation qui lui ont été remis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-40 du 16 janvier 2017 - art. 2
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L251-9
+
+
+##### Sous-section 2 :  Audit des comptes d'exploitation 
+
+
+###### Article D251-4
+
+Le distributeur ou, dans le cas prévu à l'article L. 251-10, le producteur délégué dispose d'un délai de trois mois à compter
+de la réception du projet de rapport d'audit prévu à l'article L. 251-11 pour présenter ses observations écrites au Centre
+national du cinéma et de l'image animée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-40 du 16 janvier 2017 - art. 2
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L251-10
+	  - Code du cinéma et de l'image animée - art. L251-11
+
+
+###### Article D251-5
+
+Le producteur délégué dispose d'un délai de trois mois à compter de la réception du projet de rapport d'audit prévu à
+l'article L. 251-12 pour présenter ses observations écrites au Centre national du cinéma et de l'image animée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-40 du 16 janvier 2017 - art. 2
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L251-12
 
 
 ## Livre III : Financement et fiscalité
@@ -20885,8 +21066,6 @@ l'entreprise de vente à  l'étranger.
 	  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 3, v. init.
 
 
-##### Sous-paragraphe 4 : Réduction des taux de calcul
-
 ##### Sous-paragraphe 5 : Réduction des taux de calcul
 
 ###### Article 211-33
@@ -20906,8 +21085,6 @@ Ces taux peuvent également être réduits lorsqu'il est fait application des di
 
 	  - Code du cinéma et de l'image animée - art. 211-67 (V)
 
-
-##### Sous-paragraphe 5 : Coefficients de pondération
 
 ##### Sous-paragraphe 6 : Coefficients de pondération
 
