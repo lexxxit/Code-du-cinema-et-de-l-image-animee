@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2017-01-19
+Version Consolidée au 2017-01-22
 
 # Partie législative
 
@@ -2775,6 +2775,18 @@ animée, et au plus tard le 1er janvier 2015.
 	  - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 
+###### Article L212-10-8-1
+
+La Commission nationale d'aménagement cinématographique prend ses décisions sans recevoir d'instruction d'aucune autorité.
+Ces décisions sont insusceptibles de réformation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 24
+
+
 ###### Article L212-10-9
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent paragraphe.
@@ -3626,6 +3638,18 @@ peut également saisir le médiateur de toute question relevant de sa compétenc
 
 	  - Code du cinéma et de l'image animée - art. R213-10 (V)
 	  - Code du cinéma et de l'image animée - art. R213-9 (V)
+
+
+###### Article L213-6-1
+
+Le médiateur du cinéma intervient au règlement des litiges et prend ses décisions sans recevoir d'instruction d'aucune
+autorité. Ces décisions sont insusceptibles de réformation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-55 du 20 janvier 2017 - art. 24
 
 
 ###### Article L213-7
