@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2017-01-22
+Version Consolidée au 2017-02-10
 
 # Partie législative
 
@@ -9096,30 +9096,29 @@ ou de faux renseignements.
 ###### Article R211-11
 
 Le visa d'exploitation cinématographique vaut autorisation de représentation publique des œuvres ou documents sur tout le
-territoire de la France métropolitaine et des départements et régions d'outre-mer.
+territoire de la France métropolitaine et des collectivités de l'article 73 de la Constitution. 
 
 Le refus de visa d'exploitation cinématographique vaut interdiction de représentation cinématographique des œuvres ou
 documents.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Décret n°90-174 du 23 février 1990 - art. 10 (Ab)
-	  - Décret n°90-174 du 23 février 1990 - art. 3, alinéa 6 (Ab)
+	  - Constitution du 4 octobre 1958 - art. 73 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2014-794 du 9 juillet 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
+	  - Décret n°2017-150 du 8 février 2017 - art. 1
 
 
 ###### Article R211-12
 
-Le visa d'exploitation cinématographique s'accompagne de l'une des mesures de classification suivantes : 
+I. - Le visa d'exploitation cinématographique s'accompagne de l'une des mesures de classification suivantes :
 
 1° Autorisation de la représentation pour tous publics ; 
 
@@ -9127,31 +9126,36 @@ Le visa d'exploitation cinématographique s'accompagne de l'une des mesures de c
 
 3° Interdiction de la représentation aux mineurs de seize ans ; 
 
-4° Interdiction de la représentation aux mineurs de dix-huit ans sans inscription sur la liste prévue à l'article L. 311-2,
-lorsque l'œuvre ou le document comporte des scènes de sexe non simulées ou de très grande violence mais qui, par la manière
-dont elles sont filmées et la nature du thème traité, ne justifient pas une telle inscription ; 
+4° Interdiction de la représentation aux mineurs de dix-huit ans ; 
 
 5° Interdiction de la représentation aux mineurs de dix-huit ans avec inscription de l'œuvre ou du document sur la liste
-prévue à l'article L. 311-2.
+prévue à l'article L. 311-2. 
+
+II. - La mesure de classification, assortie le cas échéant de l'avertissement prévu à l'article R. 211-13, est proportionnée
+aux exigences tenant à la protection de l'enfance et de la jeunesse, au regard de la sensibilité et du développement de la
+personnalité propres à chaque âge, et au respect de la dignité humaine. 
+
+Lorsque l'œuvre ou le document comporte des scènes de sexe ou de grande violence qui sont de nature, en particulier par leur
+accumulation, à troubler gravement la sensibilité des mineurs, à présenter la violence sous un jour favorable ou à la
+banaliser, le visa d'exploitation ne peut s'accompagner que de l'une des mesures prévues au 4° et au 5° du I. 
+
+Dans le cas prévu au précédent alinéa, le parti pris esthétique ou le procédé narratif sur lequel repose l'œuvre ou le
+document peut justifier que le visa d'exploitation ne soit accompagné que de la mesure prévue au 4° du I.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-174 du 23 février 1990 - art. 3, alinéa 1 phrase 2 fin et alinéas 2 à 5 (Ab)
-	  - Décret n°90-174 du 23 février 1990 - art. 3-1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2014-794 du 9 juillet 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
+	  - Décret n°2017-150 du 8 février 2017 - art. 1
 
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. L311-2 (V)
+	  - Code du cinéma et de l'image animée - art. R211-13 (V)
 
 	**Cité par**:
 
@@ -34756,15 +34760,15 @@ Une commission spécialisée est chargée de donner un avis sur les demandes d'a
 la préparation des œuvres appartenant aux genres documentaire de création et à la production des œuvres appartenant au genre
 magazine, autres que ceux relevant de la commission spécialisée mentionnée à l'article 311-128. 
 
-Cette commission est composée de neuf membres, dont un président et un vice-président, choisis en raison de leur compétence,
-nommés pour une durée de deux ans renouvelable. Un représentant du ministre chargé de la culture assiste aux séances de la
-commission, sans droit de vote.
+Cette commission est composée de douze  membres, dont un président et un vice-président, choisis en raison de leur
+compétence, nommés pour une durée de deux ans renouvelable. Un représentant du ministre chargé de la culture assiste aux
+séances de la commission, sans droit de vote.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 11, v. init.
 
 	**Cite**:
 
