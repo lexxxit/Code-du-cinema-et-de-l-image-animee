@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2017-02-10
+Version Consolidée au 2017-05-03
 
 # Partie législative
 
@@ -26616,84 +26616,57 @@ durée d'un an  renouvelable.
 
 
 
-##### Section 1 : Aides financières sélectives 
+##### Section 1 : Dispositions générales
 
 ###### Article 231-1
 
-Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
-animée, afin de soutenir la programmation et les actions d'animation dans les établissements de spectacles
-cinématographiques.
+L'attribution des aides financières à la programmation et aux actions d'animation dans les établissements de spectacles
+cinématographiques est soumise aux dispositions du régime d'aide exempté n° SA.42681, relatif aux aides en faveur de la
+culture et de la conservation du patrimoine pour la période 2014-2020, adopté sur la base du règlement n° 651/2014 de la
+Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des
+articles 107 et 108 du traité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
-	  - Délibération n°2017/CA/02 - art. 3, v. init.
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 231-11 (V)
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. D311-3 (V)
+	  - Délibération n°2017/CA/02 - art. 2, v. init.
 
 
-##### Sous-section 1 : Aides à l'art et essai 
-
-##### Paragraphe 1 : Objet et conditions d'attribution 
+##### Section 2 : Aides financières automatiques
 
 ###### Article 231-2
 
-Des aides financières sélectives sont attribuées aux exploitants d'établissements de spectacles cinématographiques afin de
-récompenser chaque année la programmation et la mise en valeur d'œuvres cinématographiques d'art et d'essai au sens des
-articles D. 210-3 à D. 210-5 du code du cinéma et de l'image animée.
+Des aides financières sont attribuées sous forme automatique afin de soutenir la programmation d'œuvres cinématographiques
+d'art et d'essai, au sens des articles D. 210-3 à D. 210-5 du code du cinéma et de l'image animée, dans les établissements de
+spectacles cinématographiques.
+
+Ces aides donnent lieu à l'attribution d'allocations directes au sens du 2° de l'article D. 311-2 du code du cinéma et de
+l'image animée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
-	  - Délibération n°2017/CA/02 - art. 3, v. init.
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 231-12 (V)
+	  - Délibération n°2017/CA/02 - art. 2, v. init.
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. D210-3 (V)
+	  - Code du cinéma et de l'image animée - art. D311-2 (V)
 
+
+##### Sous-section unique : Allocations directes
 
 ###### Article 231-3
 
-Pour être admis au bénéfice des aides à l'art et essai, les exploitants d'établissements de spectacles cinématographiques
-répondent aux conditions suivantes : 
-
-1° Etre à jour du paiement de la taxe prévue à l'article L. 115-1 du code du cinéma et de l'image animée ; 
-
-2° Respecter le délai imparti pour l'envoi de la déclaration de recettes prévue au 3° de l'article L. 212-32 du même code.
+Des allocations directes sont attribuées en complément des aides sélectives attribuées en application de l'article 231-12
+dont elles constituent l'accessoire.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
-	  - Délibération n°2017/CA/02 - art. 3, v. init.
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 231-13 (V)
+	  - Délibération n°2017/CA/02 - art. 2, v. init.
 
 	**Cite**:
 
@@ -26701,188 +26674,79 @@ répondent aux conditions suivantes :
 	  - Code du cinéma et de l'image animée - art. L212-32 (V)
 
 
+##### Paragraphe 1 : Allocations directes à raison de la programmation d'œuvres cinématographiques d'art et d'essai peu diffusées et qualifiées “recherche et découverte”
+
+##### Sous-Paragraphe 1 : Objet et conditions d'attribution
+
 ###### Article 231-4
 
-Les aides à l'art et essai sont attribuées après classement des établissements de spectacles cinématographiques en tant
-qu'établissements d'art et d'essai et, le cas échant, octroi de labels. 
+Des allocations directes sont attribuées à raison de la programmation d'œuvres cinématographiques d'art et d'essai peu
+diffusées et qualifiées “recherche et découverte” à l'occasion de l'application de l'article D. 210-5 du code du cinéma et de
+l'image animée.
 
-Les établissements de spectacles cinématographiques classés d'art et d'essai sont répartis en deux groupes, comprenant
-plusieurs catégories, en considération de leur implantation géographique. 
-
-Le classement de l'établissement est effectué et l'aide attribuée, annuellement, en fonction des conditions et calculs prévus
-pour chaque groupe et catégorie.
+Une œuvre cinématographique peu diffusée est une œuvre qui, lors de sa première semaine d'exploitation en sortie nationale,
+n'est pas représentée dans plus de 80 établissements de spectacles cinématographiques.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
-	  - Délibération n°2017/CA/02 - art. 3, v. init.
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 231-14 (V)
+	  - Délibération n°2017/CA/02 - art. 2, v. init.
 
 
 ###### Article 231-5
 
-I.-Le premier groupe comprend les deux catégories d'établissements de spectacles cinématographiques suivantes : 
+Les allocations directes sont attribuées lorsque les conditions suivantes sont remplies :
 
-1° Catégorie A : établissements implantés dans des communes-centre dont le nombre d'habitants est égal ou supérieur à 100 000
-et dans des unités urbaines dont le nombre d'habitants est égal ou supérieur à 200 000.
+1° Les établissements de spectacles cinématographiques organisent un nombre de séances de spectacles cinématographiques par
+salle égal ou supérieur à 400 par an en moyenne au cours de la période de référence définie à l'article 231-17 ;
 
-2° Catégorie B : établissements implantés : 
+2° L'indice de diffusion des œuvres cinématographiques d'art et d'essai peu diffusées et qualifiées “recherche et découverte”
+est égal ou supérieur à 6.
 
-a) Soit dans des communes-centre dont le nombre d'habitants est inférieur à 100 000 et dans des unités urbaines dont le
-nombre d'habitants est égal ou supérieur à 200 000 ; 
+L'indice de diffusion des œuvres cinématographiques d'art et d'essai peu diffusées et qualifiées “recherche et découverte”
+est calculé selon la formule suivante :
 
-b) Soit dans des communes-centre dont le nombre d'habitants est égal ou supérieur à 50 000 et dans des unités urbaines dont
-le nombre d'habitants est compris entre 100 000 et moins de 200 000. 
+i = (a + 2b) /3
 
-II.-A. Les établissements sont éligibles au classement et à l'aide si la proportion de base est égale ou supérieure à : 
+Dans cette formule :
 
-1° Catégorie A : 65 % de séances de spectacles cinématographiques composées d'œuvres cinématographiques d'art et d'essai,
-représentées en version originale. 
+- i représente l'indice de diffusion des œuvres cinématographiques d'art et d'essai peu diffusées et qualifiées “recherche et
+découverte” ;
 
-2° Catégorie B : 50 % de séances de spectacles cinématographiques composées d'œuvres cinématographiques d'art et d'essai,
-représentées en version originale lorsqu'elles ont réalisé plus de 500 000 entrées sur Paris et sa périphérie. 
+- a représente le rapport entre le nombre total d'œuvres cinématographiques d'art et d'essai peu diffusées et qualifiées
+“recherche et découverte” programmées dans l'établissement et le nombre total d'œuvres cinématographiques programmées dans
+l'établissement, au cours de la période de référence définie à l'article 231-17 ;
 
-B. La proportion de base est calculée en faisant le rapport entre le nombre total de séances de spectacles cinématographiques
-composées d'œuvres cinématographiques d'art et d'essai organisées dans toutes les salles de l'établissement et le nombre
-total de séances de spectacles cinématographiques organisées dans l'établissement, au cours d'une période de référence. 
-
-III.-La proportion de base est pondérée par un coefficient majorateur et un coefficient minorateur, dont les valeurs sont
-comprises entre : 
-
-1° Coefficient majorateur : 0 à 40 points ; 
-
-2° Coefficient minorateur : 0 à 65 points. 
-
-IV.-La proportion de base pondérée ouvre droit au classement art et essai et au bénéfice de l'aide si elle est égale ou
-supérieure à : 
-
-1° Catégorie A : 70 % ; 
-
-2° Catégorie B : 55 %. 
-
-V.-Le montant brut de l'aide est fonction de la proportion de base pondérée, selon la grille prévue à l'annexe 29 du présent
-livre. 
-
-VI.-Le montant net de l'aide est le montant brut pondéré par les coefficients multiplicateurs suivants, en fonction du nombre
-de salles des établissements :
-
-- 1 salle : 1,2 ;
-
-- 2 salles : 2 ;
-
-- 3 salles : 3 ;
-
-- 4 salles : 3,9 ;
-
-- 5 salles : 4,8 ;
-
-- 6 salles et plus : 5,5.
+- b représente le rapport entre le nombre total de séances de spectacles cinématographiques composées d'œuvres
+cinématographiques d'art et d'essai peu diffusées et qualifiées “recherche et découverte” organisées dans l'établissement et
+le nombre total de séances de spectacles cinématographiques organisées dans l'établissement, au cours de la période de
+référence définie à l'article 231-17.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
-	  - Délibération n°2017/CA/02 - art. 3, v. init.
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 231-15 (V)
+	  - Délibération n°2017/CA/02 - art. 2, v. init.
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. Annexe 2-29 (V)
 
 
+##### Sous-Paragraphe 2 : Procédure et modalités d'attribution
+
 ###### Article 231-6
 
-I.-Le second groupe comprend les trois catégories d'établissements de spectacles cinématographiques suivantes : 
-
-1° Catégorie C : établissements implantés dans des unités urbaines dont le nombre d'habitants est égal ou supérieur à 100
-000 ; 
-
-2° Catégorie D : établissements implantés dans des unités urbaines dont le nombre d'habitants est égal ou supérieur à 20 000
-et inférieur à 100 000 ; 
-
-3° Catégorie E : établissements implantés dans des unités urbaines dont le nombre d'habitants est inférieur à 20 000 ou dans
-des communes situées en zone rurale. 
-
-II.-A. Les établissements sont éligibles au classement et à l'aide si l'indice de base est égal ou supérieur à : 
-
-1° Catégorie C : 0,4 ; 
-
-2° Catégorie D : 0,3 ; 
-
-3° Catégorie E : 0,2. 
-
-B. L'indice de base est calculé : 
-
-1° En faisant le rapport entre le nombre total de séances de spectacles cinématographiques composées d'œuvres
-cinématographiques d'art et d'essai organisées dans toutes les salles de l'établissement et le nombre moyen par salle de
-séances de spectacles cinématographiques organisées dans l'établissement, au cours d'une période de référence ; 
-
-2° En pondérant le rapport résultant du 1° par les coefficients multiplicateurs suivants, en fonction du nombre de salles des
-établissements :
-
-- 1 salle : 1,20 ;
-
-- 2 salles : 1 ;
-
-- 3 salles : 0,80 ;
-
-- 4 salles : 0,75 ;
-
-- 5 salles : 0,70 ;
-
-- 6 à 10 salles : 0,60 ;
-
-- 11 et 12 salles : 0,50 ;
-
-- 13 et 14 salles : 0,40 ;
-
-- 15 salles et plus : 0,30. 
-
-III.-L'indice de base calculé est pondéré par un coefficient majorateur et un coefficient minorateur, dont les valeurs sont
-comprises entre : 
-
-1° Coefficient majorateur : 0 à 0,40 point ; 
-
-2° Coefficient minorateur : 0 à 0,65 point. 
-
-IV.-L'indice de base pondéré ouvre droit au classement art et essai et au bénéfice de l'aide s'il est égal ou supérieur à : 
-
-1° Catégorie C : 0,45 ; 
-
-2° Catégorie D : 0,35 ; 
-
-3° Catégorie E : 0,25. 
-
-V.-Le montant net de l'aide est fonction de l'indice de base pondéré, selon la grille prévue à l'annexe 30 du présent livre.
+Le montant de l'allocation directe est obtenu en multipliant l'indice de diffusion par le rapport entre le montant des
+crédits affectés aux allocations directes et la somme des indices de diffusion de l'ensemble des établissements de spectacles
+cinématographiques bénéficiaires des allocations directes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
-	  - Délibération n°2017/CA/02 - art. 3, v. init.
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 231-16 (V)
+	  - Délibération n°2017/CA/02 - art. 2, v. init.
 
 	**Cité par**:
 
@@ -26891,131 +26755,51 @@ V.-Le montant net de l'aide est fonction de l'indice de base pondéré, selon la
 
 ###### Article 231-7
 
-La période de référence court, pour un classement en année n, de la semaine cinématographique 27 de l'année n-2 à la semaine
-cinématographique 26 de l'année n-1. 
-
-La semaine cinématographique est celle définie au 5° de l'article D. 212-67 du code du cinéma et de l'image animée.
+Les allocations directes sont attribuées sous forme de subvention.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2017/CA/02 - art. 2, v. init.
 
-	**Transféré par**:
 
-	  - Délibération n°2017/CA/02 - art. 3, v. init.
+##### Paragraphe 2 : Allocations directes à raison de l'octroi de labels
 
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 231-17 (V)
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. D212-67 (V)
-
+##### Sous-Paragraphe 1 : Objet et conditions d'attribution
 
 ###### Article 231-8
 
-Le coefficient majorateur résulte de l'appréciation des efforts fournis par les exploitants en vue de promouvoir une
-programmation d'art et d'essai de qualité, de concourir à la formation et à la fidélisation du public, et d'entreprendre des
-actions d'animation et de promotion de sa programmation d'art et d'essai, en tenant compte des moyens dont ils disposent,
-ainsi que de la situation locale et de l'environnement culturel de l'établissement. 
-
-Sont notamment pris en compte à cet effet : 
-
-1° La démographie et la sociologie de la population locale ; 
-
-2° L'environnement cinématographique ; 
-
-3° La politique d'animation menée par l'exploitant ; 
-
-4° Le travail en réseau dans les petites agglomérations ; 
-
-5° Le travail de proximité, notamment à l'égard du public scolaire et des personnes âgées ; 
-
-6° Les opérations conjointes avec les institutions culturelles locales ; 
-
-7° La qualité de l'information auprès des publics ; 
-
-8° L'organisation de soirées thématiques et de festivals ; 
-
-9° Le nombre de séances en version originale organisées au sein des établissements du deuxième groupe ; 
-
-10° Le nombre d'œuvres cinématographiques d'art et d'essai programmées ; 
-
-11° Le nombre d'œuvres cinématographiques et de séances organisées avec des œuvres cinématographiques d'art et d'essai
-répondant aux conditions fixées, pour chaque label, par les articles 231-14 à 231-16 ; 
-
-12° La politique de diffusion d'œuvres cinématographiques de courte durée ; 
-
-13° La diversité de la programmation.
+Des allocations directes sont attribuées à raison de l'octroi des labels prévus à l'article 231-25.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
-	  - Délibération n°2017/CA/02 - art. 3, v. init.
+	  - Délibération n°2017/CA/02 - art. 2, v. init.
 
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. 231-14 (V)
 
-	**Nouveaux textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-21 (V)
-
+##### Sous-Paragraphe 2 : Procédure et modalités d'attribution
 
 ###### Article 231-9
 
-Le coefficient minorateur résulte de l'appréciation des conditions d'accueil et de confort dans la ou les salles des
-établissements, de la diversité des œuvres cinématographiques d'art et d'essai programmées, ainsi que du nombre de semaines
-et de séances, hors période de travaux, durant lesquelles sont représentées ces œuvres. 
+Le montant de l'allocation directe est égal à :
 
-Sont notamment pris en compte à cet effet : 
+1,5 % du montant de l'aide sélective attribuée lorsqu'un label est octroyé, sans pouvoir être inférieur à 150 euros ;
 
-1° Le nombre de semaines cinématographiques de fonctionnement des établissements au cours de la période de référence,
-conformément à la grille prévue à l'annexe 31 du présent livre ; 
+3 % du montant de l'aide sélective attribuée lorsque deux labels sont octroyés, sans pouvoir être inférieur à 300 euros ;
 
-2° Le nombre de séances de spectacles cinématographiques par salle, conformément à la grille prévue à l'annexe 32 du présent
-livre ; 
-
-3° Le nombre et la diversité des œuvres cinématographiques d'art et d'essai programmées, conformément à la grille prévue à
-l'annexe 33 du présent livre ; 
-
-4° Le confort des salles et la qualité technique de la projection, conformément à la grille prévue à l'annexe 34 du présent
-livre ; 
-
-5° La qualité des informations fournies sur la situation économique et financière des établissements, conformément à la
-grille prévue à l'annexe 35 du présent livre ; 
-
-6° La transmission tardive de la demande ; 
-
-7° L'indication dans la demande de l'absence de travail d'animation ; 
-
-8° Les conditions locales et l'environnement culturel dans lesquels l'exploitant exerce son activité, ainsi que l'effort
-particulier accompli par l'exploitant dans le domaine de la diffusion. Pour l'application de ce coefficient minorateur, la
-commission du cinéma d'art et d'essai se prononce à la majorité des deux tiers ; 
-
-9° L'existence de conditions financières pour la diffusion des bandes-annonces indiquées dans la demande.
+6 % du montant de l'aide sélective attribuée lorsque trois labels sont octroyés, sans pouvoir être inférieur à 600 euros.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
-	  - Délibération n°2017/CA/02 - art. 3, v. init.
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 231-22 (V)
+	  - Délibération n°2017/CA/02 - art. 2, v. init.
 
 	**Cité par**:
 
@@ -27028,127 +26812,133 @@ commission du cinéma d'art et d'essai se prononce à la majorité des deux tier
 
 ###### Article 231-10
 
-Le montant de l'aide est plafonné à :
-
-- 1,5 € par entrée aux séances d'art et d'essai enregistrée au cours de la période de référence pour les catégories A, B, C,
-D ;
-
-- 2,5 € par entrée aux séances d'art et d'essai ou 1,5 € par entrée enregistrée au cours de la période de référence pour la
-catégorie E.
+Les allocations directes sont attribuées sous forme de subvention.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2017/CA/02 - art. 2, v. init.
 
-	**Transféré par**:
 
-	  - Délibération n°2017/CA/02 - art. 3, v. init.
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 231-23 (V)
-
+##### Section 3 : Aides financières sélectives 
 
 ###### Article 231-11
 
-Les modalités de calcul peuvent faire l'objet d'ajustements annuels sur proposition du comité de pilotage de la commission du
-cinéma d'art et d'essai. 
+Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
+animée, afin de soutenir la programmation et les actions d'animation dans les établissements de spectacles
+cinématographiques.
 
-Ces ajustements sont approuvés par le conseil d'administration du Centre national du cinéma et de l'image animée lors de sa
-dernière séance de l'année et mis en œuvre lors du classement de l'année suivante.
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-24 (V)
+	  - Code du cinéma et de l'image animée - art. 231-1 (T)
 
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. D311-3 (V)
+
+
+##### Sous-section 1 : Aides à l'art et essai 
+
+##### Paragraphe 1 : Objet et conditions d'attribution
 
 ###### Article 231-12
 
-Lors du classement des établissements de spectacles cinématographiques d'art et d'essai et de l'attribution des aides, des
-labels peuvent être octroyés par le président du Centre national du cinéma et de l'image animée. 
+Des aides financières sélectives sont attribuées aux exploitants d'établissements de spectacles cinématographiques afin de
+récompenser la programmation et la mise en valeur d'œuvres cinématographiques d'art et d'essai au sens des articles D. 210-3
+à D. 210-5 du code du cinéma et de l'image animée.
 
-Les labels peuvent être cumulés.
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-25 (V)
+	  - Code du cinéma et de l'image animée - art. 231-2 (T)
 
 
 ###### Article 231-13
 
-Les labels sont octroyés en considération : 
+Pour être admis au bénéfice des aides à l'art et essai, les exploitants d'établissements de spectacles cinématographiques
+répondent aux conditions suivantes :
 
-1° Du nombre moyen de séances de spectacles cinématographiques composées d'œuvres cinématographiques d'art et d'essai
-répondant aux conditions fixées pour chaque label par les articles 231-14 à 231-16, pour chacune de ces catégories
-d'œuvres ; 
+1° Etre à jour du paiement de la taxe prévue à l'article L. 115-1 du code du cinéma et de l'image animée ;
 
-2° Du nombre de salles des établissements ; 
+2° Respecter le délai imparti pour l'envoi de la déclaration de recettes prévue au 3° de l'article L. 212-32 du même code.
 
-3° De la diffusion des œuvres cinématographiques en version originale ; 
+**Nota:**
 
-4° De la régularité de la programmation, la majorité des œuvres cinématographiques ne devant pas avoir été programmées à
-l'occasion d'un festival ; 
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
 
-5° De la qualité de l'information spécifique ; 
-
-6° Du résultat en nombre de spectateurs par rapport à l'offre ; 
-
-7° De la qualité de l'accompagnement en salle des œuvres cinématographiques.
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-3 (T)
+
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. 231-14 (V)
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 231-26 (V)
+	  - Code du cinéma et de l'image animée - art. L115-1 (V)
 
 
 ###### Article 231-14
 
-Le label " recherche et découverte " (RD) est octroyé notamment en considération du nombre d'œuvres cinématographiques d'art
-et d'essai qualifiées " recherche et découverte " à l'occasion de l'application de l'article D. 210-5 du code du cinéma et de
-l'image animée et représentées dans les établissements.
+Les aides à l'art et essai sont attribuées après classement des établissements de spectacles cinématographiques en tant
+qu'établissements d'art et d'essai et, le cas échant, octroi de labels.
+
+Les établissements de spectacles cinématographiques classés d'art et d'essai sont répartis en deux groupes, comprenant
+plusieurs catégories, en considération de leur implantation géographique.
+
+Le classement de l'établissement est effectué et l'aide attribuée, en fonction des conditions et calculs prévus pour chaque
+groupe et catégorie.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
@@ -27157,265 +26947,497 @@ l'image animée et représentées dans les établissements.
 	  - Code du cinéma et de l'image animée - art. 231-13 (T)
 	  - Code du cinéma et de l'image animée - art. 231-8 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-27 (V)
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. D210-5 (V)
+	  - Code du cinéma et de l'image animée - art. 231-4 (T)
 
 
 ###### Article 231-15
 
-Le label " jeune public " (JP) est octroyé notamment en considération : 
+I.-Le premier groupe comprend les deux catégories d'établissements de spectacles cinématographiques suivantes :
 
-1° Du nombre d'œuvres cinématographiques d'art et d'essai qualifiées " jeune public " à l'occasion de l'application de
-l'article D. 210-5 du code du cinéma et de l'image animée et représentées dans les établissements ; 
+1° Catégorie A : établissements implantés dans des communes-centre dont le nombre d'habitants est égal ou supérieur à 100 000
+et dans des unités urbaines dont le nombre d'habitants est égal ou supérieur à 200 000.
 
-2° D'une politique tarifaire adaptée au jeune public.
+2° Catégorie B : établissements implantés :
+
+a) Soit dans des communes-centre dont le nombre d'habitants est inférieur à 100 000 et dans des unités urbaines dont le
+nombre d'habitants est égal ou supérieur à 200 000 ;
+
+b) Soit dans des communes-centre dont le nombre d'habitants est égal ou supérieur à 50 000 et dans des unités urbaines dont
+le nombre d'habitants est compris entre 100 000 et moins de 200 000.
+
+II.-A. Les établissements sont éligibles au classement et à l'aide si la proportion de base est égale ou supérieure à :
+
+1° Catégorie A : 65 % de séances de spectacles cinématographiques composées d'œuvres cinématographiques d'art et d'essai,
+représentées en version originale.
+
+2° Catégorie B : 50 % de séances de spectacles cinématographiques composées d'œuvres cinématographiques d'art et d'essai,
+représentées en version originale lorsqu'elles ont réalisé plus de 500 000 entrées sur Paris et sa périphérie.
+
+B. La proportion de base est calculée en faisant le rapport entre le nombre total de séances de spectacles cinématographiques
+composées d'œuvres cinématographiques d'art et d'essai organisées dans toutes les salles de l'établissement et le nombre
+total de séances de spectacles cinématographiques organisées dans l'établissement, au cours d'une période de référence.
+
+III.-La proportion de base est pondérée par un coefficient majorateur et un coefficient minorateur, dont les valeurs sont
+comprises entre :
+
+1° Coefficient majorateur : 0 à 40 points ;
+
+2° Coefficient minorateur : 0 à 65 points.
+
+IV.-La proportion de base pondérée ouvre droit au classement art et essai et au bénéfice de l'aide si elle est égale ou
+supérieure à :
+
+1° Catégorie A : 70 % ;
+
+2° Catégorie B : 55 %.
+
+V.-Le montant brut de l'aide est fonction de la proportion de base pondérée, selon la grille prévue à l'annexe 29 du présent
+livre.
+
+VI. - Le montant net de l'aide est le montant brut pondéré par les coefficients multiplicateurs suivants, en fonction du
+nombre de salles des établissements :
+
+1 salle : 1,26 ;
+
+2 salles : 2,1 ;
+
+3 salles : 3,15 ;
+
+4 salles : 3,9 ;
+
+5 salles : 4,8 ;
+
+6 et 7 salles : 5,5 ;
+
+8 et 9 salles : 6,2 ;
+
+10 et 11 salles : 6,9 ;
+
+12 et 13 salles : 7,6 ;
+
+14 salles et plus : 8,3.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-28 (V)
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. D210-5 (V)
+	  - Code du cinéma et de l'image animée - art. 231-5 (T)
 
 
 ###### Article 231-16
 
-Le label " patrimoine et répertoire " (PR) est octroyé notamment en considération du nombre d'œuvres cinématographiques d'art
-et d'essai représentées dans les établissements qui sont : 
+I.-Le second groupe comprend les trois catégories d'établissements de spectacles cinématographiques suivantes :
 
-1° Soit des œuvres cinématographiques sorties en salles de spectacles cinématographiques depuis plus de vingt ans ; 
+1° Catégorie C : établissements implantés dans des unités urbaines dont le nombre d'habitants est égal ou supérieur à 100
+000 ;
 
-2° Soit des œuvres cinématographiques ayant bénéficié d'une aide à la distribution d'œuvres de répertoire ; 
+2° Catégorie D : établissements implantés dans des unités urbaines dont le nombre d'habitants est égal ou supérieur à 20 000
+et inférieur à 100 000 ;
 
-3° Soit des œuvres cinématographiques qualifiées " patrimoine et répertoire " à l'occasion de l'application de l'article D.
-210-5 du code du cinéma et de l'image animée.
+3° Catégorie E : établissements implantés dans des unités urbaines dont le nombre d'habitants est inférieur à 20 000 ou dans
+des communes situées en zone rurale.
+
+II. - A. - Les établissements sont éligibles au classement et à l'aide si les conditions suivantes sont remplies :
+
+1° La proportion de base est égale ou supérieure à :
+
+Catégorie C : 20 % de séances de spectacles cinématographiques composées d'œuvres cinématographiques d'art et d'essai ;
+
+Catégories D et E : 15 % de séances de spectacles cinématographiques composées d'œuvres cinématographiques d'art et d'essai.
+
+2° L'indice de base est égal ou supérieur à :
+
+Catégorie C : 0,4 ;
+
+Catégories D : 0,3 ;
+
+Catégories E : 0,2.
+
+B. - La proportion de base est calculée en faisant le rapport entre le nombre total de séances de spectacles
+cinématographiques composées d'œuvres cinématographiques d'art et d'essai organisées dans toutes les salles de
+l'établissement et le nombre total de séances de spectacles cinématographiques organisées dans l'établissement, au cours
+d'une période de référence.
+
+C. - L'indice de base est calculé :
+
+1° En faisant le rapport entre le nombre total de séances de spectacles cinématographiques composées d'œuvres
+cinématographiques d'art et d'essai organisées dans toutes les salles de l'établissement et le nombre moyen par salle de
+séances de spectacles cinématographiques organisées dans l'établissement, au cours d'une période de référence ;
+
+2° En pondérant le rapport résultant du 1° par les coefficients multiplicateurs suivants, en fonction du nombre de salles des
+établissements :
+
+1 salle : 1,25 ;
+
+2 salles : 1,05 ;
+
+3 salles : 0,85 ;
+
+4 salles : 0,75 ;
+
+5 salles : 0,70 ;
+
+6 salles : 0,60 ;
+
+7 salles : 0,55 ;
+
+8 salles : 0,51 ;
+
+9 salles : 0,48 ;
+
+10 salles : 0,45 ;
+
+11 salles : 0,43 ;
+
+12 salles : 0,41 ;
+
+13 salles : 0,39 ;
+
+14 salles : 0,37 ;
+
+15 salles et plus : 0,35.
+
+III.-L'indice de base calculé est pondéré par un coefficient majorateur et un coefficient minorateur, dont les valeurs sont
+comprises entre :
+
+1° Coefficient majorateur : 0 à 0,40 point ;
+
+2° Coefficient minorateur : 0 à 0,65 point.
+
+IV.-L'indice de base pondéré ouvre droit au classement art et essai et au bénéfice de l'aide s'il est égal ou supérieur à :
+
+1° Catégorie C : 0,40 ;
+
+2° Catégorie D : 0,30 ;
+
+3° Catégorie E : 0,25.
+
+V.-Le montant net de l'aide est fonction de l'indice de base pondéré, selon la grille prévue à l'annexe 30 du présent livre.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-29 (V)
+	  - Code du cinéma et de l'image animée - art. 231-6 (T)
 
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. D210-5 (V)
-
-
-##### Paragraphe 2 : Procédure et modalités d'attribution 
 
 ###### Article 231-17
 
-Pour le classement, l'octroi d'un label, ainsi que l'attribution d'une aide, l'exploitant de l'établissement de spectacles
-cinématographiques enregistre sa demande au moyen du téléservice mis en place par le Centre national du cinéma et de l'image
-animée.
+Pour le classement et l'attribution de l'aide en année n, la période de référence court de la semaine cinématographique 27 de
+l'année n - 3 à la semaine cinématographique 26 de l'année n - 1.
+
+Dans les cas mentionnés aux articles 231-32 et 231-33, pour le classement et l'attribution de l'aide en année n +1, la
+période de référence court de la semaine cinématographique 27 de l'année n-1 à la semaine cinématographique 26 de l'année n.
+
+La semaine cinématographique est celle définie au 5° de l'article D. 212-67 du code du cinéma et de l'image animée.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-30 (V)
+	  - Code du cinéma et de l'image animée - art. 231-7 (T)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. D212-67 (V)
 
 
 ###### Article 231-18
 
-La décision d'attribution du classement, d'un label et d'une aide est prise après avis de la commission du cinéma d'art et
-d'essai. 
+I. - Ne sont pas éligibles au classement et à l'aide les établissements de spectacles cinématographiques qui ne justifient
+pas :
 
-A l'initiative du demandeur, la commission du cinéma d'art et d'essai peut être ressaisie pour rendre un nouvel et dernier
-avis.
+1° D'au moins 32 semaines cinématographiques d'activité par an en moyenne au cours de la période de référence ;
+
+2° D'un nombre minimum de séances par salle par an en moyenne au cours de la période de référence, fixé comme suit :
+
+a) Pour les catégories A et B : 300 ;
+
+b) Pour les catégories C et D : 200 ;
+
+c) Pour la catégorie E : 150.
+
+II. - Par dérogation aux 1° et 2° du I, sont éligibles au classement et à l'aide :
+
+1° Les établissements de spectacles cinématographiques ayant réalisé des travaux de rénovation ou de restructuration ayant
+nécessité leur fermeture au public, dès lors qu'ils justifient d'une activité supérieure à 26 semaines cinématographiques par
+an en moyenne au cours de la période de référence ;
+
+2° Les nouveaux établissements de spectacles cinématographiques, dès lors qu'ils justifient d'une activité supérieure à 26
+semaines cinématographiques au cours de la période de référence.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
 
 ###### Article 231-19
 
-L'aide est attribuée sous forme de subvention.
+Pour l'application des coefficients multiplicateurs, sont seules prises en compte les salles des établissements de spectacles
+cinématographiques justifiant d'au moins 32 semaines cinématographiques d'activité par an en moyenne, au cours de la période
+de référence.
+
+Par dérogation à l'alinéa précédent, en cas d'ouverture de nouvelles salles, sont prises en compte les salles en activité au
+cours des 26 semaines cinématographiques précédant la fin de la période de référence.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 231-35 (V)
 
 
 ###### Article 231-20
 
-L'aide est attribuée aux exploitants d'établissements de spectacles cinématographiques d'art et d'essai en activité au moment
-de la notification de la décision d'attribution. 
+En cas de transfert de l'activité d'un ou de plusieurs établissements de spectacles cinématographiques dans un nouvel
+établissement de spectacles cinématographiques situé dans la même agglomération et exploité par le même exploitant, au cours
+de la période de référence, le classement est effectué et l'aide est attribuée en tenant compte de l'activité cumulée, au
+cours de la période de référence, du ou des anciens établissements et du nouvel établissement.
 
-Dans le cas d'un changement d'exploitant pendant la période de référence ou entre cette période et la date à laquelle est
-décidée l'attribution de celle-ci, l'aide est versée au nouvel exploitant si celui-ci présente des garanties suffisantes
-quant à la poursuite des actions au titre desquelles elle a été attribuée.
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. 231-36 (V)
-
-
-##### Sous-section 2 : Aides à la programmation difficile 
-
-##### Paragraphe 1 : Objet et conditions d'attribution 
 
 ###### Article 231-21
 
-Des aides financières sélectives sont attribuées aux exploitants d'établissements de spectacles cinématographiques qui
-maintiennent face à la concurrence une programmation difficile.
+L'application du coefficient majorateur est effectuée au regard des efforts mis en œuvre par les exploitants pour promouvoir
+une programmation d'art et d'essai de qualité, former et fidéliser le public, et conduire des actions d'animation autour de
+leur programmation d'art et d'essai, rapportés aux moyens matériels dont ils disposent et à l'offre culturelle proposée dans
+la zone d'influence de l'établissement considéré.
+
+Cette appréciation peut se fonder notamment sur les critères suivants :
+
+1° La démographie et la sociologie de la population locale ;
+
+2° L'environnement cinématographique ;
+
+3° La politique d'animation menée par l'exploitant ;
+
+4° Le travail en réseau dans les petites agglomérations ;
+
+5° Le travail de proximité, notamment à l'égard du public scolaire et des personnes âgées ;
+
+6° Les opérations conjointes avec les institutions culturelles locales ;
+
+7° La qualité de l'information auprès des publics ;
+
+8° L'organisation de soirées thématiques et de festivals ;
+
+9° Le nombre de séances en version originale organisées au sein des établissements du deuxième groupe ;
+
+10° Le nombre d'œuvres cinématographiques d'art et d'essai programmées ;
+
+11° Le nombre d'œuvres cinématographiques et de séances organisées avec des œuvres cinématographiques d'art et d'essai
+répondant aux conditions fixées, pour chaque label, par les articles 231-27 à 231-29 ;
+
+12° La politique de diffusion d'œuvres cinématographiques de courte durée ;
+
+13° La diversité de la programmation.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-37 (V)
+	  - Code du cinéma et de l'image animée - art. 231-8 (T)
 
 
 ###### Article 231-22
 
-Pour être admis au bénéfice des aides à la programmation difficile, les exploitants d'établissements de spectacles
-cinématographiques répondent aux conditions suivantes : 
+L'application du coefficient minorateur est effectuée au regard des conditions d'accueil et de confort dans la ou les salles
+de l'établissement, de la diversité des œuvres cinématographiques d'art et d'essai programmées, du nombre de semaines et de
+séances, hors période de travaux, durant lesquelles sont représentées ces œuvres, des conditions locales et de
+l'environnement culturel de l'établissement, de sa situation économique, ainsi que de la présentation de la demande.
 
-1° Etre à jour du paiement de la taxe prévue à l'article L. 115-1 du code du cinéma et de l'image animée ; 
+Cette appréciation peut se fonder notamment sur les critères suivants :
 
-2° Respecter le délai imparti pour l'envoi de la déclaration de recettes prévue au 3° de l'article L. 212-32 du même code ; 
+1° Le nombre de semaines cinématographiques de fonctionnement des établissements au cours de la période de référence,
+conformément à la grille prévue à l'annexe 31 du présent livre, sauf pour les nouveaux établissements ;
 
-3° Etre implantés soit dans la ville de Paris, soit dans les communes de plus de 200 000 habitants, soit dans les communes
-dont la population est égale ou inférieure à 200 000 habitants et sur le territoire desquelles ont été réalisées plus de 1
-500 000 entrées durant l'année civile précédente ; 
+2° Le nombre de séances de spectacles cinématographiques par salle, conformément à la grille prévue à l'annexe 32 du présent
+livre, sauf pour les nouveaux établissements ;
 
-4° Ne pas être propriétaires ou assurer l'exploitation de plus de cinquante salles de spectacles cinématographiques dans les
-conditions prévues à l'article 232-9.
+3° Le nombre et la diversité des œuvres cinématographiques d'art et d'essai programmées, conformément à la grille prévue à
+l'annexe 33 du présent livre ;
+
+4° Le confort des salles et la qualité technique de la projection, conformément à la grille prévue à l'annexe 34 du présent
+livre ;
+
+5° La qualité des informations fournies ;
+
+6° La situation économique de l'établissement de spectacles cinématographiques ;
+
+7° L'absence ou la faiblesse des actions d'animation ;
+
+8° Les conditions locales et l'environnement culturel dans lesquels l'exploitant exerce son activité, ainsi que l'effort
+particulier accompli par l'exploitant dans le domaine de la diffusion ;
+
+9° Les conditions financières pour la diffusion des bandes-annonces indiquées dans la demande.
+
+Pour l'application des coefficients minorateurs mentionnés aux 2°, 5°, 6°, 7°, 8° et 9°, la commission du cinéma d'art et
+d'essai se prononce à la majorité des deux tiers.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-38 (V)
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 232-9 (V)
-	  - Code du cinéma et de l'image animée - art. L115-1 (M)
-	  - Code du cinéma et de l'image animée - art. L212-32 (V)
+	  - Code du cinéma et de l'image animée - art. 231-9 (T)
 
 
 ###### Article 231-23
 
-Les aides à la programmation difficile sont attribuées eu égard à la qualité de la programmation des établissements, à
-l'évolution de leur fréquentation, à la qualité des conditions d'accueil du public et de projection des œuvres
-cinématographiques, ainsi qu'à la situation financière de l'exploitant. 
+Le montant de l'aide est plafonné à :
 
-Le critère de la qualité de la programmation des établissements est apprécié en tenant compte de leur environnement
-concurrentiel pendant l'année civile précédant la date de la demande de l'aide. Les autres critères sont appréciés, le cas
-échéant, au regard de l'évolution de la situation des établissements pendant les années précédentes.
+- 1,5 € par entrée aux séances d'art et d'essai enregistrée au cours de la période de référence pour les catégories A, B, C,
+D ;
+
+- 2,5 € par entrée aux séances d'art et d'essai ou 1,5 € par entrée enregistrée au cours de la période de référence pour la
+catégorie E.
+
+Lorsque des allocations directes ou une aide sélective à la programmation des œuvres cinématographiques de courte durée sont
+attribuées en complément de l'aide, les plafonds précités s'appliquent au montant total de ces aides.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-39 (V)
+	  - Code du cinéma et de l'image animée - art. 231-10 (T)
 
-
-##### Paragraphe 2 : Procédure et modalités d'attribution 
 
 ###### Article 231-24
 
-Pour l'attribution d'une aide, l'exploitant de l'établissement de spectacles cinématographiques remet un dossier
-comprenant : 
+Le montant de l'aide, résultant de l'application des articles 231-15, 231-16 et 231-23, peut faire l'objet d'une minoration
+au regard du montant des crédits affectés aux aides à l'art et essai.
 
-1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
+**Nota:**
 
-2° La liste des documents justificatifs figurant en annexe 36 du présent livre.
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-40 (V)
+	  - Code du cinéma et de l'image animée - art. 231-11 (T)
 
 	**Cité par**:
 
@@ -27424,241 +27446,769 @@ comprenant :
 
 ###### Article 231-25
 
-La décision d'attribution d'une aide est prise après avis de la commission des aides à la programmation difficile.
+Lors du classement des établissements de spectacles cinématographiques d'art et d'essai et de l'attribution des aides, des
+labels peuvent être octroyés par le président du Centre national du cinéma et de l'image animée.
+
+Les labels peuvent être cumulés.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-12 (T)
+
+
+###### Article 231-26
+
+Les labels sont octroyés en considération :
+
+1° Du nombre moyen de séances de spectacles cinématographiques composées d'œuvres cinématographiques d'art et d'essai
+répondant aux conditions fixées pour chaque label par les articles 231-27 à 231-29, pour chacune de ces catégories d'œuvres ;
+
+2° Du nombre de salles des établissements ;
+
+3° De la diffusion des œuvres cinématographiques en version originale ;
+
+4° De la régularité de la programmation, la majorité des œuvres cinématographiques ne devant pas avoir été programmées à
+l'occasion d'un festival ;
+
+5° De la qualité de l'information spécifique ;
+
+6° Du résultat en nombre de spectateurs par rapport à l'offre ;
+
+7° De la qualité de l'accompagnement en salle des œuvres cinématographiques.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-13 (T)
+
+
+###### Article 231-27
+
+Le label " recherche et découverte " (RD) est octroyé notamment en considération du nombre d'œuvres cinématographiques d'art
+et d'essai qualifiées " recherche et découverte " à l'occasion de l'application de l'article D. 210-5 du code du cinéma et de
+l'image animée et représentées dans les établissements.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-14 (T)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. D210-5 (V)
+
+
+###### Article 231-28
+
+Le label " jeune public " (JP) est octroyé notamment en considération :
+
+1° Du nombre d'œuvres cinématographiques d'art et d'essai qualifiées " jeune public " à l'occasion de l'application de
+l'article D. 210-5 du code du cinéma et de l'image animée et représentées dans les établissements ;
+
+2° D'une politique tarifaire adaptée au jeune public.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-15 (T)
+
+
+###### Article 231-29
+
+Le label " patrimoine et répertoire " (PR) est octroyé notamment en considération du nombre d'œuvres cinématographiques d'art
+et d'essai représentées dans les établissements qui sont :
+
+1° Soit des œuvres cinématographiques sorties en salles de spectacles cinématographiques depuis plus de vingt ans ;
+
+2° Soit des œuvres cinématographiques ayant bénéficié d'une aide à la distribution d'œuvres de répertoire ;
+
+3° Soit des œuvres cinématographiques qualifiées " patrimoine et répertoire " à l'occasion de l'application de l'article D.
+210-5 du code du cinéma et de l'image animée.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-16 (T)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. D210-5 (V)
+
+
+##### Paragraphe 2 : Procédure et modalités d'attribution
+
+###### Article 231-30
+
+Pour le classement, l'octroi d'un label, ainsi que l'attribution d'une aide, l'exploitant de l'établissement de spectacles
+cinématographiques enregistre sa demande au moyen du téléservice mis en place par le Centre national du cinéma et de l'image
+animée.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-17 (T)
+
+
+###### Article 231-31
+
+Le classement, les labels et l'aide attribués en année n sont reconduits en année n + 1.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+
+###### Article 231-32
+
+Par dérogation à l'article 231-31, le classement, les labels et l'aide attribués en année n font l'objet d'une réévaluation
+en année n+1 dans les cas suivants :
+
+1° Changement de l'exploitant de l'établissement de spectacles cinématographiques entre le 1er janvier et le 31 décembre de
+l'année n - 1 ;
+
+2° Ouverture de salles dans l'établissement de spectacles cinématographiques entre le 1er janvier et le 31 décembre de
+l'année n - 1 ;
+
+3° Fermeture de salles dans l'établissement de spectacles cinématographiques entre le 1er janvier et le 31 décembre de
+l'année n - 1 ;
+
+4° Transfert de l'activité d'un ou de plusieurs établissements dans un nouvel établissement, situé dans la même agglomération
+et exploité par le même exploitant, entre le 1er janvier et le 31 décembre de l'année n - 1.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+
+###### Article 231-33
+
+Les exploitants d'établissements de spectacles cinématographiques peuvent déposer un dossier de demande pour un premier
+classement en année n + 1 dans les cas suivants :
+
+1° Ouverture de l'établissement de spectacles cinématographiques entre le 1er janvier et le 31 décembre de l'année n - 1 ;
+
+2° Refus de classement de l'établissement de spectacles cinématographiques et d'attribution de l'aide en année n.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+
+###### Article 231-34
+
+I. - En année n, la décision d'attribution du classement, d'un label et d'une aide est prise après avis de la commission du
+cinéma d'art et d'essai réunie en formation régionale.
+
+Le président du Centre national du cinéma et de l'image animée peut, s'il l'estime utile, consulter la commission du cinéma
+d'art et d'essai réunie en formation nationale pour un nouvel examen.
+
+II. - En année n + 1 :
+
+1° La décision de reconduction est prise par le président du Centre national du cinéma et de l'image animée au vu du dossier
+de demande présenté au titre de l'attribution du classement, des labels et de l'aide en année n ;
+
+2° Pour les cas prévus aux articles 231-32 et 231-33, la décision d'attribution du classement, d'un label et d'une aide est
+prise après avis de la commission du cinéma d'art et d'essai réunie en formation nationale.
+
+III. - A l'initiative et sur demande motivée de l'exploitant de l'établissement de spectacles cinématographiques, la
+commission du cinéma d'art et d'essai réunie en formation nationale peut être saisie par le président du Centre national du
+cinéma et de l'image animée pour rendre un nouvel avis.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Transféré par**:
+
+###### Article 231-35
+
+L'aide est attribuée sous forme de subvention.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-41 (V)
+	  - Code du cinéma et de l'image animée - art. 231-19 (T)
 
 
-###### Article 231-26
+###### Article 231-36
 
-L'aide est attribuée sous forme de subvention. 
+L'aide est attribuée aux exploitants d'établissements de spectacles cinématographiques d'art et d'essai en activité au moment
+de la notification de la décision d'attribution.
+
+Dans le cas d'un changement d'exploitant pendant la période de référence ou entre cette période et la date à laquelle est
+décidée l'attribution de celle-ci, l'aide est versée au nouvel exploitant si celui-ci présente des garanties suffisantes
+quant à la poursuite des actions au titre desquelles elle a été attribuée.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-20 (T)
+
+
+##### Sous-section 2 : Aides à la programmation difficile
+
+##### Paragraphe 1 : Objet et conditions d'attribution
+
+###### Article 231-37
+
+Des aides financières sélectives sont attribuées aux exploitants d'établissements de spectacles cinématographiques qui
+maintiennent face à la concurrence une programmation difficile.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-21 (T)
+
+
+###### Article 231-38
+
+Pour être admis au bénéfice des aides à la programmation difficile, les exploitants d'établissements de spectacles
+cinématographiques répondent aux conditions suivantes :
+
+1° Etre à jour du paiement de la taxe prévue à l'article L. 115-1 du code du cinéma et de l'image animée ;
+
+2° Respecter le délai imparti pour l'envoi de la déclaration de recettes prévue au 3° de l'article L. 212-32 du même code ;
+
+3° Etre implantés soit dans la ville de Paris, soit dans les communes de plus de 200 000 habitants, soit dans les communes
+dont la population est égale ou inférieure à 200 000 habitants et sur le territoire desquelles ont été réalisées plus de 1
+500 000 entrées durant l'année civile précédente ;
+
+4° Ne pas être propriétaires ou assurer l'exploitation de plus de cinquante salles de spectacles cinématographiques dans les
+conditions prévues à l'article 232-9.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-22 (T)
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L115-1 (V)
+
+
+###### Article 231-39
+
+Les aides à la programmation difficile sont attribuées eu égard à la qualité de la programmation des établissements, à
+l'évolution de leur fréquentation, à la qualité des conditions d'accueil du public et de projection des œuvres
+cinématographiques, ainsi qu'à la situation financière de l'exploitant.
+
+Le critère de la qualité de la programmation des établissements est apprécié en tenant compte de leur environnement
+concurrentiel pendant l'année civile précédant la date de la demande de l'aide. Les autres critères sont appréciés, le cas
+échéant, au regard de l'évolution de la situation des établissements pendant les années précédentes.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-23 (T)
+
+
+##### Paragraphe 2 : Procédure et modalités d'attribution 
+
+###### Article 231-40
+
+Pour l'attribution d'une aide, l'exploitant de l'établissement de spectacles cinématographiques remet un dossier comprenant :
+
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
+
+2° La liste des documents justificatifs figurant en annexe 36 du présent livre.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-24 (T)
+
+
+###### Article 231-41
+
+La décision d'attribution d'une aide est prise après avis de la commission des aides à la programmation difficile.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+	**Anciens textes**:
+
+	  - Code du cinéma et de l'image animée - art. 231-25 (T)
+
+
+###### Article 231-42
+
+L'aide est attribuée sous forme de subvention.
 
 L'aide fait l'objet d'une convention conclue avec l'exploitant de l'établissement de spectacles cinématographiques. Cette
 convention fixe notamment les modalités de versement de l'aide et les circonstances dans lesquelles elle donne lieu à
 reversement.
 
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-42 (V)
+	  - Code du cinéma et de l'image animée - art. 231-26 (T)
 
 
-###### Article 231-27
+###### Article 231-43
 
 Les bénéficiaires des aides à la programmation difficile sont des exploitants d'établissements de spectacles
-cinématographiques en activité au moment de la notification de la décision d'attribution. 
+cinématographiques en activité au moment de la notification de la décision d'attribution.
 
 Dans le cas d'un changement d'exploitant pendant la période servant de référence pour la détermination des aides ou entre
 cette période et la date à laquelle est décidée l'attribution de celles-ci, les aides sont versées au nouvel exploitant si
 celui-ci présente des garanties suffisantes quant à la poursuite des actions au titre desquelles elles ont été attribuées.
 
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-43 (V)
+	  - Code du cinéma et de l'image animée - art. 231-27 (T)
 
 
 ##### Sous-section 3 : Commissions consultatives 
 
 ##### Paragraphe 1 : Commission du cinéma d'art et d'essai 
 
-###### Article 231-28
+###### Article 231-44
 
-La commission du cinéma d'art et d'essai est composée de vingt et un membres : 
+La commission du cinéma d'art et d'essai comprend une formation nationale et cinq formations régionales compétentes en
+fonction du lieu où est situé l'établissement de spectacles cinématographiques.
 
-1° Un président ; 
+Les formations régionales sont :
 
-2° Quatre représentants des exploitants d'établissements de spectacles cinématographiques ; 
+1° La formation régionale “Ile-de-France, Guadeloupe, Guyane, Martinique, Mayotte, Réunion” ;
 
-3° Un représentant des producteurs d'œuvres cinématographiques ; 
+2° La formation régionale “Grand-Est, Bourgogne-Franche-Comté, Auvergne-Rhône-Alpes” ;
 
-4° Deux représentants des distributeurs d'œuvres cinématographiques ; 
+3° La formation régionale “Occitanie, Provence-Alpes-Côte d'Azur, Corse” ;
 
-5° Un représentant des réalisateurs d'œuvres cinématographiques ; 
+4° La formation régionale “Hauts-de-France, Normandie, Bretagne, Pays-de-la-Loire” ;
 
-6° Un représentant de la critique cinématographique ; 
+5° La formation régionale “Centre-Val de Loire, Nouvelle Aquitaine”.
 
-7° Sept personnalités qualifiées ; 
+Les membres de la commission du cinéma d'art et d'essai sont nommés pour une durée de quatre ans, renouvelable une fois.
 
-8° Un représentant du ministre chargé de l'économie ; 
+**Nota:**
 
-9° Un représentant du ministre chargé de la culture ; 
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
 
-10° Un représentant du ministre chargé de la jeunesse ; 
-
-11° Le rapporteur du groupe de travail interrégional concerné.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-
-###### Article 231-29
-
-Les membres mentionnés aux 1° à 7° de l'article 231-28 sont nommés pour une durée de trois ans renouvelable. 
-
-Le membre mentionné au 11° du même article est nommé, pour chaque groupe de travail interrégional, pour une durée d'un an. 
-
-Les membres représentant les exploitants d'établissements de spectacles cinématographiques sont nommés après consultation des
-organisations professionnelles les plus représentatives.
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
 
-###### Article 231-30
+###### Article 231-45
 
-I.-La commission rend ses avis en tenant compte des recommandations formulées par des groupes de travail interrégionaux. 
+La formation nationale de la commission du cinéma d'art et d'essai comprend :
 
-II.-Les groupes de travail réunissent les régions suivantes : 
+1° Un président ;
 
-1° Ile-de-France, Centre ; 
+2° Un vice-président ;
 
-2° Basse-Normandie, Haute-Normandie, Bretagne, Pays-de-la-Loire ; 
+3° Quatre représentants des exploitants d'établissements de spectacles cinématographiques ;
 
-3° Alsace, Lorraine, Champagne-Ardenne ; 
+4° Trois représentants des distributeurs d'œuvres cinématographiques ;
 
-4° Corse, Languedoc-Roussillon, Provence-Alpes-Côte-d'Azur ; 
+5° Un représentant des producteurs d'œuvres cinématographiques ;
 
-5° Aquitaine, Limousin, Midi-Pyrénées, Poitou-Charentes ; 
+6° Un représentant des réalisateurs d'œuvres cinématographiques ;
 
-6° Auvergne, Bourgogne, Franche-Comté, Rhône-Alpes ; 
+7° Six personnalités qualifiées ;
 
-7° Nord-Pas-de-Calais, Picardie. 
+8° Une personnalité qualifiée en matière d'œuvres cinématographiques de courte durée ;
 
-III.-Outre des représentants du Centre national du cinéma et de l'image animée, les groupes de travail sont composés de : 
+9° Un représentant des directions régionales des affaires culturelles ;
 
-1° Trois représentants désignés par la Fédération nationale des cinémas français (FNCF) et par le Syndicat des cinémas d'art,
-de répertoire et d'essai (SCARE) ; 
+10° Un représentant du ministre chargé de l'économie.
 
-2° Deux représentants désignés par l'association dénommée " Association française des cinémas d'art et d'essai " (AFCAE) ; 
+**Nota:**
 
-3° Un représentant désigné par l'association dénommée " Groupement national du cinéma de recherche " (GNCR) ; 
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
 
-4° Un représentant désigné par l'association dénommée " Association pour le développement régional du cinéma " (ADRC) ; 
-
-5° Un représentant désigné par l'association dénommée " Société des réalisateurs de films " (SRF) ou par la société civile de
-perception et de répartition des droits dénommée " Auteurs-Réalisateurs-Producteurs " (ARP) ; 
-
-6° Trois représentants désignés par la Fédération nationale des distributeurs français (FNDF), le Syndicat des distributeurs
-indépendants réunis européens (DIRE) et par le Syndicat des distributeurs indépendants (SDI) ; 
-
-7° Le conseiller cinéma-audiovisuel de la Direction régionale des affaires culturelles (DRAC) de la région concernée ou la
-personne en faisant fonction ; 
-
-8° De deux à quatre personnalités qualifiées en fonction de la dimension des groupes de travail.
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
 
-###### Article 231-31
+###### Article 231-46
 
-Outre des représentants du Centre national du cinéma et de l'image animée, le comité de pilotage de la commission du cinéma
-d'art et d'essai est composé : 
+Chaque formation régionale de la commission du cinéma d'art et d'essai comprend :
 
-1° Du président de la commission ; 
+1° Le président de la formation nationale de la commission du cinéma d'art et d'essai ;
 
-2° Du président de l'association dénommée " Association française des cinémas d'art et d'essai " (AFCAE) ; 
+2° Le vice-président de la formation nationale de la commission du cinéma d'art et d'essai ;
 
-3° Du président de la Fédération nationale des cinémas français (FNCF) ; 
+3° Quatre représentants des exploitants d'établissements de spectacles cinématographiques ;
 
-4° Du président du Syndicat des cinémas d'art, de répertoire et d'essai (SCARE) ; 
+4° Trois représentants des distributeurs d'œuvres cinématographiques ;
 
-5° Du président de l'association dénommée " Groupement national du cinéma de recherche " (GNCR).
+5° Un représentant des producteurs d'œuvres cinématographiques ;
+
+6° Un représentant des réalisateurs d'œuvres cinématographiques ;
+
+7° Six personnalités qualifiées ;
+
+8° Une personnalité qualifiée en matière d'œuvres cinématographiques de courte durée ;
+
+9° Le conseiller en charge du cinéma de la direction régionale des affaires culturelles de chacune des régions
+administratives concernées.
+
+10° Un représentant du ministre chargé de l'économie.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
+
+
+###### Article 231-47
+
+Le médiateur du cinéma ou son représentant peut assister, avec voix consultative, aux séances de la commission du cinéma
+d'art et d'essai.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
 
 ##### Paragraphe 2 : Commission des aides à la programmation difficile 
 
-###### Article 231-32
+###### Article 231-48
 
 La commission des aides à la programmation difficile est composée de quatre membres nommés, sauf en ce qui concerne le
 président, pour une durée de trois ans renouvelable.
 
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-48 (V)
+	  - Code du cinéma et de l'image animée - art. 231-32 (T)
 
 
-###### Article 231-33
+###### Article 231-49
 
-Sont membres de la commission : 
+Sont membres de la commission :
 
-1° Le président de la commission du cinéma d'art et d'essai, président ; 
+1° Le président de la commission du cinéma d'art et d'essai, président ;
 
-2° Un représentant de l'association dénommée " Agence pour le développement régional du cinéma " (ADRC) ; 
+2° Un représentant de l'association dénommée " Agence pour le développement régional du cinéma " (ADRC) ;
 
-3° Un expert financier ; 
+3° Un expert financier ;
 
 4° Un expert en matière de concurrence et de diffusion cinématographique.
 
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Transféré par**:
-
 	  - Délibération n°2017/CA/02 - art. 3, v. init.
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code du cinéma et de l'image animée - art. 231-49 (V)
+	  - Code du cinéma et de l'image animée - art. 231-33 (T)
 
 
 #### Chapitre II : Aides financières à la création et à la modernisation des établissements de spectacles cinématographiques 
@@ -30228,1461 +30778,1440 @@ CATÉGORIE B </th>
 
 ###### Article Annexe 2-30
 
-Aide art et essai-Groupe 2 Grille d'équivalence indice/ montant (article 231-6) 
+Aide art et essai-Groupe 2 Grille d'équivalence indice/ montant (article 231-16)
 
 <table>
   <tbody>
     <tr>
       <th colspan="2">
 
-CATÉGORIE C </th>
+CATEGORIE C</th>
       <th colspan="2">
 
-CATÉGORIE D </th>
+CATEGORIE D</th>
       <th colspan="2">
 
-CATÉGORIE E </th>
+CATEGORIE E</th>
     </tr>
     <tr>
-      <th>
+      <td align="center">
 
-R > = et < </th>
-      <th>
+R >= et <</td>
+      <td align="center">
 
-€ </th>
-      <th>
+€</td>
+      <td align="center">
 
-R > = et < </th>
-      <th>
+R >= et <</td>
+      <td align="center">
 
-€ </th>
-      <th>
+€</td>
+      <td align="center">
 
-R > = et < </th>
-      <th>
+R >= et <</td>
+      <td align="center">
 
-€ </th>
+€</td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
-      </td><td valign="middle" align="left">
-      </td><td align="left" valign="middle">
-      </td><td valign="middle" align="left">
-      </td><td valign="middle" align="center">
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="center">
 
-0.25-0.30 </td>
-      <td valign="middle" align="center">
+0.25 - 0.30</td>
+      <td align="right">
 
-1 000 </td>
+900</td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
-      </td><td valign="middle" align="left">
-      </td><td align="left" valign="middle">
-      </td><td align="left" valign="middle">
-      </td><td valign="middle" align="center">
+      <td align="left">
+      </td><td align="left">
+      </td><td align="center">
 
-0.30-0.35 </td>
-      <td valign="middle" align="center">
+0.30 - 0.35</td>
+      <td align="right">
 
-2 000 </td>
+900</td>
+      <td align="center">
+
+0.30 - 0.35</td>
+      <td align="right">
+
+1 800</td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
-      </td><td valign="middle" align="left">
-      </td><td align="center" valign="middle">
+      <td align="center">
 
-0.35-0.40 </td>
-      <td valign="middle" align="center">
+0.40 - 0.45</td>
+      <td align="right">
 
-1 000 </td>
-      <td align="center" valign="middle">
+900</td>
+      <td align="center">
 
-0.35-0.40 </td>
-      <td valign="middle" align="center">
+0.35 - 0.40</td>
+      <td align="right">
 
-3 000 </td>
+900</td>
+      <td align="center">
+
+0.35 - 0.40</td>
+      <td align="right">
+
+2 700</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-0.45-0.47 </td>
-      <td valign="middle" align="center">
+0.45 - 0.47</td>
+      <td align="right">
 
-1 000 </td>
-      <td valign="middle" align="center">
+900</td>
+      <td align="center">
 
-0.40-0.45 </td>
-      <td valign="middle" align="center">
+0.40 - 0.45</td>
+      <td align="right">
 
-3 600 </td>
-      <td align="center" valign="middle">
+3 300</td>
+      <td align="center">
 
-0.40-0.45 </td>
-      <td valign="middle" align="center">
+0.40 - 0.45</td>
+      <td align="right">
 
-4 000 </td>
+4 000</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-0.47-0.50 </td>
-      <td align="center" valign="middle">
+0.47 - 0.50</td>
+      <td align="right">
 
-3 600 </td>
-      <td align="center" valign="middle">
+3 300</td>
+      <td align="center">
 
-0.45-0.50 </td>
-      <td align="center" valign="middle">
+0.45 - 0.50</td>
+      <td align="right">
 
-4 500 </td>
-      <td align="center" valign="middle">
+4 200</td>
+      <td align="center">
 
-0.45-0.50 </td>
-      <td align="center" valign="middle">
+0.45 - 0.50</td>
+      <td align="right">
 
-5 000 </td>
+5 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-0.50-0.55 </td>
-      <td align="center" valign="middle">
+0.50 - 0.55</td>
+      <td align="right">
 
-5 400 </td>
-      <td valign="middle" align="center">
+5 100</td>
+      <td align="center">
 
-0.50-0.55 </td>
-      <td align="center" valign="middle">
+0.50 - 0.55</td>
+      <td align="right">
 
-5 400 </td>
-      <td valign="middle" align="center">
+5 100</td>
+      <td align="center">
 
-0.50-0.55 </td>
-      <td align="center" valign="middle">
+0.50 - 0.55</td>
+      <td align="right">
 
-6 000 </td>
+6 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-0.55-0.60 </td>
-      <td align="center" valign="middle">
+0.55 - 0.60</td>
+      <td align="right">
 
-6 300 </td>
-      <td valign="middle" align="center">
+6 000</td>
+      <td align="center">
 
-0.55-0.60 </td>
-      <td valign="middle" align="center">
+0.55 - 0.60</td>
+      <td align="right">
 
-6 300 </td>
-      <td align="center" valign="middle">
+6 000</td>
+      <td align="center">
 
-0.55-0.60 </td>
-      <td valign="middle" align="center">
+0.55 - 0.60</td>
+      <td align="right">
 
-7 000 </td>
+7 000</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-0.60-0.70 </td>
-      <td align="center" valign="middle">
+0.60 - 0.70</td>
+      <td align="right">
 
-7 200 </td>
-      <td valign="middle" align="center">
+7 200</td>
+      <td align="center">
 
-0.60-0.70 </td>
-      <td align="center" valign="middle">
+0.60 - 0.70</td>
+      <td align="right">
 
-7 200 </td>
-      <td valign="middle" align="center">
+7 200</td>
+      <td align="center">
 
-0.60-0.65 </td>
-      <td valign="middle" align="center">
+0.60 - 0.65</td>
+      <td align="right">
 
-8 000 </td>
+8 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-0.70-0.80 </td>
-      <td valign="middle" align="center">
+0.70 - 0.80</td>
+      <td align="right">
 
-8 100 </td>
-      <td align="center" valign="middle">
+8 100</td>
+      <td align="center">
 
-0.70-0.80 </td>
-      <td valign="middle" align="center">
+0.70 - 0.80</td>
+      <td align="right">
 
-8 100 </td>
-      <td valign="middle" align="center">
+8 100</td>
+      <td align="center">
 
-0.65-0.70 </td>
-      <td valign="middle" align="center">
+0.65 - 0.70</td>
+      <td align="right">
 
-9 000 </td>
+9 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-0.80-0.90 </td>
-      <td align="center" valign="middle">
+0.80 - 0.90</td>
+      <td align="right">
 
-9 000 </td>
-      <td valign="middle" align="center">
+9 000</td>
+      <td align="center">
 
-0.80-0.90 </td>
-      <td valign="middle" align="center">
+0.80 - 0.90</td>
+      <td align="right">
 
-9 000 </td>
-      <td align="center" valign="middle">
+9 000</td>
+      <td align="center">
 
-0.70-0.75 </td>
-      <td valign="middle" align="center">
+0.70 - 0.75</td>
+      <td align="right">
 
-10 000 </td>
+10 000</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-0.90-1.00 </td>
-      <td align="center" valign="middle">
+0.90 - 1.00</td>
+      <td align="right">
 
-9 900 </td>
-      <td valign="middle" align="center">
+9 900</td>
+      <td align="center">
 
-0.90-1.00 </td>
-      <td valign="middle" align="center">
+0.90 - 1.00</td>
+      <td align="right">
 
-9 900 </td>
-      <td valign="middle" align="center">
+9 900</td>
+      <td align="center">
 
-0.75-0.80 </td>
-      <td align="center" valign="middle">
+0.75 - 0.80</td>
+      <td align="right">
 
-11 000 </td>
+11 000</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-1.00-1.10 </td>
-      <td align="center" valign="middle">
+1.00 - 1.10</td>
+      <td align="right">
 
-11 700 </td>
-      <td align="center" valign="middle">
+11 700</td>
+      <td align="center">
 
-1.00-1.10 </td>
-      <td valign="middle" align="center">
+1.00 - 1.10</td>
+      <td align="right">
 
-11 700 </td>
-      <td valign="middle" align="center">
+11 700</td>
+      <td align="center">
 
-0.80-0.85 </td>
-      <td align="center" valign="middle">
+0.80 - 0.85</td>
+      <td align="right">
 
-12 000 </td>
+12 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-1.10-1.20 </td>
-      <td valign="middle" align="center">
+1.10 - 1.20</td>
+      <td align="right">
 
-13 500 </td>
-      <td align="center" valign="middle">
+13 500</td>
+      <td align="center">
 
-1.10-1.20 </td>
-      <td align="center" valign="middle">
+1.10 - 1.20</td>
+      <td align="right">
 
-13 500 </td>
-      <td valign="middle" align="center">
+13 500</td>
+      <td align="center">
 
-0.85-0.90 </td>
-      <td align="center" valign="middle">
+0.85 - 0.90</td>
+      <td align="right">
 
-13 000 </td>
+13 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-1.20-1.30 </td>
-      <td align="center" valign="middle">
+1.20 - 1.30</td>
+      <td align="right">
 
-15 300 </td>
-      <td align="center" valign="middle">
+15 300</td>
+      <td align="center">
 
-1.20-1.30 </td>
-      <td valign="middle" align="center">
+1.20 - 1.30</td>
+      <td align="right">
 
-15 300 </td>
-      <td valign="middle" align="center">
+15 300</td>
+      <td align="center">
 
-0.90-0.95 </td>
-      <td align="center" valign="middle">
+0.90 - 0.95</td>
+      <td align="right">
 
-14 000 </td>
+14 000</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-1.30-1.40 </td>
-      <td valign="middle" align="center">
+1.30 - 1.40</td>
+      <td align="right">
 
-17 100 </td>
-      <td align="center" valign="middle">
+17 100</td>
+      <td align="center">
 
-1.30-1.40 </td>
-      <td align="center" valign="middle">
+1.30 - 1.40</td>
+      <td align="right">
 
-17 100 </td>
-      <td valign="middle" align="center">
+17 100</td>
+      <td align="center">
 
-0.95-1.00 </td>
-      <td align="center" valign="middle">
+0.95 - 1.00</td>
+      <td align="right">
 
-15 000 </td>
+15 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-1.40-1.50 </td>
-      <td valign="middle" align="center">
+1.40 - 1.50</td>
+      <td align="right">
 
-18 900 </td>
-      <td align="center" valign="middle">
+18 900</td>
+      <td align="center">
 
-1.40-1.50 </td>
-      <td align="center" valign="middle">
+1.40 - 1.50</td>
+      <td align="right">
 
-18 900 </td>
-      <td align="center" valign="middle">
+18 900</td>
+      <td align="center">
 
-1.00-1.05 </td>
-      <td align="center" valign="middle">
+1.00 - 1.05</td>
+      <td align="right">
 
-16 000 </td>
+16 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-1.50-1.60 </td>
-      <td align="center" valign="middle">
+1.50 - 1.60</td>
+      <td align="right">
 
-21 600 </td>
-      <td align="center" valign="middle">
+21 600</td>
+      <td align="center">
 
-1.50-1.60 </td>
-      <td valign="middle" align="center">
+1.50 - 1.60</td>
+      <td align="right">
 
-21 600 </td>
-      <td align="center" valign="middle">
+21 600</td>
+      <td align="center">
 
-1.05-1.10 </td>
-      <td align="center" valign="middle">
+1.05 - 1.10</td>
+      <td align="right">
 
-17 000 </td>
+17 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-1.60-1.70 </td>
-      <td valign="middle" align="center">
+1.60 - 1.70</td>
+      <td align="right">
 
-24 300 </td>
-      <td valign="middle" align="center">
+24 300</td>
+      <td align="center">
 
-1.60-1.70 </td>
-      <td align="center" valign="middle">
+1.60 - 1.70</td>
+      <td align="right">
 
-24 300 </td>
-      <td align="center" valign="middle">
+24 300</td>
+      <td align="center">
 
-1.10-1.15 </td>
-      <td align="center" valign="middle">
+1.10 - 1.15</td>
+      <td align="right">
 
-18 000 </td>
+18 000</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-1.70-1.80 </td>
-      <td align="center" valign="middle">
+1.70 - 1.80</td>
+      <td align="right">
 
-27 000 </td>
-      <td valign="middle" align="center">
+27 000</td>
+      <td align="center">
 
-1.70-1.80 </td>
-      <td align="center" valign="middle">
+1.70 - 1.80</td>
+      <td align="right">
 
-27 000 </td>
-      <td valign="middle" align="center">
+27 000</td>
+      <td align="center">
 
-1.15-1.20 </td>
-      <td valign="middle" align="center">
+1.15 - 1.20</td>
+      <td align="right">
 
-19 000 </td>
+19 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-1.80-1.90 </td>
-      <td valign="middle" align="center">
+1.80 - 1.90</td>
+      <td align="right">
 
-29 700 </td>
-      <td valign="middle" align="center">
+29 700</td>
+      <td align="center">
 
-1.80-1.90 </td>
-      <td valign="middle" align="center">
+1.80 - 1.90</td>
+      <td align="right">
 
-29 700 </td>
-      <td align="center" valign="middle">
+29 700</td>
+      <td align="center">
 
-1.20-1.25 </td>
-      <td valign="middle" align="center">
+1.20 - 1.25</td>
+      <td align="right">
 
-20 000 </td>
+20 000</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-1.90-2.00 </td>
-      <td align="center" valign="middle">
+1.90 - 2.00</td>
+      <td align="right">
 
-32 400 </td>
-      <td valign="middle" align="center">
+32 400</td>
+      <td align="center">
 
-1.90-2.00 </td>
-      <td align="center" valign="middle">
+1.90 - 2.00</td>
+      <td align="right">
 
-32 400 </td>
-      <td align="center" valign="middle">
+32 400</td>
+      <td align="center">
 
-1.25-1.30 </td>
-      <td align="center" valign="middle">
+1.25 - 1.30</td>
+      <td align="right">
 
-21 000 </td>
+21 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-2.00-2.10 </td>
-      <td align="center" valign="middle">
+2.00 - 2.10</td>
+      <td align="right">
 
-35 100 </td>
-      <td valign="middle" align="center">
+35 100</td>
+      <td align="center">
 
-2.00-2.10 </td>
-      <td align="center" valign="middle">
+2.00 - 2.10</td>
+      <td align="right">
 
-35 100 </td>
-      <td valign="middle" align="center">
+35 100</td>
+      <td align="center">
 
-1.30-1.35 </td>
-      <td align="center" valign="middle">
+1.30 - 1.35</td>
+      <td align="right">
 
-22 000 </td>
+22 000</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-2.10-2.20 </td>
-      <td align="center" valign="middle">
+2.10 - 2.20</td>
+      <td align="right">
 
-38 700 </td>
-      <td valign="middle" align="center">
+38 700</td>
+      <td align="center">
 
-2.10-2.20 </td>
-      <td valign="middle" align="center">
+2.10 - 2.20</td>
+      <td align="right">
 
-38 700 </td>
-      <td valign="middle" align="center">
+38 700</td>
+      <td align="center">
 
-1.35-1.40 </td>
-      <td valign="middle" align="center">
+1.35 - 1.40</td>
+      <td align="right">
 
-23 000 </td>
+23 000</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-2.20-2.30 </td>
-      <td valign="middle" align="center">
+2.20 - 2.30</td>
+      <td align="right">
 
-42 300 </td>
-      <td valign="middle" align="center">
+42 300</td>
+      <td align="center">
 
-2.20-2.30 </td>
-      <td valign="middle" align="center">
+2.20 - 2.30</td>
+      <td align="right">
 
-42 300 </td>
-      <td valign="middle" align="center">
+42 300</td>
+      <td align="center">
 
-1.40-1.45 </td>
-      <td align="center" valign="middle">
+1.40 - 1.45</td>
+      <td align="right">
 
-24 000 </td>
+24 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-2.30-2.40 </td>
-      <td valign="middle" align="center">
+2.30 - 2.40</td>
+      <td align="right">
 
-45 900 </td>
-      <td align="center" valign="middle">
+45 900</td>
+      <td align="center">
 
-2.30-2.40 </td>
-      <td valign="middle" align="center">
+2.30 - 2.40</td>
+      <td align="right">
 
-45 900 </td>
-      <td align="center" valign="middle">
+45 900</td>
+      <td align="center">
 
-1.45-1.50 </td>
-      <td valign="middle" align="center">
+1.45 - 1.50</td>
+      <td align="right">
 
-25 000 </td>
+25 000</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-2.40-2.50 </td>
-      <td align="center" valign="middle">
+2.40 - 2.50</td>
+      <td align="right">
 
-49 500 </td>
-      <td valign="middle" align="center">
+49 500</td>
+      <td align="center">
 
-2.40-2.50 </td>
-      <td align="center" valign="middle">
+2.40 - 2.50</td>
+      <td align="right">
 
-49 500 </td>
-      <td align="center" valign="middle">
+49 500</td>
+      <td align="center">
 
-1.50-1.55 </td>
-      <td align="center" valign="middle">
+1.50 - 1.55</td>
+      <td align="right">
 
-26 000 </td>
+26 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-2.50-2.60 </td>
-      <td valign="middle" align="center">
+2.50 - 2.60</td>
+      <td align="right">
 
-53 100 </td>
-      <td align="center" valign="middle">
+53 100</td>
+      <td align="center">
 
-2.50-2.60 </td>
-      <td valign="middle" align="center">
+2.50 - 2.60</td>
+      <td align="right">
 
-53 100 </td>
-      <td align="center" valign="middle">
+53 100</td>
+      <td align="center">
 
-1.55-1.60 </td>
-      <td align="center" valign="middle">
+1.55 - 1.60</td>
+      <td align="right">
 
-27 000 </td>
+27 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-2.60-2.70 </td>
-      <td valign="middle" align="center">
+2.60 - 2.70</td>
+      <td align="right">
 
-56 700 </td>
-      <td valign="middle" align="center">
+56 700</td>
+      <td align="center">
 
-2.60-2.70 </td>
-      <td align="center" valign="middle">
+2.60 - 2.70</td>
+      <td align="right">
 
-56 700 </td>
-      <td valign="middle" align="center">
+56 700</td>
+      <td align="center">
 
-1.60-1.65 </td>
-      <td align="center" valign="middle">
+1.60 - 1.65</td>
+      <td align="right">
 
-28 000 </td>
+28 000</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-2.70-2.80 </td>
-      <td valign="middle" align="center">
+2.70 - 2.80</td>
+      <td align="right">
 
-60 300 </td>
-      <td align="center" valign="middle">
+60 300</td>
+      <td align="center">
 
-2.70-2.80 </td>
-      <td align="center" valign="middle">
+2.70 - 2.80</td>
+      <td align="right">
 
-60 300 </td>
-      <td valign="middle" align="center">
+60 300</td>
+      <td align="center">
 
-1.65-1.70 </td>
-      <td valign="middle" align="center">
+1.65 - 1.70</td>
+      <td align="right">
 
-29 000 </td>
+29 000</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-> = 2.80 </td>
-      <td align="center" valign="middle">
+>= 2.80</td>
+      <td align="right">
 
-= + 3600/0.1 </td>
-      <td align="center" valign="middle">
+=+ 3 600 /0.1</td>
+      <td align="center">
 
-> = 2.80 </td>
-      <td valign="middle" align="center">
+>= 2.80</td>
+      <td align="right">
 
-= + 3600/0.1 </td>
-      <td align="center" valign="middle">
+=+ 3 600 /0.1</td>
+      <td align="center">
 
-1.70-1.75 </td>
-      <td align="center" valign="middle">
+1.70 - 1.75</td>
+      <td align="right">
 
-30 000 </td>
+30 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
-      </td><td align="left" valign="middle">
-      </td><td align="left" valign="middle">
-      </td><td valign="middle" align="left">
-      </td><td valign="middle" align="center">
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="center">
 
-1.75-1.80 </td>
-      <td valign="middle" align="center">
+1.75 - 1.80</td>
+      <td align="right">
 
-31 000 </td>
+31 000</td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
-      </td><td align="left" valign="middle">
-      </td><td align="left" valign="middle">
-      </td><td valign="middle" align="left">
-      </td><td valign="middle" align="center">
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="center">
 
-> = 1.80 </td>
-      <td valign="middle" align="center">
+>= 1.80</td>
+      <td align="right">
 
-= + 3000/0.1</td>
+=+ 3 000/0.1
+
+</td>
     </tr>
   </tbody>
 </table>
 
+.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 231-6 (V)
+	  - Délibération n°2017/CA/02 - art. 4, v. init.
 
 
 ###### Article Annexe 2-31
 
-Aide art et essai-Coefficient minorateur Nombre de semaines de fonctionnement (article 231-9) 
+Aide art et essai - Coefficient minorateur Nombre de semaines cinématographiques de fonctionnement (hors établissements
+nouveaux et périodes de travaux) (article 231-22)
 
 <table>
   <tbody>
     <tr>
       <th>
 
-NOMBRE DE SEMAINES </th>
+NOMBRE DE SEMAINES DE FONCTIONNEMENT</th>
       <th>
 
-MALUS </th>
+MALUS</th>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="left">
 
-Inférieur à 32 semaines </td>
-      <td align="center" valign="middle">
+Inférieur à 32 semaines</td>
+      <td align="center">
 
-Inéligibilité </td>
+Inéligibilité</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="left">
 
-Entre 32 et 36 semaines</td>
-      <td valign="middle" align="center">
+Egal ou supérieur à 32 et inférieur à 36 semaines</td>
+      <td align="center">
 
-- 30 </td>
+- 30</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="left">
 
-Entre 36 et 40 semaines</td>
-      <td align="center" valign="middle">
+Egal ou supérieur à 36 et inférieur à 40 semaines</td>
+      <td align="center">
 
-- 15 </td>
+- 15</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="left">
 
-Entre 40 et 44 semaines</td>
-      <td valign="middle" align="center">
+Egal ou supérieur à 40 et inférieur à 44 semaines</td>
+      <td align="center">
 
-- 10 </td>
+- 10</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="left">
 
-Entre 44 et 47 semaines</td>
-      <td valign="middle" align="center">
+Egal ou supérieur à 44 et inférieur à 47 semaines</td>
+      <td align="center">
 
-- 5 </td>
+- 5</td>
     </tr>
   </tbody>
 </table>
 
-La limite inférieure correspond à un inférieur ou égal. 
+Les chiffres indiqués correspondent au nombre de semaines cinématographiques de fonctionnement par an en moyenne de
+l'établissement de spectacles cinématographiques observé pendant la période de référence.
 
-La limite supérieure correspond seulement à un inférieur.
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 231-9 (V)
+	  - Délibération n°2017/CA/02 - art. 4, v. init.
 
 
 ###### Article Annexe 2-32
 
-Aide art et essai-Coefficient minorateur Nombre de séances par salle (article 231-9) 
+Aide art et essai - Coefficient minorateur Nombre de séances par salle (article 231-22)
 
 <table>
   <tbody>
     <tr>
       <th>
 
-QUALITÉ </th>
+QUALITÉ</th>
       <th>
 
-CATÉGORIES A ET B </th>
+CATÉGORIES A ET B</th>
       <th>
 
-CATÉGORIES C ET D </th>
+CATÉGORIES C ET D</th>
       <th>
 
-CATÉGORIE E </th>
+CATÉGORIE E</th>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-Seuil minimal d'éligibilité </td>
-      <td align="center" valign="middle">
+Seuil minimal d'éligibilité de l'établissement</td>
+      <td align="center">
 
-300 </td>
-      <td align="center" valign="middle">
+300</td>
+      <td align="center">
 
-200 </td>
-      <td valign="middle" align="center">
+200</td>
+      <td align="center">
 
-150 </td>
+150</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-Malus </td>
-      <td align="center" valign="middle">
+Malus</td>
+      <td align="center">
 
-entre 300 et 400 </td>
-      <td valign="middle" align="center">
+entre 300 et 400</td>
+      <td align="center">
 
-entre 200 et 300 </td>
-      <td align="center" valign="middle">
+entre 200 et 300</td>
+      <td align="center">
 
-entre 150 et 200 </td>
+entre 150 et 200</td>
     </tr>
   </tbody>
 </table>
 
-Le faible nombre de séances donne lieu à coefficient minorateur.
+Les chiffres indiqués correspondent au nombre de séances par an en moyenne par salle observé pendant la période de référence.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 231-9 (V)
+	  - Délibération n°2017/CA/02 - art. 4, v. init.
 
 
 ###### Article Annexe 2-33
 
-Aide art et essai-Coefficient minorateur Nombre d'œuvres d'art et d'essai (article 231-9)
+Aide art et essai-Coefficient minorateur Nombre d'œuvres d'art et d'essai (article 231-22)
 
 <table>
   <tbody>
     <tr>
       <th colspan="9">
 
-NOMBRE DE FILMS ART ET ESSAI MINIMUM (BASE 373 FILMS RECOMMANDÉS ART & ESSAI) </th>
+NOMBRE DE FILMS ART ET ESSAI MINIMUM (BASE 373 FILMS RECOMMANDÉS ART & ESSAI)</th>
     </tr>
     <tr>
-      <th>
-      </th><th colspan="2">
+      <th> </th>
+      <th colspan="2">
 
-Groupe 1 </th>
+Groupe 1</th>
       <th colspan="6">
 
-Groupe 2 </th>
+Groupe 2</th>
     </tr>
     <tr>
       <th rowspan="2">
 
-Ecrans </th>
+Ecrans</th>
       <th colspan="2">
 
-A et B </th>
+A et B</th>
       <th colspan="2">
 
-C </th>
+C</th>
       <th colspan="2">
 
-D </th>
+D</th>
       <th colspan="2">
 
-E </th>
+E</th>
     </tr>
     <tr>
       <th>
 
-Minimum </th>
+Minimum</th>
       <th>
 
-Inéligible </th>
+Inéligible</th>
       <th>
 
-Minimum </th>
+Minimum</th>
       <th>
 
-Inéligible </th>
+Inéligible</th>
       <th>
 
-Minimum </th>
+Minimum</th>
       <th>
 
-Inéligible </th>
+Inéligible</th>
       <th>
 
-Minimum </th>
+Minimum</th>
       <th>
 
-Inéligible </th>
+Inéligible</th>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-1 </td>
-      <td align="center" valign="middle">
+1</td>
+      <td align="center">
 
-44 </td>
-      <td align="center" valign="middle">
+44</td>
+      <td align="center">
 
-36 </td>
-      <td align="center" valign="middle">
+36</td>
+      <td align="center">
 
-58 </td>
-      <td valign="middle" align="center">
+58</td>
+      <td align="center">
 
-42 </td>
-      <td valign="middle" align="center">
+42</td>
+      <td align="center">
 
-53 </td>
-      <td align="center" valign="middle">
+53</td>
+      <td align="center">
 
-32 </td>
-      <td valign="middle" align="center">
+32</td>
+      <td align="center">
 
-37 </td>
-      <td align="center" valign="middle">
+37</td>
+      <td align="center">
 
-21 </td>
+21</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-2 </td>
-      <td align="center" valign="middle">
+2</td>
+      <td align="center">
 
-86 </td>
-      <td align="center" valign="middle">
+86</td>
+      <td align="center">
 
-56 </td>
-      <td align="center" valign="middle">
+56</td>
+      <td align="center">
 
-68 </td>
-      <td valign="middle" align="center">
+68</td>
+      <td align="center">
 
-47 </td>
-      <td align="center" valign="middle">
+47</td>
+      <td align="center">
 
-58 </td>
-      <td align="center" valign="middle">
+58</td>
+      <td align="center">
 
-37 </td>
-      <td valign="middle" align="center">
+37</td>
+      <td align="center">
 
-47 </td>
-      <td valign="middle" align="center">
+47</td>
+      <td align="center">
 
-26 </td>
+26</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-3 </td>
-      <td valign="middle" align="center">
+3</td>
+      <td align="center">
 
-96 </td>
-      <td align="center" valign="middle">
+96</td>
+      <td align="center">
 
-64 </td>
-      <td valign="middle" align="center">
+64</td>
+      <td align="center">
 
-79 </td>
-      <td valign="middle" align="center">
+79</td>
+      <td align="center">
 
-53 </td>
-      <td align="center" valign="middle">
+53</td>
+      <td align="center">
 
-63 </td>
-      <td valign="middle" align="center">
+63</td>
+      <td align="center">
 
-47 </td>
-      <td valign="middle" align="center">
+47</td>
+      <td align="center">
 
-58 </td>
-      <td valign="middle" align="center">
+58</td>
+      <td align="center">
 
-32 </td>
+32</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-4 </td>
-      <td align="center" valign="middle">
+4</td>
+      <td align="center">
 
-104 </td>
-      <td align="center" valign="middle">
+104</td>
+      <td align="center">
 
-72 </td>
-      <td valign="middle" align="center">
+72</td>
+      <td align="center">
 
-89 </td>
-      <td align="center" valign="middle">
+89</td>
+      <td align="center">
 
-58 </td>
-      <td valign="middle" align="center">
+58</td>
+      <td align="center">
 
-68 </td>
-      <td valign="middle" align="center">
+68</td>
+      <td align="center">
 
-53 </td>
-      <td valign="middle" align="center">
+53</td>
+      <td align="center">
 
-63 </td>
-      <td align="center" valign="middle">
+63</td>
+      <td align="center">
 
-37 </td>
+37</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-5 </td>
-      <td align="center" valign="middle">
+5</td>
+      <td align="center">
 
-112 </td>
-      <td align="center" valign="middle">
+112</td>
+      <td align="center">
 
-80 </td>
-      <td align="center" valign="middle">
+80</td>
+      <td align="center">
 
-100 </td>
-      <td valign="middle" align="center">
+100</td>
+      <td align="center">
 
-63 </td>
-      <td align="center" valign="middle">
+63</td>
+      <td align="center">
 
-84 </td>
-      <td align="center" valign="middle">
+84</td>
+      <td align="center">
 
-58 </td>
-      <td valign="middle" align="center">
+58</td>
+      <td align="center">
 
-68 </td>
-      <td align="center" valign="middle">
+68</td>
+      <td align="center">
 
-42 </td>
+42</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-6 </td>
-      <td valign="middle" align="center">
+6</td>
+      <td align="center">
 
-120 </td>
-      <td valign="middle" align="center">
+120</td>
+      <td align="center">
 
-88 </td>
-      <td align="center" valign="middle">
+88</td>
+      <td align="center">
 
-110 </td>
-      <td align="center" valign="middle">
+110</td>
+      <td align="center">
 
-68 </td>
-      <td align="center" valign="middle">
+68</td>
+      <td align="center">
 
-105 </td>
-      <td valign="middle" align="center">
+105</td>
+      <td align="center">
 
-63 </td>
-      <td valign="middle" align="center">
+63</td>
+      <td align="center">
 
-79 </td>
-      <td align="center" valign="middle">
+79</td>
+      <td align="center">
 
-53 </td>
+53</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-7 </td>
-      <td align="center" valign="middle">
+7</td>
+      <td align="center">
 
-128 </td>
-      <td align="center" valign="middle">
+128</td>
+      <td align="center">
 
-96 </td>
-      <td valign="middle" align="center">
+96</td>
+      <td align="center">
 
-121 </td>
-      <td align="center" valign="middle">
+121</td>
+      <td align="center">
 
-74 </td>
-      <td align="center" valign="middle">
+74</td>
+      <td align="center">
 
-110 </td>
-      <td align="center" valign="middle">
+110</td>
+      <td align="center">
 
-74 </td>
-      <td align="center" valign="middle">
+74</td>
+      <td align="center">
 
-89 </td>
-      <td valign="middle" align="center">
+89</td>
+      <td align="center">
 
-63 </td>
+63</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-8 </td>
-      <td align="center" valign="middle">
+8</td>
+      <td align="center">
 
-136 </td>
-      <td align="center" valign="middle">
+136</td>
+      <td align="center">
 
-104 </td>
-      <td align="center" valign="middle">
+104</td>
+      <td align="center">
 
-137 </td>
-      <td align="center" valign="middle">
+137</td>
+      <td align="center">
 
-84 </td>
-      <td valign="middle" align="center">
+84</td>
+      <td align="center">
 
-116 </td>
-      <td valign="middle" align="center">
+116</td>
+      <td align="center">
 
-84 </td>
-      <td valign="middle" align="center">
+84</td>
+      <td align="center">
 
-100 </td>
-      <td align="center" valign="middle">
+100</td>
+      <td align="center">
 
-74 </td>
+74</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-9 </td>
-      <td valign="middle" align="center">
+9</td>
+      <td align="center">
 
-144 </td>
-      <td align="center" valign="middle">
+144</td>
+      <td align="center">
 
-112 </td>
-      <td align="center" valign="middle">
+112</td>
+      <td align="center">
 
-152 </td>
-      <td valign="middle" align="center">
+152</td>
+      <td align="center">
 
-95 </td>
-      <td align="center" valign="middle">
+95</td>
+      <td align="center">
 
-126 </td>
-      <td valign="middle" align="center">
+126</td>
+      <td align="center">
 
-95 </td>
-      <td valign="middle" align="center">
+95</td>
+      <td align="center">
 
-116 </td>
-      <td valign="middle" align="center">
+116</td>
+      <td align="center">
 
-84 </td>
+84</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-10 </td>
-      <td align="center" valign="middle">
+10</td>
+      <td align="center">
 
-152 </td>
-      <td align="center" valign="middle">
+152</td>
+      <td align="center">
 
-120 </td>
-      <td align="center" valign="middle">
+120</td>
+      <td align="center">
 
-168 </td>
-      <td valign="middle" align="center">
+168</td>
+      <td align="center">
 
-110 </td>
-      <td valign="middle" align="center">
+110</td>
+      <td align="center">
 
-137 </td>
-      <td valign="middle" align="center">
+137</td>
+      <td align="center">
 
-105 </td>
-      <td valign="middle" align="center">
+105</td>
+      <td align="center">
 
-126 </td>
-      <td align="center" valign="middle">
+126</td>
+      <td align="center">
 
-95 </td>
+95</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-11 </td>
-      <td align="center" valign="middle">
+11</td>
+      <td align="center">
 
-160 </td>
-      <td align="center" valign="middle">
+160</td>
+      <td align="center">
 
-128 </td>
-      <td align="center" valign="middle">
+128</td>
+      <td align="center">
 
-184 </td>
-      <td valign="middle" align="center">
+184</td>
+      <td align="center">
 
-126 </td>
-      <td align="center" valign="middle">
+126</td>
+      <td align="center">
 
-147 </td>
-      <td valign="middle" align="center">
+147</td>
+      <td align="center">
 
-116 </td>
-      <td valign="middle" align="center">
+116</td>
+      <td align="center">
 
-137 </td>
-      <td align="center" valign="middle">
+137</td>
+      <td align="center">
 
-105 </td>
+105</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-12 </td>
-      <td align="center" valign="middle">
+12</td>
+      <td align="center">
 
-168 </td>
-      <td align="center" valign="middle">
+168</td>
+      <td align="center">
 
-136 </td>
-      <td valign="middle" align="center">
+136</td>
+      <td align="center">
 
-200 </td>
-      <td align="center" valign="middle">
+200</td>
+      <td align="center">
 
-142 </td>
-      <td align="center" valign="middle">
+142</td>
+      <td align="center">
 
-163 </td>
-      <td valign="middle" align="center">
+163</td>
+      <td align="center">
 
-126 </td>
-      <td align="center" valign="middle">
+126</td>
+      <td align="center">
 
-147 </td>
-      <td valign="middle" align="center">
+147</td>
+      <td align="center">
 
-116 </td>
+116</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-13 </td>
-      <td align="center" valign="middle">
+13</td>
+      <td align="center">
 
-176 </td>
-      <td valign="middle" align="center">
+176</td>
+      <td align="center">
 
-144 </td>
-      <td align="center" valign="middle">
+144</td>
+      <td align="center">
 
-215 </td>
-      <td valign="middle" align="center">
+215</td>
+      <td align="center">
 
-158 </td>
-      <td align="center" valign="middle">
+158</td>
+      <td align="center">
 
-179 </td>
-      <td align="center" valign="middle">
+179</td>
+      <td align="center">
 
-137 </td>
-      <td valign="middle" align="center">
+137</td>
+      <td align="center">
 
-158 </td>
-      <td align="center" valign="middle">
+158</td>
+      <td align="center">
 
-126 </td>
+126</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-14 </td>
-      <td align="center" valign="middle">
+14</td>
+      <td align="center">
 
-184 </td>
-      <td valign="middle" align="center">
+184</td>
+      <td align="center">
 
-152 </td>
-      <td valign="middle" align="center">
+152</td>
+      <td align="center">
 
-231 </td>
-      <td valign="middle" align="center">
+231</td>
+      <td align="center">
 
-173 </td>
-      <td valign="middle" align="center">
+173</td>
+      <td align="center">
 
-194 </td>
-      <td valign="middle" align="center">
+194</td>
+      <td align="center">
 
-147 </td>
-      <td align="center" valign="middle">
+147</td>
+      <td align="center">
 
-168 </td>
-      <td valign="middle" align="center">
+168</td>
+      <td align="center">
 
-137 </td>
+137</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-15 et plus </td>
-      <td valign="middle" align="center">
+15 et plus</td>
+      <td align="center">
 
-192 </td>
-      <td valign="middle" align="center">
+192</td>
+      <td align="center">
 
-160 </td>
-      <td valign="middle" align="center">
+160</td>
+      <td align="center">
 
-247 </td>
-      <td valign="middle" align="center">
+247</td>
+      <td align="center">
 
-189 </td>
-      <td valign="middle" align="center">
+189</td>
+      <td align="center">
 
-210 </td>
-      <td align="center" valign="middle">
+210</td>
+      <td align="center">
 
-158 </td>
-      <td align="center" valign="middle">
+158</td>
+      <td align="center">
 
-179 </td>
-      <td valign="middle" align="center">
+179</td>
+      <td align="center">
 
 147</td>
     </tr>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 231-9 (V)
+	  - Délibération n°2017/CA/02 - art. 4, v. init.
 
 
 ###### Article Annexe 2-34
 
-Aide art et essai-Coefficient minorateur Confort de la salle et qualité de projection (article 231-9) 
+Aide art et essai-Coefficient minorateur Confort de la salle et qualité de projection (article 231-22)
 
 <table>
   <tbody>
     <tr>
       <th>
 
-QUALITÉ </th>
+QUALITÉ</th>
       <th>
 
-GROUPE 1 </th>
+GROUPE 1</th>
       <th>
 
-GROUPE 2 </th>
+GROUPE 2</th>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
 Très mauvais</td>
-      <td align="center" valign="middle">
+      <td align="center">
 
 - 25</td>
-      <td valign="middle" align="center">
+      <td align="center">
 
-- 0,25 </td>
+- 0,25</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
 Médiocre</td>
-      <td align="center" valign="middle">
+      <td align="center">
 
 - 10</td>
-      <td valign="middle" align="center">
+      <td align="center">
 
-- 0,10 </td>
+- 0,10</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
 Moyen</td>
-      <td align="center" valign="middle">
+      <td align="center">
 
 - 5</td>
-      <td align="center" valign="middle">
+      <td align="center">
 
 - 0,05</td>
     </tr>
   </tbody>
 </table>
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Créé par**:
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 231-9 (V)
-
-
-###### Article Annexe 2-35
-
-Aide art et essai-Coefficient minorateur Questionnaire (article 231-9) 
-
-1° Absence de questionnaire : inéligibilité. 
-
-2° Questionnaire insuffisant : 
-
-<table>
-  <tbody>
-    <tr>
-      <th>
-
-QUALITÉ </th>
-      <th>
-
-GROUPE 1 </th>
-      <th>
-
-GROUPE 2 </th>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-
-Absence ou incohérence des informations financières</td>
-      <td valign="middle" align="center">
-
-- 5</td>
-      <td valign="middle" align="center">
-
-- 0,05 </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-
-Questionnaire succinct</td>
-      <td align="center" valign="middle">
-
-- 0</td>
-      <td align="center" valign="middle">
-
-- 0,02 </td>
-    </tr>
-  </tbody>
-</table>
-
-Si l'insuffisance persiste, le malus se cumule avec un plafond de-10 ou-0,10.
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Délibération n°2017/CA/02 - art. 4, v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 231-9 (V)
 
 
 ###### Article Annexe 2-36
 
-Aides à la programmation difficile (article 231-24) 
+Aides à la programmation difficile (article 231-40)
 
-Liste des documents justificatifs : 
+Liste des documents justificatifs :
 
-1° Un tableau détaillant les créances et les dettes ; 
+1° Un tableau détaillant les créances et les dettes ;
 
-2° La dernière déclaration annuelle des données sociales ; 
+2° La dernière déclaration annuelle des données sociales ;
 
-3° Une attestation de comptes à jour délivrée par l'URSSAF et Pôle Emploi ; 
+3° Une attestation de comptes à jour délivrée par l'URSSAF et Pôle Emploi ;
 
-4° Les fiches comptables ; 
+4° Les fiches comptables ;
 
-5° Le bilan comptable définitif ; 
+5° Le bilan comptable définitif ;
 
 6° La dernière liasse fiscale.
 
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 231-24 (V)
+	  - Délibération n°2017/CA/02 - art. 4, v. init.
 
 
 ###### Article Annexe 2-37
@@ -41248,22 +41777,6 @@ une durée d'un an renouvelable.
 
 ##### Section unique : Aides financières automatiques 
 
-###### Article 412-1
-
-Des aides financières sont attribuées sous forme automatique au sens de l'article D. 311-2 du code du cinéma et de l'image
-animée, afin de soutenir la programmation en salles des œuvres cinématographiques de courte durée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. D311-2 (V)
-
-
 ##### Sous-section unique : Allocations directes 
 
 ###### Article 412-2
@@ -41595,6 +42108,170 @@ effectué au prorata de la durée des œuvres cinématographiques qu'elles ont r
 	**Créé par**:
 
 	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+
+
+##### Section 1 : Aides financières automatiques 
+
+###### Article 412-1
+
+Des aides financières sont attribuées sous forme automatique au sens de l'article D. 311-2 du code du cinéma et de l'image
+animée, afin de soutenir la programmation en salles des œuvres cinématographiques de courte durée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. D311-2 (V)
+
+
+##### Sous-section unique : Allocations directes 
+
+##### Section 2 : Aides financières sélectives
+
+#####  Paragraphe 1 : Objet et conditions d'attribution
+
+###### Article 412-21
+
+Des aides financières sont attribuées sous forme sélective aux exploitants d'établissements de spectacles cinématographiques
+classés d'art et d'essai et bénéficiaires des aides à l'art et essai afin de récompenser la programmation d'œuvres
+cinématographiques de courte durée.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 14, v. init.
+
+
+###### Article 412-22
+
+Les aides à la programmation des œuvres cinématographiques de courte durée sont attribuées aux établissements de spectacles
+cinématographiques qui organisent un nombre de séances de spectacles cinématographiques par salle égal ou supérieur à 400 par
+an en moyenne au cours de la période de référence définie à l'article 231-17.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 14, v. init.
+
+
+###### Article 412-23
+
+Les aides à la programmation des œuvres cinématographiques de courte durée sont attribuées en considération :
+
+1° De l'adhésion de l'établissement de spectacles cinématographiques à un organisme qui organise et promeut la diffusion des
+œuvres cinématographiques de courte durée, notamment, au Réseau alternatif de diffusion (RADI), aux réseaux CLAP (Nouvelle
+Aquitaine), Mèche courte (Auvergne - Rhône-Alpes), Cour (t) s devant (Centre), Flux (Hauts-de-France), RADI Bretagne et
+Quartier Libre (Seine-Saint-Denis) ;
+
+2° Du nombre d'œuvres cinématographiques de courte durée programmées au cours de la période de référence définie à l'article
+231-17 ;
+
+3° De l'organisation de soirées thématiques et de festivals dédiés aux œuvres cinématographiques de courte durée ;
+
+4° De la politique d'animation mise en place autour des œuvres cinématographiques de courte durée.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 14, v. init.
+
+
+##### Paragraphe 2 : Procédure et modalités d'attribution
+
+###### Article 421-24
+
+Pour l'attribution d'une aide, l'exploitant de l'établissement de spectacles cinématographiques enregistre sa demande au
+moyen du téléservice mis en place par le Centre national du cinéma et de l'image animée.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 14, v. init.
+
+
+###### Article 421-25
+
+La décision d'attribution d'une aide est prise après avis de la commission du cinéma d'art et d'essai, dans les conditions
+définies à l'article 231-34.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 14, v. init.
+
+
+###### Article 421-26
+
+L'aide est attribuée sous forme de subvention.
+
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 14, v. init.
 
 
 ### Titre II : Aides financières à la création et à la diffusion de certaines œuvres cinématographiques, audiovisuelles et multimédias 

@@ -1,70 +1,75 @@
 # Article Annexe 2-31
 
-Aide art et essai-Coefficient minorateur Nombre de semaines de fonctionnement (article 231-9) 
+Aide art et essai - Coefficient minorateur Nombre de semaines cinématographiques de fonctionnement (hors établissements
+nouveaux et périodes de travaux) (article 231-22)
 
 <table>
   <tbody>
     <tr>
       <th>
 
-NOMBRE DE SEMAINES </th>
+NOMBRE DE SEMAINES DE FONCTIONNEMENT</th>
       <th>
 
-MALUS </th>
+MALUS</th>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="left">
 
-Inférieur à 32 semaines </td>
-      <td align="center" valign="middle">
+Inférieur à 32 semaines</td>
+      <td align="center">
 
-Inéligibilité </td>
+Inéligibilité</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="left">
 
-Entre 32 et 36 semaines</td>
-      <td valign="middle" align="center">
+Egal ou supérieur à 32 et inférieur à 36 semaines</td>
+      <td align="center">
 
-- 30 </td>
+- 30</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="left">
 
-Entre 36 et 40 semaines</td>
-      <td align="center" valign="middle">
+Egal ou supérieur à 36 et inférieur à 40 semaines</td>
+      <td align="center">
 
-- 15 </td>
+- 15</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="left">
 
-Entre 40 et 44 semaines</td>
-      <td valign="middle" align="center">
+Egal ou supérieur à 40 et inférieur à 44 semaines</td>
+      <td align="center">
 
-- 10 </td>
+- 10</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="left">
 
-Entre 44 et 47 semaines</td>
-      <td valign="middle" align="center">
+Egal ou supérieur à 44 et inférieur à 47 semaines</td>
+      <td align="center">
 
-- 5 </td>
+- 5</td>
     </tr>
   </tbody>
 </table>
 
-La limite inférieure correspond à un inférieur ou égal. 
+Les chiffres indiqués correspondent au nombre de semaines cinématographiques de fonctionnement par an en moyenne de
+l'établissement de spectacles cinématographiques observé pendant la période de référence.
 
-La limite supérieure correspond seulement à un inférieur.
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 231-9 (V)
+	  - Délibération n°2017/CA/02 - art. 4, v. init.

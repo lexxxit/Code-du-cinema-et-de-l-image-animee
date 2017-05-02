@@ -1,510 +1,515 @@
 # Article Annexe 2-33
 
-Aide art et essai-Coefficient minorateur Nombre d'œuvres d'art et d'essai (article 231-9)
+Aide art et essai-Coefficient minorateur Nombre d'œuvres d'art et d'essai (article 231-22)
 
 <table>
   <tbody>
     <tr>
       <th colspan="9">
 
-NOMBRE DE FILMS ART ET ESSAI MINIMUM (BASE 373 FILMS RECOMMANDÉS ART & ESSAI) </th>
+NOMBRE DE FILMS ART ET ESSAI MINIMUM (BASE 373 FILMS RECOMMANDÉS ART & ESSAI)</th>
     </tr>
     <tr>
-      <th>
-      </th><th colspan="2">
+      <th> </th>
+      <th colspan="2">
 
-Groupe 1 </th>
+Groupe 1</th>
       <th colspan="6">
 
-Groupe 2 </th>
+Groupe 2</th>
     </tr>
     <tr>
       <th rowspan="2">
 
-Ecrans </th>
+Ecrans</th>
       <th colspan="2">
 
-A et B </th>
+A et B</th>
       <th colspan="2">
 
-C </th>
+C</th>
       <th colspan="2">
 
-D </th>
+D</th>
       <th colspan="2">
 
-E </th>
+E</th>
     </tr>
     <tr>
       <th>
 
-Minimum </th>
+Minimum</th>
       <th>
 
-Inéligible </th>
+Inéligible</th>
       <th>
 
-Minimum </th>
+Minimum</th>
       <th>
 
-Inéligible </th>
+Inéligible</th>
       <th>
 
-Minimum </th>
+Minimum</th>
       <th>
 
-Inéligible </th>
+Inéligible</th>
       <th>
 
-Minimum </th>
+Minimum</th>
       <th>
 
-Inéligible </th>
+Inéligible</th>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-1 </td>
-      <td align="center" valign="middle">
+1</td>
+      <td align="center">
 
-44 </td>
-      <td align="center" valign="middle">
+44</td>
+      <td align="center">
 
-36 </td>
-      <td align="center" valign="middle">
+36</td>
+      <td align="center">
 
-58 </td>
-      <td valign="middle" align="center">
+58</td>
+      <td align="center">
 
-42 </td>
-      <td valign="middle" align="center">
+42</td>
+      <td align="center">
 
-53 </td>
-      <td align="center" valign="middle">
+53</td>
+      <td align="center">
 
-32 </td>
-      <td valign="middle" align="center">
+32</td>
+      <td align="center">
 
-37 </td>
-      <td align="center" valign="middle">
+37</td>
+      <td align="center">
 
-21 </td>
+21</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-2 </td>
-      <td align="center" valign="middle">
+2</td>
+      <td align="center">
 
-86 </td>
-      <td align="center" valign="middle">
+86</td>
+      <td align="center">
 
-56 </td>
-      <td align="center" valign="middle">
+56</td>
+      <td align="center">
 
-68 </td>
-      <td valign="middle" align="center">
+68</td>
+      <td align="center">
 
-47 </td>
-      <td align="center" valign="middle">
+47</td>
+      <td align="center">
 
-58 </td>
-      <td align="center" valign="middle">
+58</td>
+      <td align="center">
 
-37 </td>
-      <td valign="middle" align="center">
+37</td>
+      <td align="center">
 
-47 </td>
-      <td valign="middle" align="center">
+47</td>
+      <td align="center">
 
-26 </td>
+26</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-3 </td>
-      <td valign="middle" align="center">
+3</td>
+      <td align="center">
 
-96 </td>
-      <td align="center" valign="middle">
+96</td>
+      <td align="center">
 
-64 </td>
-      <td valign="middle" align="center">
+64</td>
+      <td align="center">
 
-79 </td>
-      <td valign="middle" align="center">
+79</td>
+      <td align="center">
 
-53 </td>
-      <td align="center" valign="middle">
+53</td>
+      <td align="center">
 
-63 </td>
-      <td valign="middle" align="center">
+63</td>
+      <td align="center">
 
-47 </td>
-      <td valign="middle" align="center">
+47</td>
+      <td align="center">
 
-58 </td>
-      <td valign="middle" align="center">
+58</td>
+      <td align="center">
 
-32 </td>
+32</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-4 </td>
-      <td align="center" valign="middle">
+4</td>
+      <td align="center">
 
-104 </td>
-      <td align="center" valign="middle">
+104</td>
+      <td align="center">
 
-72 </td>
-      <td valign="middle" align="center">
+72</td>
+      <td align="center">
 
-89 </td>
-      <td align="center" valign="middle">
+89</td>
+      <td align="center">
 
-58 </td>
-      <td valign="middle" align="center">
+58</td>
+      <td align="center">
 
-68 </td>
-      <td valign="middle" align="center">
+68</td>
+      <td align="center">
 
-53 </td>
-      <td valign="middle" align="center">
+53</td>
+      <td align="center">
 
-63 </td>
-      <td align="center" valign="middle">
+63</td>
+      <td align="center">
 
-37 </td>
+37</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-5 </td>
-      <td align="center" valign="middle">
+5</td>
+      <td align="center">
 
-112 </td>
-      <td align="center" valign="middle">
+112</td>
+      <td align="center">
 
-80 </td>
-      <td align="center" valign="middle">
+80</td>
+      <td align="center">
 
-100 </td>
-      <td valign="middle" align="center">
+100</td>
+      <td align="center">
 
-63 </td>
-      <td align="center" valign="middle">
+63</td>
+      <td align="center">
 
-84 </td>
-      <td align="center" valign="middle">
+84</td>
+      <td align="center">
 
-58 </td>
-      <td valign="middle" align="center">
+58</td>
+      <td align="center">
 
-68 </td>
-      <td align="center" valign="middle">
+68</td>
+      <td align="center">
 
-42 </td>
+42</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-6 </td>
-      <td valign="middle" align="center">
+6</td>
+      <td align="center">
 
-120 </td>
-      <td valign="middle" align="center">
+120</td>
+      <td align="center">
 
-88 </td>
-      <td align="center" valign="middle">
+88</td>
+      <td align="center">
 
-110 </td>
-      <td align="center" valign="middle">
+110</td>
+      <td align="center">
 
-68 </td>
-      <td align="center" valign="middle">
+68</td>
+      <td align="center">
 
-105 </td>
-      <td valign="middle" align="center">
+105</td>
+      <td align="center">
 
-63 </td>
-      <td valign="middle" align="center">
+63</td>
+      <td align="center">
 
-79 </td>
-      <td align="center" valign="middle">
+79</td>
+      <td align="center">
 
-53 </td>
+53</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-7 </td>
-      <td align="center" valign="middle">
+7</td>
+      <td align="center">
 
-128 </td>
-      <td align="center" valign="middle">
+128</td>
+      <td align="center">
 
-96 </td>
-      <td valign="middle" align="center">
+96</td>
+      <td align="center">
 
-121 </td>
-      <td align="center" valign="middle">
+121</td>
+      <td align="center">
 
-74 </td>
-      <td align="center" valign="middle">
+74</td>
+      <td align="center">
 
-110 </td>
-      <td align="center" valign="middle">
+110</td>
+      <td align="center">
 
-74 </td>
-      <td align="center" valign="middle">
+74</td>
+      <td align="center">
 
-89 </td>
-      <td valign="middle" align="center">
+89</td>
+      <td align="center">
 
-63 </td>
+63</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-8 </td>
-      <td align="center" valign="middle">
+8</td>
+      <td align="center">
 
-136 </td>
-      <td align="center" valign="middle">
+136</td>
+      <td align="center">
 
-104 </td>
-      <td align="center" valign="middle">
+104</td>
+      <td align="center">
 
-137 </td>
-      <td align="center" valign="middle">
+137</td>
+      <td align="center">
 
-84 </td>
-      <td valign="middle" align="center">
+84</td>
+      <td align="center">
 
-116 </td>
-      <td valign="middle" align="center">
+116</td>
+      <td align="center">
 
-84 </td>
-      <td valign="middle" align="center">
+84</td>
+      <td align="center">
 
-100 </td>
-      <td align="center" valign="middle">
+100</td>
+      <td align="center">
 
-74 </td>
+74</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-9 </td>
-      <td valign="middle" align="center">
+9</td>
+      <td align="center">
 
-144 </td>
-      <td align="center" valign="middle">
+144</td>
+      <td align="center">
 
-112 </td>
-      <td align="center" valign="middle">
+112</td>
+      <td align="center">
 
-152 </td>
-      <td valign="middle" align="center">
+152</td>
+      <td align="center">
 
-95 </td>
-      <td align="center" valign="middle">
+95</td>
+      <td align="center">
 
-126 </td>
-      <td valign="middle" align="center">
+126</td>
+      <td align="center">
 
-95 </td>
-      <td valign="middle" align="center">
+95</td>
+      <td align="center">
 
-116 </td>
-      <td valign="middle" align="center">
+116</td>
+      <td align="center">
 
-84 </td>
+84</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-10 </td>
-      <td align="center" valign="middle">
+10</td>
+      <td align="center">
 
-152 </td>
-      <td align="center" valign="middle">
+152</td>
+      <td align="center">
 
-120 </td>
-      <td align="center" valign="middle">
+120</td>
+      <td align="center">
 
-168 </td>
-      <td valign="middle" align="center">
+168</td>
+      <td align="center">
 
-110 </td>
-      <td valign="middle" align="center">
+110</td>
+      <td align="center">
 
-137 </td>
-      <td valign="middle" align="center">
+137</td>
+      <td align="center">
 
-105 </td>
-      <td valign="middle" align="center">
+105</td>
+      <td align="center">
 
-126 </td>
-      <td align="center" valign="middle">
+126</td>
+      <td align="center">
 
-95 </td>
+95</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-11 </td>
-      <td align="center" valign="middle">
+11</td>
+      <td align="center">
 
-160 </td>
-      <td align="center" valign="middle">
+160</td>
+      <td align="center">
 
-128 </td>
-      <td align="center" valign="middle">
+128</td>
+      <td align="center">
 
-184 </td>
-      <td valign="middle" align="center">
+184</td>
+      <td align="center">
 
-126 </td>
-      <td align="center" valign="middle">
+126</td>
+      <td align="center">
 
-147 </td>
-      <td valign="middle" align="center">
+147</td>
+      <td align="center">
 
-116 </td>
-      <td valign="middle" align="center">
+116</td>
+      <td align="center">
 
-137 </td>
-      <td align="center" valign="middle">
+137</td>
+      <td align="center">
 
-105 </td>
+105</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-12 </td>
-      <td align="center" valign="middle">
+12</td>
+      <td align="center">
 
-168 </td>
-      <td align="center" valign="middle">
+168</td>
+      <td align="center">
 
-136 </td>
-      <td valign="middle" align="center">
+136</td>
+      <td align="center">
 
-200 </td>
-      <td align="center" valign="middle">
+200</td>
+      <td align="center">
 
-142 </td>
-      <td align="center" valign="middle">
+142</td>
+      <td align="center">
 
-163 </td>
-      <td valign="middle" align="center">
+163</td>
+      <td align="center">
 
-126 </td>
-      <td align="center" valign="middle">
+126</td>
+      <td align="center">
 
-147 </td>
-      <td valign="middle" align="center">
+147</td>
+      <td align="center">
 
-116 </td>
+116</td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center">
 
-13 </td>
-      <td align="center" valign="middle">
+13</td>
+      <td align="center">
 
-176 </td>
-      <td valign="middle" align="center">
+176</td>
+      <td align="center">
 
-144 </td>
-      <td align="center" valign="middle">
+144</td>
+      <td align="center">
 
-215 </td>
-      <td valign="middle" align="center">
+215</td>
+      <td align="center">
 
-158 </td>
-      <td align="center" valign="middle">
+158</td>
+      <td align="center">
 
-179 </td>
-      <td align="center" valign="middle">
+179</td>
+      <td align="center">
 
-137 </td>
-      <td valign="middle" align="center">
+137</td>
+      <td align="center">
 
-158 </td>
-      <td align="center" valign="middle">
+158</td>
+      <td align="center">
 
-126 </td>
+126</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-14 </td>
-      <td align="center" valign="middle">
+14</td>
+      <td align="center">
 
-184 </td>
-      <td valign="middle" align="center">
+184</td>
+      <td align="center">
 
-152 </td>
-      <td valign="middle" align="center">
+152</td>
+      <td align="center">
 
-231 </td>
-      <td valign="middle" align="center">
+231</td>
+      <td align="center">
 
-173 </td>
-      <td valign="middle" align="center">
+173</td>
+      <td align="center">
 
-194 </td>
-      <td valign="middle" align="center">
+194</td>
+      <td align="center">
 
-147 </td>
-      <td align="center" valign="middle">
+147</td>
+      <td align="center">
 
-168 </td>
-      <td valign="middle" align="center">
+168</td>
+      <td align="center">
 
-137 </td>
+137</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center">
 
-15 et plus </td>
-      <td valign="middle" align="center">
+15 et plus</td>
+      <td align="center">
 
-192 </td>
-      <td valign="middle" align="center">
+192</td>
+      <td align="center">
 
-160 </td>
-      <td valign="middle" align="center">
+160</td>
+      <td align="center">
 
-247 </td>
-      <td valign="middle" align="center">
+247</td>
+      <td align="center">
 
-189 </td>
-      <td valign="middle" align="center">
+189</td>
+      <td align="center">
 
-210 </td>
-      <td align="center" valign="middle">
+210</td>
+      <td align="center">
 
-158 </td>
-      <td align="center" valign="middle">
+158</td>
+      <td align="center">
 
-179 </td>
-      <td valign="middle" align="center">
+179</td>
+      <td align="center">
 
 147</td>
     </tr>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 231-9 (V)
+	  - Délibération n°2017/CA/02 - art. 4, v. init.
