@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2017-05-06
+Version Consolidée au 2017-05-08
 
 # Partie législative
 
@@ -5049,7 +5049,7 @@ compétente de l'Etat les éléments d'appréciation dont ils disposent.
 	  - Code de l'industrie cinématographique - art. 30-7, alinéa 5 (Ab)
 
 
-### Titre IV : Dispositions diverses
+### Titre IV : Dépôt légal
 
 #### Chapitre unique : Obligation de dépôt légal
 
@@ -5065,11 +5065,6 @@ prévues par les dispositions du titre III du livre Ier du code du patrimoine.
 	**Créé par**:
 
 	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-
-### Titre IV : Dépôt légal
-
-#### Chapitre unique : Obligation de dépôt légal
 
 
 ### Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles
@@ -12482,27 +12477,23 @@ mentionnées à l'article R. 212-55, que ce prix a été déterminé conforméme
 
 ###### Article R212-48
 
-Le prix de référence mentionné à l'article L. 212-30, servant à calculer la garantie offerte aux exploitants associés à la
-formule par l'exploitant émetteur, peut varier, pour chaque exploitant associé. Il est déterminé en tenant compte de la gamme
-des tarifs réduits pratiqués par chacun de ces exploitants. Ce prix de référence peut faire l'objet d'une indexation.
+Le prix de référence mentionné à l'article L. 212-30 peut varier, pour chaque exploitant associé. Il est déterminé en tenant
+compte de la gamme des tarifs réduits pratiqués par chacun de ces exploitants. Ce prix de référence peut faire l'objet d'une
+indexation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-250 du 7 mars 2011 - art. 5 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2014-794 du 9 juillet 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
+	  - Décret n°2017-841 du 5 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L212-30 (V)
+	  - Code du cinéma et de l'image animée - art. L212-30
 
 	**Cité par**:
 
@@ -12628,47 +12619,43 @@ tard trois mois avant l'échéance de l'agrément de cette formule.
 
 ###### Article R212-54
 
-La demande d'agrément est accompagnée des éléments suivants : 
+La demande d'agrément est accompagnée des éléments suivants :
 
-1° Les conditions générales d'abonnement de la formule proposée au spectateur ; 
+1° Les conditions générales d'abonnement de la formule proposée au spectateur ;
 
-2° La liste des établissements de spectacles cinématographiques dans lesquels la formule sera acceptée ; 
+2° La liste des établissements de spectacles cinématographiques dans lesquels la formule sera acceptée ;
 
-3° Les engagements pris en vertu de l'article L. 212-28 et, le cas échéant, les critères et conditions de mise en œuvre de
-l'indexation mentionnée à l'article R. 212-47 ; 
+3° Les engagements pris en vertu del'article L. 212-28 et, le cas échéant, les critères et conditions de mise en œuvre de
+l'indexation mentionnée àl'article R. 212-47;
 
 4° Les données économiques mentionnées à l'article L. 212-28, permettant au président du Centre national du cinéma et de
-l'image animée de s'assurer que le prix de référence est fixé selon les critères prévus au même article ; 
+l'image animée de s'assurer que le prix de référence est fixé selon les critères prévus au même article ;
 
 5° Le contrat type d'association fixant les droits et obligations de l'exploitant émetteur de la formule et des exploitants
-associés ; 
+associés ;
 
-6° Une copie des contrats passés avec les exploitants associés à la formule, qu'ils bénéficient ou non de la garantie prévue
-à l'article L. 212-30. 
+6° Une copie des contrats passés avec les exploitants associés à la formule, qu'ils bénéficient ou non de la rémunération
+garantie prévue àl'article L. 212-30.
 
 Les éléments mentionnés au 5° et au 6° permettent d'apprécier le caractère équitable et non discriminatoire des conditions
-d'association proposées par l'exploitant émetteur de la formule aux exploitants qui bénéficient de la garantie prévue à
-l'article L. 212-30.
+d'association proposées par l'exploitant émetteur de la formule aux exploitants qui bénéficient de la rémunération garantie
+prévue à l'article L. 212-30.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-250 du 7 mars 2011 - art. 12 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2014-794 du 9 juillet 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
+	  - Décret n°2017-841 du 5 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L212-28 (V)
-	  - Code du cinéma et de l'image animée - art. L212-30 (V)
-	  - Code du cinéma et de l'image animée - art. R212-47 (V)
+	  - Code du cinéma et de l'image animée - art. L212-28
+	  - Code du cinéma et de l'image animée - art. L212-30
+	  - Code du cinéma et de l'image animée - art. R212-47
 
 	**Cité par**:
 
@@ -12736,37 +12723,33 @@ du marché de l'exploitation cinématographique.
 
 ###### Article R212-56
 
-Le contrat type d'association mentionné au 5° de l'article R. 212-54 prévoit notamment : 
+Le contrat type d'association mentionné au 5° del'article R. 212-54 prévoit notamment :
 
-1° Le prix de référence mentionné à l'article L. 212-29 ou les modalités de calcul du montant de la garantie prévue à
-l'article L. 212-30 ; 
+1° Le prix de référence mentionné àl'article L. 212-29 ou les modalités de versement de la rémunération garantie mentionnées
+à l'article L. 212-30 ;
 
-2° Le taux de participation proportionnelle aux recettes ; 
+2° Le taux de participation proportionnelle aux recettes ;
 
-3° Le cas échéant, les critères et conditions de mise en œuvre de l'indexation mentionnée à l'article R. 212-47 ou à
-l'article R. 212-48 selon que l'exploitant associé bénéficie ou non de la garantie.
+3° Le cas échéant, les critères et conditions de mise en œuvre de l'indexation mentionnée àl'article R. 212-47 ou àl'article
+R. 212-48 selon que l'exploitant associé bénéficie ou non de la garantie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-250 du 7 mars 2011 - art. 14 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2014-794 du 9 juillet 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
+	  - Décret n°2017-841 du 5 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code du cinéma et de l'image animée - art. L212-29 (V)
-	  - Code du cinéma et de l'image animée - art. L212-30 (V)
-	  - Code du cinéma et de l'image animée - art. R212-47 (V)
-	  - Code du cinéma et de l'image animée - art. R212-48 (V)
-	  - Code du cinéma et de l'image animée - art. R212-54 (V)
+	  - Code du cinéma et de l'image animée - art. L212-29
+	  - Code du cinéma et de l'image animée - art. L212-30
+	  - Code du cinéma et de l'image animée - art. R212-47
+	  - Code du cinéma et de l'image animée - art. R212-48
+	  - Code du cinéma et de l'image animée - art. R212-54
 
 
 ###### Article R212-57
@@ -12797,235 +12780,22 @@ court à compter de la réception des informations demandées.
 	  - Code du cinéma et de l'image animée - art. R212-55 (V)
 
 
-##### Sous-section 3 : Commission d'agrément des formules d'accès au cinéma
-
-###### Article R212-58
-
-La commission d'agrément des formules d'accès au cinéma, placée auprès du président du Centre national du cinéma et de
-l'image animée, est saisie pour avis par ce dernier avant la délivrance de l'agrément ou d'un agrément modificatif. 
-
-Toutefois, en cas de modification relevant du 3° de l'article R. 212-46, le président du Centre national du cinéma et de
-l'image animée n'est pas tenu de saisir cette commission mais l'informe de la modification envisagée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-250 du 7 mars 2011 - art. 16 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-841 du 5 mai 2017 - art. 4
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. R212-46
-
-
-###### Article R212-59
-
-La commission d'agrément des formules d'accès au cinéma comprend cinq membres :
-
-1° Un membre du Conseil d'Etat, président ;
-
-2° Un représentant du ministre chargé de l'économie, désigné par ce ministre ;
-
-3° Un représentant du ministre chargé de la culture, désigné par ce ministre ;
-
-4° Deux personnalités qualifiées en matière de gestion d'entreprises, de droit des contrats ou d'exploitation
-cinématographique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-250 du 7 mars 2011 - art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-841 du 5 mai 2017 - art. 4
-
-
-###### Article R212-60
-
-Les membres de la commission d'agrément des formules d'accès au cinéma sont nommés par décision du président du Centre
-national du cinéma et de l'image animée pour une durée de trois ans. Leur mandat est renouvelable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-250 du 7 mars 2011 - art. 18 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-841 du 5 mai 2017 - art. 4
-
-
-###### Article R212-61
-
-Dans le cas où le président est empêché, il désigne, parmi les membres de la commission d'agrément des formules d'accès au
-cinéma, celui qui le suppléera.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-250 du 7 mars 2011 - art. 19 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-841 du 5 mai 2017 - art. 4
-
-
-###### Article R212-62
-
-L'exploitant émetteur de la formule et les exploitants associés à cette formule sont, s'ils le demandent, entendus par la
-commission d'agrément des formules d'accès au cinéma.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-250 du 7 mars 2011 - art. 20, alinéa 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-841 du 5 mai 2017 - art. 4
-
-
-###### Article R212-63
-
-Les membres de la commission d'agrément des formules d'accès au cinéma sont soumis à une obligation de confidentialité en ce
-qui concerne tous les faits, renseignements et documents dont ils ont connaissance en cette qualité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-250 du 7 mars 2011 - art. 21 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-841 du 5 mai 2017 - art. 4
-
-
-###### Article R212-64
-
-Le président du Centre national du cinéma et de l'image animée ou son représentant assiste de droit aux réunions de la
-commission d'agrément des formules d'accès au cinéma.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-250 du 7 mars 2011 - art. 22 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-841 du 5 mai 2017 - art. 4
-
-
-###### Article R212-65
-
-Le secrétariat de la commission d'agrément des formules d'accès au cinéma est assuré par le Centre national du cinéma et de
-l'image animée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-250 du 7 mars 2011 - art. 23 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2017-841 du 5 mai 2017 - art. 4
-
-
-##### Sous-section 4 : Retrait de l'agrément
+##### Sous-section 3 : Retrait de l'agrément
 
 ###### Article R212-66
 
-L'agrément peut être retiré, en cas de violation des conditions exigées pour sa délivrance, après avis de la commission
-d'agrément des formules d'accès au cinéma et à l'issue d'une procédure contradictoire.
+L'agrément peut être retiré, en cas de violation des conditions exigées pour sa délivrance, à l'issue d'une procédure
+contradictoire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2011-250 du 7 mars 2011 - art. 24 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2014-794 du 9 juillet 2014 - art.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2014-794 du 9 juillet 2014 - art.
+	  - Décret n°2017-841 du 5 mai 2017 - art. 5
 
 
 ##### Section 7 : Contrôle des recettes d'exploitation cinématographique
