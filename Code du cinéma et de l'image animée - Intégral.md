@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2017-05-08
+Version Consolidée au 2017-06-01
 
 # Partie législative
 
@@ -32485,23 +32485,29 @@ bénéfice des aides sélectives.
 
 Par dérogation au 1° de l'article 311-11, la proportion minimale de l'apport initial est ramenée à 20 % en ce qui concerne
 les œuvres appartenant au genre animation pour le bénéfice des aides automatiques, lorsque l'œuvre répond aux conditions
-suivantes : 
+suivantes :
 
 a) Faire l'objet de contrats de prévente internationale pour un montant au moins égal au double de la différence entre le
 montant de l'apport initial qui résulterait de l'application d'une proportion minimale de 25 % et le montant de l'apport
 initial effectivement réalisé. Sont considérés comme contrats de prévente internationale les contrats conclus, avant la fin
-des prises de vues, avec un éditeur de services de télévision établi à l'étranger, soit directement par l'entreprise de
-production déléguée établie en France, soit par le détenteur du mandat de commercialisation ou le cessionnaire de droits pour
-l'exploitation de l'œuvre à l'étranger ; 
+de la fabrication de l'animation, avec un éditeur de services de télévision établi à l'étranger, soit directement par
+l'entreprise de production déléguée établie en France, soit par le détenteur du mandat de commercialisation ou le
+cessionnaire de droits pour l'exploitation de l'œuvre à l'étranger ;
 
 b) Obtenir un nombre minimum de 30 points au titre du groupe " Création " et un nombre minimum de 36 points au titre du
 groupe " Fabrication " sur le barème prévu, selon les conditions de réalisation de l'œuvre, au A ou au B de l'article 311-45.
 
+**Nota:**
+
+Conformément à l'article 16 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'autorisation préalable enregistrées par le Centre national du cinéma et de l'image animée à compter du premier jour du mois
+suivant celui de la date d'entrée en vigueur de la présente délibération.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 11, v. init.
+	  - Délibération n°2017/CA/02 - art. 5, v. init.
 
 	**Cite**:
 
@@ -32518,17 +32524,18 @@ groupe " Fabrication " sur le barème prévu, selon les conditions de réalisati
 ###### Article 311-12
 
 Pour être admises au bénéfice des aides financières automatiques, les œuvres audiovisuelles conçues pour les services à la
-demande doivent être financées par un apport initial en numéraire provenant : 
+demande doivent être financées par un apport initial en numéraire provenant :
 
 1° Soit d'un ou plusieurs éditeurs de services à la demande. Dans ce cas, l'apport est réalisé sous forme d'un contrat
 d'achat de droits de mise à disposition du public de l'œuvre conclu avec l'entreprise de production avant la fin des prises
-de vues ; 
+de vues ou, pour les œuvres appartenant au genre de l'animation, avant la fin de la fabrication de l'animation. Pour les
+œuvres intégralement composées d'images préexistantes, le contrat est conclu avant le début du montage ;
 
 2° Soit d'un ou plusieurs éditeurs de services à la demande et d'autres entreprises ou organismes, établis en France, en
 application d'un contrat conclu avec l'entreprise de production, sous réserve des dispositions des articles 122-28 et 311-7.
 Les entreprises ou organismes ne détiennent pas, directement ou indirectement, de parts de producteur et l'apport du ou des
 éditeurs de services, réalisé dans les conditions prévues au 1°, est au moins égal à 12,5 % du coût définitif de l'œuvre ou à
-12,5 % de la participation française en cas de coproduction internationale. 
+12,5 % de la participation française en cas de coproduction internationale.
 
 L'apport initial doit être au moins égal à 25 % du coût définitif de l'œuvre ou à 25 % de la participation française en cas
 de coproduction internationale. En outre, pour les œuvres appartenant aux genres documentaire de création et adaptation
@@ -32538,11 +32545,17 @@ est respectivement fixé à 12 000 € et 15 000 €.
 La condition d'apport initial n'est pas requise pour l'éligibilité des œuvres audiovisuelles aux aides automatiques à la
 préparation.
 
+**Nota:**
+
+Conformément à l'article 16 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'autorisation préalable enregistrées par le Centre national du cinéma et de l'image animée à compter du premier jour du mois
+suivant celui de la date d'entrée en vigueur de la présente délibération.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 3, v. init.
+	  - Délibération n°2017/CA/02 - art. 6, v. init.
 
 	**Cite**:
 
@@ -33522,76 +33535,145 @@ totale de l'œuvre.
 ###### Article 311-48
 
 Les coefficients applicables au titre des œuvres appartenant au genre documentaire de création sont déterminés dans les
-conditions suivantes : 
+conditions suivantes :
 
-I.-Les œuvres sont réparties en trois groupes : 
+I.-Les œuvres sont réparties en trois groupes :
 
-1° Premier groupe : œuvres pour lesquelles l'apport horaire en numéraire est supérieur ou égal à 160 000 € ; 
+1° Premier groupe : œuvres pour lesquelles l'apport horaire en numéraire est supérieur ou égal à 160 000 € ;
 
 2° Deuxième groupe : œuvres pour lesquelles l'apport horaire en numéraire est inférieur à 160 000 € et supérieur ou égal à 25
-000 € ; 
+000 € ;
 
 3° Troisième groupe : œuvres pour lesquelles l'apport horaire en numéraire est inférieur à 25 000 € et supérieur ou égal à 12
-000 €. 
+000 €.
 
-II.-Les coefficients appliqués à la durée ou à la durée cumulée des œuvres sont les suivants : 
+II.-Les coefficients appliqués à la durée ou à la durée cumulée des œuvres sont les suivants :
 
-1° Premier groupe : 1,1 ; 
+1° Premier groupe : 1,1 ;
 
 2° Deuxième groupe : le coefficient varie entre 1,1 et 0,5 proportionnellement au montant de l'apport horaire en numéraire.
-Ce coefficient est arrondi aux quatre chiffres après la virgule ; 
+Ce coefficient est arrondi aux quatre chiffres après la virgule ;
 
-3° Troisième groupe : 0,5. 
+3° Troisième groupe : 0,5.
 
-III. - Les coefficients prévus au II peuvent être bonifiés dans les circonstances et selon les modalités suivantes :
+III. - A. - Les coefficients prévus au II peuvent être bonifiés dans les cas et selon les modalités suivantes :
 
-1° L'œuvre a bénéficié d'une aide à l'écriture ou au développement attribuée par une personne publique ou privée, autre
-qu'une aide automatique à la préparation, d'un montant minimum de 3 000 € ou a fait l'objet d'un apport horaire en numéraire
-d'un montant minimum de 6 000 € dans le cadre d'une convention d'écriture ou de développement conclue avec un éditeur de
-services de télévision ou un éditeur de services à la demande. 
+1° L'œuvre a bénéficié d'une aide à l'écriture ou au développement, autre qu'une aide automatique à la préparation, d'un
+montant minimum de 3 000 €, attribuée par une personne publique ou privée ou dans le cadre du sous-programme “MEDIA”
+mentionné au e du 5°, ou a fait l'objet d'un apport horaire en numéraire d'un montant minimum de 6 000 € dans le cadre d'une
+convention d'écriture ou de développement avec un éditeur de services de télévision ou un éditeur de services à la demande,
+établi en France. Cette convention est conclue au moins trois mois avant le début des prises de vues, ou pour les œuvres
+intégralement composées d'images préexistantes, au moins trois mois avant le début du montage. Pour les séries dont la durée
+cumulée des épisodes est supérieure à 156 minutes, le montant minimum de l'apport en numéraire est fixé forfaitairement à 18
+000 €.
 
-Dans ce cas, les coefficients sont augmentés de 0,1 ; 
+Dans ce cas, les coefficients sont augmentés de 0,1 lorsque l'œuvre a bénéficié d'une aide ou d'un apport et de 0,2 lorsque
+l'œuvre a bénéficié d'au moins deux aides ou apports ;
 
-2° Une musique originale a été spécialement créée pour l'œuvre en application d'un contrat de cession de droits conclu entre
-l'entreprise de production déléguée établie en France et l'auteur de la composition musicale, en contrepartie d'une
-rémunération minimale de 2 000 € et l'interprétation de cette musique originale a donné lieu à au moins un cachet. 
+2° Une musique originale a été spécialement créée pour l'œuvre et donne lieu, en application de contrats conclus avec
+l'entreprise de production déléguée établie en France, à une rémunération minimale cumulée du ou des auteurs et du ou des
+artistes-interprètes de 3 000 € hors charges sociales, pour une œuvre d'une durée d'une heure. Pour les séries dont la durée
+cumulée des épisodes est supérieure à 156 minutes, cette rémunération minimale est de 2 400 € pour une durée cumulée d'une
+heure. Pour une œuvre d'une durée différente, la rémunération minimale est déterminée prorata temporis. La musique originale
+est utilisée pour une durée significative dans l'œuvre.
 
-Dans ce cas, les coefficients sont augmentés de 0,1 ; 
+Dans ce cas, les coefficients sont augmentés de 0,1 ;
 
-3° Le nombre de jours de travail du ou des chefs monteurs atteint un seuil minimum. Le ou les chefs monteurs peuvent soit
-être engagés par l'entreprise de production déléguée établie en France et rémunérés conformément à la convention collective
-nationale de la production audiovisuelle, soit être engagés par un éditeur de services de télévision ou de services à la
-demande, mentionné à l'article 311-8 ou à l'article 311-9, et rémunérés conformément aux conventions et accords collectifs
-applicables dans les secteurs concernés. 
+3° Le nombre de jours de travail du ou des chefs monteurs atteint un seuil minimum. Dans ce cas, les coefficients sont
+augmentés de 0,1 lorsque le nombre de jours est supérieur ou égal à 25 et de 0,2 lorsque ce nombre est supérieur ou égal à 35
+pour une œuvre d'une durée de 52 minutes. Pour une œuvre d'une durée différente, le nombre de jours minimum est déterminé
+prorata temporis.
 
-Dans ce cas, les coefficients sont augmentés de 0,1 lorsque le nombre de jours est supérieur ou égal à 25 et de 0,2 lorsque
-ce nombre est supérieur ou égal à 35 pour une œuvre d'une durée de 52 minutes. Pour une œuvre d'une durée différente, le
-nombre de jours minimum est déterminé prorata temporis ; 
+Pour une œuvre unitaire, un seul chef monteur est pris en compte. Pour une série, un seul chef monteur par épisode est pris
+en compte.
 
-4° Le ratio entre la masse salariale brute des personnels artistiques et techniques, hors artistes-interprètes, engagés par
-l'entreprise de production déléguée établie en France et la masse salariale brute totale de l'ensemble des personnels engagés
-pour la production de l'œuvre est supérieur ou égal à 60 %. 
+Le ou les chefs monteurs peuvent soit être engagés par l'entreprise de production déléguée établie en France et rémunérés
+conformément à la convention collective nationale de la production audiovisuelle, soit être engagés par un éditeur de
+services de télévision ou de services à la demande, mentionné à l'article 311-8 ou à l'article 311-9, et rémunérés
+conformément aux conventions et accords collectifs applicables dans les secteurs concernés.
 
-Dans ce cas, les coefficients sont augmentés de 0,1 ; 
+4° Le nombre de pays étrangers pour lesquels un éditeur de services de télévision ou de services à la demande a conclu, au
+plus tard trois mois après la date d'achèvement de l'œuvre, un contrat pour l'exploitation de l'œuvre atteint un seuil
+minimum. Le contrat peut être conclu :
 
-5° Le nombre de pays étrangers pour lesquels un éditeur de services de télévision ou de services à la demande a conclu, avant
-la date d'achèvement de l'œuvre, un contrat pour l'exploitation de l'œuvre atteint un nombre minimum. Le contrat peut être
-conclu soit directement avec l'entreprise de production déléguée établie en France, soit avec le détenteur du mandat de
-commercialisation ou le cessionnaire de droits pour l'exploitation de l'œuvre à l'étranger. 
+a) Soit avec l'entreprise de production déléguée établie en France ;
+
+b) Soit avec le détenteur du mandat de commercialisation ou le cessionnaire de droits pour l'exploitation de l'œuvre à
+l'étranger qui a contracté avec l'entreprise de production déléguée établie en France ;
+
+c) Soit, en cas de coproduction internationale majoritairement française, avec le coproducteur étranger ou avec le détenteur
+du mandat de commercialisation ou le cessionnaire de droits pour l'exploitation de l'œuvre à l'étranger avec lequel ce
+coproducteur a contracté.
 
 Dans ce cas, les coefficients sont augmentés de 0,1 lorsque le nombre de pays est supérieur ou égal à 3 et de 0,2 lorsque ce
-nombre est supérieur ou égal à 5. 
+nombre est supérieur ou égal à 5.
 
-L'application cumulée des bonifications prévues aux 1° à 5° ne peut avoir pour effet d'augmenter les coefficients de plus de
-0,5. 
+5° L'entreprise de production déléguée établie en France a obtenu, avant la date d'achèvement de l'œuvre, au moins deux
+financements en numéraire parmi les financements suivants :
 
-Les bonifications prévues aux 1° à 5° ne s'appliquent pas aux œuvres qui ont recours aux codes d'écriture ou de réalisation
-propres au magazine ou au reportage. En cas de contestation sur l'éligibilité aux bonifications, le président du Centre
-national du cinéma et de l'image animée peut consulter la commission spécialisée compétente pour l'attribution des aides
-sélectives. 
+a) Financement provenant d'un éditeur de services de télévision ou d'un éditeur de services à la demande, autre que ceux qui
+ont contribué à l'apport initial prévu aux articles 311-10 et 311-11 ou à l'article 311-12 et répondant aux conditions
+suivantes :
+
+- être établi en France ;
+
+- ne pas être contrôlé, au sens de l'article L. 233-3 du code de commerce, par les éditeurs qui ont contribué à l'apport
+initial précité, ou par une ou plusieurs personnes les contrôlant au sens du même article ;
+
+- ne pas contrôler, au sens de l'article L. 233-3 du code de commerce, l'entreprise de production déléguée établie en
+France ;
+
+- ne pas être contrôlé, au sens de l'article L. 233-3 du code de commerce, par l'entreprise de production déléguée établie en
+France ou par une ou plusieurs personnes la contrôlant au sens du même article ;
+
+b) Financement provenant d'une collectivité territoriale ou d'un fonds local ou régional d'un Etat membre de l'Union
+européenne ;
+
+c) Financement provenant d'une fondation française ou d'une association reconnue d'utilité publique française ;
+
+d) Financement provenant de l'Etat ou d'un établissement public français ;
+
+e) Financement provenant de l'Union européenne, notamment dans le cadre du sous-programme MEDIA du programme Europe
+créative , prévu par le règlement (UE) n° 1295/2013 du Parlement européen et du Conseil du 11 décembre 2013 établissant le
+programme Europe créative (2014 à 2020) et abrogeant les décisions n° 1718/2006/CE, n° 1855/2006/CE et n° 1041/2009/CE et mis
+en œuvre par l'Agence exécutive Education, audiovisuel et culture instituée par la décision d'exécution de la Commission
+européenne n° 2013/776/UE du 18 décembre 2013.
+
+Le montant de chaque financement est au moins égal à 4 500 € pour une œuvre d'une durée d'une heure. Pour une œuvre d'une
+durée différente, le montant minimum est déterminé prorata temporis.
+
+Dans ce cas, les coefficients sont augmentés de 0,1.
+
+6° Le nombre de jours de travail du ou des réalisateurs atteint un seuil minimum déterminé en fonction du montant de l'apport
+horaire en numéraire du ou des éditeurs de services de télévision ou du ou des éditeurs de services à la demande, selon les
+modalités suivantes :
+
+a) 35 jours lorsque l'apport est inférieur à 25 000 € ;
+
+b) 40 jours lorsque l'apport est supérieur ou égal à 25 000 € et inférieur à 50 000 € ;
+
+c) 50 jours lorsque l'apport est supérieur ou égal à 50 000 € et inférieur à 90 000 € ;
+
+d) 60 jours lorsque l'apport est supérieur ou égal 90 000 €.
+
+Le nombre de jours minimum s'applique pour une œuvre d'une durée de 52 minutes. Pour une œuvre d'une durée différente, le
+nombre de jours minimum est déterminé prorata temporis.
+
+Pour une œuvre unitaire, un seul réalisateur est pris en compte. Pour une série, un seul réalisateur par épisode est pris en
+compte et le nombre de jours minimum est diminué de 20 % lorsque la durée cumulée des épisodes est supérieure à 156 minutes.
+
+Dans ce cas, les coefficients sont augmentés de 0,1.
+
+B. - Les coefficients peuvent être bonifiés :
+
+1° Soit lorsque trois au moins des six bonifications prévues aux 1° à 6° du A sont obtenues ;
+
+2° Soit lorsque les bonifications obtenues ont pour effet d'augmenter les coefficients d'au moins 0,4.
+
+C. - L'application cumulée des bonifications ne peut avoir pour effet d'augmenter les coefficients de plus de 0,5.
 
 IV. - Les coefficients prévus au II font l'objet d'une majoration de 20 % pour les documentaires de création historiques,
-scientifiques, ou présentant ces deux caractéristiques à la fois.
+scientifiques, artistiques ou présentant plusieurs de ces caractéristiques à la fois.
 
 Sont considérés comme documentaires de création historiques les documentaires de création visant à faire connaître une ou
 plusieurs périodes de l'histoire antérieures d'au moins cinq ans à la date de dépôt de la demande d'aide.
@@ -33601,34 +33683,17 @@ sujets relevant d'une ou plusieurs disciplines des sciences exactes et naturelle
 technologiques, des sciences médicales et sanitaires et des sciences agricoles telles que définies par le "Manuel de
 Frascati" publié par l'Organisation de coopération et de développement économiques (OCDE).
 
-Pour bénéficier de la majoration, les documentaires de création historiques ou scientifiques doivent répondre aux conditions
-suivantes :
+Sont considérés comme documentaires de création artistiques les documentaires de création visant à faire connaître un ou
+plusieurs des arts suivants : architecture, sculpture, gravure, peinture, dessin, théâtre, danse, musique, cirque, poésie,
+littérature y compris la bande-dessinée, photographie, cinéma et audiovisuel.
 
-1° Respecter au moins trois des cinq critères suivants :
+Pour bénéficier de la majoration, les documentaires de création historiques, scientifiques ou artistiques doivent répondre
+aux conditions suivantes :
 
-a) L'œuvre a bénéficié d'une aide à l'écriture ou au développement attribuée par une personne publique ou privée, autre
-qu'une aide automatique à la préparation, d'un montant minimum de 3 000 € ou a fait l'objet d'un apport horaire en numéraire
-d'un montant minimum de 6 000 € dans le cadre d'une convention d'écriture ou de développement conclue avec un éditeur de
-services de télévision ou un éditeur de services à la demande ;
+A. - Donner lieu à un coefficient bonifié dans les conditions prévues au B du III ;
 
-b) Une musique originale a été spécialement créée pour l'œuvre en application d'un contrat de cession de droits conclu entre
-l'entreprise de production déléguée établie en France et l'auteur de la composition musicale, en contrepartie d'une
-rémunération minimale de 2 000 € et l'interprétation de cette musique originale a donné lieu à au moins un cachet ;
-
-c) Le nombre de jours de travail du ou des chefs monteurs est supérieur ou égal à 25 pour une œuvre d'une durée de 52
-minutes. Pour une œuvre d'une durée différente, le nombre de jours minimum est déterminé prorata temporis ;
-
-d) Le ratio entre la masse salariale brute des personnels artistiques et techniques, hors artistes-interprètes, engagés par
-l'entreprise de production déléguée établie en France et la masse salariale brute totale de l'ensemble des personnels engagés
-pour la production de l'œuvre est supérieur ou égal à 60 % ;
-
-e) Le nombre de pays étrangers pour lesquels un éditeur de services de télévision ou de services à la demande a conclu, avant
-la date d'achèvement de l'œuvre, un contrat pour l'exploitation de l'œuvre est supérieur ou égal à trois. Le contrat peut
-être conclu soit directement avec l'entreprise de production déléguée établie en France, soit avec le détenteur du mandat de
-commercialisation ou le cessionnaire de droits pour l'exploitation de l'œuvre à l'étranger ;
-
-2° Avoir bénéficié d'un apport horaire en numéraire provenant d'un ou plusieurs éditeurs de services de télévision ou d'un ou
-plusieurs éditeurs de services à la demande, établis en France ou à l'étranger, supérieur ou égal à 100 000 €. Lorsque
+B - Avoir bénéficié d'un apport horaire en numéraire provenant d'un ou plusieurs éditeurs de services de télévision ou d'un
+ou plusieurs éditeurs de services à la demande, établis en France ou à l'étranger, supérieur ou égal à 100 000 €. Lorsque
 l'éditeur de services de télévision ou l'éditeur de services à la demande est établi à l'étranger, le contrat d'achat de
 droits de diffusion est conclu avant la date d'achèvement de l'œuvre, soit directement avec l'entreprise de production
 déléguée établie en France, soit avec le détenteur du mandat de commercialisation ou le cessionnaire de droits pour
@@ -33639,41 +33704,40 @@ compte les apports en numéraire provenant d'autres entreprises ou organismes é
 311-12, dans le cadre d'un contrat d'achat de droits d'exploitation non commerciale conclu avant la date d'achèvement de
 l'œuvre, hors parts de producteur et hors subventions ;
 
-3° Enrichir significativement le récit par l'intégration d'images d'archives, de séquences d'animation, de séquences de
+C - Enrichir significativement le récit par l'intégration d'images d'archives, de séquences d'animation, de séquences de
 fiction ou d'autres séquences d'images animées, de photographies, ou par l'utilisation de techniques stéréoscopiques ou
 d'effets visuels numériques ;
 
-4° Etre réalisés avec le concours d'au moins un conseiller historique ou scientifique ou, à défaut, avoir donné lieu à la
-consultation de plusieurs experts du sujet traité. Ces conseillers ou experts sont crédités au générique de l'œuvre.
+D - Etre réalisés avec le concours d'au moins un conseiller historique, scientifique ou artistique ou, à défaut, avoir donné
+lieu à la consultation de plusieurs experts du sujet traité. Ces conseillers ou experts sont crédités au générique de
+l'œuvre.
 
-Pour les documentaires de création qui ont recours aux codes d'écriture ou de réalisation propres au magazine ou au
-reportage, le président du Centre national du cinéma et de l'image animée saisit pour avis la commission spécialisée
-compétente pour l'attribution des aides sélectives. Pour les autres documentaires de création, le président du Centre
-national du cinéma et de l'image animée peut consulter la commission spécialisée en cas de contestation ou de difficulté
-d'interprétation concernant l'éligibilité à la majoration.
-
-En outre, le président du Centre national du cinéma et de l'image animée peut également consulter tout expert historique ou
-scientifique dont l'audition lui paraît de nature à éclairer sa décision.
+En cas de contestation ou de difficulté d'interprétation concernant l'éligibilité à la majoration, le président du Centre
+national du cinéma et de l'image animée peut consulter la commission spécialisée compétente pour l'attribution des aides
+sélectives, ainsi que, le cas échéant, tout expert historique, scientifique ou artistique dont l'audition lui paraît de
+nature à éclairer sa décision.
 
 V.-Pour les œuvres insérées au sein de cases de programmation consacrées à la diffusion de programmes récurrents, dont la
 production est assurée par la même entreprise de production déléguée ou repose sur le même concept et les mêmes principes de
-réalisation, les coefficients résultant de l'application des II et III font l'objet d'un abattement de 10 % toutes les 520
+réalisation, les coefficients résultant de l'application des II et III font l'objet d'un abattement de 10 % toutes les 416
 minutes produites, sans que cet abattement puisse avoir pour effet l'application d'un coefficient inférieur à 0,5.
+
+**Nota:**
+
+Conformément à l'article 16 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'autorisation préalable enregistrées par le Centre national du cinéma et de l'image animée à compter du premier jour du mois
+suivant celui de la date d'entrée en vigueur de la présente délibération.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 7, v. init.
+	  - Délibération n°2017/CA/02 - art. 7, v. init.
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. 311-58 (VD)
 	  - Code du cinéma et de l'image animée - art. 311-97 (VD)
-
-	**Cite**:
-
-	  - Code du cinéma et de l'image animée - art. 311-9 (V)
 
 
 ##### Paragraphe 3 : Inscription sur le compte des sommes calculées 
@@ -33915,10 +33979,10 @@ musical.
 ###### Article 311-58
 
 L'investissement des sommes inscrites sur leur compte automatique par les entreprises de production pour la production est
-subordonné à la délivrance d'une autorisation préalable et d'une autorisation définitive. 
+subordonné à la délivrance d'une autorisation préalable et d'une autorisation définitive.
 
-L'autorisation préalable est délivrée avant la fin des prises de vues. Elle prévoit les modalités de versement des sommes
-réinvesties. 
+L'autorisation préalable est délivrée avant achèvement de l'œuvre. Elle prévoit les modalités de versement des sommes
+réinvesties.
 
 L'autorisation définitive est délivrée après achèvement de l'œuvre. Cette autorisation constitue la décision d'attribution à
 titre définitif des sommes réinvesties. Elle constate, le cas échéant, l'admission au bénéfice des bonifications ou des
@@ -33928,7 +33992,7 @@ majorations prévues aux articles 311-45,311-48 et 311-50.
 
 	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 26, v. init.
+	  - Délibération n°2017/CA/02 - art. 8, v. init.
 
 	**Cite**:
 
@@ -33958,17 +34022,27 @@ nouveau délai ou, à titre exceptionnel, de renoncer au reversement de tout ou 
 ###### Article 311-60
 
 Pour la délivrance de l'autorisation préalable, l'entreprise de production remet, au moins un mois avant la fin des prises de
-vues, un dossier comprenant : 
+vues ou, pour les œuvres appartenant au genre de l'animation, au moins un mois avant la fin de la fabrication de l'animation,
+un dossier comprenant :
 
-1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
 
 2° La liste des documents justificatifs figurant en annexe 2 du présent livre.
 
+Pour les œuvres intégralement composées d'images préexistantes, le dossier est remis au moins un mois avant le début du
+montage.
+
+**Nota:**
+
+Conformément à l'article 16 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'autorisation préalable enregistrées par le Centre national du cinéma et de l'image animée à compter du premier jour du mois
+suivant celui de la date d'entrée en vigueur de la présente délibération.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2017/CA/02 - art. 9, v. init.
 
 	**Cité par**:
 
@@ -34515,6 +34589,27 @@ conditions prévues à l'article 311-57-1.
 	  - Code du cinéma et de l'image animée - art. 311-57-1 (V)
 
 
+###### Article 311-92-1
+
+Pour les œuvres appartenant au genre documentaire de création, lorsque l'apport horaire en numéraire du ou des éditeurs de
+services de télévision ou de services à la demande est inférieur à 12 000 €, l'apport initial prévu aux articles 311-10 et
+311-11 ou à l'article 311-12 est réalisé, pour au moins 50 % de son montant, sous forme d'un contrat d'achats de droits de
+diffusion ou de mise à disposition du public conclu avant la fin des prises de vues, ou pour les œuvres intégralement
+composées d'images préexistantes, avant le début du montage.
+
+**Nota:**
+
+Conformément à l'article 16 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'autorisation préalable enregistrées par le Centre national du cinéma et de l'image animée à compter du premier jour du mois
+suivant celui de la date d'entrée en vigueur de la présente délibération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Délibération n°2017/CA/02 - art. 10, v. init.
+
+
 ###### Article 311-93
 
 Les bénéficiaires des aides sont des entreprises de production qui, outre les conditions générales mentionnées à l'article
@@ -34608,19 +34703,25 @@ que sa demande soit examinée.
 
 ###### Article 311-97
 
-L'attribution d'une aide dont le principe a été retenu est subordonnée à la délivrance d'autorisations. 
+L'attribution d'une aide dont le principe a été retenu est subordonnée à la délivrance d'autorisations.
 
-Une autorisation préalable est délivrée avant la fin des prises de vues. Elle prévoit les modalités de versement de l'aide. 
+Une autorisation préalable est délivrée avant achèvement de l'œuvre. Elle prévoit les modalités de versement de l'aide.
 
 Une autorisation définitive est délivrée après achèvement de l'œuvre. Cette autorisation constitue la décision d'attribution
 à titre définitif de l'aide. Elle constate, le cas échéant, l'admission au bénéfice des bonifications ou des majorations
 prévues aux articles 311-45,311-48 et 311-50.
 
+**Nota:**
+
+Conformément à l'article 16 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'autorisation préalable enregistrées par le Centre national du cinéma et de l'image animée à compter du premier jour du mois
+suivant celui de la date d'entrée en vigueur de la présente délibération.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 31, v. init.
+	  - Délibération n°2017/CA/02 - art. 11, v. init.
 
 	**Cite**:
 
@@ -34646,19 +34747,27 @@ qui ne peut excéder six mois, par décision du président du Centre national du
 
 ###### Article 311-99
 
-Pour la délivrance de l'autorisation préalable, l'entreprise de production remet un dossier comprenant : 
+Pour la délivrance de l'autorisation préalable, l'entreprise de production remet un dossier comprenant :
 
-1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
 
-2° La liste des documents justificatifs figurant en annexe 7 du présent livre. 
+2° La liste des documents justificatifs figurant en annexe 7 du présent livre.
 
-Ce dossier est remis au moins un mois avant la fin des prises de vues.
+Ce dossier est remis au moins un mois avant la fin des prises de vues ou, pour les œuvres appartenant au genre de
+l'animation, au moins un mois avant la fin de la fabrication de l'animation. Pour les œuvres intégralement composées d'images
+préexistantes, le dossier est remis au moins un mois avant le début du montage.
+
+**Nota:**
+
+Conformément à l'article 16 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'autorisation préalable enregistrées par le Centre national du cinéma et de l'image animée à compter du premier jour du mois
+suivant celui de la date d'entrée en vigueur de la présente délibération.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+	  - Délibération n°2017/CA/02 - art. 12, v. init.
 
 	**Cité par**:
 
@@ -37826,90 +37935,90 @@ justification de son inscription au registre public du cinéma et de l'audiovisu
 
 ###### Article Annexe 3-3
 
-Autorisation définitive (article 311-61) 
+Autorisation définitive (article 311-61)
 
-Liste des documents justificatifs, par genre : 
+Liste des documents justificatifs, par genre :
 
-I.-Fiction : 
+I.-Fiction :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
 télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en assurer la mise
-à disposition du public ; 
+à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
 précisément les dépenses réalisées en France, au Canada et dans les autres pays étrangers, le cas échéant certifié par un
-commissaire aux comptes ; 
+commissaire aux comptes ;
 
-3° Toute pièce justificative d'un financement public ou privé ; 
+3° Toute pièce justificative d'un financement public ou privé ;
 
 4° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son
-inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
-5° Le relevé complet des génériques ; 
+5° Le relevé complet des génériques ;
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, la durée du travail, les salaires bruts et la part patronale des charges
-afférentes à chacune de ces rémunérations ; 
+afférentes à chacune de ces rémunérations ;
 
 7° Tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes et contrats des acteurs
-principaux ; 
+principaux ;
 
 8° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur-
-technicien, directeur de la photographie, chef opérateur de prise de son, chef monteur ; 
+technicien, directeur de la photographie, chef opérateur de prise de son, chef monteur ;
 
 9° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+préalable ou si de nouveaux avenants ont été signés ;
 
 9° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
 habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et
-détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ; 
+détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
 
 10° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ainsi que le récapitulatif
-des factures ; 
+des factures ;
 
 11° Le ou les contrats de prestation, les annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+préalable ou si de nouveaux avenants ont été signés ;
 
-12° Une copie vidéo de l'œuvre incluant les génériques. 
+12° Une copie vidéo de l'œuvre incluant les génériques.
 
-II.-Animation : 
+II.-Animation :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
 télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en assurer la mise
-à disposition du public ; 
+à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
 précisément les dépenses réalisées en France, au Canada et dans les autres pays étrangers, le cas échéant certifié par un
-commissaire aux comptes ; 
+commissaire aux comptes ;
 
-3° Toute pièce justificative d'un financement public ou privé ; 
+3° Toute pièce justificative d'un financement public ou privé ;
 
 4° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son
-inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
-5° Le relevé complet des génériques ; 
+5° Le relevé complet des génériques ;
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, la durée du travail, les salaires bruts et la part patronale des charges
-afférentes à chacune de ces rémunérations ; 
+afférentes à chacune de ces rémunérations ;
 
 7° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur,
-storyboarder, chef layout, chef-décorateur ; 
+storyboarder, chef layout, chef-décorateur ;
 
 8° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+préalable ou si de nouveaux avenants ont été signés ;
 
 8° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
 habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et
-détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ; 
+détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
 
 9° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ainsi que le récapitulatif
-des factures ; 
+des factures ;
 
 10° Le ou les contrats de prestation, les annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+préalable ou si de nouveaux avenants ont été signés ;
 
 10° bis Le cas échéant, tout contrat de prévente internationale lorsqu'il n'a pas été remis dans le dossier de demande
 d'autorisation préalable ;
@@ -37917,70 +38026,87 @@ d'autorisation préalable ;
 10° ter Le cas échéant, un document valant attestation sur l'honneur signé par le représentant légal de l'entreprise de
 production indiquant que la totalité des scénarios est écrite et enregistrée en version originale en langue française ;
 
-11° Une copie vidéo de l'œuvre incluant les génériques. 
+11° Une copie vidéo de l'œuvre incluant les génériques.
 
-III.-Documentaire de création : 
+III.-Documentaire de création :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
 télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en assurer la mise
-à disposition du public ; 
+à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
 précisément les dépenses réalisées en France, au Canada et dans les autres pays étrangers, le cas échéant certifié par un
-commissaire aux comptes ; 
+commissaire aux comptes ;
 
-3° Toute pièce justificative d'un financement public ou privé ; 
+3° Toute pièce justificative d'un financement public ou privé ;
 
 4° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son
-inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
-5° Le relevé complet des génériques créditant notamment les conseillers historiques ou scientifiques ou les experts  ; 
+5° Le relevé complet des génériques créditant notamment les conseillers historiques, scientifiques ou artistiques ou les
+experts ;
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, la durée du travail, les salaires bruts et la part patronale des charges
-afférentes à chacune de ces rémunérations ; 
+afférentes à chacune de ces rémunérations ;
 
 7° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur (y
 compris lorsqu'il est embauché sous le statut de journaliste), directeur de la photographie, chef opérateur de prise de vues,
 chef opérateur de prise de son, ingénieur du son, chef monteur, directeur de production, producteur exécutif et l'animateur
-intervenant à l'image ; 
+intervenant à l'image ;
 
 8° Le contrat du ou des diffuseurs, y compris ceux établis à l'étranger, ses annexes et éventuels avenants s'ils n'ont pas
-été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ; 
+été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
 8° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
 habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et
-détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ; 
+détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
 
 9° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ainsi que le récapitulatif
-des factures ; 
+des factures ;
 
 10° Le ou les contrats de prestation, les annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+préalable ou si de nouveaux avenants ont été signés ;
 
 11° Une copie vidéo de l'œuvre incluant les génériques. ;
 
 12° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une
 note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts
-en intégrant leur bibliographie sur le sujet traité, s'ils n'ont pas été fournis lors de l'autorisation préalable. 
+en intégrant leur bibliographie sur le sujet traité, s'ils n'ont pas été fournis lors de l'autorisation préalable ;
 
-IV.-Adaptation audiovisuelle de spectacle vivant : 
+13° Le cas échéant, pour l'attribution des bonifications prévues au III de l'article 311-48 :
+
+a) Toute pièce justificative de l'obtention d'une aide à l'écriture ou au développement ;
+
+b) Toute convention d'écriture ou de développement ;
+
+c) Les contrats conclus avec le ou les auteurs et le ou les artistes-interprètes de la musique originale ;
+
+d) La feuille de montage remise à l'éditeur de services de télévision ou de services à la demande faisant apparaître la durée
+de la musique utilisée ;
+
+e) Tout contrat conclu avec un éditeur de services de télévision ou de services à la demande pour l'exploitation de l'œuvre à
+l'étranger ;
+
+f) Toute pièce justificative de l'obtention d'un financement en numéraire avant la date d'achèvement de l'œuvre.
+
+IV.-Adaptation audiovisuelle de spectacle vivant :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
 télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en assurer la mise
-à disposition du public ; 
+à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
 précisément les dépenses réalisées en France, au Canada et dans les autres pays étrangers, le cas échéant certifié par un
-commissaire aux comptes ; 
+commissaire aux comptes ;
 
-3° Toute pièce justificative d'un financement public ou privé ; 
+3° Toute pièce justificative d'un financement public ou privé ;
 
 4° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son
-inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
-5° Le relevé complet des génériques ; 
+5° Le relevé complet des génériques ;
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, la durée du travail, les salaires bruts et la part patronale des charges
@@ -37988,43 +38114,43 @@ afférentes à chacune de ces rémunérations ;
 
 6° bis Lorsqu'ils ne sont pas embauchés par l'entreprise de production déléguée, un document émanant de l'employeur attestant
 du nombre de jours de travail effectif des techniciens suivants : chef opérateur, scripte, ingénieur du son, ingénieur de la
-vision, chef monteur, mixeur, étalonneur, conseiller musical ; 
+vision, chef monteur, mixeur, étalonneur, conseiller musical ;
 
 7° Tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes, ainsi que tout contrat avec les
 personnes physiques ou morales pouvant faire valoir leur droit à l'image sur le spectacle objet de l'œuvre audiovisuelle,
 notamment le contrat avec les ayants droit du spectacle et leurs annexes, s'ils n'ont pas été fournis lors de l'autorisation
-préalable ; 
+préalable ;
 
 8° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur,
-chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ; 
+chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ;
 
 9° Le contrat du ou des diffuseurs, y compris ceux établis à l'étranger, ses annexes et éventuels avenants s'ils n'ont pas
-été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ; 
+été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
 9° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
 habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et
-détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ; 
+détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
 
 10° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement, ainsi que le
-récapitulatif des factures ; 
+récapitulatif des factures ;
 
 11° Le ou les contrats de prestation, les annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+préalable ou si de nouveaux avenants ont été signés ;
 
 12° Une copie vidéo de l'œuvre incluant les génériques.
 
 **Nota:**
 
-Conformément à l'article 8 de la délibération n° 2015/CA/15 du 24 septembre 2015, les présentes dispositions s'appliquent aux
-demandes d'autorisation définitive adressées au Centre national du cinéma et de l'image animée à compter du premier jour du
-mois suivant celui de la date d'entrée en vigueur de la présente délibération.
+Conformément à l'article 16 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'autorisation préalable enregistrées par le Centre national du cinéma et de l'image animée à compter du premier jour du mois
+suivant celui de la date d'entrée en vigueur de la présente délibération.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 33, v. init.
+	  - Délibération n°2017/CA/02 - art. 13, v. init.
 
 	**Cite**:
 
@@ -38631,160 +38757,177 @@ justification de son inscription au registre public du cinéma et de l'audiovisu
 
 ###### Article Annexe 3-8
 
-Autorisation définitive (article 311-100) 
+Autorisation définitive (article 311-100)
 
-Liste des documents justificatifs, par genre : 
+Liste des documents justificatifs, par genre :
 
-I.-Fiction : 
+I.-Fiction :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
 télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition
-du public ; 
+du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
-précisément les dépenses réalisées en France, le cas échéant certifié par un commissaire aux comptes ; 
+précisément les dépenses réalisées en France, le cas échéant certifié par un commissaire aux comptes ;
 
-3° Toute pièce justificative d'un financement public ou privé ; 
+3° Toute pièce justificative d'un financement public ou privé ;
 
 4° Tout contrat de coproduction conclu avec une autre entreprise française ou étrangère s'il a été modifié ou non fourni au
-moment de l'autorisation préalable ; 
+moment de l'autorisation préalable ;
 
-5° Le relevé complet des génériques ; 
+5° Le relevé complet des génériques ;
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, les salaires bruts et la part patronale des charges afférentes à chacune de ces
-rémunérations ; 
+rémunérations ;
 
-7° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ; 
+7° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ;
 
 8° La copie de tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes et contrats des
-acteurs principaux ; 
+acteurs principaux ;
 
 9° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur-
-technicien, directeur de la photographie, chef opérateur de prise de son, chef monteur ; 
+technicien, directeur de la photographie, chef opérateur de prise de son, chef monteur ;
 
 10° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+préalable ou si de nouveaux avenants ont été signés ;
 
 10° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
 habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et
-détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ; 
+détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
 
 11° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son
-inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
-12° Une copie vidéo de l'œuvre incluant les génériques. 
+12° Une copie vidéo de l'œuvre incluant les génériques.
 
-II.-Animation : 
+II.-Animation :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
 télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition
-du public ; 
+du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
-précisément les dépenses réalisées en France, le cas échéant certifié par un commissaire aux comptes ; 
+précisément les dépenses réalisées en France, le cas échéant certifié par un commissaire aux comptes ;
 
-3° Toute pièce justificative d'un financement public ou privé ; 
+3° Toute pièce justificative d'un financement public ou privé ;
 
 4° Tout contrat de coproduction conclu avec une autre entreprise française ou étrangère s'il a été modifié ou non fourni au
-moment de l'autorisation préalable ; 
+moment de l'autorisation préalable ;
 
-5° Le relevé complet des génériques ; 
+5° Le relevé complet des génériques ;
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, la durée du travail, les salaires bruts et la part patronale des charges
-afférentes à chacune de ces rémunérations ; 
+afférentes à chacune de ces rémunérations ;
 
 7° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur,
-storyboarder, chef layout, chef-décorateur ; 
+storyboarder, chef layout, chef-décorateur ;
 
 8° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+préalable ou si de nouveaux avenants ont été signés ;
 
 8° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
 habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et
-détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ; 
+détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
 
-9° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ; 
+9° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ;
 
-10° Le récapitulatif des factures des prestataires techniques avec mention de leur nom et adresse ; 
+10° Le récapitulatif des factures des prestataires techniques avec mention de leur nom et adresse ;
 
 11° Le ou les contrats de prestation, les annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+préalable ou si de nouveaux avenants ont été signés ;
 
 12° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son
-inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
 12° bis Le cas échéant, tout contrat de prévente internationale ;
 
 12° ter Le cas échéant, un document valant attestation sur l'honneur signé par le représentant légal de l'entreprise de
 production indiquant que la totalité des scénarios est écrite et enregistrée en version originale en langue française ;
 
-13° Une copie vidéo de l'œuvre incluant les génériques. 
+13° Une copie vidéo de l'œuvre incluant les génériques.
 
-III.-Documentaire de création : 
+III.-Documentaire de création :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
 télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition
-du public ; 
+du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
-précisément les dépenses réalisées en France, le cas échéant certifié par un commissaire aux comptes ; 
+précisément les dépenses réalisées en France, le cas échéant certifié par un commissaire aux comptes ;
 
-3° Toute pièce justificative d'un financement public ou privé ; 
+3° Toute pièce justificative d'un financement public ou privé ;
 
 4° Tout contrat de coproduction conclu avec une autre entreprise française ou étrangère s'il a été modifié ou non fourni au
-moment de l'autorisation préalable ; 
+moment de l'autorisation préalable ;
 
-5° Le relevé complet des génériques créditant notamment les conseillers historiques ou scientifiques ou les experts  ; 
+5° Le relevé complet des génériques créditant notamment les conseillers historiques, scientifiques ou artistiques ou les
+experts ;
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, les salaires bruts et la part patronale des charges afférentes à chacune de ces
-rémunérations ; 
+rémunérations ;
 
-7° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ; 
+7° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ;
 
-8° Une copie des contrats de cession des archives des images existantes ; 
+8° Une copie des contrats de cession des archives des images existantes ;
 
 9° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur (y
 compris lorsqu'il est embauché sous le statut de journaliste), directeur de la photographie, chef opérateur de prise de vues,
 chef opérateur de prise de son, ingénieur du son, chef monteur, directeur de production, producteur exécutif et l'animateur
-intervenant à l'image ; 
+intervenant à l'image ;
 
 10° Le contrat du ou des diffuseurs, y compris ceux établis à l'étranger, ses annexes et éventuels avenants s'ils n'ont pas
-été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ; 
+été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
 10° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
 habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et
-détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ; 
+détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
 
 11° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son
-inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
 12° Une copie vidéo de l'œuvre incluant les génériques ;
 
 13° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une
 note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts
-en intégrant leur bibliographie sur le sujet traité, s'ils n'ont pas été fournis lors de l'autorisation préalable.  
+en intégrant leur bibliographie sur le sujet traité, s'ils n'ont pas été fournis lors de l'autorisation préalable ;
 
-IV.-Adaptation audiovisuelle de spectacle vivant : 
+14° Le cas échéant, pour l'attribution des bonifications prévues au III de l'article 311-48 :
+
+a) Toute pièce justificative de l'obtention d'une aide à l'écriture ou au développement ;
+
+b) Toute convention d'écriture ou de développement ;
+
+c) Les contrats conclus avec le ou les auteurs et le ou les artistes-interprètes de la musique originale ;
+
+d) La feuille de montage remise à l'éditeur de services de télévision ou de services à la demande faisant apparaître la durée
+de la musique utilisée ;
+
+e) Tout contrat conclu avec un éditeur de services de télévision ou de services à la demande pour l'exploitation de l'œuvre à
+l'étranger ;
+
+f) Toute pièce justificative de l'obtention d'un financement en numéraire avant la date d'achèvement de l'œuvre.
+
+IV.-Adaptation audiovisuelle de spectacle vivant :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
 télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition
-du public ; 
+du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
-précisément les dépenses réalisées en France, le cas échéant certifié par un commissaire aux comptes ; 
+précisément les dépenses réalisées en France, le cas échéant certifié par un commissaire aux comptes ;
 
-3° La copie du découpage ; 
+3° La copie du découpage ;
 
 4° Toute pièce justificative d'un financement public ou privé, tout contrat de coproduction conclu avec une autre entreprise
-française ou étrangère s'il a été modifié ou non fourni au moment de l'autorisation préalable ; 
+française ou étrangère s'il a été modifié ou non fourni au moment de l'autorisation préalable ;
 
-5° Le relevé complet des génériques ; 
+5° Le relevé complet des génériques ;
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, les salaires bruts et la part patronale des charges afférentes à chacune de ces
@@ -38792,75 +38935,81 @@ rémunérations ;
 
 6° bis Lorsqu'ils ne sont pas embauchés par l'entreprise de production déléguée, un document émanant de l'employeur attestant
 du nombre de jours de travail effectif des techniciens suivants : chef opérateur, scripte, ingénieur du son, ingénieur de la
-vision, chef monteur, mixeur, étalonneur, conseiller musical ;  
+vision, chef monteur, mixeur, étalonneur, conseiller musical ;
 
-7° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ; 
+7° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ;
 
 8° Tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes, ainsi que tout contrat avec les
 personnes physiques ou morales pouvant faire valoir leur droit à l'image sur le spectacle objet de l'œuvre audiovisuelle,
 notamment le contrat avec les ayants droit du spectacle et leurs annexes, s'ils n'ont pas été fournis lors de l'autorisation
-préalable ; 
+préalable ;
 
 9° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur,
 chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ;
 
 10° Le contrat du ou des diffuseurs, y compris ceux établis à l'étranger, ses annexes et éventuels avenants s'ils n'ont pas
-été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ; 
+été fournis lors de l'autorisation préalable ou si de nouveaux avenants ont été signés ;
 
 10° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
 habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et
-détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ; 
+détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
 
 11° Tout contrat de coproduction conclu depuis l'obtention de l'autorisation préalable ainsi que la justification de son
-inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
-12° Une copie vidéo de l'œuvre incluant les génériques. 
+12° Une copie vidéo de l'œuvre incluant les génériques.
 
-V.-Magazine : 
+V.-Magazine :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
 télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition
-du public ; 
+du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
-précisément les dépenses réalisées en France, le cas échéant certifié par un commissaire aux comptes ; 
+précisément les dépenses réalisées en France, le cas échéant certifié par un commissaire aux comptes ;
 
-3° Toute pièce justificative d'un financement public ou privé ; 
+3° Toute pièce justificative d'un financement public ou privé ;
 
 4° Tout contrat de coproduction conclu avec une autre entreprise française ou étrangère s'il a été modifié ou non fourni au
-moment de l'autorisation préalable ; 
+moment de l'autorisation préalable ;
 
-5° Le relevé complet des génériques ; 
+5° Le relevé complet des génériques ;
 
 6° La liste nominative définitive avec mention des nationalités et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, les salaires bruts et la part patronale des charges afférentes à chacune de ces
-rémunérations ; 
+rémunérations ;
 
-7° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ; 
+7° La liste définitive des entreprises prestataires engagées, précisant leur lieu d'établissement ;
 
-8° Une copie des contrats de cession des archives des images existantes ; 
+8° Une copie des contrats de cession des archives des images existantes ;
 
 9° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur (y
 compris lorsqu'il est embauché sous le statut de journaliste), directeur de la photographie, chef opérateur de prise de vues,
 chef opérateur de prise de son, ingénieur du son, chef monteur, directeur de production, producteur exécutif et l'animateur
-intervenant à l'image ; 
+intervenant à l'image ;
 
 10° Le contrat du ou des diffuseurs, ses annexes et éventuels avenants s'ils n'ont pas été fournis lors de l'autorisation
-préalable ou si de nouveaux avenants ont été signés ; 
+préalable ou si de nouveaux avenants ont été signés ;
 
 10° bis En cas d'apport en industrie, un document valant attestation sur l'honneur, cosigné par le représentant légal de
 l'entreprise de production et par le représentant légal de l'éditeur de services de télévision, ou par toute personne dûment
 habilitée à cet effet, indiquant la valorisation définitive de cet apport, précisant la méthode de valorisation retenue et
-détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ; 
+détaillant les moyens effectivement mis à disposition ainsi que la date et la durée de la mise à disposition ;
 
 11° Une copie vidéo de l'œuvre incluant les génériques.
+
+**Nota:**
+
+Conformément à l'article 16 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'autorisation préalable enregistrées par le Centre national du cinéma et de l'image animée à compter du premier jour du mois
+suivant celui de la date d'entrée en vigueur de la présente délibération.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 33, v. init.
+	  - Délibération n°2017/CA/02 - art. 13, v. init.
 
 	**Cite**:
 
