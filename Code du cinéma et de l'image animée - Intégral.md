@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2017-06-01
+Version Consolidée au 2018-01-01
 
 # Partie législative
 
@@ -61,8 +61,7 @@ notamment par l'attribution d'aides financières :
 
 a) La création, la production, la distribution, la diffusion et la promotion des œuvres cinématographiques et audiovisuelles
 et des œuvres multimédia, ainsi que la diversité des formes d'expression et de diffusion cinématographique, audiovisuelle et
-multimédia et la formation professionnelle ; dans ce cadre il s'assure, notamment en ce qui concerne l'emploi dans le secteur
-de la production, du respect par les bénéficiaires des aides de leurs obligations sociales ;
+multimédia ;
 
 b) La création et la modernisation des établissements de spectacles cinématographiques, ainsi que l'adaptation des industries
 techniques aux évolutions technologiques et l'innovation technologique dans le domaine du cinéma et des autres arts et
@@ -2120,7 +2119,8 @@ II.-La commission est composée :
 a) Le maire de la commune d'implantation du projet d'aménagement cinématographique ; 
 
 b) Le président de l'établissement public de coopération intercommunale compétent en matière d'aménagement de l'espace et de
-développement dont est membre la commune d'implantation ou, à défaut, le conseiller général du canton d'implantation ; 
+développement dont est membre la commune d'implantation, ou, à défaut, le conseiller général du canton d'implantation ou, en
+Corse, un conseiller à l'Assemblée de Corse élu en son sein ; 
 
 c) Le maire de la commune la plus peuplée de l'arrondissement, autre que la commune d'implantation ; à l'exception des
 communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et des communes de l'Essonne, du Val-
@@ -2129,7 +2129,7 @@ statistique et des études économiques, dans le cas où la commune d'implantati
 moins cinq communes, le maire de la commune la plus peuplée est choisi parmi les maires des communes de ladite
 agglomération ; 
 
-d) Le président du conseil général ou son représentant ; 
+d) Le président du conseil général ou son représentant, ou, en Corse, le président du conseil exécutif ou son représentant ; 
 
 e) Le président du syndicat mixte ou de l'établissement public de coopération intercommunale chargé du schéma de cohérence
 territoriale auquel adhère la commune d'implantation ou son représentant ou, à défaut, un adjoint au maire de la commune
@@ -2177,9 +2177,9 @@ animée, et au plus tard le 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-626 du 18 juin 2014 - art. 57
+	  - Ordonnance n°2016-1562 du 21 novembre 2016 - art. 28
 
 	**Cité par**:
 
@@ -5536,6 +5536,37 @@ perdent à ce titre le bénéfice des aides.
 	**Cite**:
 
 	  - Code du cinéma et de l'image animée - art. L115-1
+
+
+###### Article L311-3
+
+Le Centre national du cinéma et de l'image animée s'assure, notamment en ce qui concerne l'emploi dans le secteur de la
+production, du respect par les bénéficiaires des aides financières de leurs obligations sociales.
+
+A cette fin, le Centre national du cinéma et de l'image animée peut exiger des demandeurs des aides financières tout document
+justificatif du respect de ces obligations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-762 du 4 mai 2017 - art. 21
+
+
+###### Article L311-4
+
+Lorsque le Centre national du cinéma et de l'image animée a connaissance d'un procès-verbal en application des articles L.
+413-1 et L. 413-2, il peut suspendre ou refuser l'attribution de l'aide ou, le cas échéant, exiger son reversement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-762 du 4 mai 2017 - art. 21
+
+	**Cite**:
+
+	  - Code du cinéma et de l'image animée - art. L413-1 (V)
 
 
 #### Chapitre II : Droits des créanciers privilégiés de la production cinématographique
